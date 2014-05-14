@@ -94,6 +94,11 @@ select:-moz-focusring {
 	border-color: #20BBB5;
 }
 
+.search-button:hover, .search-button:focus {
+	background-color: #20BCB6;
+	border-color: #20BCB6;
+}
+
 #autoSuggestDiv {
 	width: auto;
 	height: auto;

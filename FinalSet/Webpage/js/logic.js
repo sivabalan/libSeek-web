@@ -211,12 +211,12 @@ function sendSearchRequest() {
 
 			for(var i = 0; i < searchResults.length; i++) {
 				
-				url = "https://www.google.com/#q="+searchResults[i]['lib_name'];
+				url = "https://www.google.com/#q="+$('#languageSelect').val()+" library "+searchResults[i]['lib_name'];
 				urlTitle = searchResults[i]['lib_name'];
 				
 				var resultRow = $('<div/>').append(
 											$('<label/>')
-												.append($('<a/>').html(urlTitle).attr('href',url).addClass(''))
+												.append($('<a/>').html(urlTitle).attr('href',url).attr('target',"_blank").addClass(''))
 												.addClass('result-title')
 								),
 					snippetText = 'Used in ',
