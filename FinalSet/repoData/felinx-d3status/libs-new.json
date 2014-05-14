@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "locale",
+        "text",
+        "datetime",
+        "multipart",
+        "escape",
+        "ioloop",
+        "web",
+        "httpserver",
+        "pyquery",
+        "platform",
+        "re",
+        "smtplib",
+        "email",
+        "t",
+        "mimetypes",
+        "tornado",
+        "db",
+        "sys",
+        "lxml",
+        "libs",
+        "b",
+        "logging",
+        "traceback",
+        "datab",
+        "apns",
+        "d3status",
+        "time",
+        "httpclient",
+        "os"
+    ]
+}

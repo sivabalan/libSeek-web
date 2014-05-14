@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "yappi",
+        "unicode_literals",
+        "unittest",
+        "absolute_import",
+        "event",
+        "uuid",
+        "pprint",
+        "re",
+        "collections",
+        "functools",
+        "mock",
+        "pykka",
+        "tests",
+        "sys",
+        "Queue",
+        "logging",
+        "socket",
+        "signal",
+        "traceback",
+        "queue",
+        "threading",
+        "nose",
+        "setuptools",
+        "time",
+        "os",
+        "noqa"
+    ]
+}

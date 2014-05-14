@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "urlparse",
+        "ctypes",
+        "opcode",
+        "markupsafe",
+        "h",
+        "urllib",
+        "sys",
+        "imp",
+        "gc",
+        "path",
+        "collections",
+        "types",
+        "dis"
+    ]
+}

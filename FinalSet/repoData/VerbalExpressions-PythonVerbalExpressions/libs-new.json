@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "verbalexpressions",
+        "re",
+        "unittest",
+        "setuptools"
+    ]
+}

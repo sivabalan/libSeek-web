@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "optparse",
+        "subprocess",
+        "sys",
+        "tempfile",
+        "setuptools",
+        "shutil",
+        "os",
+        "distro"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "functools",
+        "copy",
+        "datetime",
+        "numbers",
+        "shutil",
+        "sublime_plugin",
+        "importlib",
+        "re",
+        "tempfile",
+        "entities",
+        "json",
+        "collections",
+        "etree",
+        "string",
+        "versionpredicate",
+        "glob",
+        "lint",
+        "textwrap",
+        "sys",
+        "pwd",
+        "saxutils",
+        "subprocess",
+        "traceback",
+        "threading",
+        "shlex",
+        "time",
+        "fnmatch",
+        "os",
+        "sublime"
+    ]
+}

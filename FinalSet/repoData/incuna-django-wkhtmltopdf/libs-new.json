@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "urlparse",
+        "http",
+        "encoding",
+        "tempfile",
+        "wkhtmltopdf",
+        "absolute_import",
+        "unidecode",
+        "sys",
+        "generic",
+        "itertools",
+        "client",
+        "urllib",
+        "setuptools",
+        "test",
+        "re",
+        "copy",
+        "os",
+        "response"
+    ]
+}

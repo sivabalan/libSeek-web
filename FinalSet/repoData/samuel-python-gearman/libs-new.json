@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "socket",
+        "thread",
+        "gearman",
+        "errno",
+        "signal",
+        "random",
+        "with_statement",
+        "struct",
+        "sys",
+        "re",
+        "collections",
+        "t",
+        "tools",
+        "time",
+        "internet",
+        "os",
+        "unittest",
+        "select",
+        "uuid"
+    ]
+}

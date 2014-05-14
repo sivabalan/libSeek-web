@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "curses",
+        "locale",
+        "random",
+        "pyradio",
+        "subprocess",
+        "sys",
+        "threading",
+        "setuptools",
+        "csv",
+        "os"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "sitemaps",
+        "management",
+        "api",
+        "generic",
+        "urwid",
+        "random",
+        "db",
+        "loader",
+        "sys",
+        "exceptions",
+        "datetime",
+        "project_name",
+        "conf",
+        "time",
+        "contrib",
+        "translation",
+        "b",
+        "os"
+    ]
+}

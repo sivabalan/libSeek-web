@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "django_webtest",
+        "management",
+        "http",
+        "os",
+        "six",
+        "db",
+        "django",
+        "sys",
+        "json",
+        "setuptools",
+        "contrib",
+        "django_jenkins"
+    ]
+}

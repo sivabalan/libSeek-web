@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "curses",
+        "locale",
+        "unittest",
+        "random",
+        "timeit",
+        "PIL",
+        "struct",
+        "re",
+        "collections",
+        "math",
+        "fcntl",
+        "argparse",
+        "urllib2",
+        "termios",
+        "Queue",
+        "print_function",
+        "sys",
+        "thread",
+        "StringIO",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

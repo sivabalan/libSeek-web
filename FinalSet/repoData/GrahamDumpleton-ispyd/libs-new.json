@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "Queue",
+        "cmd",
+        "socket",
+        "thread",
+        "StringIO",
+        "atexit",
+        "glob",
+        "traceback",
+        "__builtin__",
+        "sys",
+        "threading",
+        "code",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "inspect",
+        "os",
+        "pdb",
+        "ConfigParser"
+    ]
+}

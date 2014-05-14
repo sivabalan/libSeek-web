@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "methods",
+        "hierarchy",
+        "pylab",
+        "examples",
+        "ImageOps",
+        "operator",
+        "nimfa",
+        "special",
+        "pyplot",
+        "numpy",
+        "math",
+        "setuptools",
+        "warnings",
+        "models",
+        "glob",
+        "sys",
+        "scipy",
+        "path",
+        "copy",
+        "Image",
+        "itertools",
+        "sparse",
+        "os"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "logging",
+        "os",
+        "setuptools",
+        "time"
+    ]
+}

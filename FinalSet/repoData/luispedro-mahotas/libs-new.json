@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "core",
+        "functools",
+        "random",
+        "mahot",
+        "io",
+        "_thin",
+        "tools",
+        "milk",
+        "numpy",
+        "math",
+        "division",
+        "tests",
+        "pylab",
+        "warnings",
+        "matplotlib",
+        "sys",
+        "scipy",
+        "print_function",
+        "center_of_m",
+        "nose",
+        "setuptools",
+        "os"
+    ]
+}

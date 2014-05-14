@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "settings_local",
+        "B",
+        "simplejson",
+        "h",
+        "unittest",
+        "validators",
+        "redis",
+        "emailpie",
+        "re",
+        "gevent",
+        "collections",
+        "DNS",
+        "time",
+        "exceptions",
+        "fl"
+    ]
+}

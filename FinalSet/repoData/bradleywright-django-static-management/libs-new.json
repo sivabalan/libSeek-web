@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "shutil",
+        "core",
+        "b",
+        "setuptools",
+        "re",
+        "optparse",
+        "h",
+        "django",
+        "sys",
+        "yaml",
+        "conf",
+        "time",
+        "path",
+        "subprocess",
+        "os"
+    ]
+}

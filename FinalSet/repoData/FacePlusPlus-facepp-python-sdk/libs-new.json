@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "code",
+        "py2exe",
+        "pprint",
+        "sys",
+        "time",
+        "IPython",
+        "path",
+        "os"
+    ]
+}

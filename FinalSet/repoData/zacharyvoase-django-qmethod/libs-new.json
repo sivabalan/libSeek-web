@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "cPickle",
+        "management",
+        "managers",
+        "functools",
+        "db",
+        "sys",
+        "re",
+        "defaults",
+        "test",
+        "os"
+    ]
+}

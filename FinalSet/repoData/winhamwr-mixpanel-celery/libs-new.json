@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "mixpanel",
+        "unittest",
+        "with_statement",
+        "datetime",
+        "contextlib",
+        "management",
+        "urllib",
+        "re",
+        "json",
+        "app",
+        "mock",
+        "functools",
+        "setuptools",
+        "sys",
+        "registry",
+        "codecs",
+        "httplib",
+        "b",
+        "logging",
+        "socket",
+        "urlparse",
+        "t",
+        "defaults",
+        "os"
+    ]
+}

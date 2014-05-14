@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "logging",
+        "socket",
+        "simplejson",
+        "re",
+        "optparse",
+        "os",
+        "traceback",
+        "redis",
+        "datetime",
+        "sys",
+        "ssl",
+        "apns",
+        "apnsagent",
+        "setuptools",
+        "time",
+        "path",
+        "threading",
+        "ConfigParser",
+        "fl",
+        "select",
+        "uuid"
+    ]
+}

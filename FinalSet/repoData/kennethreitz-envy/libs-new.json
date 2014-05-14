@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "with_statement",
+        "absolute_import",
+        "atexit",
+        "_winreg",
+        "path",
+        "struct",
+        "errno",
+        "re",
+        "collections",
+        "fcntl",
+        "shell",
+        "UserDict",
+        "glob",
+        "termios",
+        "sys",
+        "ctypes",
+        "textui",
+        "packages",
+        "print_function",
+        "clint",
+        "setuptools",
+        "time",
+        "contextlib",
+        "os",
+        "win32api"
+    ]
+}

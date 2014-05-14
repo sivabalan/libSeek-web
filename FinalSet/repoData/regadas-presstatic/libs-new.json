@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "SimpleHTTPServer",
+        "shutil",
+        "web",
+        "storage",
+        "events",
+        "core",
+        "string",
+        "SocketServer",
+        "argparse",
+        "observers",
+        "jinja2",
+        "key",
+        "textui",
+        "sys",
+        "logging",
+        "h",
+        "signal",
+        "presstatic",
+        "threading",
+        "connection",
+        "setuptools",
+        "os"
+    ]
+}

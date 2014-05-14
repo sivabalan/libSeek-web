@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "cairo",
+        "random",
+        "datetime",
+        "themes",
+        "operator",
+        "contrib",
+        "shutil",
+        "struct",
+        "lib",
+        "gtk",
+        "re",
+        "collections",
+        "ui",
+        "math",
+        "string",
+        "repository",
+        "optparse",
+        "sys",
+        "copy",
+        "types",
+        "bisect",
+        "signal",
+        "itertools",
+        "client",
+        "colorsys",
+        "hamster",
+        "time",
+        "os"
+    ]
+}

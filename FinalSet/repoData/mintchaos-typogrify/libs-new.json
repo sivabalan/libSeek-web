@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "titlec",
+        "setuptools",
+        "encoding",
+        "smartypants",
+        "safestring",
+        "django",
+        "sys",
+        "re",
+        "jinja2",
+        "nose",
+        "conf",
+        "exceptions",
+        "os",
+        "functools",
+        "doctest"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "results",
+        "datetime",
+        "gc",
+        "calendar",
+        "errors",
+        "drivers",
+        "pprint",
+        "re",
+        "collections",
+        "structures",
+        "math",
+        "core",
+        "warnings",
+        "glob",
+        "sys",
+        "ctypes",
+        "test_c",
+        "types",
+        "ConfigParser",
+        "argparse",
+        "resource",
+        "h",
+        "threading",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "functools",
+        "subprocess",
+        "path",
+        "select",
+        "develop",
+        "re",
+        "pytest",
+        "collections",
+        "build",
+        "stat",
+        "evdev",
+        "glob",
+        "inspect",
+        "textwrap",
+        "sys",
+        "ctypes",
+        "_ecodes",
+        "pyudev",
+        "sphinx_rtd_theme",
+        "bdist_egg",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

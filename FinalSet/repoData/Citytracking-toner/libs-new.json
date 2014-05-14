@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "cairo",
+        "random",
+        "mapnik",
+        "OpenStreetMap",
+        "Core",
+        "re",
+        "json",
+        "csv",
+        "Geo",
+        "math",
+        "core",
+        "cPickle",
+        "optparse",
+        "glob",
+        "sys",
+        "path",
+        "copy",
+        "geometry",
+        "Image",
+        "ModestMaps",
+        "pyproj",
+        "mapnik2",
+        "ImageFont",
+        "time",
+        "gzip",
+        "Dymo"
+    ]
+}

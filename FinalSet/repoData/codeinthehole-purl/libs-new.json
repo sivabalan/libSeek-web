@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "sys",
+        "unicode_literals",
+        "pickle",
+        "functools",
+        "six",
+        "tools",
+        "urllib",
+        "datetime",
+        "parse",
+        "re",
+        "collections",
+        "urlparse",
+        "setuptools",
+        "os",
+        "unittest",
+        "purl"
+    ]
+}

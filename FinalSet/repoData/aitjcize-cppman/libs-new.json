@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "fcntl",
+        "core",
+        "httplib",
+        "gzip",
+        "re",
+        "datetime",
+        "StringIO",
+        "urllib",
+        "subprocess",
+        "sys",
+        "platform",
+        "termios",
+        "threading",
+        "sqlite3",
+        "path",
+        "ConfigParser",
+        "shutil",
+        "os",
+        "struct"
+    ]
+}

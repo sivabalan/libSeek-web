@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "http",
+        "context",
+        "StringIO",
+        "setuptools",
+        "loader",
+        "django_xhtml2pdf",
+        "conf",
+        "xhtml2pdf",
+        "os"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "lazy import this so oauth2 is not a hard dep",
+        "subprocess",
+        "urllib",
+        "re",
+        "json",
+        "pyechonest",
+        "simplejson",
+        "warnings",
+        "optparse",
+        "inspect",
+        "urllib2",
+        "sys",
+        "saxutils",
+        "datetime",
+        "types",
+        "httplib",
+        "logging",
+        "socket",
+        "h",
+        "traceback",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

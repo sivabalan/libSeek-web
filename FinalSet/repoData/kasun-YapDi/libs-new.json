@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "syslog",
+        "signal",
+        "sys",
+        "atexit",
+        "pwd",
+        "time",
+        "os"
+    ]
+}

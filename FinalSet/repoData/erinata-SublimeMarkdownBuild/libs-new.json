@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "markdown",
+        "tidy",
+        "pygments",
+        "ElementTree",
+        "copy",
+        "tempfile",
+        "markdown_python",
+        "re",
+        "lexers",
+        "string",
+        "optparse",
+        "htmlentitydefs",
+        "sys",
+        "cElementTree",
+        "webbrowser",
+        "codecs",
+        "sublime_plugin",
+        "unicodedata",
+        "logging",
+        "sre",
+        "formatters",
+        "urlparse",
+        "extensions",
+        "doctest",
+        "os",
+        "sublime"
+    ]
+}

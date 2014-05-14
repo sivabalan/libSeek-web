@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "os",
+        "app",
+        "yaml",
+        "werkzeug",
+        "github3",
+        "fl",
+        "functools"
+    ]
+}

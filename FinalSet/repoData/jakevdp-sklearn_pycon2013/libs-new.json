@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "sys",
+        "Tkinter",
+        "os",
+        "division",
+        "nbformat",
+        "optparse",
+        "linear_model",
+        "pyplot",
+        "pylab",
+        "urllib2",
+        "matplotlib",
+        "contour",
+        "dat",
+        "decomposition",
+        "urllib",
+        "io",
+        "figure",
+        "numpy",
+        "patches",
+        "backend_tkagg",
+        "sklearn"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "Queue",
+        "ElementTree",
+        "socket",
+        "re",
+        "locale",
+        "urllib2",
+        "gettext",
+        "PyQt4",
+        "sys",
+        "ssl",
+        "json",
+        "netifaces",
+        "time",
+        "core",
+        "subprocess",
+        "os",
+        "md5"
+    ]
+}

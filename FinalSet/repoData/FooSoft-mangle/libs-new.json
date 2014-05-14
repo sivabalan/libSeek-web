@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "PIL",
+        "py2exe",
+        "tempfile",
+        "natsort",
+        "zipfile",
+        "PyQt4",
+        "sys",
+        "pdfgen",
+        "path",
+        "shutil",
+        "os"
+    ]
+}

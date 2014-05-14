@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "distutils",
+        "unittest",
+        "datetime",
+        "_mysql",
+        "MySQLdb",
+        "gc",
+        "array",
+        "shutil",
+        "math",
+        "re",
+        "types",
+        "rele",
+        "warnings",
+        "inspect",
+        "urllib2",
+        "sys",
+        "constants",
+        "ConfigParser",
+        "e",
+        "bootstrap_install_from = egg",
+        "decimal",
+        "pkg_resources",
+        "weakref",
+        "itertools",
+        "doctest",
+        "setuptools",
+        "time",
+        "_winreg",
+        "os"
+    ]
+}

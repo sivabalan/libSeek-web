@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "os",
+        "xmlrunner",
+        "unittest",
+        "proxies",
+        "PyQt4",
+        "copy",
+        "re",
+        "tempfile",
+        "pynotify",
+        "datetime",
+        "platform",
+        "snakefire",
+        "PyKDE4",
+        "pyfire",
+        "urllib2",
+        "sys",
+        "ctypes",
+        "subprocess",
+        "b",
+        "h",
+        "dbus",
+        "keyring",
+        "QtCore",
+        "urlparse",
+        "command",
+        "setuptools",
+        "time",
+        "enchant",
+        "pdb"
+    ]
+}

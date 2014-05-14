@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "skip",
+        "unittest",
+        "subprocess",
+        "codejail",
+        "contextlib",
+        "conf",
+        "path",
+        "shutil",
+        "tempfile",
+        "urllib",
+        "json",
+        "new",
+        "numpy",
+        "simplejson",
+        "textwrap",
+        "sys",
+        "logging",
+        "resource",
+        "threading",
+        "setuptools",
+        "time",
+        "exceptions",
+        "os"
+    ]
+}

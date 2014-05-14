@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "cStringIO",
+        "b",
+        "ordereddict",
+        "posixpath",
+        "warnings",
+        "unittest",
+        "six",
+        "absolute_import",
+        "setuptools",
+        "re",
+        "collections",
+        "io",
+        "encodings",
+        "sys",
+        "os",
+        "codecs"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "division",
+        "core",
+        "b",
+        "logging",
+        "uuid",
+        "platform",
+        "fl",
+        "unittest",
+        "six",
+        "sys",
+        "urllib",
+        "datetime",
+        "parse",
+        "re",
+        "json",
+        "collections",
+        "paypalrestsdk",
+        "requests",
+        "paypal_config",
+        "os",
+        "mock"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "wsgi",
+        "http",
+        "conf",
+        "traceback",
+        "itertools",
+        "html",
+        "defaults",
+        "urlresolvers"
+    ]
+}

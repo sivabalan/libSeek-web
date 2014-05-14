@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "lilac",
+        "SimpleHTTPServer",
+        "datetime",
+        "atexit",
+        "pygments",
+        "pyatom",
+        "errno",
+        "houdini",
+        "lexers",
+        "B",
+        "blinker",
+        "SocketServer",
+        "util",
+        "jinja2",
+        "path",
+        "subprocess",
+        "sys",
+        "logging",
+        "socket",
+        "h",
+        "signal",
+        "formatters",
+        "threading",
+        "toml",
+        "setuptools",
+        "time",
+        "misaka",
+        "docopt",
+        "os"
+    ]
+}

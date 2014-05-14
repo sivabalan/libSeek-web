@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "pangocairo",
+        "optparse",
+        "cairo",
+        "gtk",
+        "subprocess",
+        "sys",
+        "re",
+        "colorsys",
+        "time",
+        "setuptools",
+        "mmap",
+        "gobject",
+        "keysyms",
+        "gdk",
+        "os",
+        "pango",
+        "math"
+    ]
+}

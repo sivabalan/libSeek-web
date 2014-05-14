@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "qsstats",
+        "encoding",
+        "unittest",
+        "datetime",
+        "contrib",
+        "timezone",
+        "re",
+        "test",
+        "decorators",
+        "admin_tools_stats",
+        "inspect",
+        "db",
+        "auth",
+        "sys",
+        "translation",
+        "b",
+        "d",
+        "fields",
+        "safestring",
+        "client",
+        "setuptools",
+        "time",
+        "urlresolvers",
+        "os"
+    ]
+}

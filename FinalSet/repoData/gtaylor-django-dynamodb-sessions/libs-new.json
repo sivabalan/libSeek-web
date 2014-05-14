@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "exception",
+        "b",
+        "logging",
+        "conf",
+        "boto",
+        "cache",
+        "exceptions",
+        "dynamodb_sessions",
+        "setuptools",
+        "time",
+        "test"
+    ]
+}

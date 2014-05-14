@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "taggit_templatetags",
+        "parser",
+        "register",
+        "managers",
+        "taggit_extr",
+        "simple",
+        "taggit",
+        "setuptools",
+        "db",
+        "loader",
+        "sys",
+        "exceptions",
+        "conf",
+        "test",
+        "path",
+        "django",
+        "os",
+        "template"
+    ]
+}

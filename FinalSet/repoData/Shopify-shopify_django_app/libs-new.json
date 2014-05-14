@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "management",
+        "shopify",
+        "conf",
+        "shortcuts",
+        "db",
+        "sys",
+        "test",
+        "template",
+        "urlresolvers",
+        "os",
+        "settings_b"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "distutils",
+        "unicode_literals",
+        "xmlrpclib",
+        "unittest",
+        "expat",
+        "contextlib",
+        "io",
+        "pkgutil",
+        "tempfile",
+        "req",
+        "re",
+        "json",
+        "locators",
+        "mock",
+        "metadata",
+        "urllib2",
+        "sys",
+        "print_function",
+        "caniusepython3",
+        "argparse",
+        "logging",
+        "futures",
+        "request",
+        "client",
+        "setuptools",
+        "os",
+        "multiprocessing"
+    ]
+}

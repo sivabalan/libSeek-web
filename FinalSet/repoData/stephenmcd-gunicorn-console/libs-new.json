@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "setproctitle",
+        "curses",
+        "subprocess",
+        "sys",
+        "re",
+        "itertools",
+        "setuptools",
+        "sphinx_me"
+    ]
+}

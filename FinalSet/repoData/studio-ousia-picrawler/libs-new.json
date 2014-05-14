@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "picrawler",
+        "uuid",
+        "pickle",
+        "zlib",
+        "cPickle",
+        "datetime",
+        "sys",
+        "re",
+        "cloud",
+        "collections",
+        "os",
+        "setuptools",
+        "requests",
+        "tools",
+        "mock"
+    ]
+}

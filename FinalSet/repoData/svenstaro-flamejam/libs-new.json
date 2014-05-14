@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "random",
+        "with_statement",
+        "datetime",
+        "api",
+        "validators",
+        "operator",
+        "dateutil",
+        "console",
+        "re",
+        "h",
+        "smtplib",
+        "flamejam",
+        "config",
+        "sqlalchemy",
+        "views",
+        "models",
+        "sys",
+        "scrypt",
+        "fl",
+        "fields",
+        "traceback",
+        "time",
+        "exceptions",
+        "requests",
+        "os",
+        "alembic"
+    ]
+}

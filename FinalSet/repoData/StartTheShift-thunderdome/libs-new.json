@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "datetime",
+        "pyparsing",
+        "uuid",
+        "thunderdome",
+        "pprint",
+        "re",
+        "json",
+        "collections",
+        "statsd",
+        "warnings",
+        "inspect",
+        "textwrap",
+        "sys",
+        "path",
+        "copy",
+        "Queue",
+        "httplib",
+        "b",
+        "logging",
+        "socket",
+        "decimal",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

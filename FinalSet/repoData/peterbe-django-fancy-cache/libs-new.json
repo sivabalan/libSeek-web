@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "encoding",
+        "shortcuts",
+        "unittest",
+        "datetime",
+        "api",
+        "tools",
+        "management",
+        "cache",
+        "urllib",
+        "re",
+        "test",
+        "decorators",
+        "functools",
+        "cgi",
+        "optparse",
+        "db",
+        "sys",
+        "fancy_cache",
+        "codecs",
+        "b",
+        "h",
+        "client",
+        "setuptools",
+        "time",
+        "exceptions",
+        "os",
+        "multiprocessing"
+    ]
+}

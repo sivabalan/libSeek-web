@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "util",
+        "inspect",
+        "time",
+        "runner",
+        "tools",
+        "unittest",
+        "six",
+        "spec",
+        "sys",
+        "re",
+        "skip",
+        "nose",
+        "setuptools",
+        "plugins",
+        "xunit",
+        "os",
+        "functools",
+        "types",
+        "doctest"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "io",
+        "unittest",
+        "__builtin__",
+        "meta",
+        "contextlib",
+        "networkx",
+        "types",
+        "struct",
+        "@UnresolvedImport",
+        "set_trace()",
+        "py_compile",
+        "imp",
+        "json",
+        "print_function",
+        "tests",
+        "string",
+        "warnings",
+        "sys",
+        "path",
+        "_",
+        "argparse",
+        "StringIO",
+        "opcode",
+        "setuptools",
+        "time",
+        "os",
+        "marshal",
+        "dis"
+    ]
+}

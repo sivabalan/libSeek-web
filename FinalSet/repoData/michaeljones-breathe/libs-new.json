@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "distutils",
+        "parser",
+        "subprocess",
+        "parsers",
+        "addnodes",
+        "re",
+        "generatedssuper",
+        "docutils",
+        "collections",
+        "getopt",
+        "finder",
+        "breathe",
+        "mathb",
+        "distribute_setup",
+        "textwrap",
+        "sys",
+        "cpp",
+        "doxygen",
+        "copy",
+        "b",
+        "statemachine",
+        "dom",
+        "setuptools",
+        "fnmatch",
+        "os"
+    ]
+}

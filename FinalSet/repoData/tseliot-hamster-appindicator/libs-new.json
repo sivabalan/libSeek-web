@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "core",
+        "glob",
+        "subprocess",
+        "os",
+        "path"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "test_app",
+        "utils",
+        "queryset",
+        "datetime",
+        "api",
+        "bson",
+        "management",
+        "re",
+        "defaultfilters",
+        "imp",
+        "test",
+        "core",
+        "with_statement",
+        "db",
+        "mongoengine",
+        "sys",
+        "sql",
+        "constants",
+        "django",
+        "urlparse",
+        "itertools",
+        "t",
+        "setuptools",
+        "os",
+        "multiprocessing"
+    ]
+}

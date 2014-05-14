@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "code",
+        "objectid",
+        "unittest",
+        "datetime",
+        "sys",
+        "validators",
+        "binary",
+        "errors",
+        "dbref",
+        "urllib",
+        "re",
+        "pymongo",
+        "sessions",
+        "dat",
+        "pytz",
+        "path",
+        "son",
+        "fl",
+        "argparse",
+        "professor",
+        "wtforms",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

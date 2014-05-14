@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "shortcuts",
+        "utils",
+        "api",
+        "conf",
+        "contrib",
+        "shutil",
+        "management",
+        "local_settings",
+        "geos",
+        "urllib",
+        "re",
+        "test",
+        "geopy",
+        "optparse",
+        "db",
+        "sys",
+        "me",
+        "b",
+        "logging",
+        "django",
+        "urlparse",
+        "defaults",
+        "gzip",
+        "os"
+    ]
+}

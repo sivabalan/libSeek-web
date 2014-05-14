@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "req",
+        "random",
+        "datetime",
+        "threading",
+        "setuptools",
+        "time",
+        "requests"
+    ]
+}

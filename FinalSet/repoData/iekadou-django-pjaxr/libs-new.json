@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "generic",
+        "template",
+        "conf",
+        "re",
+        "unicode_literals",
+        "utils",
+        "setuptools",
+        "loader_tags",
+        "django",
+        "sys",
+        "test",
+        "b",
+        "urls",
+        "urlresolvers",
+        "loader",
+        "os"
+    ]
+}

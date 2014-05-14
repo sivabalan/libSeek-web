@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "stat",
+        "future_builtins",
+        "setuptools",
+        "extension",
+        "tempfile",
+        "plyvel",
+        "random",
+        "sys",
+        "threading",
+        "itertools",
+        "pytest",
+        "_plyvel",
+        "time",
+        "unicode_literals",
+        "path",
+        "shutil",
+        "os"
+    ]
+}

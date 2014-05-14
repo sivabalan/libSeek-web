@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "commands",
+        "b",
+        "logging",
+        "setuptools",
+        "imghdr",
+        "dispatch",
+        "subprocess",
+        "image_diet",
+        "conf",
+        "test",
+        "path",
+        "shutil",
+        "os",
+        "e"
+    ]
+}

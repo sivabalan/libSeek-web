@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "core",
+        "unittest",
+        "urllib",
+        "sys",
+        "re",
+        "parse",
+        "collections",
+        "requests",
+        "os",
+        "uritemplate"
+    ]
+}

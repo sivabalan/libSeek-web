@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "distutils",
+        "pystache",
+        "unittest",
+        "lambd",
+        "datetime",
+        "examples",
+        "shutil",
+        "timeit",
+        "pkgutil",
+        "re",
+        "yaml",
+        "json",
+        "html",
+        "cgi",
+        "simplejson",
+        "optparse",
+        "glob",
+        "sys",
+        "codecs",
+        "path",
+        "traceback",
+        "doctest",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "http",
+        "defaults",
+        "shortcuts",
+        "auth",
+        "django",
+        "models",
+        "csrf",
+        "template"
+    ]
+}

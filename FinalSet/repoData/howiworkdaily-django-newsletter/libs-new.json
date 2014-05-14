@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "core",
+        "shortcuts",
+        "datetime",
+        "conf",
+        "contrib",
+        "query",
+        "simple",
+        "management",
+        "local_settings",
+        "re",
+        "template",
+        "test",
+        "decorators",
+        "xlwt",
+        "http",
+        "defaults",
+        "db",
+        "sys",
+        "path",
+        "translation",
+        "loader",
+        "StringIO",
+        "django",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "cgi",
+        "simple_server",
+        "sqlalchemy",
+        "cProfile",
+        "StringIO",
+        "bs4",
+        "unittest",
+        "random",
+        "urllib",
+        "MySQLdb",
+        "orm",
+        "time",
+        "declarative",
+        "requests",
+        "pstats"
+    ]
+}

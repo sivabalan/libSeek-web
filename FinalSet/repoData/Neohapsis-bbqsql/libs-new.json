@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "subprocess",
+        "gevent",
+        "event",
+        "urlparse",
+        "copy",
+        "lib",
+        "eventlet",
+        "menu",
+        "urllib",
+        "re",
+        "math",
+        "sys",
+        "readline",
+        "coros",
+        "bbqsql",
+        "pool",
+        "ConfigParser",
+        "argparse",
+        "traceback",
+        "difflib",
+        "queue",
+        "green",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

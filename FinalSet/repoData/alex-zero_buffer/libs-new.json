@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "invoke",
+        "errno",
+        "six",
+        "cffi",
+        "sys",
+        "pytest",
+        "collections",
+        "setuptools",
+        "moves",
+        "os"
+    ]
+}

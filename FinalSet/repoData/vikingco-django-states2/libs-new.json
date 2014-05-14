@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "setuptools",
+        "optparse",
+        "db",
+        "functional",
+        "modelsinspector",
+        "shortcuts",
+        "sys",
+        "imp",
+        "json",
+        "management",
+        "collections",
+        "dispatch",
+        "defaults",
+        "yapgvb",
+        "test",
+        "http",
+        "translation",
+        "os",
+        "template"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "inflector",
+        "glob",
+        "re",
+        "b",
+        "sublime_plugin",
+        "os",
+        "sublime"
+    ]
+}

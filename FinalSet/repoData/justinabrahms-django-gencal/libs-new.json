@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "dat",
+        "management",
+        "defaults",
+        "db",
+        "datetime",
+        "sys",
+        "contrib",
+        "setuptools",
+        "test",
+        "calendar",
+        "django",
+        "os"
+    ]
+}

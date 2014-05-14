@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "stt",
+        "ElementTree",
+        "struct",
+        "aiml",
+        "tempfile",
+        "wave",
+        "pyaudio",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "tts",
+        "json",
+        "webbrowser",
+        "getopt",
+        "requests",
+        "gdk",
+        "os",
+        "array",
+        "pydub"
+    ]
+}

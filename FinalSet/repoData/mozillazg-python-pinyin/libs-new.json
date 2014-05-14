@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "argparse",
+        "unicode_literals",
+        "logging",
+        "setuptools",
+        "core",
+        "bs4",
+        "codecs",
+        "jieba",
+        "pypinyin",
+        "sys",
+        "re",
+        "itertools",
+        "pytest",
+        "io",
+        "time",
+        "requests",
+        "copy",
+        "os"
+    ]
+}

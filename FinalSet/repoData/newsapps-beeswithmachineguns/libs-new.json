@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "socket",
+        "boto",
+        "optparse",
+        "random",
+        "urllib2",
+        "sys",
+        "re",
+        "ec2",
+        "time",
+        "urlparse",
+        "csv",
+        "os",
+        "multiprocessing",
+        "paramiko",
+        "math"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "orm",
+        "sqlalchemy",
+        "exc",
+        "functools",
+        "mongo_demoprovider",
+        "auth",
+        "urlparse",
+        "declarative",
+        "common",
+        "setuptools",
+        "signature",
+        "exceptions",
+        "path",
+        "requests",
+        "rfc5849",
+        "fl",
+        "demoprovider"
+    ]
+}

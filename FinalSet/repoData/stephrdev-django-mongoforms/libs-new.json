@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "objectid",
+        "encoding",
+        "simple",
+        "random",
+        "datetime",
+        "conf",
+        "errors",
+        "platform",
+        "shortcuts",
+        "template",
+        "test",
+        "mongoforms",
+        "http",
+        "defaults",
+        "mongoengine",
+        "sys",
+        "testc",
+        "management",
+        "testprj",
+        "b",
+        "decimal",
+        "django",
+        "defaultfilters",
+        "client",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "b",
+        "vpc",
+        "instance",
+        "unittest",
+        "sys",
+        "re",
+        "pytest",
+        "ec2",
+        "setuptools",
+        "test",
+        "csv",
+        "os",
+        "mock"
+    ]
+}

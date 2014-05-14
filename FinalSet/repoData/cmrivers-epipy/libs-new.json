@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "division",
+        "c",
+        "b",
+        "stats",
+        "string",
+        "core",
+        "os",
+        "pyplot",
+        "random",
+        "matplotlib",
+        "datetime",
+        "itertools",
+        "pytest",
+        "networkx",
+        "pand",
+        "epipy",
+        "numpy",
+        "mpltools"
+    ]
+}

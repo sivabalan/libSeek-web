@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "core",
+        "bisect",
+        "unittest",
+        "random",
+        "with_statement",
+        "sys",
+        "threading",
+        "collections",
+        "doctest",
+        "types"
+    ]
+}

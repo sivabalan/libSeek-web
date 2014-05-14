@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "logging",
+        "os",
+        "traceback",
+        "subprocess",
+        "sys",
+        "re",
+        "bugzilla",
+        "setuptools",
+        "getp",
+        "bugz",
+        "gitzilla",
+        "ConfigParser"
+    ]
+}

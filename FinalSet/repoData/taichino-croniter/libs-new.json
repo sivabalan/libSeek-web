@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unittest",
+        "package_index",
+        "absolute_import",
+        "datetime",
+        "shutil",
+        "timeit",
+        "buildout",
+        "tempfile",
+        "re",
+        "unittest2",
+        "tests",
+        "optparse",
+        "urllib2",
+        "sys",
+        "pytz",
+        "subprocess",
+        "print_function",
+        "relativedelta",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

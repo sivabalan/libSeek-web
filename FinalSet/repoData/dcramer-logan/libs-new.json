@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "setuptools",
+        "re",
+        "optparse",
+        "errno",
+        "traceback",
+        "absolute_import",
+        "sys",
+        "imp",
+        "logan",
+        "conf",
+        "os",
+        "unittest2",
+        "importlib"
+    ]
+}

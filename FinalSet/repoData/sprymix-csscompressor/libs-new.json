@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "argparse",
+        "b",
+        "unittest",
+        "re",
+        "setuptools",
+        "csscompressor"
+    ]
+}

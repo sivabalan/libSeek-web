@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "urwid",
+        "subprocess",
+        "parse",
+        "runpy",
+        "io",
+        "psutil",
+        "PIL",
+        "players",
+        "tempfile",
+        "req",
+        "math",
+        "glib",
+        "repository",
+        "sys",
+        "plyr",
+        "argparse",
+        "socket",
+        "dbus",
+        "traceback",
+        "threading",
+        "telnetlib",
+        "setuptools",
+        "time",
+        "exceptions",
+        "os",
+        "signal"
+    ]
+}

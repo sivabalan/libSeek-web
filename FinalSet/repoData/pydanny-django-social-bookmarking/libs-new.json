@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "sys",
+        "management",
+        "http",
+        "template",
+        "shortcuts",
+        "setuptools",
+        "db",
+        "loader",
+        "urlparse",
+        "contrib",
+        "conf",
+        "test",
+        "path",
+        "defaults"
+    ]
+}

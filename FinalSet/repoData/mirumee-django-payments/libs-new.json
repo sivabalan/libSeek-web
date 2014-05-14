@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "unicode_literals",
+        "unittest",
+        "dispatch",
+        "datetime",
+        "parse",
+        "calendar",
+        "uuid",
+        "re",
+        "shortcuts",
+        "collections",
+        "mock",
+        "core",
+        "http",
+        "db",
+        "sys",
+        "exceptions",
+        "csrf",
+        "translation",
+        "transaction",
+        "h",
+        "django",
+        "urlparse",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

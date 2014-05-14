@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "tests",
+        "StringIO",
+        "unittest",
+        "urllib2",
+        "urllib",
+        "urlparse",
+        "re",
+        "json",
+        "urllib2_file",
+        "setuptools",
+        "time",
+        "gzip",
+        "csv",
+        "os"
+    ]
+}

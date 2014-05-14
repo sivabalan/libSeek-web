@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "pytest",
+        "sys",
+        "ext",
+        "validator",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "argparse",
+        "os",
+        "unittest",
+        "us",
+        "sys",
+        "setuptools",
+        "sqlite3",
+        "requests",
+        "pickle",
+        "jellyfish"
+    ]
+}

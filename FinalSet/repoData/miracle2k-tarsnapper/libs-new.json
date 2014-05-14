@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "argparse",
+        "shutil",
+        "logging",
+        "uuid",
+        "StringIO",
+        "tempfile",
+        "tools",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "re",
+        "json",
+        "collections",
+        "yaml",
+        "setuptools",
+        "operator",
+        "ordereddict",
+        "core",
+        "datetime",
+        "os",
+        "string"
+    ]
+}

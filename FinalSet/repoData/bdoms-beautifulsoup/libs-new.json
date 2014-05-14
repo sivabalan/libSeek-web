@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "cPickle",
+        "dist",
+        "string",
+        "warnings",
+        "types",
+        "markupb",
+        "unittest",
+        "iconv_codec",
+        "htmlentitydefs",
+        "sys",
+        "re",
+        "generators",
+        "sgmllib",
+        "sets",
+        "ali",
+        "chardet",
+        "copy",
+        "pickle",
+        "codecs"
+    ]
+}

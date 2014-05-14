@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "files",
+        "attest",
+        "network",
+        "StringIO",
+        "functools",
+        "pspec",
+        "subprocess",
+        "project",
+        "re",
+        "api",
+        "t",
+        "codecs",
+        "core",
+        "datetime",
+        "os",
+        "mock"
+    ]
+}

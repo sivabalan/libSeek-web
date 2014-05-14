@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "random",
+        "atexit",
+        "sax",
+        "aiml",
+        "pprint",
+        "urllib",
+        "re",
+        "json",
+        "handler",
+        "core",
+        "string",
+        "glob",
+        "time",
+        "sys",
+        "codecs",
+        "copy",
+        "ConfigParser",
+        "xmlreader",
+        "threading",
+        "shelve",
+        "os",
+        "marshal"
+    ]
+}

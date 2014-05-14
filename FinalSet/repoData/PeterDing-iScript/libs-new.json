@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "random",
+        "subprocess",
+        "parse",
+        "HTMLParser",
+        "select",
+        "id3",
+        "urllib",
+        "re",
+        "json",
+        "collections",
+        "zipfile",
+        "urllib2",
+        "sys",
+        "md5",
+        "argparse",
+        "b",
+        "logging",
+        "h",
+        "urlparse",
+        "sha",
+        "time",
+        "requests",
+        "os",
+        "multiprocessing"
+    ]
+}

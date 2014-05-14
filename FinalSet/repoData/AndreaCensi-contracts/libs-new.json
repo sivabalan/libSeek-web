@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "functools",
+        "library",
+        "operator",
+        "pyparsing",
+        "shutil",
+        "abc",
+        "re",
+        "collections",
+        "types",
+        "@UnusedImport",
+        "numpy",
+        "unittest",
+        "math",
+        "useful_contracts",
+        "contracts",
+        "inspect",
+        "sys",
+        "metacl",
+        "decorator",
+        "logging",
+        "pickle",
+        "traceback",
+        "optparse",
+        "nose",
+        "setuptools",
+        "os"
+    ]
+}

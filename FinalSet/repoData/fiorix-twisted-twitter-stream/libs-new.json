@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "b",
+        "simplejson",
+        "urllib",
+        "json",
+        "setuptools",
+        "internet",
+        "protocols"
+    ]
+}

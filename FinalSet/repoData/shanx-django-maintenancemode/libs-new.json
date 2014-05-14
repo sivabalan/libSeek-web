@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "urls",
+        "django",
+        "re",
+        "conf",
+        "codecs",
+        "os"
+    ]
+}

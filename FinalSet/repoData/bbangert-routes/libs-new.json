@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "profile",
+        "b",
+        "logging",
+        "io",
+        "re",
+        "tempfile",
+        "tools",
+        "unittest",
+        "pstats",
+        "pkg_resources",
+        "urllib",
+        "webtest",
+        "sys",
+        "threading",
+        "lru",
+        "setuptools",
+        "time",
+        "routes",
+        "webob",
+        "sets",
+        "os"
+    ]
+}

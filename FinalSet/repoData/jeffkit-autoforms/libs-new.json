@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "utils",
+        "dispatch",
+        "conf",
+        "contrib",
+        "query",
+        "management",
+        "re",
+        "signals",
+        "imp",
+        "template",
+        "test",
+        "mail",
+        "http",
+        "defaults",
+        "simplejson",
+        "db",
+        "sys",
+        "translation",
+        "django",
+        "setuptools",
+        "urlresolvers"
+    ]
+}

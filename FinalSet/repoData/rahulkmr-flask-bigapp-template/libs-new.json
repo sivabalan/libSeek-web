@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "wsgi",
+        "serving",
+        "functools",
+        "with_statement",
+        "slimish_jinja",
+        "subprocess",
+        "gevent",
+        "ioloop",
+        "httpserver",
+        "monkey",
+        "re",
+        "collections",
+        "werkzeug",
+        "config",
+        "sqlalchemy",
+        "pywsgi",
+        "glob",
+        "sys",
+        "orm",
+        "fl",
+        "types",
+        "importlib",
+        "logging",
+        "signal",
+        "api",
+        "doctest",
+        "os",
+        "pdb",
+        "alembic"
+    ]
+}

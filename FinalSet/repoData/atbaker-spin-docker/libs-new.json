@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "sys",
+        "b",
+        "os",
+        "unittest",
+        "redis",
+        "celery",
+        "itertools",
+        "mock",
+        "time",
+        "docker",
+        "fl",
+        "spindocker",
+        "t"
+    ]
+}

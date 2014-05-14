@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "extension",
+        "Distutils",
+        "tempfile",
+        "os",
+        "unittest",
+        "subprocess",
+        "sys",
+        "collections",
+        "pcl",
+        "numpy"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "sys",
+        "unicodedata",
+        "b",
+        "logging",
+        "setuptools",
+        "simplejson",
+        "h",
+        "unittest",
+        "hmac",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "urlparse",
+        "re",
+        "json",
+        "collections",
+        "battlenet",
+        "time",
+        "operator",
+        "os",
+        "unittest2"
+    ]
+}

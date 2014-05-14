@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "unittest",
+        "dbupload",
+        "urllib2",
+        "re",
+        "json",
+        "getp",
+        "mechanize"
+    ]
+}

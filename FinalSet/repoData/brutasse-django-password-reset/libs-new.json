@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "warnings",
+        "simple",
+        "unittest",
+        "dispatch",
+        "django",
+        "sys",
+        "urlresolvers",
+        "auth",
+        "setuptools",
+        "validators",
+        "test",
+        "translation",
+        "datetime",
+        "os",
+        "custom_user"
+    ]
+}

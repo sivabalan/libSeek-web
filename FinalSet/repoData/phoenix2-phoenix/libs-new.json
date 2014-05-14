@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "defer",
+        "protocol",
+        "__builtin__",
+        "atexit",
+        "static",
+        "web",
+        "struct",
+        "imp",
+        "platform",
+        "json",
+        "collections",
+        "internet",
+        "phoenix2",
+        "python",
+        "sys",
+        "urlparse",
+        "Queue",
+        "httplib",
+        "b",
+        "resource",
+        "socket",
+        "h",
+        "traceback",
+        "weakref",
+        "setuptools",
+        "time",
+        "ClientB",
+        "os"
+    ]
+}

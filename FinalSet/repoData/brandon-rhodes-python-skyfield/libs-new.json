@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "jplephem",
+        "de405",
+        "pdfb",
+        "de421",
+        "datetime",
+        "canv",
+        "gc",
+        "timeit",
+        "pytest",
+        "earth_gravity",
+        "numpy",
+        "math",
+        "core",
+        "to learn the version",
+        "sys",
+        "pytz",
+        "nov",
+        "data",
+        "skyfield",
+        "httpretty",
+        "propagation",
+        "itertools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "distutils",
+        "curses",
+        "unittest",
+        "site",
+        "subprocess",
+        "operator",
+        "tempfile",
+        "tarfile",
+        "re",
+        "getopt",
+        "stat",
+        "urllib2",
+        "sys",
+        "copy",
+        "types",
+        "Queue",
+        "logging",
+        "StringIO",
+        "traceback",
+        "request",
+        "pkg_resources",
+        "sandbox",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "os"
+    ]
+}

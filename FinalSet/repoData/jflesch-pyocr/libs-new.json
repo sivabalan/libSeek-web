@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "minidom",
+        "xml",
+        "tests",
+        "PIL",
+        "setuptools",
+        "tempfile",
+        "unittest",
+        "parser",
+        "subprocess",
+        "sys",
+        "re",
+        "HTMLParser",
+        "io",
+        "codecs",
+        "os"
+    ]
+}

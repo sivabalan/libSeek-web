@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "spawn",
+        "argparse",
+        "re",
+        "json",
+        "htmlentitydefs",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "imp",
+        "itertools",
+        "HTMLParser",
+        "time",
+        "os"
+    ]
+}

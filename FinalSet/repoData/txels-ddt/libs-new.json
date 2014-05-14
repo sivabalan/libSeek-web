@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "six",
+        "tools",
+        "unittest",
+        "inspect",
+        "sys",
+        "re",
+        "json",
+        "setuptools",
+        "os",
+        "functools"
+    ]
+}

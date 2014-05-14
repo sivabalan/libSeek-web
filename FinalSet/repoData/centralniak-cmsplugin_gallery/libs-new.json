@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "files",
+        "management",
+        "defaults",
+        "imp",
+        "glob",
+        "setuptools",
+        "db",
+        "widgets",
+        "sys",
+        "threading",
+        "v2",
+        "plugin_pool",
+        "conf",
+        "test",
+        "translation",
+        "datetime",
+        "os",
+        "safestring",
+        "plugin_b"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "conf",
+        "shortcuts",
+        "setuptools",
+        "db",
+        "functional",
+        "contrib",
+        "social_login",
+        "sys",
+        "urlresolvers",
+        "template",
+        "test",
+        "os",
+        "socialoauth",
+        "local_settings"
+    ]
+}

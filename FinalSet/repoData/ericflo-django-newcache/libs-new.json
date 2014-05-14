@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "b",
+        "conf",
+        "encoding",
+        "h",
+        "functools",
+        "threading",
+        "memcache",
+        "setuptools",
+        "time",
+        "pylibmc",
+        "os",
+        "utils",
+        "importlib"
+    ]
+}

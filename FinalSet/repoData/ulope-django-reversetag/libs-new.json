@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "context",
+        "http",
+        "template",
+        "encoding",
+        "setuptools",
+        "urlresolvers",
+        "conf",
+        "test",
+        "defaults"
+    ]
+}

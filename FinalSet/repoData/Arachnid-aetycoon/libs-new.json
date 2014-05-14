@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "logging",
+        "h",
+        "zlib",
+        "django",
+        "ext",
+        "api",
+        "pickle",
+        "array",
+        "copy",
+        "os"
+    ]
+}

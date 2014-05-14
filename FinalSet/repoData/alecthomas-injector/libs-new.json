@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "b",
+        "pypandoc",
+        "inspect",
+        "warnings",
+        "functools",
+        "zlib",
+        "traceback",
+        "pytest",
+        "subprocess",
+        "sys",
+        "imp",
+        "itertools",
+        "abc",
+        "contextlib",
+        "logging",
+        "setuptools",
+        "threading",
+        "path",
+        "collections",
+        "pickle",
+        "types"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "template",
+        "_os",
+        "_threading_local",
+        "models",
+        "threading",
+        "conf",
+        "path",
+        "os"
+    ]
+}

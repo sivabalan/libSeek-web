@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "cPickle",
+        "logging",
+        "socket",
+        "core",
+        "h",
+        "random",
+        "hmac",
+        "sys",
+        "os",
+        "marshal",
+        "types"
+    ]
+}

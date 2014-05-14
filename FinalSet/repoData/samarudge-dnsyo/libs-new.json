@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "setuptools",
+        "yaml",
+        "random",
+        "itertools",
+        "datetime",
+        "sys",
+        "threading",
+        "json",
+        "pkg_resources",
+        "resolver",
+        "time",
+        "requests",
+        "os"
+    ]
+}

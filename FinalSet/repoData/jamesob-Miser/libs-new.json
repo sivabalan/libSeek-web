@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "service",
+        "views",
+        "docs",
+        "unittest",
+        "random",
+        "datetime",
+        "sys",
+        "collections",
+        "rrule",
+        "operator",
+        "print_function",
+        "doctest"
+    ]
+}

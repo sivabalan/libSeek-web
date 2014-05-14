@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "compat",
+        "latex",
+        "sphinx_bootstrap_theme",
+        "sphinxext",
+        "sys",
+        "docutils",
+        "json",
+        "jsonschema",
+        "nodes",
+        "os"
+    ]
+}

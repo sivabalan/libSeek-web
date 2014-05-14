@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "defer",
+        "threadable",
+        "functools",
+        "shutil",
+        "jabber",
+        "uuid",
+        "re",
+        "collections",
+        "internet",
+        "subprotocols",
+        "wokkel",
+        "stat",
+        "python",
+        "inspect",
+        "sys",
+        "protocols",
+        "importlib",
+        "argparse",
+        "logging",
+        "brutal",
+        "client",
+        "t",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

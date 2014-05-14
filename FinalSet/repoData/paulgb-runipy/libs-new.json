@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "time",
+        "kernel",
+        "config",
+        "unittest",
+        "runipy",
+        "Queue",
+        "queue",
+        "current",
+        "re",
+        "html",
+        "sys",
+        "platform",
+        "setuptools",
+        "codecs",
+        "os",
+        "glob",
+        "print_function"
+    ]
+}

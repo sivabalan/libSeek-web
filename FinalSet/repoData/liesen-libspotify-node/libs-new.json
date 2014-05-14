@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "unicodedata",
+        "for log",
+        "sre_compile",
+        "sys",
+        "re",
+        "codecs",
+        "getopt",
+        "os",
+        "string"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "bin",
+        "core",
+        "shutil",
+        "socket",
+        "readers",
+        "RC4",
+        "h",
+        "unittest",
+        "dpkt",
+        "multiprocessing",
+        "sys",
+        "p",
+        "state",
+        "b",
+        "ip",
+        "re",
+        "copy",
+        "os",
+        "getopt"
+    ]
+}

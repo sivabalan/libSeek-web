@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "delorean",
+        "core",
+        "style",
+        "relativedelta",
+        "functools",
+        "parser",
+        "datetime",
+        "sys",
+        "token",
+        "pytz",
+        "rrule",
+        "setuptools",
+        "copy",
+        "os",
+        "unittest"
+    ]
+}

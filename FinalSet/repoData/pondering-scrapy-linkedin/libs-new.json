@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "spiders",
+        "sgml",
+        "http",
+        "string",
+        "item",
+        "bs4",
+        "pymongo",
+        "random",
+        "urllib2",
+        "linkedin",
+        "datetime",
+        "sys",
+        "re",
+        "scrapy",
+        "url",
+        "conf",
+        "time",
+        "selector",
+        "os",
+        "urllib"
+    ]
+}

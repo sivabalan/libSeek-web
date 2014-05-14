@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "http",
+        "defaults",
+        "conf",
+        "shortcuts",
+        "decimal",
+        "random",
+        "db",
+        "dispatch",
+        "datetime",
+        "sys",
+        "urlresolvers",
+        "setuptools",
+        "test",
+        "translation",
+        "mamona",
+        "os"
+    ]
+}

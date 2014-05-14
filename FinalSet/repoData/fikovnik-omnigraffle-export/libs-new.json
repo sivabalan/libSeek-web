@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "Foundation",
+        "Quartz",
+        "logging",
+        "tempfile",
+        "h",
+        "unittest",
+        "pkg_resources",
+        "appscript",
+        "sys",
+        "optparse",
+        "setuptools",
+        "time",
+        "shutil",
+        "os"
+    ]
+}

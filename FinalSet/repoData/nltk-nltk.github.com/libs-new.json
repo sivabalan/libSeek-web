@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "pylab",
+        "random",
+        "matplotlib",
+        "sys",
+        "re",
+        "networkx",
+        "corpus",
+        "ElementTree",
+        "os",
+        "nltk",
+        "math",
+        "nltk_contrib"
+    ]
+}

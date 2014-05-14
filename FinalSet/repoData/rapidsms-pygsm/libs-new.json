@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "unittest",
+        "with_statement",
+        "datetime",
+        "message",
+        "serial",
+        "StringIO",
+        "build_py",
+        "pygsm",
+        "re",
+        "__version__",
+        "math",
+        "core",
+        "mox",
+        "sys",
+        "pytz",
+        "codecs",
+        "commands",
+        "test_b",
+        "gsmcodecs",
+        "traceback",
+        "threading",
+        "install",
+        "time",
+        "os"
+    ]
+}

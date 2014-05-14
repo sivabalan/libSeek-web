@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unittest",
+        "datetime",
+        "simple_db_migrate",
+        "MySQLdb",
+        "conf",
+        "_mssql",
+        "tempfile",
+        "re",
+        "getp",
+        "mock",
+        "core",
+        "tests",
+        "optparse",
+        "sys",
+        "codecs",
+        "b",
+        "logging",
+        "StringIO",
+        "cx_Oracle",
+        "django",
+        "setuptools",
+        "fnmatch",
+        "os"
+    ]
+}

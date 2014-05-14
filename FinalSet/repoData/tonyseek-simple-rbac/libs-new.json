@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "declarative",
+        "unittest",
+        "orm",
+        "sqlalchemy",
+        "setuptools"
+    ]
+}

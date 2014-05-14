@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "management",
+        "setuptools",
+        "db",
+        "contrib",
+        "sys",
+        "imp",
+        "conf",
+        "test",
+        "defaults"
+    ]
+}

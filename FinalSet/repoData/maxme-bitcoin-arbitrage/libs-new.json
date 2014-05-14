@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "futures",
+        "unittest",
+        "parse",
+        "sys",
+        "private_markets",
+        "abc",
+        "pprint",
+        "json",
+        "smtplib",
+        "config",
+        "sleekxmpp",
+        "time",
+        "observers",
+        "argparse",
+        "b",
+        "logging",
+        "h",
+        "traceback",
+        "request",
+        "public_markets",
+        "setuptools",
+        "error",
+        "exceptions",
+        "os",
+        "hmac"
+    ]
+}

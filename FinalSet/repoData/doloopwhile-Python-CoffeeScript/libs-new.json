@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "division",
+        "io",
+        "tempfile",
+        "unicode_literals",
+        "execjs",
+        "unittest",
+        "sys",
+        "coffeescript",
+        "itertools",
+        "doctest",
+        "setuptools",
+        "path",
+        "os",
+        "unittest2",
+        "print_function"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "template",
+        "shortcuts",
+        "random",
+        "django",
+        "sys",
+        "imp",
+        "defaults",
+        "robjects"
+    ]
+}

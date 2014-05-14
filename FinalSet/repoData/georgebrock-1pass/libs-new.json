@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "argparse",
+        "fuzzywuzzy",
+        "StringIO",
+        "pbkdf2",
+        "unittest",
+        "onep",
+        "json",
+        "Cipher",
+        "sys",
+        "setuptools",
+        "H",
+        "getp",
+        "b",
+        "os",
+        "mock"
+    ]
+}

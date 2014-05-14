@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "functools",
+        "datetime",
+        "sha",
+        "urllib",
+        "json",
+        "unittest",
+        "cgi",
+        "core",
+        "tests",
+        "simplejson",
+        "urllib2",
+        "sys",
+        "fungiform",
+        "h",
+        "zlib",
+        "urlparse",
+        "threading",
+        "itertools",
+        "doctest",
+        "setuptools",
+        "fnmatch",
+        "os",
+        "hmac"
+    ]
+}

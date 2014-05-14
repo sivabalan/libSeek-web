@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "setuptools",
+        "simplejson",
+        "utils",
+        "datetime",
+        "sys",
+        "json",
+        "collections",
+        "zencoder",
+        "requests",
+        "os",
+        "unittest",
+        "mock"
+    ]
+}

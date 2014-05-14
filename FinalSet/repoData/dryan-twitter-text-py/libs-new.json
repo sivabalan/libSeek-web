@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "cgi",
+        "argparse",
+        "string",
+        "yaml",
+        "bs4",
+        "decimal",
+        "BeautifulSoup",
+        "datetime",
+        "sys",
+        "re",
+        "json",
+        "HTMLParser",
+        "setuptools",
+        "twitter_text",
+        "os",
+        "defaultfilters",
+        "types",
+        "template"
+    ]
+}

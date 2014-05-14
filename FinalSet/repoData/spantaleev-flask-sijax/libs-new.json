@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "sys",
+        "wsgi",
+        "os",
+        "helper",
+        "h",
+        "unittest",
+        "with_statement",
+        "absolute_import",
+        "sijax",
+        "setuptools",
+        "time",
+        "fl",
+        "response",
+        "types"
+    ]
+}

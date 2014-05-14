@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "unittest",
+        "subprocess",
+        "atexit",
+        "shutil",
+        "uuid",
+        "tempfile",
+        "urllib",
+        "re",
+        "json",
+        "scraperwiki",
+        "sqlite3",
+        "functools",
+        "core",
+        "warnings",
+        "inspect",
+        "textwrap",
+        "urllib2",
+        "sys",
+        "dumptruck",
+        "datetime",
+        "traceback",
+        "setuptools",
+        "requests",
+        "os"
+    ]
+}

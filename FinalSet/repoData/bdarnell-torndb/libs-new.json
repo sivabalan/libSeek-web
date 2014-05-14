@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "division",
+        "with_statement",
+        "absolute_import",
+        "sys",
+        "itertools",
+        "cursors",
+        "time",
+        "copy",
+        "os",
+        "converters",
+        "constants"
+    ]
+}

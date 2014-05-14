@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "Shell",
+        "debugger",
+        "set_trace()",
+        "ipdb",
+        "unittest",
+        "traceback",
+        "pdb",
+        "sys",
+        "contextlib",
+        "setuptools",
+        "IPython",
+        "os",
+        "utils",
+        "print_function",
+        "Debugger"
+    ]
+}

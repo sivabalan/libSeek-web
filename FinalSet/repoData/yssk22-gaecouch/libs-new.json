@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "logging",
+        "uuid",
+        "handlers",
+        "utils",
+        "traceback",
+        "datab",
+        "ext",
+        "couch"
+    ]
+}

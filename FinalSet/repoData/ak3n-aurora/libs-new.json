@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "functools",
+        "with_statement",
+        "datetime",
+        "api",
+        "git",
+        "imp",
+        "json",
+        "getp",
+        "aurora_app",
+        "sqlalchemy",
+        "inspect",
+        "sys",
+        "orm",
+        "fl",
+        "handlers",
+        "command",
+        "t",
+        "setuptools",
+        "time",
+        "os",
+        "multiprocessing",
+        "alembic"
+    ]
+}

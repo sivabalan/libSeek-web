@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "cStringIO",
+        "platform",
+        "__main__",
+        "plistlib",
+        "application",
+        "tempfile",
+        "imp",
+        "zipimport",
+        "warnings",
+        "time",
+        "util",
+        "jinja2",
+        "re",
+        "fl",
+        "types",
+        "pkgutil",
+        "sys",
+        "StringIO",
+        "linecache",
+        "sets",
+        "path",
+        "os"
+    ]
+}

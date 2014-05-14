@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "cgi",
+        "urlparse",
+        "tempfile",
+        "lxml",
+        "simpleparse",
+        "yaml",
+        "re2",
+        "shutil",
+        "pprint",
+        "urllib",
+        "sys",
+        "re",
+        "json",
+        "objectgenerator",
+        "collections",
+        "dispatchprocessor",
+        "setuptools",
+        "Gelatin",
+        "TextTools",
+        "os"
+    ]
+}

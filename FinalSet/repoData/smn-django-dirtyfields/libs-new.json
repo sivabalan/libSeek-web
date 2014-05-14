@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "signals",
+        "loading",
+        "setuptools",
+        "color",
+        "db",
+        "absolute_import",
+        "sys",
+        "management",
+        "conf",
+        "test",
+        "defaults"
+    ]
+}

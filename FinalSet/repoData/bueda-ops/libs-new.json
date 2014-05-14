@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "files",
+        "rele",
+        "console",
+        "prettyprint",
+        "deploy",
+        "elb",
+        "os",
+        "connection",
+        "datetime",
+        "buedafab",
+        "s3",
+        "colors",
+        "api",
+        "ec2",
+        "key",
+        "pinder",
+        "re",
+        "decorators",
+        "test",
+        "t"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "struct",
+        "h",
+        "itertools",
+        "setuptools",
+        "operator",
+        "os",
+        "hmac"
+    ]
+}

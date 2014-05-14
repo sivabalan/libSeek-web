@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "wsgi",
+        "simple",
+        "datetime",
+        "conf",
+        "contrib",
+        "calendar",
+        "st",
+        "dateutil",
+        "management",
+        "local_settings",
+        "numberformat",
+        "generic",
+        "redis",
+        "imp",
+        "collections",
+        "test",
+        "db",
+        "sys",
+        "translation",
+        "logging",
+        "settings",
+        "django",
+        "itertools",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "only for exception",
+        "unicode_literals",
+        "datetime",
+        "shutil",
+        "pkgutil",
+        "platform",
+        "tempfile",
+        "locale",
+        "json",
+        "getp",
+        "core",
+        "stat",
+        "cli2",
+        "urllib2",
+        "sys",
+        "webbrowser",
+        "codecs",
+        "re",
+        "subprocess",
+        "argparse",
+        "socket",
+        "handlers",
+        "doctest",
+        "setuptools",
+        "time",
+        "colorama",
+        "requests",
+        "os"
+    ]
+}

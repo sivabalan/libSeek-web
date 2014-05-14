@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "shortcuts",
+        "random",
+        "functional",
+        "loader",
+        "conf",
+        "contrib",
+        "management",
+        "urllib",
+        "re",
+        "template",
+        "mail",
+        "decorators",
+        "core",
+        "http",
+        "db",
+        "auth",
+        "util",
+        "testc",
+        "path",
+        "translation",
+        "datetime",
+        "sys",
+        "b",
+        "h",
+        "django",
+        "client",
+        "defaults",
+        "urlresolvers",
+        "os"
+    ]
+}

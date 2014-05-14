@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "serf_m",
+        "logging",
+        "setuptools",
+        "os",
+        "multiprocessing",
+        "mock"
+    ]
+}

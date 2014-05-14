@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "conf",
+        "timerange",
+        "spider",
+        "datetime",
+        "MySQLdb",
+        "cursors",
+        "pyquery",
+        "redis",
+        "scrapy",
+        "urllib",
+        "re",
+        "json",
+        "html",
+        "bin",
+        "http",
+        "enterprise",
+        "urllib2",
+        "rsa",
+        "sys",
+        "reqser",
+        "codecs",
+        "cookielib",
+        "sina",
+        "b",
+        "request",
+        "item",
+        "time",
+        "exceptions",
+        "marshal"
+    ]
+}

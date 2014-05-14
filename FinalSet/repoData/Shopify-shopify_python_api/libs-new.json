@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "unittest",
+        "testing",
+        "contextlib",
+        "shopify",
+        "yaml",
+        "urllib",
+        "re",
+        "json",
+        "activeresource",
+        "resources",
+        "simplejson",
+        "urllib2",
+        "util",
+        "path",
+        "md5",
+        "sys",
+        "b",
+        "h",
+        "urlparse",
+        "threading",
+        "connection",
+        "mock",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

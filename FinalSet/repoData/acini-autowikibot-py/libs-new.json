@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "pyimgur",
+        "string",
+        "praw",
+        "bs4",
+        "pickle",
+        "traceback",
+        "wikipedia",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "sys",
+        "re",
+        "nsfw",
+        "time",
+        "HTMLParser",
+        "os",
+        "socket"
+    ]
+}

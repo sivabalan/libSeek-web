@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "random",
+        "atexit",
+        "autoinit",
+        "operator",
+        "parakeet",
+        "numpy",
+        "ensemble",
+        "math",
+        "cPickle",
+        "linear_model",
+        "driver",
+        "sys",
+        "pycuda",
+        "compiler",
+        "dat",
+        "b",
+        "logging",
+        "socket",
+        "cudatree",
+        "setuptools",
+        "time",
+        "os",
+        "multiprocessing",
+        "sklearn"
+    ]
+}

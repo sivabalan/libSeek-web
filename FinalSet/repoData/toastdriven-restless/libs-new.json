@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "response",
+        "pyramid",
+        "http",
+        "csrf",
+        "simplejson",
+        "six",
+        "unittest",
+        "traceback",
+        "redis",
+        "datetime",
+        "sys",
+        "re",
+        "json",
+        "itty",
+        "time",
+        "db",
+        "setuptools",
+        "os",
+        "decimal"
+    ]
+}

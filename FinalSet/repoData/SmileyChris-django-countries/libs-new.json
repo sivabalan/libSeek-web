@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "Python 2",
+        "encoding",
+        "unicode_literals",
+        "glob",
+        "db",
+        "urllib",
+        "operator",
+        "re",
+        "django_countries",
+        "modelsinspector",
+        "setuptools",
+        "test",
+        "translation",
+        "csv",
+        "os"
+    ]
+}

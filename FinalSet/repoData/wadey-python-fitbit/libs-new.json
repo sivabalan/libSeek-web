@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "logging",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "sqlite3",
+        "setuptools",
+        "time",
+        "fitbit",
+        "ElementTree",
+        "os",
+        "ConfigParser"
+    ]
+}

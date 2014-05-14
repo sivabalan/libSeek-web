@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "management",
+        "sys",
+        "re",
+        "setuptools",
+        "test",
+        "os"
+    ]
+}

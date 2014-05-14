@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "shortcuts",
+        "utils",
+        "dispatch",
+        "loader",
+        "contrib",
+        "generic",
+        "json",
+        "collections",
+        "template",
+        "test",
+        "mail",
+        "decorators",
+        "http",
+        "django_nose",
+        "db",
+        "sys",
+        "translation",
+        "datetime",
+        "b",
+        "h",
+        "django",
+        "defaultfilters",
+        "setuptools",
+        "urlresolvers",
+        "requests",
+        "os"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "shortcuts",
+        "datetime",
+        "conf",
+        "shutil",
+        "cache",
+        "templatesadmin",
+        "re",
+        "template",
+        "decorators",
+        "core",
+        "stat",
+        "http",
+        "defaults",
+        "app_directories",
+        "urlresolvers",
+        "codecs",
+        "edithooks",
+        "translation",
+        "subprocess",
+        "mercurial",
+        "django",
+        "install",
+        "exceptions",
+        "os"
+    ]
+}

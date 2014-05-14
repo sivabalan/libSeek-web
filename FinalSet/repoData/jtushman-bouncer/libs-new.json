@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "style",
+        "inspect",
+        "sys",
+        "token",
+        "setuptools",
+        "os"
+    ]
+}

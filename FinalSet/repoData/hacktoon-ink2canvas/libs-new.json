@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "bezmisc",
+        "canv",
+        "lxml",
+        "lib",
+        "filecmp",
+        "optparse",
+        "svg",
+        "unittest",
+        "Ink2Canv",
+        "textwrap",
+        "gettext",
+        "sys",
+        "re",
+        "cubicsuperpath",
+        "ink2canv",
+        "random",
+        "copy",
+        "math"
+    ]
+}

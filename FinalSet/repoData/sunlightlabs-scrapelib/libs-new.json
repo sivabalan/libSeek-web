@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "io",
+        "tempfile",
+        "h",
+        "glob",
+        "time",
+        "request",
+        "html",
+        "urllib2",
+        "sys",
+        "re",
+        "json",
+        "pytest",
+        "setuptools",
+        "error",
+        "IPython",
+        "requests",
+        "os",
+        "mock"
+    ]
+}

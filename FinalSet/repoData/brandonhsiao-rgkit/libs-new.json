@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "argparse",
+        "b",
+        "Tkinter",
+        "traceback",
+        "glob",
+        "unittest",
+        "inspect",
+        "rgkit",
+        "pprint",
+        "random",
+        "imp",
+        "itertools",
+        "pep8",
+        "sys",
+        "time",
+        "operator",
+        "os",
+        "multiprocessing",
+        "math"
+    ]
+}

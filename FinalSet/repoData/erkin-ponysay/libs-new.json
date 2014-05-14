@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "traceback",
+        "pickle",
+        "random",
+        "zipfile",
+        "subprocess",
+        "sys",
+        "shutil",
+        "os"
+    ]
+}

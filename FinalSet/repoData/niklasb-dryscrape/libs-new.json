@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "core",
+        "code",
+        "driver",
+        "urlparse",
+        "webkit_server",
+        "dryscrape",
+        "html",
+        "sys",
+        "time",
+        "os"
+    ]
+}

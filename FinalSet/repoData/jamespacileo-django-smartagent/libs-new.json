@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "cPickle",
+        "management",
+        "http",
+        "setuptools",
+        "shortcuts",
+        "functools",
+        "sys",
+        "re",
+        "conf",
+        "time",
+        "test",
+        "copy",
+        "os",
+        "defaults",
+        "ConfigParser"
+    ]
+}

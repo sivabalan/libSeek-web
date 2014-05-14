@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "ioloop",
+        "web",
+        "tornalet",
+        "ez_setup",
+        "testing",
+        "setuptools",
+        "escape",
+        "requests",
+        "httpclient",
+        "os",
+        "trequests"
+    ]
+}

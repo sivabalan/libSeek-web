@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "files",
+        "division",
+        "management",
+        "core",
+        "unicode_literals",
+        "decimal",
+        "six",
+        "db",
+        "absolute_import",
+        "datetime",
+        "sys",
+        "pytz",
+        "related",
+        "setuptools",
+        "images",
+        "save_the_change",
+        "copy",
+        "os",
+        "utils",
+        "print_function"
+    ]
+}

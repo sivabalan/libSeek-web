@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "shortcuts",
+        "functools",
+        "random",
+        "api",
+        "contrib",
+        "tools",
+        "management",
+        "importlib",
+        "re",
+        "contenttypes",
+        "collections",
+        "template",
+        "mail",
+        "smtplib",
+        "mock",
+        "core",
+        "tests",
+        "db",
+        "sys",
+        "v2",
+        "zlib",
+        "djcelery",
+        "django",
+        "t",
+        "setuptools",
+        "exceptions",
+        "os"
+    ]
+}

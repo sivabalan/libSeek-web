@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "string",
+        "grp",
+        "handlers",
+        "readline",
+        "unittest",
+        "cmd",
+        "pexpect",
+        "subprocess",
+        "sys",
+        "re",
+        "lshell",
+        "time",
+        "getp",
+        "getopt",
+        "signal",
+        "os",
+        "glob",
+        "ConfigParser"
+    ]
+}

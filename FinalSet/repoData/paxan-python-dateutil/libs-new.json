@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "heapq",
+        "unittest",
+        "datetime",
+        "_winreg",
+        "calendar",
+        "shutil",
+        "dateutil",
+        "struct",
+        "zoneinfo",
+        "re",
+        "ftplib",
+        "string",
+        "glob",
+        "util",
+        "path",
+        "sys",
+        "commands",
+        "b",
+        "e",
+        "thread",
+        "StringIO",
+        "signal",
+        "itertools",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

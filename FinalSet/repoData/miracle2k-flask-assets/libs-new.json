@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "test_support",
+        "web",
+        "tests",
+        "logging",
+        "setuptools",
+        "argparse",
+        "scss",
+        "fl",
+        "with_statement",
+        "absolute_import",
+        "sys",
+        "re",
+        "api",
+        "contextlib",
+        "nose",
+        "tools",
+        "types",
+        "path",
+        "os",
+        "print_function"
+    ]
+}

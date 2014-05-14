@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "web",
+        "data_managers",
+        "python_rest_handler",
+        "unittest",
+        "setuptools",
+        "tornado_rest_handler",
+        "tools"
+    ]
+}

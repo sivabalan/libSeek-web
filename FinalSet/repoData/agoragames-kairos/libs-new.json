@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "ordereddict",
+        "unittest",
+        "chai",
+        "absolute_import",
+        "datetime",
+        "monthdelta",
+        "operator",
+        "cql",
+        "redis",
+        "re",
+        "collections",
+        "pymongo",
+        "functools",
+        "core",
+        "sqlalchemy",
+        "warnings",
+        "Queue",
+        "sql",
+        "types",
+        "sys",
+        "c",
+        "decimal",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

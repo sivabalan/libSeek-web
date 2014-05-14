@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "text",
+        "image",
+        "header",
+        "contextlib",
+        "multipart",
+        "_thread",
+        "re",
+        "tempfile",
+        "celery",
+        "application",
+        "json",
+        "envelopes",
+        "smtplib",
+        "email",
+        "mimetypes",
+        "sys",
+        "codecs",
+        "fl",
+        "b",
+        "socket",
+        "thread",
+        "greenlet",
+        "setuptools",
+        "audio",
+        "os"
+    ]
+}

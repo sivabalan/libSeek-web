@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "shortly",
+        "fl",
+        "redis",
+        "urlparse",
+        "api",
+        "setuptools",
+        "os"
+    ]
+}

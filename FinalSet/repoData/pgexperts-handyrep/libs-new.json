@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "text",
+        "datetime",
+        "api",
+        "validators",
+        "network",
+        "psycopg2",
+        "re",
+        "json",
+        "ldap",
+        "smtplib",
+        "files",
+        "inspect",
+        "sys",
+        "GUI_app",
+        "path",
+        "subprocess",
+        "fl",
+        "importlib",
+        "logging",
+        "threading",
+        "extensions",
+        "wtforms",
+        "time",
+        "requests",
+        "os"
+    ]
+}

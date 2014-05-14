@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "core",
+        "tests",
+        "httpserver",
+        "logging",
+        "template",
+        "objectid",
+        "gridfs",
+        "os",
+        "unittest",
+        "humongolus",
+        "json",
+        "datetime",
+        "sys",
+        "re",
+        "connection",
+        "web",
+        "setuptools",
+        "time",
+        "copy",
+        "pymongo",
+        "unittest2"
+    ]
+}

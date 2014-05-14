@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "argparse",
+        "tests",
+        "http",
+        "setuptools",
+        "conf",
+        "bs4",
+        "os",
+        "unittest",
+        "sys",
+        "re",
+        "client",
+        "defaults",
+        "codecs",
+        "path",
+        "htmlmin",
+        "tools",
+        "functools"
+    ]
+}

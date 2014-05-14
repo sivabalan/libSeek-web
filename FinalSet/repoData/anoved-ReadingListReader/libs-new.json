@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "argparse",
+        "pocketlib",
+        "copy",
+        "plistlib",
+        "core",
+        "subprocess",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "sys",
+        "re",
+        "doctest",
+        "csv",
+        "os"
+    ]
+}

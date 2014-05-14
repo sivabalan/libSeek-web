@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "paginator",
+        "sys",
+        "b",
+        "setuptools",
+        "encoding",
+        "bisect",
+        "text",
+        "safestring",
+        "inspect",
+        "list",
+        "loader",
+        "dat",
+        "exceptions",
+        "collections",
+        "template",
+        "forms",
+        "test",
+        "query",
+        "utils",
+        "re"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "cgi",
+        "oauth2",
+        "http",
+        "conf",
+        "db",
+        "auth",
+        "urlparse",
+        "re",
+        "urllib",
+        "setuptools",
+        "urlresolvers",
+        "os",
+        "defaults",
+        "twitter_users"
+    ]
+}

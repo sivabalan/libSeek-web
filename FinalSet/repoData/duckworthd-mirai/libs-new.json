@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "concurrent",
+        "unittest",
+        "time",
+        "sys",
+        "threading",
+        "setuptools",
+        "mirai",
+        "joblib",
+        "path",
+        "os"
+    ]
+}

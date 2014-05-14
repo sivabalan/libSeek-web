@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "unicode_literals",
+        "functools",
+        "datetime",
+        "contextlib",
+        "babel",
+        "ext",
+        "re",
+        "template",
+        "multidict",
+        "unittest",
+        "schema",
+        "sqlalchemy",
+        "warnings",
+        "optparse",
+        "sys",
+        "declarative",
+        "types",
+        "h",
+        "decimal",
+        "django",
+        "pep8",
+        "itertools",
+        "setuptools",
+        "os",
+        "hmac"
+    ]
+}

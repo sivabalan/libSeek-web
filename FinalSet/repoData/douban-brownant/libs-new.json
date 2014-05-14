@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "alab",
+        "b",
+        "urls",
+        "brownant",
+        "unicode_literals",
+        "six",
+        "absolute_import",
+        "warnings",
+        "sys",
+        "platform",
+        "pytest",
+        "routing",
+        "setuptools",
+        "path",
+        "requests",
+        "moves",
+        "os",
+        "mock"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "sqlalchemy",
+        "logging",
+        "conf",
+        "psycopg2",
+        "functools",
+        "creation",
+        "sys",
+        "b",
+        "setuptools",
+        "exceptions",
+        "os",
+        "pool"
+    ]
+}

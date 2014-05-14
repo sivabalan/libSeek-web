@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "templated_email",
+        "management",
+        "template",
+        "greatape",
+        "setuptools",
+        "loader_tags",
+        "loader",
+        "sys",
+        "test",
+        "conf",
+        "exceptions",
+        "mail",
+        "translation",
+        "os",
+        "postageapp",
+        "importlib"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "spring",
+        "subprocess",
+        "uuid",
+        "urllib",
+        "re",
+        "json",
+        "getp",
+        "md5",
+        "mimetypes",
+        "optparse",
+        "urllib2",
+        "sys",
+        "httplib2",
+        "oauth",
+        "readline",
+        "datetime",
+        "cookielib",
+        "ConfigParser",
+        "b",
+        "logging",
+        "socket",
+        "h",
+        "keyring",
+        "urlparse",
+        "time",
+        "fnmatch",
+        "os",
+        "marshal"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "mimetools",
+        "cStringIO",
+        "nautilus",
+        "stat",
+        "subprocess",
+        "MultipartPostHandler",
+        "tempfile",
+        "pynotify",
+        "urllib",
+        "json",
+        "mimetypes",
+        "simplejson",
+        "urllib2",
+        "sys",
+        "webbrowser",
+        "gconf",
+        "cookielib",
+        "unicodedata",
+        "StringIO",
+        "minus_utils",
+        "time",
+        "exceptions",
+        "os"
+    ]
+}

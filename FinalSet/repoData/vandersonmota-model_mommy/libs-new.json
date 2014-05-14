@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "utils",
+        "random",
+        "related",
+        "datetime",
+        "images",
+        "loading",
+        "tempfile",
+        "six",
+        "apps",
+        "contenttypes",
+        "test",
+        "mock",
+        "files",
+        "string",
+        "warnings",
+        "optparse",
+        "inspect",
+        "db",
+        "sys",
+        "path",
+        "model_mommy",
+        "b",
+        "decimal",
+        "django",
+        "itertools",
+        "setuptools",
+        "time",
+        "os",
+        "options"
+    ]
+}

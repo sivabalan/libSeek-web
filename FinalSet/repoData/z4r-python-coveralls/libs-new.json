@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "files",
+        "argparse",
+        "coveralls",
+        "httpretty",
+        "unittest",
+        "six",
+        "misc",
+        "sys",
+        "yaml",
+        "json",
+        "sh",
+        "codeunit",
+        "setuptools",
+        "logging",
+        "requests",
+        "os"
+    ]
+}

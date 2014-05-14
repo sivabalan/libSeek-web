@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "http",
+        "os",
+        "functools",
+        "sys",
+        "setuptools",
+        "test",
+        "moves",
+        "tools",
+        "csp"
+    ]
+}

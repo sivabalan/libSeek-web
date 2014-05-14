@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "db",
+        "contrib",
+        "contenttypes",
+        "template",
+        "test"
+    ]
+}

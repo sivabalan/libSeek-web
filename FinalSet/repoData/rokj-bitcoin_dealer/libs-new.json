@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "datetime",
+        "contrib",
+        "management",
+        "imp",
+        "urllib",
+        "forms",
+        "re",
+        "json",
+        "test",
+        "db",
+        "urllib3",
+        "urllib2",
+        "sys",
+        "widgets",
+        "abc",
+        "translation",
+        "httplib",
+        "b",
+        "h",
+        "decimal",
+        "django",
+        "defaults",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "style",
+        "blinker",
+        "werkzeug",
+        "StringIO",
+        "os",
+        "unittest",
+        "request",
+        "urllib2",
+        "absolute_import",
+        "unittest2",
+        "sys",
+        "token",
+        "gc",
+        "setuptools",
+        "time",
+        "with_statement",
+        "fl",
+        "multiprocessing",
+        "todos",
+        "browser"
+    ]
+}

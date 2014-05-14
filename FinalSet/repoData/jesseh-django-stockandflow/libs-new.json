@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "core",
+        "processes",
+        "b",
+        "http",
+        "exc",
+        "utils",
+        "setuptools",
+        "db",
+        "contrib",
+        "datetime",
+        "sys",
+        "urlresolvers",
+        "v2",
+        "defaults",
+        "time",
+        "test",
+        "query",
+        "calendar",
+        "stockandflow",
+        "mock",
+        "stocksandflows"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "weakref",
+        "pymouse",
+        "sys",
+        "imp",
+        "LeapPython",
+        "path",
+        "os",
+        "math",
+        "ConfigParser"
+    ]
+}

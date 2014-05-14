@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "audiotools",
+        "quepy",
+        "struct",
+        "tts",
+        "tempfile",
+        "pyaudio",
+        "random",
+        "SPARQLWrapper",
+        "wave",
+        "sys",
+        "wolframalpha",
+        "json",
+        "refo",
+        "time",
+        "exceptions",
+        "stt",
+        "array",
+        "datetime",
+        "os",
+        "requests"
+    ]
+}

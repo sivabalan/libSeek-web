@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cgi",
+        "pb",
+        "error",
+        "logging",
+        "time",
+        "cred",
+        "random",
+        "pprint",
+        "selectreactor",
+        "weakref",
+        "re",
+        "spread",
+        "sys",
+        "pygame",
+        "internet",
+        "interface",
+        "main",
+        "os",
+        "locals",
+        "constants",
+        "t"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "copy",
+        "re",
+        "errno",
+        "functools",
+        "SublimeH",
+        "subprocess",
+        "sys",
+        "threading",
+        "json",
+        "collections",
+        "time",
+        "h",
+        "fnmatch",
+        "sublime_plugin",
+        "os",
+        "sublime_h",
+        "sublime"
+    ]
+}

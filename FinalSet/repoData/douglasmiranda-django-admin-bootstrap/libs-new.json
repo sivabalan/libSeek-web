@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "models",
+        "functools",
+        "django",
+        "urlresolvers",
+        "setuptools",
+        "contrib",
+        "os",
+        "admin_list"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "datetime",
+        "pyrax",
+        "contrib",
+        "management",
+        "local_settings",
+        "re",
+        "imp",
+        "mimetypes",
+        "defaults",
+        "optparse",
+        "db",
+        "sys",
+        "fnmatch",
+        "swiftclient",
+        "commands",
+        "b",
+        "StringIO",
+        "h",
+        "urlparse",
+        "threading",
+        "client",
+        "setuptools",
+        "gzip",
+        "os",
+        "multiprocessing"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "argparse",
+        "zlib",
+        "logging",
+        "struct",
+        "traceback",
+        "amqplib",
+        "random",
+        "urllib",
+        "sys",
+        "json",
+        "socket",
+        "urlparse",
+        "setuptools",
+        "time",
+        "config",
+        "math",
+        "handlers"
+    ]
+}

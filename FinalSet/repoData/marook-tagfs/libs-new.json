@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "cStringIO",
+        "unittest",
+        "pylab",
+        "datetime",
+        "node_",
+        "array",
+        "errno",
+        "re",
+        "json",
+        "freeb",
+        "csv",
+        "functools",
+        "core",
+        "stat",
+        "glob",
+        "cgitb",
+        "fuse",
+        "coverage",
+        "getopt",
+        "path",
+        "subprocess",
+        "ConfigParser",
+        "sys",
+        "logging",
+        "traceback",
+        "time",
+        "exceptions",
+        "os"
+    ]
+}

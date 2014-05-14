@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "glib",
+        "config_options",
+        "logging",
+        "string",
+        "service",
+        "pybonjour",
+        "optparse",
+        "dbus",
+        "sys",
+        "re",
+        "json",
+        "wicd",
+        "sqlite3",
+        "dummyauthgate",
+        "os",
+        "select"
+    ]
+}

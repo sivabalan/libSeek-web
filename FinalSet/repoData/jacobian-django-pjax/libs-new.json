@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "setuptools",
+        "generic",
+        "functools",
+        "client",
+        "conf",
+        "os",
+        "response"
+    ]
+}

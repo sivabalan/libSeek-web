@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "distutils",
+        "encoding",
+        "random",
+        "datetime",
+        "conf",
+        "contrib",
+        "shutil",
+        "errors",
+        "urllib",
+        "re",
+        "mail",
+        "pymongo",
+        "models",
+        "inspect",
+        "urllib2",
+        "sys",
+        "b",
+        "e",
+        "bootstrap_install_from = egg",
+        "pkg_resources",
+        "mango",
+        "setuptools",
+        "os"
+    ]
+}

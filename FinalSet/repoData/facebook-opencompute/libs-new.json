@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "glob",
+        "zipfile",
+        "sys",
+        "path",
+        "getopt",
+        "shutil",
+        "os"
+    ]
+}

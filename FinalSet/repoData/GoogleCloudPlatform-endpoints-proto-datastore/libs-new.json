@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "dat",
+        "ndb",
+        "simplejson",
+        "endpoints",
+        "warnings",
+        "endpoints_proto_dat",
+        "itertools",
+        "unittest",
+        "random",
+        "datetime",
+        "dev_appserver",
+        "protorpc",
+        "sys",
+        "re",
+        "ext",
+        "api",
+        "pickle",
+        "subprocess",
+        "os",
+        "functools",
+        "json"
+    ]
+}

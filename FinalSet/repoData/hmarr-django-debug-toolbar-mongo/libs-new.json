@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "shortcuts",
+        "functools",
+        "loader",
+        "pygments",
+        "conf",
+        "formatters",
+        "management",
+        "pprint",
+        "html",
+        "template",
+        "pymongo",
+        "lexers",
+        "http",
+        "defaults",
+        "SocketServer",
+        "inspect",
+        "collection",
+        "sys",
+        "safestring",
+        "django",
+        "cursor",
+        "setuptools",
+        "time",
+        "urlresolvers",
+        "panels",
+        "os"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "ioloop",
+        "web",
+        "trombi",
+        "logging",
+        "core",
+        "tornado",
+        "unittest",
+        "testing",
+        "random",
+        "client",
+        "design",
+        "types"
+    ]
+}

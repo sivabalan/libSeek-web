@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "http",
+        "csrf",
+        "shortcuts",
+        "functools",
+        "exceptions",
+        "defaults",
+        "urlresolvers",
+        "reroute",
+        "unittest",
+        "os",
+        "middleware",
+        "template"
+    ]
+}

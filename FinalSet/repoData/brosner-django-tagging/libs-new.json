@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "http",
+        "conf",
+        "list_detail",
+        "types",
+        "encoding",
+        "db",
+        "django",
+        "contrib",
+        "contenttypes",
+        "math",
+        "install",
+        "sets",
+        "test",
+        "query",
+        "translation",
+        "os",
+        "tagging",
+        "template"
+    ]
+}

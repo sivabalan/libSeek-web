@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "tests",
+        "string",
+        "unittest",
+        "picoparse",
+        "sys",
+        "threading",
+        "itertools",
+        "setuptools",
+        "operator",
+        "os",
+        "functools"
+    ]
+}

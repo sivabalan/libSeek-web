@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "bin",
+        "wsgi",
+        "utils",
+        "random",
+        "datetime",
+        "webapp",
+        "uuid",
+        "urllib",
+        "re",
+        "poster",
+        "cgi",
+        "mimetypes",
+        "etree",
+        "Deprecated",
+        "urllib2",
+        "util",
+        "dropbox",
+        "ConfigParser",
+        "httplib",
+        "logging",
+        "socket",
+        "h",
+        "urlparse",
+        "sha",
+        "ext",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

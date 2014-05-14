@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "request_factory",
+        "encoding",
+        "datetime",
+        "conf",
+        "importlib",
+        "cache",
+        "html",
+        "Cookie",
+        "template",
+        "mail",
+        "decorators",
+        "core",
+        "http",
+        "views",
+        "sys",
+        "djng",
+        "b",
+        "handlers",
+        "safestring",
+        "traceback",
+        "django",
+        "threading",
+        "defaults",
+        "gzip",
+        "os"
+    ]
+}

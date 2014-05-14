@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "fcntl",
+        "utils",
+        "datetime",
+        "io",
+        "msvcrt",
+        "select",
+        "pkgutil",
+        "tempfile",
+        "re",
+        "collections",
+        "getopt",
+        "unittest",
+        "bin",
+        "urllib2",
+        "termios",
+        "sys",
+        "readline",
+        "StringIO",
+        "cmd",
+        "request",
+        "shlex",
+        "setuptools",
+        "os",
+        "dis"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "ElementTree",
+        "ordereddict",
+        "setuptools",
+        "StringIO",
+        "bs4",
+        "decimal",
+        "six",
+        "with_statement",
+        "BeautifulSoup",
+        "absolute_import",
+        "datetime",
+        "sys",
+        "re",
+        "collections",
+        "io",
+        "codecs",
+        "contextlib",
+        "copy",
+        "os",
+        "unittest"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "styles",
+        "management",
+        "dj_datab",
+        "os",
+        "db",
+        "html",
+        "sys",
+        "pygments",
+        "routers",
+        "rest_framework",
+        "decorators",
+        "response",
+        "snippets",
+        "lexers"
+    ]
+}

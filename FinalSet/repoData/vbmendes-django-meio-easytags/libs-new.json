@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "buildout",
+        "template",
+        "tempfile",
+        "unittest",
+        "inspect",
+        "package_index",
+        "urllib2",
+        "urllib",
+        "subprocess",
+        "sys",
+        "optparse",
+        "pkg_resources",
+        "setuptools",
+        "django",
+        "test",
+        "e",
+        "shutil",
+        "os"
+    ]
+}

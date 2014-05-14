@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "fcntl",
+        "argparse",
+        "tempfile",
+        "logging",
+        "socket",
+        "platform",
+        "locale",
+        "fl",
+        "unittest",
+        "struct",
+        "array",
+        "psd",
+        "datetime",
+        "sys",
+        "psutil",
+        "setuptools",
+        "time",
+        "threading",
+        "os",
+        "glob2",
+        "uuid"
+    ]
+}

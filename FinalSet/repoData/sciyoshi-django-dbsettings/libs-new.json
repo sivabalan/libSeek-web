@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "shortcuts",
+        "text",
+        "dbsettings",
+        "conf",
+        "contrib",
+        "management",
+        "PIL",
+        "cache",
+        "re",
+        "template",
+        "decorators",
+        "http",
+        "setuptools",
+        "db",
+        "sys",
+        "uploadedfile",
+        "path",
+        "translation",
+        "datetime",
+        "dat",
+        "bisect",
+        "h",
+        "safestring",
+        "django",
+        "defaults",
+        "time",
+        "exceptions",
+        "decimal"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "functools",
+        "datetime",
+        "api",
+        "datab",
+        "simple",
+        "management",
+        "re",
+        "redis",
+        "celery",
+        "imp",
+        "mail",
+        "http",
+        "sys",
+        "logging",
+        "dj_datab",
+        "settings",
+        "djcelery",
+        "django",
+        "t",
+        "defaults",
+        "os"
+    ]
+}

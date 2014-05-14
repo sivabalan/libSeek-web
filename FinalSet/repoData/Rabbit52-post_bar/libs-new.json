@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "cgi",
+        "web",
+        "b",
+        "string",
+        "os",
+        "Image",
+        "random",
+        "htmlentitydefs",
+        "datetime",
+        "libraries",
+        "re",
+        "json",
+        "sys",
+        "time",
+        "HTMLParser",
+        "h",
+        "config",
+        "math"
+    ]
+}

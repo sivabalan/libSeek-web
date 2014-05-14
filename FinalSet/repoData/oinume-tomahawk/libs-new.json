@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "flexmock",
+        "datetime",
+        "shutil",
+        "pexpect",
+        "signal",
+        "platform",
+        "six",
+        "re",
+        "pytest",
+        "getp",
+        "core",
+        "string",
+        "sys",
+        "b",
+        "subprocess",
+        "argparse",
+        "sphinx_rtd_theme",
+        "logging",
+        "tomahawk",
+        "traceback",
+        "shlex",
+        "setuptools",
+        "time",
+        "os",
+        "multiprocessing"
+    ]
+}

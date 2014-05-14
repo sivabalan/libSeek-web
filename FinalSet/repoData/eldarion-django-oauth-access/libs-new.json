@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cgi",
+        "core",
+        "oauth2",
+        "http",
+        "importlib",
+        "shortcuts",
+        "httplib2",
+        "utils",
+        "db",
+        "urllib",
+        "datetime",
+        "sys",
+        "auth",
+        "urlparse",
+        "template",
+        "urlresolvers",
+        "logging",
+        "django",
+        "os",
+        "defaults",
+        "socket"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "configobj",
+        "traceback",
+        "socket",
+        "simplejson",
+        "re",
+        "msvcrt",
+        "unittest",
+        "pprint",
+        "datetime",
+        "subprocess",
+        "sys",
+        "path",
+        "psutil",
+        "time",
+        "getopt",
+        "serial",
+        "shutil",
+        "os",
+        "csv"
+    ]
+}

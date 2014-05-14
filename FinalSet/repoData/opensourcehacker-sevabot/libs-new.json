@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "frontend",
+        "os",
+        "unicode_literals",
+        "random",
+        "absolute_import",
+        "datetime",
+        "Skype4Py",
+        "re",
+        "urllib",
+        "imp",
+        "json",
+        "collections",
+        "division",
+        "inspect",
+        "sys",
+        "plac",
+        "subprocess",
+        "fl",
+        "print_function",
+        "logging",
+        "settings",
+        "h",
+        "threading",
+        "shlex",
+        "setuptools",
+        "time",
+        "pickle"
+    ]
+}

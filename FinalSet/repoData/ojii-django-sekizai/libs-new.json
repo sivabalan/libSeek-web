@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "template",
+        "cl",
+        "loader_tags",
+        "unittest",
+        "with_statement",
+        "difflib",
+        "django",
+        "sys",
+        "setuptools",
+        "loader",
+        "os",
+        "utils",
+        "importlib"
+    ]
+}

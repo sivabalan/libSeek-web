@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "mycl",
+        "time",
+        "keyword",
+        "optparse",
+        "inspect",
+        "subprocess",
+        "sys",
+        "re",
+        "yourcl",
+        "doctest",
+        "setuptools",
+        "tokenize",
+        "fnmatch",
+        "os",
+        "types"
+    ]
+}

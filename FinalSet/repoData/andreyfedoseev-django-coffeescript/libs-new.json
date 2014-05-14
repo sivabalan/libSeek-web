@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "b",
+        "http",
+        "conf",
+        "encoding",
+        "staticfiles",
+        "h",
+        "unittest",
+        "setuptools",
+        "shlex",
+        "global_settings",
+        "subprocess",
+        "re",
+        "logging",
+        "context",
+        "time",
+        "path",
+        "shutil",
+        "os",
+        "socket"
+    ]
+}

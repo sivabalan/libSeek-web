@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "load_manifest(PKG)",
+        "unittest",
+        "os",
+        "rosunit"
+    ]
+}

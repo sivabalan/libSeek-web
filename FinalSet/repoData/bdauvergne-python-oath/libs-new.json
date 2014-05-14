@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "bin",
+        "core",
+        "b",
+        "string",
+        "h",
+        "unittest",
+        "random",
+        "urllib",
+        "datetime",
+        "glob",
+        "re",
+        "os",
+        "time",
+        "path",
+        "calendar",
+        "oath",
+        "hmac",
+        "urlparse"
+    ]
+}

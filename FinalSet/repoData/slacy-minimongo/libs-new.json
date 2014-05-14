@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "pymongo",
+        "core",
+        "cPickle",
+        "b",
+        "errors",
+        "imp",
+        "pickle",
+        "zlib",
+        "with_statement",
+        "minimongo",
+        "subprocess",
+        "sys",
+        "cursor",
+        "pytest",
+        "setuptools",
+        "operator",
+        "re",
+        "bson",
+        "copy",
+        "os",
+        "types"
+    ]
+}

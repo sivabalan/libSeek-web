@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "pylab",
+        "core",
+        "b",
+        "stats",
+        "uuid",
+        "numpy",
+        "utils",
+        "random",
+        "externals",
+        "display",
+        "grid_search",
+        "collections",
+        "time",
+        "copy",
+        "os",
+        "parallel",
+        "cross_validation",
+        "socket"
+    ]
+}

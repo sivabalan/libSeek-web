@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "loggers",
+        "states",
+        "b",
+        "supervisor",
+        "xmlrpc",
+        "supervisor_twiddler",
+        "unittest",
+        "options",
+        "sys",
+        "setuptools",
+        "datatypes",
+        "os",
+        "dispatchers"
+    ]
+}

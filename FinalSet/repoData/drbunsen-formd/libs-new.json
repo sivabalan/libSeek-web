@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "src",
+        "argparse",
+        "unittest",
+        "sys",
+        "re",
+        "collections",
+        "core"
+    ]
+}

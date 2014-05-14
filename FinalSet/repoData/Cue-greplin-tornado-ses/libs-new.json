@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "logging",
+        "tornado",
+        "h",
+        "functools",
+        "pkg_resources",
+        "urllib",
+        "datetime",
+        "setuptools",
+        "hmac"
+    ]
+}

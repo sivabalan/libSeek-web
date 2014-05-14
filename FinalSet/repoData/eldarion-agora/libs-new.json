@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "signals",
+        "http",
+        "core",
+        "shortcuts",
+        "utils",
+        "db",
+        "dispatch",
+        "datetime",
+        "appconf",
+        "urlresolvers",
+        "json",
+        "html",
+        "agora",
+        "template",
+        "exceptions",
+        "django",
+        "decorators",
+        "safestring",
+        "contrib"
+    ]
+}

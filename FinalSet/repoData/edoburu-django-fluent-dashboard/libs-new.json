@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "compilemessages",
+        "utils",
+        "fluent_d",
+        "loading",
+        "importlib",
+        "urlresolvers",
+        "itertools",
+        "re",
+        "core",
+        "models",
+        "sys",
+        "fnmatch",
+        "codecs",
+        "translation",
+        "d",
+        "logging",
+        "socket",
+        "django",
+        "defaultfilters",
+        "setuptools",
+        "exceptions",
+        "os"
+    ]
+}

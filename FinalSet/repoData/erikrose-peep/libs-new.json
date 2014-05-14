@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "b",
+        "log",
+        "linecache",
+        "tempfile",
+        "h",
+        "req",
+        "pkg_resources",
+        "sys",
+        "re",
+        "itertools",
+        "os",
+        "contextlib",
+        "shlex",
+        "setuptools",
+        "pip",
+        "path",
+        "shutil",
+        "optparse",
+        "print_function"
+    ]
+}

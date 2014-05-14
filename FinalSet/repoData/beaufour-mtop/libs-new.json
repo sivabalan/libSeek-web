@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "fcntl",
+        "binary",
+        "errors",
+        "struct",
+        "optparse",
+        "os",
+        "signal",
+        "read_preferences",
+        "connection",
+        "termios",
+        "son",
+        "sys",
+        "json",
+        "setuptools",
+        "time",
+        "pymongo"
+    ]
+}

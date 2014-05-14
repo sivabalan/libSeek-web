@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "mimetools",
+        "unittest",
+        "with_statement",
+        "twittytwister",
+        "web",
+        "urllib",
+        "application",
+        "internet",
+        "test",
+        "mimetypes",
+        "http",
+        "policies",
+        "simplejson",
+        "python",
+        "sys",
+        "oauth",
+        "copy",
+        "b",
+        "logging",
+        "trial",
+        "client",
+        "setuptools",
+        "error"
+    ]
+}

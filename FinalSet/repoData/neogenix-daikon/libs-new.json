@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "daikon",
+        "urllib2",
+        "urlparse",
+        "sys",
+        "setuptools",
+        "time",
+        "path",
+        "requests",
+        "anyjson",
+        "os",
+        "types",
+        "ConfigParser"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "stat",
+        "b",
+        "argparse",
+        "tempfile",
+        "unittest",
+        "subprocess",
+        "sys",
+        "platform",
+        "sqlite3",
+        "path",
+        "ConfigParser",
+        "shutil",
+        "os",
+        "configparser"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "functools",
+        "random",
+        "tools",
+        "redis",
+        "arguments",
+        "test",
+        "local",
+        "unittest2",
+        "mock",
+        "notsetuptools",
+        "http",
+        "operators",
+        "sys",
+        "b",
+        "durabledict",
+        "c",
+        "gutter",
+        "pickle",
+        "zlib",
+        "threading",
+        "itertools",
+        "client",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "oss",
+        "pylab",
+        "PyQt4",
+        "misc_util",
+        "pyffmpeg",
+        "gtk",
+        "re",
+        "ossaudiodev",
+        "numpy",
+        "core",
+        "random",
+        "pygtk",
+        "sys",
+        "path",
+        "alsaaudio",
+        "extension",
+        "Distutils",
+        "StringIO",
+        "Image",
+        "threading",
+        "time",
+        "os"
+    ]
+}

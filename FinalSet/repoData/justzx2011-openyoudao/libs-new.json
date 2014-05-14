@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "protocol",
+        "thread",
+        "Xlib",
+        "glob",
+        "gtk",
+        "popen2",
+        "BeautifulSoup",
+        "sys",
+        "re",
+        "ext",
+        "setuptools",
+        "time",
+        "webkit",
+        "os"
+    ]
+}

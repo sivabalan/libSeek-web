@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "configobj",
+        "ordereddict",
+        "os",
+        "functools",
+        "absolute_import",
+        "subprocess",
+        "shutil",
+        "tools",
+        "platform",
+        "re",
+        "collections",
+        "inspect",
+        "serialutil",
+        "textwrap",
+        "sys",
+        "jinja2",
+        "path",
+        "glob2",
+        "argparse",
+        "commands",
+        "b",
+        "h",
+        "itertools",
+        "shlex",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "runtime",
+        "pickle"
+    ]
+}

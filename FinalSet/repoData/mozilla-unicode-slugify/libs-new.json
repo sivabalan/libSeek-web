@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "unicodedata",
+        "encoding",
+        "re",
+        "setuptools",
+        "tools",
+        "slugify"
+    ]
+}

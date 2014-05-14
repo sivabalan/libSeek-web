@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "sys",
+        "mimetypes",
+        "uuid",
+        "core",
+        "unittest",
+        "json",
+        "urllib",
+        "trolly",
+        "parse",
+        "httplib2"
+    ]
+}

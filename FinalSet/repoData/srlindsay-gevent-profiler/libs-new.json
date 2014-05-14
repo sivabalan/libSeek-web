@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "gevent_profiler",
+        "signal",
+        "inspect",
+        "sys",
+        "optparse",
+        "gevent",
+        "time",
+        "os"
+    ]
+}

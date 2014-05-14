@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "argparse",
+        "random",
+        "os",
+        "signal",
+        "gtk",
+        "pkg_resources",
+        "pygtk",
+        "sys",
+        "json",
+        "webbrowser",
+        "setuptools",
+        "gobject",
+        "path",
+        "requests",
+        "appindicator",
+        "unittest"
+    ]
+}

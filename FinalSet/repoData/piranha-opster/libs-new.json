@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "functools",
+        "contextlib",
+        "build_py",
+        "pprint",
+        "re",
+        "collections",
+        "print_function",
+        "getopt",
+        "fractions",
+        "core",
+        "inspect",
+        "textwrap",
+        "sys",
+        "codecs",
+        "types",
+        "keyword",
+        "h",
+        "decimal",
+        "traceback",
+        "itertools",
+        "doctest",
+        "os"
+    ]
+}

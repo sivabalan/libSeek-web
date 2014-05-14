@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "wordlist",
+        "unicodedata",
+        "text_readers",
+        "socket",
+        "leeds_corpus_reader",
+        "unicode_literals",
+        "os",
+        "metanl",
+        "fixes",
+        "pkg_resources",
+        "subprocess",
+        "sys",
+        "re",
+        "collections",
+        "setuptools",
+        "time",
+        "corpus",
+        "tools",
+        "nltk",
+        "print_function"
+    ]
+}

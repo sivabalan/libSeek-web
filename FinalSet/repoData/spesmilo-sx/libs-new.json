@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "random",
+        "subprocess",
+        "platform",
+        "io",
+        "shutil",
+        "struct",
+        "re",
+        "mmap",
+        "msqr",
+        "json",
+        "internet",
+        "zmq",
+        "ecdsa",
+        "bin",
+        "string",
+        "zmqb",
+        "sys",
+        "b",
+        "datetime",
+        "types",
+        "ripemd",
+        "StringIO",
+        "h",
+        "decimal",
+        "time",
+        "exceptions",
+        "os",
+        "hmac"
+    ]
+}

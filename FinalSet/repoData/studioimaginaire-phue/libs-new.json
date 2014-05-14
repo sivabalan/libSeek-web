@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "argparse",
+        "httplib",
+        "Tkinter",
+        "random",
+        "sys",
+        "platform",
+        "json",
+        "client",
+        "setuptools",
+        "logging",
+        "os"
+    ]
+}

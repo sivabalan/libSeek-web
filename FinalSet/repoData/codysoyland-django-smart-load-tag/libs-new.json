@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "defaults",
+        "db",
+        "sys",
+        "template",
+        "test",
+        "os"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "sqlalchemy",
+        "exc",
+        "build_py",
+        "unittest",
+        "inspect",
+        "declarative",
+        "ext",
+        "session",
+        "bottle",
+        "orm",
+        "scoping"
+    ]
+}

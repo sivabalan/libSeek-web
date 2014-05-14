@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "dateutil",
+        "core",
+        "inspect",
+        "relativedelta",
+        "unicode_literals",
+        "pickle",
+        "chai",
+        "absolute_import",
+        "datetime",
+        "sys",
+        "re",
+        "setuptools",
+        "time",
+        "calendar",
+        "os"
+    ]
+}

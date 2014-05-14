@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "exceptions",
+        "commands",
+        "management",
+        "http",
+        "setuptools",
+        "db",
+        "userroles",
+        "datetime",
+        "sys",
+        "re",
+        "v2",
+        "dairy",
+        "conf",
+        "test",
+        "os"
+    ]
+}

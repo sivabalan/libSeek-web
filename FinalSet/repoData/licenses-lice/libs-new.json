@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "argparse",
+        "setuptools",
+        "lice",
+        "unittest",
+        "pkg_resources",
+        "datetime",
+        "sys",
+        "re",
+        "io",
+        "getp",
+        "subprocess",
+        "os",
+        "unittest2"
+    ]
+}

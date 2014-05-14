@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "http",
+        "setuptools",
+        "shortcuts",
+        "functools",
+        "random",
+        "db",
+        "loader",
+        "sys",
+        "imp",
+        "conf",
+        "test",
+        "os",
+        "defaults",
+        "math"
+    ]
+}

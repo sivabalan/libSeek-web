@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "simple",
+        "functools",
+        "random",
+        "absolute_import",
+        "datetime",
+        "io",
+        "operator",
+        "calendar",
+        "calculate",
+        "geos",
+        "six",
+        "re",
+        "print_function",
+        "libgeos",
+        "unittest",
+        "math",
+        "core",
+        "install",
+        "db",
+        "sys",
+        "types",
+        "argparse",
+        "install_data",
+        "django",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "pygeoip",
+        "bin",
+        "logging",
+        "socket",
+        "cStringIO",
+        "h",
+        "decimal",
+        "random",
+        "redis",
+        "struct",
+        "json",
+        "sys",
+        "threading",
+        "connection",
+        "gevent",
+        "time",
+        "operator",
+        "os",
+        "glob",
+        "pool",
+        "ConfigParser"
+    ]
+}

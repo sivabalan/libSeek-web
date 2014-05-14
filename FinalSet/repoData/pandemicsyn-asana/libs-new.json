@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "sys",
+        "simplejson",
+        "pprint",
+        "urllib",
+        "parse",
+        "json",
+        "gettext",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

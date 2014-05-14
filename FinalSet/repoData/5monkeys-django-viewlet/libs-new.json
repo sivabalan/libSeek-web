@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "encoding",
+        "utils",
+        "loader",
+        "filters",
+        "defaults",
+        "importlib",
+        "loaders",
+        "environment",
+        "re",
+        "template",
+        "test",
+        "http",
+        "setuptools",
+        "warnings",
+        "inspect",
+        "sys",
+        "jinja2",
+        "codecs",
+        "types",
+        "logging",
+        "viewlet",
+        "install_data",
+        "safestring",
+        "django",
+        "ext",
+        "context",
+        "time",
+        "urlresolvers",
+        "os"
+    ]
+}

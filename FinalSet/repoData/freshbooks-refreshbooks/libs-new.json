@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "distutils",
+        "skip",
+        "functools",
+        "absolute_import",
+        "shutil",
+        "tools",
+        "lxml",
+        "re",
+        "mock",
+        "warnings",
+        "inspect",
+        "urllib2",
+        "sys",
+        "httplib2",
+        "refreshbooks",
+        "optional",
+        "attrib",
+        "print_function",
+        "b",
+        "e",
+        "bootstrap_install_from = egg",
+        "transports",
+        "decimal",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "requests",
+        "os"
+    ]
+}

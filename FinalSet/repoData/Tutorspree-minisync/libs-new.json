@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "style",
+        "fixture",
+        "os",
+        "unittest",
+        "hybrid",
+        "datetime",
+        "minisync",
+        "orm",
+        "collections",
+        "tools",
+        "fl",
+        "properties"
+    ]
+}

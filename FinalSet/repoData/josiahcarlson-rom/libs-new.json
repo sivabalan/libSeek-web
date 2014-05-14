@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "uuid",
+        "threading",
+        "string",
+        "decimal",
+        "six",
+        "redis",
+        "datetime",
+        "weakref",
+        "re",
+        "json",
+        "collections",
+        "time",
+        "sys",
+        "os",
+        "unittest",
+        "print_function",
+        "rom"
+    ]
+}

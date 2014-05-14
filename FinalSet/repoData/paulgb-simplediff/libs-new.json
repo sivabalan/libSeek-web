@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "simplediff",
+        "unittest",
+        "doctest",
+        "setuptools"
+    ]
+}

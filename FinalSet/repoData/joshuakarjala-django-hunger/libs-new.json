@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "templated_email",
+        "hunger",
+        "unicode_literals",
+        "random",
+        "loader",
+        "contrib",
+        "simple",
+        "management",
+        "importlib",
+        "shortcuts",
+        "template",
+        "test",
+        "mail",
+        "csv",
+        "http",
+        "string",
+        "optparse",
+        "db",
+        "auth",
+        "sys",
+        "path",
+        "translation",
+        "datetime",
+        "commands",
+        "django",
+        "setuptools",
+        "urlresolvers",
+        "os",
+        "noqa"
+    ]
+}

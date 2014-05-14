@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "http",
+        "defaults",
+        "conf",
+        "generic",
+        "utils",
+        "db",
+        "functional",
+        "dispatch",
+        "sys",
+        "imp",
+        "management",
+        "stripe",
+        "csrf",
+        "urlresolvers",
+        "dist",
+        "auth",
+        "simple",
+        "contrib"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "logging",
+        "setuptools",
+        "platform",
+        "traceback",
+        "db",
+        "contrib",
+        "datetime",
+        "sys",
+        "exceptions",
+        "jogging",
+        "encoding",
+        "conf",
+        "test",
+        "mail",
+        "defaults"
+    ]
+}

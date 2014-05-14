@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "parse",
+        "logging",
+        "tokenizer",
+        "unicode_literals",
+        "functools",
+        "six",
+        "htmlserializer",
+        "saxutils",
+        "urllib",
+        "datetime",
+        "html5lib",
+        "re",
+        "sys",
+        "constants",
+        "setuptools",
+        "bleach",
+        "os",
+        "decimal",
+        "types"
+    ]
+}

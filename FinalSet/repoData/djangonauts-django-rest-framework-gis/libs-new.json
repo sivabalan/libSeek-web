@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "text",
+        "utils",
+        "conf",
+        "query",
+        "contrib",
+        "rest_framework",
+        "django_filters",
+        "gis",
+        "local_settings",
+        "geos",
+        "urllib",
+        "json",
+        "test",
+        "simplejson",
+        "db",
+        "sys",
+        "urlresolvers",
+        "management",
+        "rest_framework_gis",
+        "path",
+        "translation",
+        "gdal",
+        "argparse",
+        "setuptools",
+        "exceptions",
+        "os"
+    ]
+}

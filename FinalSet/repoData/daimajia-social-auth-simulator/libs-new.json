@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "httplib",
+        "bs4",
+        "os",
+        "urllib2",
+        "urllib",
+        "sys",
+        "json",
+        "requests",
+        "fl",
+        "cookielib"
+    ]
+}

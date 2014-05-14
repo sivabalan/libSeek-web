@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "redis_wrap",
+        "redis_h",
+        "redis",
+        "setuptools"
+    ]
+}

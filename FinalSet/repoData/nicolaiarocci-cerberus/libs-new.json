@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "string",
+        "random",
+        "datetime",
+        "sys",
+        "re",
+        "setuptools",
+        "os"
+    ]
+}

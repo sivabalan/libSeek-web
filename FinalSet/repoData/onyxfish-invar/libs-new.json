@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "argparse",
+        "core",
+        "Queue",
+        "sys",
+        "json",
+        "math",
+        "os",
+        "multiprocessing",
+        "mapnik"
+    ]
+}

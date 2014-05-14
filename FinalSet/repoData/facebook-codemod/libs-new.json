@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "fcntl",
+        "struct",
+        "curses",
+        "tempfile",
+        "termios",
+        "sys",
+        "re",
+        "doctest",
+        "setuptools",
+        "getopt",
+        "copy",
+        "os",
+        "math"
+    ]
+}

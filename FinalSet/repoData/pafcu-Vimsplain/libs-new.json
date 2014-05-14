@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "For python 3 compatibility",
+        "sys",
+        "optparse",
+        "re"
+    ]
+}

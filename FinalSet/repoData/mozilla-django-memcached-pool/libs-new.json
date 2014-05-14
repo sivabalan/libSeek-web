@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "memcachepool",
+        "cPickle",
+        "socket",
+        "errno",
+        "unittest",
+        "umemcache",
+        "Queue",
+        "memcached",
+        "sys",
+        "setuptools",
+        "time",
+        "contextlib",
+        "os",
+        "functools",
+        "NOQA"
+    ]
+}

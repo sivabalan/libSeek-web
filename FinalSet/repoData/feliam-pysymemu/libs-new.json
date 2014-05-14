@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "cStringIO",
+        "unittest",
+        "random",
+        "subprocess",
+        "gc",
+        "struct",
+        "tempfile",
+        "mmap",
+        "collections",
+        "types",
+        "functools",
+        "math",
+        "fcntl",
+        "distorm3",
+        "sys",
+        "resource",
+        "copy",
+        "elffile",
+        "argparse",
+        "logging",
+        "os",
+        "traceback",
+        "weakref",
+        "setuptools",
+        "time",
+        "contextlib",
+        "pickle",
+        "pdb"
+    ]
+}

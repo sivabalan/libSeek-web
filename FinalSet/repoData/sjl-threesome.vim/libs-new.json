@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "sys",
+        "markdown",
+        "with_statement",
+        "vim",
+        "util",
+        "os"
+    ]
+}

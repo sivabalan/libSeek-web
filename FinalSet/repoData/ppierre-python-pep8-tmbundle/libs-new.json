@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "cgi",
+        "tempfile",
+        "Vendor",
+        "time",
+        "keyword",
+        "StringIO",
+        "optparse",
+        "tm_helpers",
+        "inspect",
+        "with_statement",
+        "urllib",
+        "sys",
+        "re",
+        "doctest",
+        "tokenize",
+        "fnmatch",
+        "getopt",
+        "os",
+        "types",
+        "string"
+    ]
+}

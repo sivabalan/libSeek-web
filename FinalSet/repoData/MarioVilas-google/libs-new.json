@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "distutils",
+        "bs4",
+        "site",
+        "subprocess",
+        "parse",
+        "operator",
+        "shutil",
+        "cookiejar",
+        "tempfile",
+        "tarfile",
+        "BeautifulSoup",
+        "urllib",
+        "core",
+        "optparse",
+        "urllib2",
+        "sys",
+        "path",
+        "copy",
+        "cookielib",
+        "request",
+        "pkg_resources",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "random",
+        "plugins",
+        "ElementTree",
+        "abc",
+        "struct",
+        "urllib",
+        "imp",
+        "Cookie",
+        "new",
+        "core",
+        "PluginB",
+        "optparse",
+        "inspect",
+        "Queue",
+        "path",
+        "sys",
+        "httplib",
+        "b",
+        "socket",
+        "dom",
+        "StringIO",
+        "n",
+        "urlparse",
+        "threading",
+        "itertools",
+        "time",
+        "os",
+        "multiprocessing"
+    ]
+}

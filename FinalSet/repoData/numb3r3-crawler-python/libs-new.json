@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "clean",
+        "simplejson",
+        "StringIO",
+        "optparse",
+        "pprint",
+        "BeautifulSoup",
+        "urllib2",
+        "sys",
+        "re",
+        "json",
+        "setuptools",
+        "time",
+        "etree",
+        "requests",
+        "requesocks",
+        "os",
+        "soupparser"
+    ]
+}

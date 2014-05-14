@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "timelinejs",
+        "management",
+        "v2",
+        "generic",
+        "random",
+        "db",
+        "factory",
+        "datetime",
+        "sys",
+        "contrib",
+        "json",
+        "test",
+        "dj_settings_helpers",
+        "os"
+    ]
+}

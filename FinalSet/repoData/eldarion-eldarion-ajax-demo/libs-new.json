@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "sys",
+        "management",
+        "http",
+        "conf",
+        "shortcuts",
+        "db",
+        "loader",
+        "urlparse",
+        "json",
+        "static",
+        "template",
+        "contrib",
+        "os"
+    ]
+}

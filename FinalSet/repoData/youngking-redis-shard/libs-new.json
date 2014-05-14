@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "functools",
+        "Queue",
+        "parse",
+        "io",
+        "tools",
+        "queue",
+        "redis",
+        "urllib",
+        "re",
+        "redis_shard",
+        "unittest",
+        "cgi",
+        "string",
+        "argparse",
+        "sys",
+        "dummy",
+        "StringIO",
+        "bisect",
+        "h",
+        "zlib",
+        "urlparse",
+        "itertools",
+        "client",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

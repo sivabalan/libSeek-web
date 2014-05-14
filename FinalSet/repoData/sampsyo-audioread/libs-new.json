@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "audioop",
+        "with_statement",
+        "subprocess",
+        "contextlib",
+        "select",
+        "copy",
+        "struct",
+        "urllib",
+        "re",
+        "core",
+        "wave",
+        "sys",
+        "ctypes",
+        "mad",
+        "aifc",
+        "print_function",
+        "Queue",
+        "gst",
+        "util",
+        "audioread",
+        "threading",
+        "time",
+        "gobject",
+        "os"
+    ]
+}

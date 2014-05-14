@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "b",
+        "http",
+        "template",
+        "re",
+        "setuptools",
+        "db",
+        "dispatch",
+        "datetime",
+        "exceptions",
+        "contenttypes",
+        "hitcount",
+        "conf",
+        "urlresolvers",
+        "django",
+        "os",
+        "contrib"
+    ]
+}

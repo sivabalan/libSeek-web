@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "glob",
+        "operator",
+        "sys",
+        "re",
+        "setuptools",
+        "gzip",
+        "getopt",
+        "shutil",
+        "os",
+        "math"
+    ]
+}

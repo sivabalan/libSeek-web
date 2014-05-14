@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "supervisor",
+        "vh",
+        "subprocess",
+        "gevent",
+        "plugins",
+        "shutil",
+        "uuid",
+        "grp",
+        "tempfile",
+        "re",
+        "json",
+        "ui",
+        "util",
+        "pwd",
+        "configs",
+        "unicodedata",
+        "binder",
+        "client",
+        "helpers",
+        "ajenti",
+        "os",
+        "multiprocessing"
+    ]
+}

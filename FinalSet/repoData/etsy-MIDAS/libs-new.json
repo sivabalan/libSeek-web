@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "subprocess",
+        "operator",
+        "calendar",
+        "struct",
+        "datetime",
+        "re",
+        "json",
+        "collections",
+        "sqlite3",
+        "math",
+        "stat",
+        "sys",
+        "path",
+        "copy",
+        "plistlib",
+        "b",
+        "logging",
+        "socket",
+        "StringIO",
+        "h",
+        "difflib",
+        "itertools",
+        "time",
+        "os"
+    ]
+}

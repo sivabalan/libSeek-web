@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "management",
+        "glob",
+        "sys",
+        "types",
+        "setuptools",
+        "os",
+        "split_settings"
+    ]
+}

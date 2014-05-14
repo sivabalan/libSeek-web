@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "textwrap",
+        "progressbar",
+        "sys",
+        "re",
+        "bitstring",
+        "setuptools",
+        "time",
+        "math"
+    ]
+}

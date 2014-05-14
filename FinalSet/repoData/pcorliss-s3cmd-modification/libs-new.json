@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "locale",
+        "random",
+        "stat",
+        "datetime",
+        "ElementTree",
+        "errno",
+        "urllib",
+        "re",
+        "core",
+        "mimetypes",
+        "expat",
+        "string",
+        "rfc822",
+        "sys",
+        "path",
+        "subprocess",
+        "md5",
+        "httplib",
+        "b",
+        "logging",
+        "h",
+        "sha",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

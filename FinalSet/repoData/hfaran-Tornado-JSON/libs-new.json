@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "functools",
+        "testing",
+        "tornado_json",
+        "jsonschema",
+        "pyclbr",
+        "ioloop",
+        "web",
+        "pkgutil",
+        "json",
+        "pytest",
+        "test",
+        "tornado",
+        "cars",
+        "inspect",
+        "sys",
+        "concurrent",
+        "codecs",
+        "types",
+        "importlib",
+        "sphinx_rtd_theme",
+        "logging",
+        "itertools",
+        "setuptools",
+        "os"
+    ]
+}

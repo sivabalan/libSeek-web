@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "labs",
+        "logging",
+        "traceback",
+        "datetime",
+        "util",
+        "deferred",
+        "ext",
+        "api",
+        "sys",
+        "bulkupdate",
+        "time",
+        "webapp",
+        "runtime",
+        "os"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "with_statement",
+        "subprocess",
+        "shutil",
+        "tools",
+        "grp",
+        "re",
+        "tempfile",
+        "yaml",
+        "kokki",
+        "cPickle",
+        "optparse",
+        "glob",
+        "urllib2",
+        "sys",
+        "pwd",
+        "jinja2",
+        "path",
+        "datetime",
+        "b",
+        "logging",
+        "package",
+        "h",
+        "urlparse",
+        "itertools",
+        "yum",
+        "setuptools",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "distutils",
+        "pystache",
+        "site",
+        "subprocess",
+        "operator",
+        "shutil",
+        "platform",
+        "tempfile",
+        "tarfile",
+        "yaml",
+        "simplejson",
+        "optparse",
+        "glob",
+        "urllib2",
+        "textwrap",
+        "sys",
+        "copy",
+        "argparse",
+        "logging",
+        "boto",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

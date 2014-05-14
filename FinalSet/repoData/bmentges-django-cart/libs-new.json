@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "decimal",
+        "db",
+        "v2",
+        "datetime",
+        "contenttypes",
+        "setuptools",
+        "test",
+        "translation",
+        "os"
+    ]
+}

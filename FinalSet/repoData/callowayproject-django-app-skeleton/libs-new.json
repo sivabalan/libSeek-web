@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "random",
+        "subprocess",
+        "contrib",
+        "paginator",
+        "management",
+        "cache",
+        "platform",
+        "test",
+        "decorators",
+        "http",
+        "setuptools",
+        "optparse",
+        "db",
+        "sys",
+        "translation",
+        "ConfigParser",
+        "{{app_name}}",
+        "django",
+        "defaults",
+        "os",
+        "win32api"
+    ]
+}

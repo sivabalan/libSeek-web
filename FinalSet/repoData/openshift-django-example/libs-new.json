@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "inspect",
+        "setuptools",
+        "shortcuts",
+        "h",
+        "random",
+        "sqlite3",
+        "sys",
+        "imp",
+        "management",
+        "defaults",
+        "contrib",
+        "os"
+    ]
+}

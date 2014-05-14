@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "stan",
+        "psyco",
+        "names",
+        "path",
+        "wiremaps",
+        "collector",
+        "web",
+        "yaml",
+        "nevow",
+        "snmp",
+        "twisted",
+        "application",
+        "internet",
+        "python",
+        "dat",
+        "failure",
+        "interface",
+        "re",
+        "IPy",
+        "pyPgSQL",
+        "sys",
+        "plugin",
+        "url",
+        "datab",
+        "enterprise",
+        "os"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "PyQt4",
+        "shutil",
+        "toutv",
+        "struct",
+        "re",
+        "errno",
+        "platform",
+        "Cipher",
+        "collections",
+        "toutvqt",
+        "difflib",
+        "Qt",
+        "time",
+        "textwrap",
+        "sys",
+        "webbrowser",
+        "path",
+        "datetime",
+        "argparse",
+        "logging",
+        "toutvcli",
+        "signal",
+        "pkg_resources",
+        "queue",
+        "setuptools",
+        "shelve",
+        "requests",
+        "os"
+    ]
+}

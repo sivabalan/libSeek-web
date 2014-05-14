@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "argparse",
+        "tempfile",
+        "unittest",
+        "traceback",
+        "gitpylib",
+        "subprocess",
+        "sys",
+        "re",
+        "itertools",
+        "collections",
+        "setuptools",
+        "time",
+        "textui",
+        "shutil",
+        "os",
+        "functools"
+    ]
+}

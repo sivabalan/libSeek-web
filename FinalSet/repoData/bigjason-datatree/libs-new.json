@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "ElementTree",
+        "cElementTree",
+        "b",
+        "importlib",
+        "saxutils",
+        "StringIO",
+        "datatree",
+        "unittest",
+        "pprint",
+        "sys",
+        "yaml",
+        "json",
+        "setuptools",
+        "random",
+        "coverage",
+        "copy",
+        "os",
+        "unittest2"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "mathutils",
+        "sys",
+        "blf",
+        "geometry",
+        "random",
+        "time",
+        "bgl",
+        "bpy;",
+        "bmesh",
+        "imp",
+        "operator",
+        "collections",
+        "math",
+        "contour_cl",
+        "props",
+        "bpy",
+        "bpy_extr",
+        "os",
+        "types"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "site",
+        "subprocess",
+        "sysconfig",
+        "shutil",
+        "configparser",
+        "imp",
+        "tempfile",
+        "errno",
+        "re",
+        "core",
+        "optparse",
+        "sets",
+        "sys",
+        "pyexiv2",
+        "ConfigParser",
+        "util",
+        "b",
+        "logging",
+        "zlib",
+        "time",
+        "requests",
+        "anyjson",
+        "os",
+        "win32api"
+    ]
+}

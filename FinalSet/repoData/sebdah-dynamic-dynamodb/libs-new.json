@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "utils",
+        "datetime",
+        "atexit",
+        "ec2",
+        "statistics",
+        "re",
+        "config",
+        "unittest",
+        "math",
+        "core",
+        "dynamic_dynamodb",
+        "aws",
+        "sys",
+        "path",
+        "ConfigParser",
+        "argparse",
+        "exception",
+        "logging",
+        "boto",
+        "signal",
+        "logutils",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

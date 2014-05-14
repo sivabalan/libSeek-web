@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "argparse",
+        "shutil",
+        "tempfile",
+        "text",
+        "datetime",
+        "sys",
+        "re",
+        "s3",
+        "multipart",
+        "path",
+        "smtplib",
+        "github3",
+        "os"
+    ]
+}

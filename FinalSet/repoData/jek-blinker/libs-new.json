@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "weakref",
+        "b",
+        "blinker",
+        "autodoc",
+        "core",
+        "os",
+        "unittest",
+        "traceback",
+        "with_statement",
+        "collections",
+        "sys",
+        "dbuilder",
+        "gc",
+        "warnings",
+        "time",
+        "operator",
+        "pickle",
+        "contextlib",
+        "copy",
+        "tools"
+    ]
+}

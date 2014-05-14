@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "util",
+        "cPickle",
+        "rtree",
+        "PIL",
+        "libl",
+        "atexit",
+        "os",
+        "glob",
+        "pprint",
+        "timeit",
+        "ogr",
+        "sys",
+        "re",
+        "pkg_resources",
+        "ctypes",
+        "doctest",
+        "setuptools",
+        "random",
+        "path",
+        "pickle",
+        "unittest"
+    ]
+}

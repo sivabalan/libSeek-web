@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "socket",
+        "re",
+        "h",
+        "functools",
+        "collab",
+        "sys",
+        "threading",
+        "json",
+        "time",
+        "sublime_plugin",
+        "sublime"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "_lupa",
+        "_thread",
+        "thread",
+        "unittest",
+        "lupa",
+        "__builtin__",
+        "subprocess",
+        "sys",
+        "threading",
+        "Version",
+        "gc",
+        "Build",
+        "setuptools",
+        "time",
+        "builtins",
+        "os",
+        "glob",
+        "doctest"
+    ]
+}

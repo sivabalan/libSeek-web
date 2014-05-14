@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "utils",
+        "datetime",
+        "web",
+        "uuid",
+        "formencode",
+        "re",
+        "json",
+        "models",
+        "collections",
+        "config",
+        "blinker",
+        "tornado",
+        "textui",
+        "b",
+        "logging",
+        "handlers",
+        "datab",
+        "thing",
+        "helpers",
+        "setuptools",
+        "time",
+        "os",
+        "options"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "argparse",
+        "wtforms",
+        "logging",
+        "os",
+        "test",
+        "unittest",
+        "validators",
+        "datetime",
+        "sys",
+        "re",
+        "pytest",
+        "jinja2",
+        "stripe",
+        "setuptools",
+        "codecs",
+        "getp",
+        "path",
+        "fl",
+        "print_function",
+        "uuid"
+    ]
+}

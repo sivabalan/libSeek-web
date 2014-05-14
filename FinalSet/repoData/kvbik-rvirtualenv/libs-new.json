@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "util",
+        "tempfile",
+        "logging",
+        "string",
+        "distutils",
+        "re",
+        "optparse",
+        "unittest",
+        "rvirtualenvinstall",
+        "textwrap",
+        "subprocess",
+        "sys",
+        "imp",
+        "setuptools",
+        "path",
+        "core",
+        "shutil",
+        "os"
+    ]
+}

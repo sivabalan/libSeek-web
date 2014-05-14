@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "six",
+        "simplejson",
+        "install_data",
+        "unittest",
+        "pprint",
+        "sys",
+        "googlegeocoder",
+        "json",
+        "install",
+        "moves",
+        "os"
+    ]
+}

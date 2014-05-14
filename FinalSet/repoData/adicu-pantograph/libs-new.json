@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "ioloop",
+        "web",
+        "pantograph",
+        "template",
+        "random",
+        "json",
+        "datetime",
+        "sys",
+        "itertools",
+        "collections",
+        "setuptools",
+        "websocket",
+        "os",
+        "math"
+    ]
+}

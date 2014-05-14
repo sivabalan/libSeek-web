@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "http",
+        "defaults",
+        "conf",
+        "shortcuts",
+        "db",
+        "auth",
+        "sys",
+        "urlresolvers",
+        "setuptools",
+        "twython",
+        "os"
+    ]
+}

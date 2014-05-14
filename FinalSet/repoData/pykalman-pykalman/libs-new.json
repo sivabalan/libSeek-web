@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "sys",
+        "testing",
+        "io",
+        "inspect",
+        "warnings",
+        "pickle",
+        "unittest",
+        "pylab",
+        "os",
+        "sqrt",
+        "dat",
+        "tools",
+        "itertools",
+        "scipy",
+        "pykalman",
+        "setuptools",
+        "path",
+        "numpy"
+    ]
+}

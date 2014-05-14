@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "minidom",
+        "core",
+        "b",
+        "socket",
+        "platform",
+        "traceback",
+        "textwrap",
+        "vim",
+        "sys",
+        "imp",
+        "shlex",
+        "subprocess",
+        "os",
+        "types"
+    ]
+}

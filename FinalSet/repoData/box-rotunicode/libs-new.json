@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "strop",
+        "unicode_literals",
+        "unittest",
+        "setuptools",
+        "codecs",
+        "path"
+    ]
+}

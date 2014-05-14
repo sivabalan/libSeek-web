@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "pdfparanoia",
+        "b",
+        "io",
+        "StringIO",
+        "unittest",
+        "inspect",
+        "sys",
+        "platform",
+        "pdftypes",
+        "setuptools",
+        "plugins",
+        "pdfparser",
+        "copy",
+        "os",
+        "pdfdocument",
+        "er"
+    ]
+}

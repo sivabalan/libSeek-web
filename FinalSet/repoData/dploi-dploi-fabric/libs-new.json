@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "operations",
+        "functools",
+        "datetime",
+        "api",
+        "contrib",
+        "copy",
+        "posixpath",
+        "pprint",
+        "json",
+        "state",
+        "getp",
+        "decorators",
+        "unittest",
+        "files",
+        "setuptools",
+        "urllib2",
+        "dat",
+        "toolbox",
+        "subprocess",
+        "dploi_fabric",
+        "ConfigParser",
+        "sys",
+        "b",
+        "StringIO",
+        "t",
+        "context",
+        "requests",
+        "os"
+    ]
+}

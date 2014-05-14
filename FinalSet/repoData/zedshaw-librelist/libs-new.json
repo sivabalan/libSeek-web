@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "app",
+        "with_statement",
+        "datetime",
+        "Stemmer",
+        "shutil",
+        "tools",
+        "management",
+        "lib",
+        "textile",
+        "routing",
+        "mail",
+        "PyRSS2Gen",
+        "utils",
+        "stat",
+        "string",
+        "simplejson",
+        "db",
+        "sys",
+        "jinja2",
+        "b",
+        "logging",
+        "handlers",
+        "server",
+        "queue",
+        "defaults",
+        "time",
+        "lamson",
+        "model",
+        "os"
+    ]
+}

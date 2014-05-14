@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "tumblelog",
+        "os",
+        "functools",
+        "datetime",
+        "sys",
+        "fl"
+    ]
+}

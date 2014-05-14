@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "core",
+        "abc",
+        "warnings",
+        "vimdoc",
+        "itertools",
+        "textwrap",
+        "re",
+        "json",
+        "collections",
+        "os"
+    ]
+}

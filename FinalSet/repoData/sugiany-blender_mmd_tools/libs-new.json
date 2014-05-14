@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "mathutils",
+        "bpy_extr",
+        "logging",
+        "struct",
+        "handlers",
+        "traceback",
+        "bmesh",
+        "re",
+        "collections",
+        "imp",
+        "time",
+        "bpy",
+        "copy",
+        "os",
+        "math"
+    ]
+}

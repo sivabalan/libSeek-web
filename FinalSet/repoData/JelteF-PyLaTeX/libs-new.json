@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "subprocess",
+        "sys",
+        "re",
+        "collections",
+        "pylatex",
+        "ordered_set"
+    ]
+}

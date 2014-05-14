@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "itertools",
+        "pytest",
+        "with_statement",
+        "setuptools"
+    ]
+}

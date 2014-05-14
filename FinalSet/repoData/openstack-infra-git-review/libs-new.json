@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "datetime",
+        "parse",
+        "git_review",
+        "shutil",
+        "configparser",
+        "urllib",
+        "re",
+        "json",
+        "textwrap",
+        "sys",
+        "subprocess",
+        "print_function",
+        "ConfigParser",
+        "argparse",
+        "traceback",
+        "request",
+        "pkg_resources",
+        "urlparse",
+        "shlex",
+        "setuptools",
+        "requests",
+        "os"
+    ]
+}

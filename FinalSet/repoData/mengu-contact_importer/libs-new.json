@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "cgi",
+        "bin",
+        "b",
+        "uuid",
+        "lib",
+        "h",
+        "random",
+        "urllib",
+        "urlparse",
+        "json",
+        "lxml",
+        "sys",
+        "time",
+        "setuptools",
+        "Deprecated",
+        "collections",
+        "requests",
+        "os",
+        "hmac"
+    ]
+}

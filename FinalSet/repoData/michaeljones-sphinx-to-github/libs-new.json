@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "tests",
+        "ez_setup",
+        "optparse",
+        "unittest",
+        "sys",
+        "setuptools",
+        "codecs",
+        "shutil",
+        "os"
+    ]
+}

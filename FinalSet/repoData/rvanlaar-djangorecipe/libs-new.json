@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "package_index",
+        "site",
+        "datetime",
+        "conf",
+        "shutil",
+        "copy",
+        "buildout",
+        "tempfile",
+        "djangorecipe",
+        "re",
+        "mock",
+        "core",
+        "defaults",
+        "optparse",
+        "urllib2",
+        "sys",
+        "%(module_name)s",
+        "subprocess",
+        "logging",
+        "egg",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "os"
+    ]
+}

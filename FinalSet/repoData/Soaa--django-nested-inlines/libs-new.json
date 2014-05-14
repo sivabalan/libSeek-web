@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "management",
+        "utils",
+        "db",
+        "sys",
+        "nested_inlines",
+        "setuptools",
+        "contrib",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "cStringIO",
+        "traceback",
+        "simplejson",
+        "tools",
+        "yacc",
+        "pprint",
+        "phply",
+        "sys",
+        "re",
+        "setuptools",
+        "lex",
+        "readline",
+        "php",
+        "os",
+        "_"
+    ]
+}

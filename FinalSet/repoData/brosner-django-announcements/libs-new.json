@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "http",
+        "defaults",
+        "generic",
+        "notification",
+        "db",
+        "contrib",
+        "datetime",
+        "shortcuts",
+        "atomformat",
+        "conf",
+        "sets",
+        "urlresolvers",
+        "translation",
+        "django",
+        "template"
+    ]
+}

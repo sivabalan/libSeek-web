@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "parse",
+        "core",
+        "numpy",
+        "unittest",
+        "random",
+        "request",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "sys",
+        "scipy",
+        "pytz",
+        "setuptools",
+        "time",
+        "Pysolar",
+        "os",
+        "math"
+    ]
+}

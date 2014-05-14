@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "cgi",
+        "web",
+        "mimetypes",
+        "urllib2_files",
+        "mimetools",
+        "lib",
+        "simplejson",
+        "pprint",
+        "magic",
+        "stat",
+        "urllib",
+        "urllib2",
+        "sys",
+        "re",
+        "httplib",
+        "time",
+        "getopt",
+        "os",
+        "string",
+        "socket"
+    ]
+}

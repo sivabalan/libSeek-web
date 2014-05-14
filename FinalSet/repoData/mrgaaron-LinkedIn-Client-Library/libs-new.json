@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "httplib",
+        "lxml",
+        "builder",
+        "urllib",
+        "datetime",
+        "urlparse",
+        "re",
+        "oauth2",
+        "time",
+        "nltk"
+    ]
+}

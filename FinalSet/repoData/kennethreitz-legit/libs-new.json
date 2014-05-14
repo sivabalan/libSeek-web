@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "py2exe",
+        "git",
+        "exc",
+        "eng",
+        "colored",
+        "subprocess",
+        "sys",
+        "operator",
+        "collections",
+        "platform",
+        "setuptools",
+        "time",
+        "exceptions",
+        "textui",
+        "ConfigParser",
+        "os",
+        "resources",
+        "clint"
+    ]
+}

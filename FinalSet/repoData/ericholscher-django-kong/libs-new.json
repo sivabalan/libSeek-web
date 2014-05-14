@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "shortcuts",
+        "datetime",
+        "parse",
+        "contrib",
+        "calendar",
+        "management",
+        "local_settings",
+        "generic",
+        "simple",
+        "collections",
+        "template",
+        "test",
+        "mail",
+        "core",
+        "defaults",
+        "optparse",
+        "db",
+        "sys",
+        "errors",
+        "loader",
+        "commands",
+        "b",
+        "StringIO",
+        "us",
+        "django",
+        "urlparse",
+        "itertools",
+        "context",
+        "os"
+    ]
+}

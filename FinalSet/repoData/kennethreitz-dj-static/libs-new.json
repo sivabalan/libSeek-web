@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "parse",
+        "wsgi",
+        "b",
+        "conf",
+        "handlers",
+        "staticfiles",
+        "urlparse",
+        "static",
+        "setuptools",
+        "sys"
+    ]
+}

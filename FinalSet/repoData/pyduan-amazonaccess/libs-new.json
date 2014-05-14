@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "functools",
+        "sys",
+        "pand",
+        "operator",
+        "pyplot",
+        "grid_search",
+        "re",
+        "json",
+        "numpy",
+        "math",
+        "division",
+        "cPickle",
+        "metrics",
+        "scipy",
+        "external",
+        "argparse",
+        "logging",
+        "itertools",
+        "helpers",
+        "sets",
+        "multiprocessing",
+        "sklearn"
+    ]
+}

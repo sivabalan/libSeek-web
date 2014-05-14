@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "unicode_literals",
+        "unittest",
+        "xpinyin",
+        "setuptools",
+        "path",
+        "os"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "re",
+        "tempfile",
+        "unittest",
+        "with_statement",
+        "difflib",
+        "subprocess",
+        "sys",
+        "optparse",
+        "os",
+        "signal",
+        "select"
+    ]
+}

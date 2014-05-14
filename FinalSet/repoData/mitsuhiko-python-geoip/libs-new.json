@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "style",
+        "socket",
+        "mmap",
+        "urllib",
+        "datetime",
+        "sys",
+        "threading",
+        "token",
+        "setuptools",
+        "os",
+        "struct"
+    ]
+}

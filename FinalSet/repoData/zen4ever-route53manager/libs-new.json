@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "exception",
+        "etree",
+        "simplejson",
+        "h",
+        "functools",
+        "itertools",
+        "urllib",
+        "weakref",
+        "cElementTree",
+        "json",
+        "werkzeug",
+        "activeresource",
+        "fl",
+        "ElementTree",
+        "os",
+        "route53"
+    ]
+}

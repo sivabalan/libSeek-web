@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cStringIO",
+        "ElementTree",
+        "socket",
+        "ssl",
+        "core",
+        "request",
+        "unittest",
+        "random",
+        "tarfile",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "re",
+        "platform",
+        "io",
+        "time",
+        "cloud_sptheme",
+        "configparser",
+        "os",
+        "warnings",
+        "ConfigParser"
+    ]
+}

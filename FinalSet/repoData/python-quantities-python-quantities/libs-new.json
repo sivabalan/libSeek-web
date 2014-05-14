@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "cmd",
+        "functools",
+        "with_statement",
+        "absolute_import",
+        "operator",
+        "unittest",
+        "agile",
+        "re",
+        "build",
+        "units",
+        "numpy",
+        "sdist",
+        "math",
+        "core",
+        "string",
+        "warnings",
+        "quantities",
+        "inspect",
+        "sys",
+        "copy",
+        "sphinx",
+        "os",
+        "lexer",
+        "m",
+        "unittest2",
+        "weakref",
+        "threading",
+        "token",
+        "pickle"
+    ]
+}

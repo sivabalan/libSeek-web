@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "sleep(1)",
+        "cPickle",
+        "logging",
+        "ez_setup",
+        "models",
+        "fileinput",
+        "BeautifulSoup",
+        "gettext",
+        "subprocess",
+        "sys",
+        "json",
+        "collections",
+        "setuptools",
+        "time",
+        "sqlite3",
+        "transifex",
+        "requests",
+        "datetime",
+        "os",
+        "ConfigParser"
+    ]
+}

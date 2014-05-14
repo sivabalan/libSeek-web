@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "conf",
+        "fields",
+        "db",
+        "sites",
+        "auth",
+        "django",
+        "contrib",
+        "setuptools",
+        "test",
+        "translation",
+        "copy",
+        "widgets"
+    ]
+}

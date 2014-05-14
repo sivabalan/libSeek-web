@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "minidom",
+        "core",
+        "b",
+        "parser",
+        "urllib2",
+        "csv"
+    ]
+}

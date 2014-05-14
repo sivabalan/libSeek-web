@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "defaults",
+        "unicode_literals",
+        "unittest",
+        "db",
+        "datetime",
+        "sys",
+        "collections",
+        "doctest",
+        "setuptools",
+        "test",
+        "os",
+        "decimal"
+    ]
+}

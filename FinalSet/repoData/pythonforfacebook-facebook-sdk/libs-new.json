@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "unittest",
+        "datetime",
+        "parse",
+        "path",
+        "webapp2_extr",
+        "urllib",
+        "json",
+        "Cookie",
+        "utils",
+        "cgi",
+        "urllib2",
+        "sys",
+        "jinja2",
+        "webapp",
+        "b",
+        "logging",
+        "handlers",
+        "webapp2",
+        "h",
+        "urlparse",
+        "ext",
+        "setuptools",
+        "time",
+        "facebook",
+        "requests",
+        "os",
+        "hmac"
+    ]
+}

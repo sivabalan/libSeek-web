@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cPickle",
+        "futures",
+        "logging",
+        "struct",
+        "re",
+        "os",
+        "unittest",
+        "zlib",
+        "urllib",
+        "datetime",
+        "sys",
+        "threading",
+        "select",
+        "setuptools",
+        "time",
+        "bmemcached",
+        "bz2",
+        "pickle",
+        "multiprocessing",
+        "mock",
+        "socket"
+    ]
+}

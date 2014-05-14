@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "conf",
+        "core",
+        "loader",
+        "management",
+        "template",
+        "qsstats",
+        "relativedelta",
+        "shortcuts",
+        "b",
+        "random",
+        "db",
+        "datetime",
+        "sys",
+        "imp",
+        "transaction",
+        "defaults",
+        "time",
+        "test",
+        "django",
+        "main",
+        "os"
+    ]
+}

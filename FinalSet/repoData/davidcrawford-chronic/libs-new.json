@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "functools",
+        "sys",
+        "threading",
+        "time",
+        "os",
+        "unittest"
+    ]
+}

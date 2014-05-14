@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "web",
+        "logging",
+        "os",
+        "string",
+        "h",
+        "functools",
+        "random",
+        "urllib",
+        "subprocess",
+        "sys",
+        "atexit",
+        "json",
+        "werkzeug",
+        "internet",
+        "sqlite3",
+        "fl",
+        "requests",
+        "datetime",
+        "bcrypt",
+        "protocols",
+        "local_settings"
+    ]
+}

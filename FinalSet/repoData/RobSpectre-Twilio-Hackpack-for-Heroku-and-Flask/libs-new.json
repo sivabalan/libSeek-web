@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "hackpack",
+        "twilio",
+        "optparse",
+        "unittest",
+        "rest",
+        "subprocess",
+        "sys",
+        "setuptools",
+        "logging",
+        "os",
+        "mock"
+    ]
+}

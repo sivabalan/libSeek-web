@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "dat",
+        "b",
+        "unicode_literals",
+        "where",
+        "db",
+        "django",
+        "sys",
+        "management",
+        "setuptools",
+        "fields",
+        "query",
+        "os"
+    ]
+}

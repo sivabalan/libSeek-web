@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "stat",
+        "git",
+        "cli",
+        "tempfile",
+        "UserDict",
+        "subprocess",
+        "re",
+        "time",
+        "operator",
+        "datetime",
+        "os",
+        "types"
+    ]
+}

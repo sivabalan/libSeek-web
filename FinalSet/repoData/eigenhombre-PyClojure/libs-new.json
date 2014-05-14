@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "yacc",
+        "re",
+        "atexit",
+        "sys",
+        "lex",
+        "setuptools",
+        "operator",
+        "path",
+        "funktown",
+        "os",
+        "readline",
+        "pyclojure"
+    ]
+}

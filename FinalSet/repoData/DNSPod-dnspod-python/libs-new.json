@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "httplib",
+        "socket",
+        "random",
+        "urllib",
+        "re"
+    ]
+}

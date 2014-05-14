@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "files",
+        "management",
+        "uploadedfile",
+        "_os",
+        "StringIO",
+        "h",
+        "setuptools",
+        "db",
+        "sys",
+        "exceptions",
+        "djc",
+        "defaults",
+        "conf",
+        "test",
+        "shutil",
+        "os",
+        "encoding"
+    ]
+}

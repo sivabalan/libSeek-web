@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "glib",
+        "argparse",
+        "os",
+        "re",
+        "auto",
+        "gtk",
+        "gettext",
+        "sys",
+        "gconf",
+        "webbrowser",
+        "naturalscrolling_lib",
+        "appindicator",
+        "pyudev"
+    ]
+}

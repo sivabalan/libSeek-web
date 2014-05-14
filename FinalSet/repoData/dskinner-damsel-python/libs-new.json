@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "unittest",
+        "__builtin__",
+        "cutils",
+        "timeit",
+        "builtins",
+        "pprint",
+        "cProfile",
+        "dmsl",
+        "core",
+        "pstats",
+        "sys",
+        "codecs",
+        "path",
+        "copy",
+        "argparse",
+        "extension",
+        "Distutils",
+        "traceback",
+        "cfmt",
+        "time",
+        "os",
+        "cdoc"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "shutil",
+        "plistlib",
+        "UserList",
+        "UserDict",
+        "datetime",
+        "re",
+        "json",
+        "collections",
+        "ntpath",
+        "subprocess",
+        "os",
+        "uuid"
+    ]
+}

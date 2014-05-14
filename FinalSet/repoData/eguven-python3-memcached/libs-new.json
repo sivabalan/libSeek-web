@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "bin",
+        "socket",
+        "io",
+        "re",
+        "os",
+        "zlib",
+        "sys",
+        "threading",
+        "doctest",
+        "setuptools",
+        "time",
+        "pickle"
+    ]
+}

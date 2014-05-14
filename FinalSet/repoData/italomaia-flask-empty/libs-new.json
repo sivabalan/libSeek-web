@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "tests",
+        "os",
+        "unittest",
+        "datetime",
+        "datab",
+        "fl"
+    ]
+}

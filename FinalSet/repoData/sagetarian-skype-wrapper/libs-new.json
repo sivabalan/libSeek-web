@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "apt",
+        "subprocess",
+        "atexit",
+        "Skype4Py",
+        "PIL",
+        "wnck",
+        "pynotify",
+        "gtk",
+        "indicate",
+        "bin",
+        "core",
+        "repository",
+        "sys",
+        "ctypes",
+        "commands",
+        "StringIO",
+        "install_data",
+        "dbus",
+        "threading",
+        "shlex",
+        "time",
+        "os"
+    ]
+}

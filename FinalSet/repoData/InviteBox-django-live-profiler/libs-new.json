@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "shortcuts",
+        "utils",
+        "eventloop",
+        "datetime",
+        "conf",
+        "defaults",
+        "cache",
+        "test",
+        "zmq",
+        "decorators",
+        "http",
+        "context",
+        "inspect",
+        "db",
+        "dat",
+        "statprof",
+        "constants",
+        "compiler",
+        "argparse",
+        "profiler",
+        "threading",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

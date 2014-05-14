@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "shortcuts",
+        "datetime",
+        "contrib",
+        "management",
+        "uuid",
+        "generic",
+        "backends",
+        "template",
+        "test",
+        "mail",
+        "decorators",
+        "core",
+        "http",
+        "django_nose",
+        "db",
+        "auth",
+        "sys",
+        "v2",
+        "translation",
+        "fields",
+        "crypto",
+        "django",
+        "client",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

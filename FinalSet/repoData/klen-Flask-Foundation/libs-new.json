@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "importlib",
+        "os",
+        "random",
+        "with_statement",
+        "hybrid",
+        "declarative",
+        "loaders",
+        "sys",
+        "sqlalchemy",
+        "werkzeug",
+        "datetime",
+        "fl",
+        "alembic"
+    ]
+}

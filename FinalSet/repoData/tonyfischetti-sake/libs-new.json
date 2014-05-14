@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "sakelib",
+        "io",
+        "yaml",
+        "unicode_literals",
+        "h",
+        "glob",
+        "subprocess",
+        "sys",
+        "re",
+        "setuptools",
+        "codecs",
+        "fnmatch",
+        "path",
+        "networkx",
+        "os",
+        "print_function",
+        "string"
+    ]
+}

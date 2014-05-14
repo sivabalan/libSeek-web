@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "context",
+        "os",
+        "encoding",
+        "functional",
+        "contrib",
+        "management",
+        "cache",
+        "re",
+        "template",
+        "test",
+        "ph",
+        "override_settings",
+        "cPickle",
+        "http",
+        "defaults",
+        "sys",
+        "codecs",
+        "b",
+        "h",
+        "client",
+        "setuptools",
+        "pickle",
+        "noqa"
+    ]
+}

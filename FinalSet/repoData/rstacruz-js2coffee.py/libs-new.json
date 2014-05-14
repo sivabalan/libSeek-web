@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "unittest",
+        "sys",
+        "re",
+        "json",
+        "setuptools",
+        "os",
+        "types"
+    ]
+}

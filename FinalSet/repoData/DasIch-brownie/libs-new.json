@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "attest",
+        "heapq",
+        "functools",
+        "with_statement",
+        "datetime",
+        "sys",
+        "operator",
+        "corolocal",
+        "abc",
+        "terminal",
+        "re",
+        "collections",
+        "semaphore",
+        "math",
+        "translitcodec",
+        "division",
+        "inspect",
+        "textwrap",
+        "dat",
+        "codecs",
+        "Queue",
+        "keyword",
+        "thread",
+        "threading",
+        "itertools",
+        "setuptools",
+        "os",
+        "multiprocessing"
+    ]
+}

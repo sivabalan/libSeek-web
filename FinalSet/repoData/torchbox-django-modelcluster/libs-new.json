@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "managers",
+        "setuptools",
+        "encoding",
+        "unicode_literals",
+        "utils",
+        "six",
+        "db",
+        "functional",
+        "modelsinspector",
+        "datetime",
+        "sys",
+        "json",
+        "related",
+        "conf",
+        "test",
+        "os"
+    ]
+}

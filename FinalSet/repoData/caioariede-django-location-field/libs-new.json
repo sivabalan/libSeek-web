@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "conf",
+        "geos",
+        "db",
+        "contrib",
+        "loader",
+        "sys",
+        "exceptions",
+        "install",
+        "test",
+        "path",
+        "translation",
+        "os",
+        "safestring"
+    ]
+}

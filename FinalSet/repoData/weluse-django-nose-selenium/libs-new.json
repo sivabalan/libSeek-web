@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "wsgi",
+        "skip",
+        "unittest",
+        "creation",
+        "wsgiserver",
+        "conf",
+        "urllib",
+        "re",
+        "B",
+        "SocketServer",
+        "db",
+        "noseselenium",
+        "testc",
+        "httplib",
+        "b",
+        "socket",
+        "handlers",
+        "django",
+        "threading",
+        "nose",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "unidecode",
+        "statics",
+        "markdown",
+        "argparse",
+        "pystache",
+        "time",
+        "sys",
+        "re",
+        "json",
+        "setuptools",
+        "codecs",
+        "shutil",
+        "os",
+        "math"
+    ]
+}

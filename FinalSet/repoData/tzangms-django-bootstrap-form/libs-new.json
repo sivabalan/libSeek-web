@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "management",
+        "setuptools",
+        "shortcuts",
+        "db",
+        "django",
+        "sys",
+        "version",
+        "template",
+        "test",
+        "loader",
+        "os",
+        "bootstrapform"
+    ]
+}

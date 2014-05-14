@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "dat",
+        "b",
+        "logging",
+        "conf",
+        "django_sha2",
+        "encoding",
+        "h",
+        "bcrypt",
+        "crypto",
+        "django",
+        "sys",
+        "management",
+        "tools",
+        "setuptools",
+        "future",
+        "os",
+        "hmac",
+        "mock"
+    ]
+}

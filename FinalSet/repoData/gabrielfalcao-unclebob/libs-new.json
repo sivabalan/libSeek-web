@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "commands",
+        "management",
+        "conf",
+        "StringIO",
+        "optparse",
+        "utils",
+        "functools",
+        "simple",
+        "db",
+        "mock",
+        "sys",
+        "imp",
+        "sure",
+        "nose",
+        "setuptools",
+        "path",
+        "os",
+        "defaults",
+        "unclebob"
+    ]
+}

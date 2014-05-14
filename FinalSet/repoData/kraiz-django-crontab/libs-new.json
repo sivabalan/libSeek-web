@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "fcntl",
+        "b",
+        "logging",
+        "importlib",
+        "conf",
+        "tempfile",
+        "h",
+        "sys",
+        "re",
+        "json",
+        "setuptools",
+        "os"
+    ]
+}

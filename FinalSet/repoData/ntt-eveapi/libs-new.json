@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "cPickle",
+        "tempfile",
+        "zlib",
+        "httplib",
+        "urllib",
+        "sys",
+        "parsers",
+        "urlparse",
+        "time",
+        "path",
+        "calendar",
+        "copy",
+        "os"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "wsgi",
+        "urllib2",
+        "urllib",
+        "re",
+        "routing",
+        "fl"
+    ]
+}

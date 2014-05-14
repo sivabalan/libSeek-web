@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "pkg_resources",
+        "shutil",
+        "buildout",
+        "distutils",
+        "platform",
+        "tempfile",
+        "request",
+        "tarfile",
+        "urllib2",
+        "site",
+        "sys",
+        "optparse",
+        "subprocess",
+        "setuptools",
+        "operator",
+        "copy",
+        "os",
+        "textwrap"
+    ]
+}

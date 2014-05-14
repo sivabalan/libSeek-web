@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "keyword",
+        "StringIO",
+        "unittest",
+        "with_statement",
+        "sys",
+        "sax",
+        "os"
+    ]
+}

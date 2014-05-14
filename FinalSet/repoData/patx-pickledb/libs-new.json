@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "unittest",
+        "datetime",
+        "json",
+        "time",
+        "os"
+    ]
+}

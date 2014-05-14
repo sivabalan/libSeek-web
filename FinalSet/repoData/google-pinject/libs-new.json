@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "third_party",
+        "traceback",
+        "pinject",
+        "re",
+        "unittest",
+        "inspect",
+        "sys",
+        "threading",
+        "collections",
+        "contextlib",
+        "core",
+        "functools",
+        "types"
+    ]
+}

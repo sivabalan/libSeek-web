@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "unittest",
+        "pylab",
+        "platform",
+        "tools",
+        "pydoc",
+        "stats",
+        "docutils",
+        "re",
+        "tokenize",
+        "numpy",
+        "cgi",
+        "core",
+        "optparse",
+        "sys",
+        "hotshot",
+        "to override import ! :->",
+        "copy",
+        "keyword",
+        "StringIO",
+        "traceback",
+        "code_h",
+        "token",
+        "nose",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

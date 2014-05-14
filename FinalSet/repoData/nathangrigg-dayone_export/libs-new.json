@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "markdown",
+        "functools",
+        "parser",
+        "datetime",
+        "io",
+        "operator",
+        "PIL",
+        "plistlib",
+        "re",
+        "collections",
+        "unittest",
+        "mock",
+        "dayone_export",
+        "sys",
+        "pytz",
+        "jinja2",
+        "codecs",
+        "argparse",
+        "b",
+        "logging",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

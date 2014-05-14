@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "urlparse",
+        "venv",
+        "re",
+        "tempfile",
+        "glob",
+        "difflib",
+        "urllib",
+        "BeautifulSoup",
+        "sys",
+        "unicode_literals",
+        "optparse",
+        "api",
+        "HTMLParser",
+        "setuptools",
+        "codecs",
+        "webbrowser",
+        "os"
+    ]
+}

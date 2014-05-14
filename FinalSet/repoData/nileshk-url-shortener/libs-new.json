@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "management",
+        "logging",
+        "template",
+        "generic",
+        "os",
+        "utils",
+        "db",
+        "auth",
+        "django",
+        "sys",
+        "shortcuts",
+        "b",
+        "conf",
+        "contrib",
+        "http",
+        "datetime",
+        "decorators",
+        "defaults"
+    ]
+}

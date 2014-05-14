@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "registration_email",
+        "setuptools",
+        "generic",
+        "h",
+        "django",
+        "backends",
+        "conf",
+        "validators",
+        "translation",
+        "os"
+    ]
+}

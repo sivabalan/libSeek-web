@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "etree",
+        "providers",
+        "optparse",
+        "unittest",
+        "urllib2",
+        "urllib",
+        "sys",
+        "re",
+        "setuptools",
+        "videodownloader",
+        "os"
+    ]
+}

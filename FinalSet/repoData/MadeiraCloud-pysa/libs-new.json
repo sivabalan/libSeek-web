@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "shutil",
+        "core",
+        "object_b",
+        "b",
+        "logging",
+        "string",
+        "grp",
+        "optparse",
+        "glob",
+        "stat",
+        "subprocess",
+        "sys",
+        "re",
+        "pwd",
+        "setuptools",
+        "time",
+        "path",
+        "copy",
+        "os",
+        "ConfigParser"
+    ]
+}

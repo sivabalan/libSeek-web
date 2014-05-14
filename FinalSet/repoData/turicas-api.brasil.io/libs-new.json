@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "files",
+        "argparse",
+        "tempfile",
+        "os",
+        "unittest",
+        "urllib2",
+        "json",
+        "path",
+        "dados_br",
+        "attrdict",
+        "copy",
+        "fl"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "http",
+        "logging",
+        "conf",
+        "shortcuts",
+        "inspect",
+        "xmlrpclib",
+        "SimpleXMLRPCServer",
+        "auth",
+        "server",
+        "csrf",
+        "client",
+        "collections",
+        "setuptools",
+        "exceptions",
+        "django_xmlrpc",
+        "translation",
+        "os",
+        "template"
+    ]
+}

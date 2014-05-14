@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "plistlib",
+        "re",
+        "colorsys",
+        "sublime_plugin",
+        "os",
+        "sublime"
+    ]
+}

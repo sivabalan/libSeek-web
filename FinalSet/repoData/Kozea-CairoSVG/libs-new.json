@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "locale",
+        "parse",
+        "parsers",
+        "io",
+        "PIL",
+        "uuid",
+        "re",
+        "urllib",
+        "fontforge",
+        "math",
+        "core",
+        "etree",
+        "optparse",
+        "sys",
+        "codecs",
+        "tinycss",
+        "b",
+        "request",
+        "urlparse",
+        "cssselect",
+        "gzip",
+        "os"
+    ]
+}

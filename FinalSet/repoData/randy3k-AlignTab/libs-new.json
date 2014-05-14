@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "re",
+        "sys",
+        "threading",
+        "time",
+        "sublime_plugin",
+        "sublime"
+    ]
+}

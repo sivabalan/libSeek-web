@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "socket",
+        "_threading_local",
+        "shortcuts",
+        "utils",
+        "cache",
+        "db",
+        "urllib2",
+        "urllib",
+        "django_pipes",
+        "sys",
+        "threading",
+        "B",
+        "nose",
+        "conf",
+        "time",
+        "os",
+        "defaults",
+        "urlparse"
+    ]
+}

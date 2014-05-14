@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "functools",
+        "with_statement",
+        "datetime",
+        "pygments",
+        "genshi",
+        "sqlalchemy",
+        "creoleparser",
+        "style",
+        "charset",
+        "whoosh",
+        "re",
+        "werkzeug",
+        "store",
+        "lexers",
+        "elements",
+        "util",
+        "orm",
+        "atom",
+        "interface",
+        "fl",
+        "formatters",
+        "urlparse",
+        "token",
+        "declarative",
+        "time",
+        "os"
+    ]
+}

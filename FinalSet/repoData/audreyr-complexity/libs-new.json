@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "socketserver",
+        "SimpleHTTPServer",
+        "unittest",
+        "shutil",
+        "check",
+        "style",
+        "errno",
+        "token",
+        "environment",
+        "yaml",
+        "json",
+        "unittest2",
+        "core",
+        "SocketServer",
+        "sys",
+        "jinja2",
+        "codecs",
+        "argparse",
+        "logging",
+        "server",
+        "complexity",
+        "setuptools",
+        "os"
+    ]
+}

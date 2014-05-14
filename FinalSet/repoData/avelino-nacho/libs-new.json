@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "cgi",
+        "unittest",
+        "with_statement",
+        "absolute_import",
+        "parse",
+        "message",
+        "errors",
+        "re",
+        "collections",
+        "mock",
+        "nacho",
+        "division",
+        "sys",
+        "ssl",
+        "test_utils",
+        "print_function",
+        "argparse",
+        "logging",
+        "socket",
+        "signal",
+        "tulip",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

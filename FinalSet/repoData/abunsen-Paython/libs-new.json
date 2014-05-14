@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "payment_method",
+        "text",
+        "paython",
+        "datetime",
+        "calendar",
+        "tools",
+        "xml",
+        "lib",
+        "urllib",
+        "re",
+        "gateways",
+        "config",
+        "sys",
+        "stripe",
+        "minidom",
+        "httplib",
+        "transaction",
+        "logging",
+        "relativedelta",
+        "django",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os",
+        "processor"
+    ]
+}

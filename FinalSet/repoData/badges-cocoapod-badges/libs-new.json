@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "mimetypes",
+        "management",
+        "http",
+        "generic",
+        "utils",
+        "cache",
+        "urllib2",
+        "urllib",
+        "sys",
+        "b",
+        "conf",
+        "os"
+    ]
+}

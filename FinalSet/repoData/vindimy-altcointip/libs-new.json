@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "spawn",
+        "locale",
+        "text",
+        "random",
+        "datetime",
+        "bitcoind",
+        "errors",
+        "praw",
+        "re",
+        "gettext",
+        "yaml",
+        "json",
+        "smtplib",
+        "sqlalchemy",
+        "urllib2",
+        "sys",
+        "jinja2",
+        "pool",
+        "httplib",
+        "logging",
+        "socket",
+        "traceback",
+        "ctb",
+        "time",
+        "exceptions",
+        "os"
+    ]
+}

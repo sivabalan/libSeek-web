@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "logging",
+        "template",
+        "threading",
+        "functools",
+        "loader_tags",
+        "re",
+        "collections",
+        "conf",
+        "time",
+        "exceptions",
+        "panels",
+        "os"
+    ]
+}

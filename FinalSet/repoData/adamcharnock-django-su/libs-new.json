@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "django_su",
+        "http",
+        "conf",
+        "models",
+        "fields",
+        "setuptools",
+        "auth",
+        "django",
+        "sys",
+        "shortcuts",
+        "os",
+        "template",
+        "path",
+        "translation",
+        "decorators",
+        "defaults",
+        "importlib"
+    ]
+}

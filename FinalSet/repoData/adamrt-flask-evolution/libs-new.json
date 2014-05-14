@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "sqlalchemy",
+        "re",
+        "fl",
+        "absolute_import",
+        "datetime",
+        "imp",
+        "setuptools",
+        "os"
+    ]
+}

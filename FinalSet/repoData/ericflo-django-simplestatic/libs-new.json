@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "sys",
+        "mimetypes",
+        "b",
+        "template",
+        "StringIO",
+        "h",
+        "locmem",
+        "subprocess",
+        "util",
+        "urlresolvers",
+        "connection",
+        "simplestatic",
+        "setuptools",
+        "codecs",
+        "fnmatch",
+        "exceptions",
+        "django",
+        "os",
+        "pool",
+        "threading"
+    ]
+}

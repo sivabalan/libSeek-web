@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "code",
+        "scripttest",
+        "unicode_literals",
+        "random",
+        "loader",
+        "IPython",
+        "style",
+        "bpython",
+        "re",
+        "pytest",
+        "test",
+        "math",
+        "invoke",
+        "warnings",
+        "sys",
+        "fl",
+        "print_function",
+        "logging",
+        "token",
+        "setuptools",
+        "requests",
+        "os"
+    ]
+}

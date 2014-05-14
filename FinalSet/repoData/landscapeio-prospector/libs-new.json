@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "unittest",
+        "absolute_import",
+        "datetime",
+        "tools",
+        "detect",
+        "checkers",
+        "re",
+        "collections",
+        "tokenize",
+        "setoptconf",
+        "utils",
+        "core",
+        "adaptor",
+        "interfaces",
+        "lint",
+        "pylint",
+        "sys",
+        "reporters",
+        "path",
+        "configuration",
+        "prospector",
+        "requirements_detector",
+        "b",
+        "pkg_resources",
+        "formatters",
+        "setuptools",
+        "os"
+    ]
+}

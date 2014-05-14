@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "infoqscraper",
+        "bs4",
+        "unittest",
+        "datetime",
+        "contextlib",
+        "locale",
+        "moves",
+        "shutil",
+        "tempfile",
+        "errno",
+        "six",
+        "re",
+        "unittest2",
+        "core",
+        "textwrap",
+        "sys",
+        "codecs",
+        "subprocess",
+        "argparse",
+        "b",
+        "pkg_resources",
+        "os"
+    ]
+}

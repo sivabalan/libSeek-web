@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "user_streams",
+        "setuptools",
+        "db",
+        "functional",
+        "datetime",
+        "sys",
+        "exceptions",
+        "management",
+        "conf",
+        "test",
+        "timezone",
+        "subprocess",
+        "os",
+        "importlib"
+    ]
+}

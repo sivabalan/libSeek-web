@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "http",
+        "conf",
+        "install_data",
+        "h",
+        "inspect",
+        "db",
+        "auth",
+        "datetime",
+        "sys",
+        "contrib",
+        "shortcuts",
+        "install",
+        "time",
+        "test",
+        "translation",
+        "django",
+        "os"
+    ]
+}

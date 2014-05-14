@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "logging",
+        "setuptools",
+        "StringIO",
+        "unittest",
+        "xmlrunner",
+        "datetime",
+        "sys",
+        "re",
+        "json",
+        "collections",
+        "io"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "version",
+        "pypandoc",
+        "setuptools",
+        "_version_next"
+    ]
+}

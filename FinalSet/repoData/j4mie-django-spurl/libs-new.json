@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "http",
+        "conf",
+        "encoding",
+        "setuptools",
+        "query_string",
+        "re",
+        "html",
+        "defaulttags",
+        "template",
+        "urlobject",
+        "debug",
+        "os",
+        "defaults",
+        "nose"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "calculate_z",
+        "core",
+        "pp",
+        "extension",
+        "Distutils",
+        "os",
+        "Image",
+        "driver",
+        "numexpr",
+        "datetime",
+        "sys",
+        "itertools",
+        "elementwise",
+        "gpuarray",
+        "autoinit",
+        "array",
+        "numpy",
+        "multiprocessing",
+        "math",
+        "compiler"
+    ]
+}

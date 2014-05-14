@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "utils",
+        "with_statement",
+        "datetime",
+        "api",
+        "contextlib",
+        "calendar",
+        "urllib",
+        "re",
+        "collections",
+        "settings2",
+        "functools",
+        "models",
+        "labs",
+        "webapp",
+        "types",
+        "util",
+        "b",
+        "logging",
+        "handlers",
+        "h",
+        "xmlrpclib",
+        "ext",
+        "t",
+        "feedgenerator",
+        "os"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "e",
+        "distutils",
+        "bootstrap_install_from = egg",
+        "inspect",
+        "redis",
+        "urllib2",
+        "pkg_resources",
+        "sys",
+        "re",
+        "doctest",
+        "setuptools",
+        "shutil",
+        "os",
+        "math"
+    ]
+}

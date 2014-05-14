@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "functools",
+        "datetime",
+        "api",
+        "validators",
+        "uuid",
+        "forms",
+        "re",
+        "unittest",
+        "division",
+        "models",
+        "oss_api",
+        "sys",
+        "_b",
+        "markdown2",
+        "fl",
+        "b",
+        "logging",
+        "handlers",
+        "h",
+        "xichuangzhu",
+        "controllers",
+        "wtforms",
+        "requests"
+    ]
+}

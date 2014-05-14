@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "urlparse",
+        "httplib",
+        "B",
+        "socket",
+        "SocketServer",
+        "ssl",
+        "tempfile",
+        "crypto",
+        "sys",
+        "re",
+        "setuptools",
+        "SSL",
+        "os"
+    ]
+}

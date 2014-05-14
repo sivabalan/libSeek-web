@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "web",
+        "markdown",
+        "yaml",
+        "random",
+        "datetime",
+        "re",
+        "doctest",
+        "codecs",
+        "pyinotify",
+        "calendar",
+        "os"
+    ]
+}

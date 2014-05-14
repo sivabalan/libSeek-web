@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "os",
+        "functools",
+        "celery_t",
+        "test_t",
+        "t",
+        "tools"
+    ]
+}

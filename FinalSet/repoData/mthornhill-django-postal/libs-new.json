@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "subprocess",
+        "conf",
+        "contrib",
+        "shutil",
+        "buildout",
+        "tempfile",
+        "handler",
+        "template",
+        "test",
+        "http",
+        "setuptools",
+        "optparse",
+        "urllib2",
+        "sys",
+        "translation",
+        "postal",
+        "pkg_resources",
+        "django",
+        "defaults",
+        "urlresolvers",
+        "os"
+    ]
+}

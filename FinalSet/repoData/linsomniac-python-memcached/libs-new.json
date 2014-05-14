@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "bin",
+        "cPickle",
+        "socket",
+        "io",
+        "re",
+        "os",
+        "unittest",
+        "zlib",
+        "sys",
+        "threading",
+        "doctest",
+        "setuptools",
+        "time",
+        "pickle",
+        "print_function"
+    ]
+}

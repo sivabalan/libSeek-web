@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "functools",
+        "random",
+        "subprocess",
+        "beanstalk",
+        "tools",
+        "event",
+        "select",
+        "re",
+        "errno",
+        "pprint",
+        "yaml",
+        "collections",
+        "internet",
+        "core",
+        "python",
+        "sys",
+        "copy",
+        "protocols",
+        "ConfigParser",
+        "logging",
+        "socket",
+        "StringIO",
+        "signal",
+        "traceback",
+        "threading",
+        "itertools",
+        "nose",
+        "time",
+        "os"
+    ]
+}

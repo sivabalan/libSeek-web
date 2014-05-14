@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "wrappers",
+        "cStringIO",
+        "b",
+        "http",
+        "uuid",
+        "simplejson",
+        "bisect",
+        "os",
+        "unittest",
+        "random",
+        "dat",
+        "json",
+        "time",
+        "gzip",
+        "httpbin",
+        "h",
+        "fl",
+        "decimal",
+        "decorator"
+    ]
+}

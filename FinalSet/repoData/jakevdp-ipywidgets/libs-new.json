@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "pyplot",
+        "itertools",
+        "collections",
+        "IPython",
+        "copy",
+        "numpy"
+    ]
+}

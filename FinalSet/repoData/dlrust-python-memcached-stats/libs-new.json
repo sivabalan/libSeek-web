@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "core",
+        "pprint",
+        "telnetlib",
+        "re"
+    ]
+}

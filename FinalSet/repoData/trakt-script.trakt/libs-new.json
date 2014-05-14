@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "dummy_thread",
+        "sha",
+        "re",
+        "json",
+        "sqlite3",
+        "math",
+        "simplejson",
+        "urllib2",
+        "sys",
+        "xbmcaddon",
+        "copy",
+        "httplib",
+        "b",
+        "xbmcgui",
+        "socket",
+        "thread",
+        "h",
+        "threading",
+        "xbmcvfs",
+        "time",
+        "os",
+        "xbmc"
+    ]
+}

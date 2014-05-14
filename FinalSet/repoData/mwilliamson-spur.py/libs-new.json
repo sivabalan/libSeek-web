@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "core",
+        "tempfile",
+        "uuid",
+        "nose_test_sets",
+        "threading",
+        "locale",
+        "os",
+        "signal",
+        "traceback",
+        "subprocess",
+        "sys",
+        "unicode_literals",
+        "contextlib",
+        "tools",
+        "time",
+        "path",
+        "pty",
+        "shutil",
+        "spur",
+        "paramiko",
+        "socket"
+    ]
+}

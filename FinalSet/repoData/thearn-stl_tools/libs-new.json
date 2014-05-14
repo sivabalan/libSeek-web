@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "argparse",
+        "ndimage",
+        "logging",
+        "struct",
+        "numpy",
+        "unittest",
+        "pylab",
+        "misc",
+        "matplotlib",
+        "itertools",
+        "cwrapped",
+        "setuptools",
+        "os",
+        "pyplot",
+        "stl_tools"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "sgmllib",
+        "http",
+        "string",
+        "markupb",
+        "h",
+        "iconv_codec",
+        "htmlentitydefs",
+        "spider",
+        "sys",
+        "item",
+        "json",
+        "generators",
+        "types",
+        "sets",
+        "ali",
+        "re",
+        "os",
+        "codecs",
+        "chardet"
+    ]
+}

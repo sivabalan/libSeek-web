@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "locale",
+        "with_statement",
+        "datetime",
+        "web",
+        "git",
+        "re",
+        "json",
+        "humanize",
+        "config",
+        "sqlalchemy",
+        "sys",
+        "declarative",
+        "spamsub",
+        "sql",
+        "webapp",
+        "fl",
+        "types",
+        "compiler",
+        "logging",
+        "exc",
+        "orm",
+        "exceptions",
+        "requests",
+        "os",
+        "alembic"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "setuptools",
+        "encoding",
+        "optparse",
+        "fileinput",
+        "db",
+        "progressbar",
+        "re",
+        "conf",
+        "time",
+        "urlresolvers",
+        "texttable"
+    ]
+}

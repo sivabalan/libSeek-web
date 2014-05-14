@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cgi",
+        "core",
+        "logging",
+        "simplejson",
+        "handlers",
+        "subprocess",
+        "txroutes",
+        "internet",
+        "urllib",
+        "datetime",
+        "re",
+        "client",
+        "lookup",
+        "t",
+        "template",
+        "time",
+        "static",
+        "server",
+        "os",
+        "txredisapi",
+        "platform"
+    ]
+}

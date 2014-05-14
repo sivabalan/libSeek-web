@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "generic",
+        "http",
+        "setuptools",
+        "shortcuts",
+        "db",
+        "contenttypes",
+        "dispatch",
+        "datetime",
+        "urlresolvers",
+        "flag",
+        "conf",
+        "contrib",
+        "translation",
+        "django",
+        "decorators",
+        "defaults"
+    ]
+}

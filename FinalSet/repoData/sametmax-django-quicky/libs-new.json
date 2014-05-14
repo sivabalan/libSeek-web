@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "shortcuts",
+        "functools",
+        "random",
+        "related",
+        "static",
+        "conf",
+        "contrib",
+        "management",
+        "imp",
+        "re",
+        "json",
+        "http",
+        "setuptools",
+        "views",
+        "optparse",
+        "db",
+        "sys",
+        "types",
+        "b",
+        "modelsinspector",
+        "django",
+        "urls",
+        "debug",
+        "os"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "httplib",
+        "logging",
+        "eloise",
+        "eventlet",
+        "optparse",
+        "fl",
+        "scales",
+        "pkg_resources",
+        "threading",
+        "sys",
+        "imp",
+        "json",
+        "collections",
+        "setuptools",
+        "time",
+        "cStringIO",
+        "os",
+        "socket"
+    ]
+}

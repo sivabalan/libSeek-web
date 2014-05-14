@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "util",
+        "metron",
+        "django",
+        "sys",
+        "json",
+        "setuptools",
+        "codecs",
+        "fnmatch",
+        "os"
+    ]
+}

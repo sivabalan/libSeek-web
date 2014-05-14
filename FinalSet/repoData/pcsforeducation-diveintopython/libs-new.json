@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "string",
+        "boto",
+        "BeautifulSoup",
+        "urllib",
+        "sys",
+        "re",
+        "shutil",
+        "os"
+    ]
+}

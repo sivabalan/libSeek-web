@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "print_function",
+        "el",
+        "logging",
+        "argparse",
+        "optparse",
+        "unittest",
+        "datetime",
+        "sys",
+        "nose",
+        "setuptools",
+        "time",
+        "path",
+        "os",
+        "mock"
+    ]
+}

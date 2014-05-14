@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "color",
+        "functools",
+        "datetime",
+        "us_states",
+        "operator",
+        "shutil",
+        "style",
+        "platform",
+        "re",
+        "werkzeug",
+        "cgi",
+        "models",
+        "db",
+        "mongoengine",
+        "sys",
+        "sql",
+        "path",
+        "fl",
+        "b",
+        "logging",
+        "exc",
+        "urlparse",
+        "token",
+        "wtforms",
+        "setuptools",
+        "time",
+        "model",
+        "os",
+        "multiprocessing"
+    ]
+}

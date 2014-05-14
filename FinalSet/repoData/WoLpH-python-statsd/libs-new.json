@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "statsd",
+        "style",
+        "logging",
+        "socket",
+        "unittest",
+        "random",
+        "with_statement",
+        "datetime",
+        "sys",
+        "token",
+        "contextlib",
+        "setuptools",
+        "time",
+        "os",
+        "decimal",
+        "mock"
+    ]
+}

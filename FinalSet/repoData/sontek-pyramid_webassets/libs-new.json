@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "web",
+        "pyramid",
+        "pyramid_web",
+        "uuid",
+        "settings",
+        "unittest",
+        "six",
+        "json",
+        "subprocess",
+        "sys",
+        "yaml",
+        "threadlocal",
+        "pytest",
+        "contextlib",
+        "mock",
+        "setuptools",
+        "interface",
+        "path",
+        "shutil",
+        "os",
+        "re"
+    ]
+}

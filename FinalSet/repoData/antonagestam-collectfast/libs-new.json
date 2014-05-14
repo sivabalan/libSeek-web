@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "commands",
+        "b",
+        "conf",
+        "encoding",
+        "unicode_literals",
+        "h",
+        "unittest",
+        "cache",
+        "storage",
+        "datetime",
+        "sys",
+        "optparse",
+        "management",
+        "setuptools",
+        "path",
+        "with_statement",
+        "os",
+        "moves",
+        "mock"
+    ]
+}

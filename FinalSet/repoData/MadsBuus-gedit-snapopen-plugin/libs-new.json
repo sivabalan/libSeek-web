@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "tempfile",
+        "path",
+        "os",
+        "repository",
+        "urllib"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "wsgi",
+        "core",
+        "unicode_literals",
+        "utils",
+        "absolute_import",
+        "datetime",
+        "filters",
+        "timezone",
+        "management",
+        "generic",
+        "re",
+        "template",
+        "division",
+        "http",
+        "optparse",
+        "sys",
+        "testc",
+        "b",
+        "logging",
+        "print_function",
+        "sphinx_rtd_theme",
+        "e",
+        "django",
+        "client",
+        "setuptools",
+        "os"
+    ]
+}

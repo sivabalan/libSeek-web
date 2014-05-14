@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "cStringIO",
+        "lxml",
+        "struct",
+        "re",
+        "sys",
+        "platform",
+        "gevent",
+        "setuptools",
+        "requests",
+        "more_itertools",
+        "os"
+    ]
+}

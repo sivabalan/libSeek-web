@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "Foundation",
+        "commands",
+        "random",
+        "core",
+        "htmlentitydefs",
+        "glob",
+        "attributioncl",
+        "py2app",
+        "__builtin__",
+        "datetime",
+        "sys",
+        "re",
+        "objc",
+        "doctest",
+        "traceback",
+        "AppKit",
+        "path",
+        "But since some functions need to import",
+        "os",
+        "quotefix",
+        "types"
+    ]
+}

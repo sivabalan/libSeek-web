@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "keywordcl",
+        "tempfile",
+        "unittest",
+        "subprocess",
+        "sys",
+        "re",
+        "os"
+    ]
+}

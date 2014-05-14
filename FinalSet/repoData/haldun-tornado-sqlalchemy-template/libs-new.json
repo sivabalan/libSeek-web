@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "ioloop",
+        "web",
+        "sqlalchemy",
+        "httpserver",
+        "auth",
+        "declarative",
+        "wtforms",
+        "orm",
+        "validators",
+        "copy",
+        "os",
+        "options"
+    ]
+}

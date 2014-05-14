@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "ElementTree",
+        "lxml",
+        "pprint",
+        "urllib",
+        "json",
+        "h",
+        "core",
+        "optparse",
+        "urllib2",
+        "sys",
+        "cElementTree",
+        "oauth",
+        "path",
+        "ConfigParser",
+        "oauth2",
+        "logging",
+        "pycurl",
+        "settings",
+        "vimeo",
+        "urlparse",
+        "time",
+        "requests",
+        "os"
+    ]
+}

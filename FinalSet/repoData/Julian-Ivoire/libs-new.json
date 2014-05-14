@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "ivoire",
+        "argparse",
+        "setuptools",
+        "warnings",
+        "unicode_literals",
+        "unittest",
+        "textwrap",
+        "sys",
+        "imp",
+        "runpy",
+        "machinery",
+        "io",
+        "time",
+        "fnmatch",
+        "path",
+        "copy",
+        "os",
+        "print_function"
+    ]
+}

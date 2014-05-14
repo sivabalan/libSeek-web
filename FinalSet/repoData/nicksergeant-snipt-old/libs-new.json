@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "wsgi",
+        "management",
+        "local_settings",
+        "v2",
+        "fields",
+        "db",
+        "site",
+        "debug",
+        "django",
+        "sys",
+        "re",
+        "defaultfilters",
+        "template",
+        "contrib",
+        "path",
+        "translation",
+        "datetime",
+        "os",
+        "defaults",
+        "tagging",
+        "monitor"
+    ]
+}

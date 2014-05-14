@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "locale",
+        "subprocess",
+        "struct",
+        "build_py",
+        "tempfile",
+        "urllib",
+        "re",
+        "getp",
+        "fcntl",
+        "core",
+        "mimetypes",
+        "textwrap",
+        "termios",
+        "urllib2",
+        "sys",
+        "readline",
+        "build_scripts",
+        "cookielib",
+        "ConfigParser",
+        "argparse",
+        "commands",
+        "bugz",
+        "xmlrpclib",
+        "os"
+    ]
+}

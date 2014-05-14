@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "print_function",
+        "traceback",
+        "textwrap",
+        "sys",
+        "re",
+        "telnetlib",
+        "time",
+        "__main__",
+        "path",
+        "sublime_plugin",
+        "sublime"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "unicodedata",
+        "b",
+        "logging",
+        "importlib",
+        "encoding",
+        "decimal",
+        "sendsms",
+        "urllib2",
+        "rest",
+        "datetime",
+        "sys",
+        "threading",
+        "dispatch",
+        "urllib",
+        "setuptools",
+        "lite",
+        "re",
+        "requests",
+        "os",
+        "unittest",
+        "math"
+    ]
+}

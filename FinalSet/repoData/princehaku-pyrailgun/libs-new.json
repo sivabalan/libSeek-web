@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "core",
+        "QtGui",
+        "bs4",
+        "os",
+        "urllib",
+        "sys",
+        "re",
+        "json",
+        "pyrailgun",
+        "doctest",
+        "setuptools",
+        "time",
+        "QtWebKit",
+        "requests",
+        "config",
+        "QtCore",
+        "QtNetwork"
+    ]
+}

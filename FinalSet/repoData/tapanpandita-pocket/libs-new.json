@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "functools",
+        "json",
+        "setuptools",
+        "requests",
+        "unittest",
+        "mock"
+    ]
+}

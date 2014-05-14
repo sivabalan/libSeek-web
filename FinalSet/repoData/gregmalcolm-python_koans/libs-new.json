@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "runner",
+        "import a standard python module with math functions",
+        "unittest",
+        "random",
+        "atexit",
+        "about_lambd",
+        "a_package_folder",
+        "about_new_style_cl",
+        "py",
+        "about_",
+        "about_list_",
+        "re",
+        "collections",
+        "koans",
+        "functools",
+        "glob",
+        "sys",
+        "ctypes",
+        "import python regular expression library",
+        "For regular expression string comparisons",
+        "a_normal_folder",
+        "about_decorating_with_cl",
+        "about_cl",
+        "colorama",
+        "os"
+    ]
+}

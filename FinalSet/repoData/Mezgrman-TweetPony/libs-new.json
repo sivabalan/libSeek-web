@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "bin",
+        "tweetpony",
+        "b",
+        "threading",
+        "locale",
+        "h",
+        "random",
+        "urllib",
+        "datetime",
+        "urlparse",
+        "re",
+        "json",
+        "setuptools",
+        "time",
+        "requests",
+        "os",
+        "hmac"
+    ]
+}

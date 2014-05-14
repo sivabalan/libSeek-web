@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "flake8: noqa",
+        "urlparse",
+        "cPickle",
+        "b",
+        "os",
+        "simplejson",
+        "h",
+        "decimal",
+        "facepy",
+        "urllib",
+        "datetime",
+        "parse",
+        "json",
+        "sys",
+        "setuptools",
+        "time",
+        "pickle",
+        "requests",
+        "tools",
+        "hmac",
+        "mock"
+    ]
+}

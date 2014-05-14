@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "text",
+        "functools",
+        "functional",
+        "dispatch",
+        "siteuser",
+        "conf",
+        "management",
+        "local_settings",
+        "celery",
+        "template",
+        "test",
+        "smtplib",
+        "utils",
+        "http",
+        "db",
+        "sys",
+        "socialoauth",
+        "djcelery",
+        "setuptools",
+        "exceptions",
+        "os"
+    ]
+}

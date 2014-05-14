@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "b",
+        "conf",
+        "coverage_runner",
+        "simple",
+        "decorators",
+        "db",
+        "contrib",
+        "django",
+        "sys",
+        "test",
+        "management",
+        "setuptools",
+        "urlresolvers",
+        "path",
+        "shutil",
+        "os"
+    ]
+}

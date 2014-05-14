@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "to catch socket errors",
+        "core",
+        "logging",
+        "errno",
+        "subprocess",
+        "sys",
+        "re",
+        "time",
+        "getp",
+        "fsevents",
+        "os",
+        "paramiko"
+    ]
+}

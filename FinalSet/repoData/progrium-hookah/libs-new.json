@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "cStringIO",
+        "cPickle",
+        "b",
+        "resource",
+        "service",
+        "plugin",
+        "python",
+        "trial",
+        "server",
+        "util",
+        "application",
+        "hookah",
+        "time",
+        "setuptools",
+        "internet",
+        "interface",
+        "collections",
+        "sys",
+        "yaml",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "struct",
+        "warnings",
+        "operator",
+        "sys",
+        "imp",
+        "itertools",
+        "promise",
+        "cStringIO",
+        "opcode",
+        "array",
+        "os",
+        "marshal",
+        "types",
+        "dis"
+    ]
+}

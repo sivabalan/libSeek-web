@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "time",
+        "request",
+        "urllib2",
+        "urllib",
+        "parse",
+        "re",
+        "json",
+        "sys",
+        "urlparse",
+        "error",
+        "etree",
+        "os",
+        "print_function"
+    ]
+}

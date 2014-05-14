@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "random",
+        "subprocess",
+        "atexit",
+        "_winreg",
+        "dnscfg",
+        "select",
+        "struct",
+        "re",
+        "json",
+        "platform",
+        "wmi",
+        "_b",
+        "SocketServer",
+        "sys",
+        "ctypes",
+        "loader",
+        "wx",
+        "socket",
+        "signal",
+        "traceback",
+        "threading",
+        "time",
+        "webbrowser",
+        "os"
+    ]
+}

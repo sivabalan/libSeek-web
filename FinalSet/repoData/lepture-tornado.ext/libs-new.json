@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "ioloop",
+        "sqlalchemy",
+        "logging",
+        "third",
+        "sql",
+        "locale",
+        "utils",
+        "random",
+        "httpserver",
+        "datetime",
+        "util",
+        "re",
+        "declarative",
+        "tornado",
+        "wtforms",
+        "orm",
+        "escape",
+        "smtplib",
+        "os",
+        "options",
+        "MIMEText"
+    ]
+}

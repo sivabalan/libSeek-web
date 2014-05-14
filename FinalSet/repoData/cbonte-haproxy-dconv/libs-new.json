@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "cgi",
+        "optparse",
+        "parser",
+        "urllib",
+        "subprocess",
+        "sys",
+        "re",
+        "lookup",
+        "template",
+        "time",
+        "exceptions",
+        "datetime",
+        "os"
+    ]
+}

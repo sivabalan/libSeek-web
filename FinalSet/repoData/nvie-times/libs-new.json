@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "parser",
+        "times",
+        "sys",
+        "pytz",
+        "setuptools",
+        "calendar",
+        "datetime",
+        "os",
+        "unittest2",
+        "noqa"
+    ]
+}

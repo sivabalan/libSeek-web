@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "http",
+        "setuptools",
+        "re",
+        "shortcuts",
+        "lexers",
+        "safestring",
+        "db",
+        "html",
+        "loader",
+        "util",
+        "contrib",
+        "itertools",
+        "backends",
+        "template",
+        "exceptions",
+        "pygments",
+        "django",
+        "os",
+        "formatters"
+    ]
+}

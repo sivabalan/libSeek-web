@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "distutils",
+        "functools",
+        "site",
+        "subprocess",
+        "conf",
+        "operator",
+        "djboss",
+        "management",
+        "importlib",
+        "tempfile",
+        "tarfile",
+        "re",
+        "core",
+        "defaults",
+        "db",
+        "textwrap",
+        "urllib2",
+        "sys",
+        "copy",
+        "argparse",
+        "logging",
+        "request",
+        "pkg_resources",
+        "sandbox",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "os"
+    ]
+}

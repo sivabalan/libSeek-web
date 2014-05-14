@@ -1,0 +1,7 @@
+{
+    "libs": [
+        "sqlite3",
+        "os",
+        "setuptools"
+    ]
+}

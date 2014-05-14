@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "commands",
+        "http",
+        "conf",
+        "encoding",
+        "simple",
+        "utils",
+        "pkg_resources",
+        "sys",
+        "contrib",
+        "backends",
+        "setuptools",
+        "time",
+        "test",
+        "path",
+        "os",
+        "log"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "optparse",
+        "imports",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "re",
+        "getopt",
+        "csv",
+        "os"
+    ]
+}

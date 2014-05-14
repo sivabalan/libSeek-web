@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "core",
+        "functools",
+        "fl",
+        "unittest"
+    ]
+}

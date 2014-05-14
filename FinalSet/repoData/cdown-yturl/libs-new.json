@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "tools",
+        "request",
+        "urllib",
+        "sys",
+        "os",
+        "mock"
+    ]
+}

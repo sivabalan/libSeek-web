@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "dat",
+        "django_filters",
+        "defaults",
+        "shortcuts",
+        "functools",
+        "db",
+        "datetime",
+        "sys",
+        "contrib",
+        "management",
+        "template",
+        "django",
+        "urlresolvers",
+        "loader",
+        "os",
+        "safestring"
+    ]
+}

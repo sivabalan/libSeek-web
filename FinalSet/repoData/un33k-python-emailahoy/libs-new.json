@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "logging",
+        "socket",
+        "unittest",
+        "popen2",
+        "sys",
+        "re",
+        "emailahoy",
+        "setuptools",
+        "smtplib",
+        "os"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "forms",
+        "contrib",
+        "b",
+        "http",
+        "conf",
+        "cl",
+        "shortcuts",
+        "decorators",
+        "functools",
+        "cache",
+        "auth",
+        "urlparse",
+        "edit",
+        "setuptools",
+        "exceptions",
+        "csrf",
+        "generic"
+    ]
+}

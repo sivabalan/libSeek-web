@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "utils",
+        "subprocess",
+        "pygments",
+        "io",
+        "contents",
+        "platform",
+        "tempfile",
+        "Contain template plugins",
+        "docutils",
+        "json",
+        "template",
+        "lexers",
+        "argparse",
+        "Contain layout plugins",
+        "sys",
+        "rst",
+        "path",
+        "copy",
+        "Contain directives for reStructuredText",
+        "pluggdapps",
+        "plugin",
+        "os",
+        "pkg_resources",
+        "formatters",
+        "setuptools",
+        "time",
+        "runtime",
+        "pagd",
+        "re"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "core",
+        "random",
+        "logging",
+        "inspect",
+        "cssutils",
+        "unittest",
+        "pgm",
+        "textwrap",
+        "tokens",
+        "re",
+        "sys",
+        "special",
+        "operator",
+        "os",
+        "utils",
+        "line_iterator",
+        "clevercss"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "management",
+        "setuptools",
+        "utils",
+        "db",
+        "django",
+        "re",
+        "b",
+        "conf",
+        "exceptions",
+        "subprocess",
+        "os",
+        "importlib"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "nginxparser",
+        "unittest",
+        "operator",
+        "pyparsing",
+        "mockio"
+    ]
+}

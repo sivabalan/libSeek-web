@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "weakref",
+        "b",
+        "MySQLdb",
+        "warnings",
+        "unittest",
+        "py",
+        "collections",
+        "datetime",
+        "sys",
+        "re",
+        "itertools",
+        "pytest",
+        "contextlib",
+        "math",
+        "setuptools",
+        "time",
+        "ctypes",
+        "decimal",
+        "constants"
+    ]
+}

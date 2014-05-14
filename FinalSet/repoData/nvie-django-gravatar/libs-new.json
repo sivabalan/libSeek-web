@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "models",
+        "h",
+        "utils",
+        "urllib",
+        "django",
+        "html",
+        "conf"
+    ]
+}

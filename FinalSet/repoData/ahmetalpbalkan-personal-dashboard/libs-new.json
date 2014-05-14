@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "dateutil",
+        "sys",
+        "should be imported after setting configs for decorators",
+        "logging",
+        "scheduler",
+        "simplegauges",
+        "healthgraph",
+        "pytz",
+        "storage",
+        "datetime",
+        "dat",
+        "json",
+        "feedparser",
+        "facebook",
+        "t",
+        "klout",
+        "time",
+        "foursquare",
+        "requests",
+        "smbus",
+        "tweepy"
+    ]
+}

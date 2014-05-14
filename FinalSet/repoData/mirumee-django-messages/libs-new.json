@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "encoding",
+        "shortcuts",
+        "text",
+        "datetime",
+        "contrib",
+        "query",
+        "uuid",
+        "re",
+        "notification",
+        "simple",
+        "template",
+        "test",
+        "mail",
+        "decorators",
+        "core",
+        "mailer",
+        "http",
+        "list_detail",
+        "db",
+        "sys",
+        "translation",
+        "loader",
+        "django",
+        "defaults",
+        "urlresolvers",
+        "os"
+    ]
+}

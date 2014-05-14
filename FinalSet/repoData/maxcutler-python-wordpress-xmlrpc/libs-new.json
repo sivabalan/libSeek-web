@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "tests",
+        "b",
+        "methods",
+        "xmlrpc",
+        "wordpress_xmlrpc",
+        "unittest",
+        "random",
+        "xmlrpclib",
+        "mimetypes",
+        "datetime",
+        "sys",
+        "collections",
+        "setuptools",
+        "attrib",
+        "ConfigParser",
+        "os",
+        "types",
+        "configparser"
+    ]
+}

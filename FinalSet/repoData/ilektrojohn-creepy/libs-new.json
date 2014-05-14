@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "configobj",
+        "os",
+        "functools",
+        "datetime",
+        "QtGui",
+        "IPlugin",
+        "urllib",
+        "re",
+        "version",
+        "QtWebKit",
+        "PluginManager",
+        "tweepy",
+        "Qt",
+        "utilities",
+        "urllib2",
+        "sys",
+        "webbrowser",
+        "path",
+        "PyQt4",
+        "csv",
+        "logging",
+        "h",
+        "urlparse",
+        "client",
+        "math",
+        "flickrapi",
+        "shelve",
+        "exceptions",
+        "QtCore"
+    ]
+}

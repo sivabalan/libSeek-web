@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "sys",
+        "ipc",
+        "os",
+        "setuptools",
+        "protocol"
+    ]
+}

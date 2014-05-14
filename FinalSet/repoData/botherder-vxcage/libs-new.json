@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "prettytable",
+        "datetime",
+        "progressbar",
+        "json",
+        "getp",
+        "bin",
+        "sqlalchemy",
+        "sys",
+        "pydeep",
+        "orm",
+        "subprocess",
+        "pool",
+        "ConfigParser",
+        "argparse",
+        "magic",
+        "exc",
+        "h",
+        "datab",
+        "declarative",
+        "bottle",
+        "requests",
+        "os"
+    ]
+}

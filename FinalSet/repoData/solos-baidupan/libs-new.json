@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "unittest",
+        "sys",
+        "json",
+        "requests",
+        "os"
+    ]
+}

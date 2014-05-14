@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "cStringIO",
+        "code",
+        "unittest",
+        "atexit",
+        "runpy",
+        "io",
+        "stats",
+        "log",
+        "re",
+        "cProfile",
+        "profile",
+        "trace",
+        "inspect",
+        "textwrap",
+        "sys",
+        "hotshot",
+        "pstats",
+        "_hotshot",
+        "doctest",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

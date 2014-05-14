@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "argparse",
+        "logging",
+        "template",
+        "instance",
+        "tempfile",
+        "unittest",
+        "urllib2",
+        "securitygroup",
+        "subprocess",
+        "yaml",
+        "connection",
+        "ec2",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "simple",
+        "unittest",
+        "dispatch",
+        "subprocess",
+        "conf",
+        "contrib",
+        "shutil",
+        "shortcuts",
+        "template",
+        "test",
+        "core",
+        "http",
+        "db",
+        "sys",
+        "coverage",
+        "path",
+        "translation",
+        "datetime",
+        "util",
+        "django",
+        "client",
+        "defaults",
+        "exceptions",
+        "os"
+    ]
+}

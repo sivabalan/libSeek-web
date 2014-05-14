@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "soa",
+        "bs4",
+        "expat",
+        "datetime",
+        "platform",
+        "io",
+        "ElementTree",
+        "uuid",
+        "yaml",
+        "BeautifulSoup",
+        "re",
+        "json",
+        "http",
+        "optparse",
+        "sys",
+        "cElementTree",
+        "requests",
+        "minidom",
+        "logging",
+        "os",
+        "grequests",
+        "doctest",
+        "setuptools",
+        "time",
+        "ebaysdk",
+        "adapters"
+    ]
+}

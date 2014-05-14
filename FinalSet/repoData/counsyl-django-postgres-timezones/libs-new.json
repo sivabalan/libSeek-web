@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "management",
+        "shortcuts",
+        "datetime",
+        "sys",
+        "pytz",
+        "conf",
+        "b",
+        "os"
+    ]
+}

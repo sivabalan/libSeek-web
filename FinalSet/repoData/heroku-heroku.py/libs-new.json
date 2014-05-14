@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "sys",
+        "simplejson",
+        "parser",
+        "urllib",
+        "datetime",
+        "parse",
+        "json",
+        "setuptools",
+        "exceptions",
+        "requests",
+        "os"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "argparse",
+        "sqlalchemy",
+        "os",
+        "config",
+        "with_statement",
+        "sys",
+        "command",
+        "setuptools",
+        "path",
+        "fl",
+        "alembic"
+    ]
+}

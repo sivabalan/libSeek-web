@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "argparse",
+        "tests",
+        "pprint",
+        "ordereddict",
+        "io",
+        "simplejson",
+        "tools",
+        "random",
+        "itertools",
+        "sys",
+        "re",
+        "json",
+        "collections",
+        "setuptools",
+        "time",
+        "operator",
+        "jmespath",
+        "os",
+        "math",
+        "guzzle_sphinx_theme"
+    ]
+}

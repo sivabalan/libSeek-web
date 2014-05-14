@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "exceptions",
+        "c",
+        "b",
+        "http",
+        "setuptools",
+        "encoding",
+        "shortcuts",
+        "functools",
+        "urllib",
+        "django",
+        "dat",
+        "re",
+        "defaulttags",
+        "conf",
+        "threading",
+        "urlresolvers",
+        "translation",
+        "loader",
+        "regex_helper",
+        "template"
+    ]
+}

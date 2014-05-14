@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "tempfile",
+        "h",
+        "unittest",
+        "sys",
+        "re",
+        "json",
+        "print_function",
+        "time",
+        "shutil",
+        "os",
+        "glob",
+        "math"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "b",
+        "extr",
+        "subqueries",
+        "safestring",
+        "db",
+        "modelsinspector",
+        "django",
+        "sys",
+        "json",
+        "management",
+        "admin_static",
+        "setuptools",
+        "exceptions",
+        "query",
+        "translation",
+        "os",
+        "constants"
+    ]
+}

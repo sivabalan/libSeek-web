@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "unittest",
+        "with_statement",
+        "absolute_import",
+        "datetime",
+        "atexit",
+        "session",
+        "operator",
+        "event",
+        "tempfile",
+        "re",
+        "functools",
+        "math",
+        "sqlalchemy",
+        "sys",
+        "declarative",
+        "subprocess",
+        "fl",
+        "pool",
+        "history_meta",
+        "exc",
+        "url",
+        "pkg_resources",
+        "threading",
+        "orm",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

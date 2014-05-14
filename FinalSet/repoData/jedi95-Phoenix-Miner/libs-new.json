@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "protocol",
+        "python",
+        "struct",
+        "imp",
+        "platform",
+        "json",
+        "collections",
+        "internet",
+        "minerutil",
+        "math",
+        "pyopencl",
+        "numpy",
+        "optparse",
+        "Queue",
+        "datetime",
+        "sys",
+        "httplib",
+        "b",
+        "socket",
+        "h",
+        "urlparse",
+        "time",
+        "ClientB",
+        "os"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "distutils",
+        "site",
+        "subprocess",
+        "operator",
+        "bson",
+        "shutil",
+        "struct",
+        "tempfile",
+        "tarfile",
+        "urllib",
+        "json",
+        "Cipher",
+        "bin",
+        "optparse",
+        "urllib2",
+        "rsa",
+        "sys",
+        "path",
+        "copy",
+        "socket",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "os"
+    ]
+}

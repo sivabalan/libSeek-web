@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "ioloop",
+        "core",
+        "web",
+        "urllib",
+        "json",
+        "auth",
+        "escape",
+        "os",
+        "options",
+        "httpclient"
+    ]
+}

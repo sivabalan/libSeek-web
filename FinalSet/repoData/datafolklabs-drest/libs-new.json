@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "parse",
+        "drest",
+        "tools",
+        "management",
+        "urllib",
+        "re",
+        "json",
+        "mock",
+        "http",
+        "simplejson",
+        "db",
+        "urllib2",
+        "sys",
+        "httplib2",
+        "pragma: no cover",
+        "copy",
+        "socket",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

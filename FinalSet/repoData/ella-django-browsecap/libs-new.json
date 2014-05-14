@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "conf",
+        "re",
+        "tempfile",
+        "time",
+        "urllib",
+        "djangosanetesting",
+        "sys",
+        "cache",
+        "nose",
+        "setuptools",
+        "browsecap",
+        "path",
+        "os",
+        "ConfigParser"
+    ]
+}

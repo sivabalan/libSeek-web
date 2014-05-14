@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "util",
+        "http",
+        "setuptools",
+        "urlresolvers",
+        "shortcuts",
+        "decorators",
+        "db",
+        "contenttypes",
+        "dispatch",
+        "django",
+        "sys",
+        "contrib",
+        "json",
+        "backends",
+        "collections",
+        "template",
+        "codecs",
+        "fnmatch",
+        "loader",
+        "os"
+    ]
+}

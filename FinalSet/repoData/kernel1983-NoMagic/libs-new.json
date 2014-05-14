@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "os",
+        "random",
+        "with_statement",
+        "absolute_import",
+        "datetime",
+        "cursors",
+        "uuid",
+        "json",
+        "converters",
+        "math",
+        "bin",
+        "division",
+        "string",
+        "tornado",
+        "sys",
+        "copy",
+        "constants",
+        "md5",
+        "logging",
+        "bisect",
+        "h",
+        "zlib",
+        "itertools",
+        "time",
+        "nomagic",
+        "pickle"
+    ]
+}

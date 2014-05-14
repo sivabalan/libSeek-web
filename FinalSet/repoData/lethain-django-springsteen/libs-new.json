@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "signals",
+        "wsgi",
+        "management",
+        "logging",
+        "defaults",
+        "cache",
+        "db",
+        "urllib",
+        "django",
+        "sys",
+        "threading",
+        "ext",
+        "api",
+        "conf",
+        "webapp",
+        "boss_settings",
+        "etree",
+        "os",
+        "dispatcher",
+        "operator"
+    ]
+}

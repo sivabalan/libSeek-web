@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "c",
+        "optparse",
+        "unittest",
+        "sys",
+        "re",
+        "nose",
+        "setuptools",
+        "suite",
+        "os"
+    ]
+}

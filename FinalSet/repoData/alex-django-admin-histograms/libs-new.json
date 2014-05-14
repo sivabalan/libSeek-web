@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "parser",
+        "defaults",
+        "shortcuts",
+        "safestring",
+        "register",
+        "datetime",
+        "django",
+        "models",
+        "setuptools",
+        "contrib",
+        "calendar",
+        "loader",
+        "template"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "random",
+        "datetime",
+        "player",
+        "static",
+        "io",
+        "swgpy",
+        "configparser",
+        "importlib",
+        "re",
+        "sui",
+        "equipment",
+        "utility",
+        "combat",
+        "glob",
+        "object",
+        "sys",
+        "gamesystems",
+        "b",
+        "simulation",
+        "command",
+        "attributes",
+        "os"
+    ]
+}

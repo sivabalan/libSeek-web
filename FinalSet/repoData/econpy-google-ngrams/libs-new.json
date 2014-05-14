@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "pyplot",
+        "backend_agg",
+        "matplotlib",
+        "subprocess",
+        "sys",
+        "re",
+        "com/kennethreitz/requests",
+        "pand",
+        "font_manager",
+        "ticker"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "argparse",
+        "resource",
+        "glob",
+        "sys",
+        "collections",
+        "setuptools",
+        "ftools",
+        "path",
+        "pymongo"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "code",
+        "functools",
+        "with_statement",
+        "subprocess",
+        "gdb",
+        "plugins",
+        "select",
+        "abc",
+        "tempfile",
+        "errno",
+        "pprint",
+        "re",
+        "json",
+        "collections",
+        "core",
+        "pylint: disable=unused-import",
+        "zipfile",
+        "pyringe",
+        "sys",
+        "readline",
+        "logging",
+        "socket",
+        "signal",
+        "traceback",
+        "threading",
+        "time",
+        "os",
+        "pylint: disable=g-import-not-at-top"
+    ]
+}

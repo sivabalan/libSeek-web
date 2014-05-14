@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "stat",
+        "string",
+        "simplejson",
+        "h",
+        "insert(0",
+        "sys",
+        "sink",
+        "time",
+        "fnmatch",
+        "getopt",
+        "path",
+        "shutil",
+        "os",
+        "\"Sources\")",
+        "ConfigParser"
+    ]
+}

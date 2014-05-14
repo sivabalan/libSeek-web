@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "celery",
+        "sqlalchemy",
+        "os",
+        "simplejson",
+        "api",
+        "h",
+        "importlib",
+        "with_statement",
+        "datetime",
+        "sys",
+        "serving",
+        "t",
+        "werkzeug",
+        "path",
+        "config",
+        "overholt",
+        "b",
+        "fl",
+        "hmac",
+        "alembic",
+        "pkgutil"
+    ]
+}

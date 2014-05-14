@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "cStringIO",
+        "Shell",
+        "keyword",
+        "h",
+        "glob",
+        "traceback",
+        "pprint",
+        "sys",
+        "linecache",
+        "itertools",
+        "ctypes",
+        "_ctypes",
+        "errno",
+        "pickle",
+        "path",
+        "inspect",
+        "copy",
+        "os",
+        "types",
+        "codecs"
+    ]
+}

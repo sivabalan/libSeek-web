@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "paginator",
+        "wsgi",
+        "copy",
+        "http",
+        "template",
+        "cl",
+        "encoding",
+        "db",
+        "datetime",
+        "urlresolvers",
+        "test",
+        "setuptools",
+        "time",
+        "exceptions",
+        "re",
+        "translation",
+        "django",
+        "decorators",
+        "defaults"
+    ]
+}

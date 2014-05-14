@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "struct",
+        "traceback",
+        "random",
+        "urllib2",
+        "urllib",
+        "datetime",
+        "sys",
+        "itertools",
+        "urlparse",
+        "time",
+        "operator",
+        "array",
+        "ElementTree",
+        "usb"
+    ]
+}

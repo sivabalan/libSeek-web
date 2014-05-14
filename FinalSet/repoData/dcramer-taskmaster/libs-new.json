@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "queue",
+        "cPickle",
+        "logging",
+        "gevent_zeromq",
+        "optparse",
+        "h",
+        "absolute_import",
+        "sys",
+        "imp",
+        "gevent",
+        "t",
+        "setuptools",
+        "widgets",
+        "path",
+        "os",
+        "multiprocessing"
+    ]
+}

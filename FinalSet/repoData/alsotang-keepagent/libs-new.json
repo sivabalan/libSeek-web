@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "sys",
+        "b",
+        "logging",
+        "socket",
+        "SocketServer",
+        "threading",
+        "webapp2",
+        "h",
+        "zlib",
+        "Cipher",
+        "urllib2",
+        "OpenSSL",
+        "random",
+        "ssl",
+        "json",
+        "B",
+        "time",
+        "os",
+        "api"
+    ]
+}

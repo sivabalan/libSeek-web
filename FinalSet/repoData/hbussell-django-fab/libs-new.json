@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "operations",
+        "conf",
+        "with_statement",
+        "setuptools",
+        "context_managers",
+        "fabfile",
+        "main",
+        "os",
+        "ConfigParser"
+    ]
+}

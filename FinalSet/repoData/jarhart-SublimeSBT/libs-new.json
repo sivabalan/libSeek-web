@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "functools",
+        "signal",
+        "threading",
+        "glob",
+        "subprocess",
+        "re",
+        "itertools",
+        "sublime_plugin",
+        "os",
+        "pipes",
+        "sublime"
+    ]
+}

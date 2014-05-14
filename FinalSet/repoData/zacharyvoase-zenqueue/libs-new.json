@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "distutils",
+        "random",
+        "shutil",
+        "eventlet",
+        "errno",
+        "re",
+        "json",
+        "routing",
+        "werkzeug",
+        "simplejson",
+        "optparse",
+        "inspect",
+        "urllib2",
+        "sys",
+        "zenqueue",
+        "e",
+        "logging",
+        "socket",
+        "bootstrap_install_from = egg",
+        "pkg_resources",
+        "queue",
+        "client",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

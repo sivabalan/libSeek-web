@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "bin",
+        "cgi",
+        "logging",
+        "time",
+        "h",
+        "unittest",
+        "random",
+        "struct",
+        "urllib",
+        "urlparse",
+        "rdioapi",
+        "json",
+        "sys",
+        "httplib2",
+        "setuptools",
+        "Deprecated",
+        "os",
+        "hmac",
+        "utils",
+        "socket"
+    ]
+}

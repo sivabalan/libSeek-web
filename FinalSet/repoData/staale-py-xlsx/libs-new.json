@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "xlsx",
+        "etree",
+        "cElementTree",
+        "unicode_literals",
+        "unittest",
+        "six",
+        "zipfile",
+        "sys",
+        "re",
+        "setuptools",
+        "os"
+    ]
+}

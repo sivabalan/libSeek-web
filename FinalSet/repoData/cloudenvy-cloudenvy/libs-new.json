@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "operations",
+        "novaclient",
+        "functools",
+        "api",
+        "sys",
+        "path",
+        "pkgutil",
+        "tempfile",
+        "tarfile",
+        "yaml",
+        "collections",
+        "getp",
+        "string",
+        "cloudenvy",
+        "clouds",
+        "uuid",
+        "argparse",
+        "commands",
+        "logging",
+        "urlparse",
+        "connection",
+        "client",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

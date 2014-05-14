@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "inspect",
+        "http",
+        "os",
+        "conf",
+        "dummy",
+        "shortcuts",
+        "appsettings",
+        "utils",
+        "cache",
+        "db",
+        "django",
+        "encoding",
+        "contrib",
+        "imp",
+        "template",
+        "test",
+        "decorators",
+        "defaults",
+        "importlib"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "conf",
+        "markdown2",
+        "encoding",
+        "glob",
+        "codecs",
+        "markdown_deux",
+        "subprocess",
+        "sys",
+        "re",
+        "webbrowser",
+        "common",
+        "setuptools",
+        "cmdln",
+        "fnmatch",
+        "mklib",
+        "path",
+        "django",
+        "os",
+        "safestring"
+    ]
+}

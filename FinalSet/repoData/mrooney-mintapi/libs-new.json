@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "pypandoc",
+        "sys",
+        "ssl",
+        "json",
+        "poolmanager",
+        "setuptools",
+        "getp",
+        "requests",
+        "adapters"
+    ]
+}

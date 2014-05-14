@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "http",
+        "setuptools",
+        "models",
+        "functools",
+        "django",
+        "backends",
+        "conf",
+        "contrib",
+        "datetime"
+    ]
+}

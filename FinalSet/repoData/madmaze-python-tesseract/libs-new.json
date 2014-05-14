@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "StringIO",
+        "Image",
+        "subprocess",
+        "sys",
+        "setuptools",
+        "os"
+    ]
+}

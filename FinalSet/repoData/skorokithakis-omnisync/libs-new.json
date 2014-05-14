@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "setuptools",
+        "boto",
+        "platform",
+        "optparse",
+        "errno",
+        "omnisync",
+        "sys",
+        "re",
+        "connection",
+        "os",
+        "key",
+        "time",
+        "getp",
+        "locale",
+        "pickle",
+        "unittest",
+        "paramiko"
+    ]
+}

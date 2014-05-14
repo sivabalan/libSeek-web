@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "string",
+        "bs4",
+        "nltk",
+        "sys",
+        "re",
+        "setuptools",
+        "codecs",
+        "requests",
+        "corpus",
+        "print_function"
+    ]
+}

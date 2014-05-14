@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "buildout",
+        "string",
+        "re",
+        "tempfile",
+        "random",
+        "datetime",
+        "urllib2",
+        "absolute_import",
+        "subprocess",
+        "sys",
+        "optparse",
+        "pkg_resources",
+        "generators",
+        "setuptools",
+        "shutil",
+        "os"
+    ]
+}

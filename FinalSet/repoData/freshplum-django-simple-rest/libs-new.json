@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "shortcuts",
+        "datetime",
+        "pygments",
+        "conf",
+        "query",
+        "calendar",
+        "generic",
+        "urllib",
+        "json",
+        "collections",
+        "template",
+        "h",
+        "lexers",
+        "core",
+        "mimetypes",
+        "http",
+        "simplejson",
+        "optparse",
+        "sys",
+        "csrf",
+        "b",
+        "logging",
+        "fields",
+        "decimal",
+        "mimeparse",
+        "formatters",
+        "setuptools",
+        "time",
+        "hmac"
+    ]
+}

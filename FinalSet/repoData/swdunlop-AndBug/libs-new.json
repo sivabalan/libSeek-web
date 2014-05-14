@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "cStringIO",
+        "traceback",
+        "unittest",
+        "subprocess",
+        "tempfile",
+        "re",
+        "json",
+        "getopt",
+        "core",
+        "glob",
+        "textwrap",
+        "sys",
+        "path",
+        "readline",
+        "print_function",
+        "Queue",
+        "socket",
+        "cmd",
+        "threading",
+        "shlex",
+        "bottle",
+        "time",
+        "os",
+        "andbug"
+    ]
+}

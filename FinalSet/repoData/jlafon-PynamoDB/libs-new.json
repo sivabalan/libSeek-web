@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "session",
+        "delorean",
+        "b",
+        "pynamodb",
+        "unittest",
+        "six",
+        "datetime",
+        "sys",
+        "re",
+        "json",
+        "sphinx_rtd_theme",
+        "collections",
+        "print_function",
+        "setuptools",
+        "time",
+        "logging",
+        "copy",
+        "os",
+        "mock"
+    ]
+}

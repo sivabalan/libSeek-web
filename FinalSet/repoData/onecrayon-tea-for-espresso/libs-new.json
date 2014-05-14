@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "Foundation",
+        "imp",
+        "zencoding",
+        "random",
+        "htmlentitydefs",
+        "urllib",
+        "subprocess",
+        "sys",
+        "re",
+        "objc",
+        "filters",
+        "codecs",
+        "pickle",
+        "copy",
+        "os",
+        "types"
+    ]
+}

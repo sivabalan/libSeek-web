@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "compat",
+        "local_config",
+        "oauth2",
+        "simplejson",
+        "unittest",
+        "re",
+        "json",
+        "libgreader",
+        "httplib2",
+        "setuptools",
+        "time",
+        "requests",
+        "unittest2"
+    ]
+}

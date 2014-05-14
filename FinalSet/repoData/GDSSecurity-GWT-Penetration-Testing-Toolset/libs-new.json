@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "b",
+        "ssl",
+        "optparse",
+        "pprint",
+        "urllib2",
+        "urllib",
+        "sys",
+        "re",
+        "itertools",
+        "burp",
+        "time",
+        "getp",
+        "path",
+        "os"
+    ]
+}

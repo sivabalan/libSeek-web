@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "management",
+        "local_settings",
+        "unit_tests_two",
+        "db",
+        "unit_tests_one",
+        "sys",
+        "imp",
+        "defaults",
+        "os"
+    ]
+}

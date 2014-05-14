@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "core",
+        "cPickle",
+        "b",
+        "numpy",
+        "job"
+    ]
+}

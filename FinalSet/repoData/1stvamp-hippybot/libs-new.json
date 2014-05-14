@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "ez_setup",
+        "functools",
+        "random",
+        "subprocess",
+        "atexit",
+        "sqlite3dbm",
+        "BeautifulSoup",
+        "re",
+        "json",
+        "collections",
+        "lazy_reload",
+        "simplejson",
+        "optparse",
+        "inspect",
+        "sys",
+        "codecs",
+        "path",
+        "ConfigParser",
+        "logging",
+        "jabberbot",
+        "signal",
+        "traceback",
+        "threading",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

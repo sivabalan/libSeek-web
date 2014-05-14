@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "stat",
+        "shutil",
+        "logging",
+        "errno",
+        "functools",
+        "codecs",
+        "sys",
+        "threading",
+        "json",
+        "package_syncing",
+        "time",
+        "fnmatch",
+        "path",
+        "sublime_plugin",
+        "os",
+        "sublime"
+    ]
+}

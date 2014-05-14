@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "distutils",
+        "functools",
+        "site",
+        "subprocess",
+        "numbers",
+        "operator",
+        "shutil",
+        "responses",
+        "uuid",
+        "tempfile",
+        "tarfile",
+        "platform",
+        "json",
+        "pytest",
+        "collections",
+        "mock",
+        "string",
+        "optparse",
+        "urllib2",
+        "textwrap",
+        "sys",
+        "copy",
+        "request",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "requests",
+        "os",
+        "display"
+    ]
+}

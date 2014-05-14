@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "stat",
+        "division",
+        "optparse",
+        "glob",
+        "timeit",
+        "sys",
+        "ctypes",
+        "_scandir",
+        "os",
+        "unittest",
+        "util"
+    ]
+}

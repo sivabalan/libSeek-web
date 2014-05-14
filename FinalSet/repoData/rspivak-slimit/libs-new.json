@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "unittest",
+        "yacc",
+        "contextlib",
+        "build_py",
+        "tempfile",
+        "pprint",
+        "re",
+        "collections",
+        "Just a check--the module is not actually used",
+        "optparse",
+        "textwrap",
+        "odict",
+        "sys",
+        "visitors",
+        "lex",
+        "StringIO",
+        "difflib",
+        "itertools",
+        "doctest",
+        "setuptools",
+        "os",
+        "slimit"
+    ]
+}

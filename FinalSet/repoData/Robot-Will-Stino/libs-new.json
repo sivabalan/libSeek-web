@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "locale",
+        "app",
+        "subprocess",
+        "_winreg",
+        "io",
+        "array",
+        "select",
+        "struct",
+        "errno",
+        "re",
+        "json",
+        "fcntl",
+        "winreg",
+        "zipfile",
+        "termios",
+        "sys",
+        "ctypes",
+        "codecs",
+        "sublime_plugin",
+        "FCNTL",
+        "wintypes",
+        "TERMIOS",
+        "threading",
+        "time",
+        "os",
+        "sublime"
+    ]
+}

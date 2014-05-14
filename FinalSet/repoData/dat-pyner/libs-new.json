@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "httplib",
+        "socket",
+        "ner",
+        "json",
+        "urllib",
+        "parse",
+        "re",
+        "itertools",
+        "contextlib",
+        "setuptools",
+        "operator",
+        "os"
+    ]
+}

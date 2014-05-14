@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "socket",
+        "resolver",
+        "subprocess",
+        "MySQLdb",
+        "setuptools",
+        "time",
+        "getp",
+        "requests",
+        "os"
+    ]
+}

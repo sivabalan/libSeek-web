@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "unittest",
+        "colors",
+        "qrcode",
+        "pymaging",
+        "moves",
+        "ElementTree",
+        "PIL",
+        "six",
+        "ImageDraw",
+        "re",
+        "unittest2",
+        "math",
+        "webcolors",
+        "etree",
+        "ensure that PNG support is installed",
+        "sys",
+        "png",
+        "b",
+        "bisect",
+        "decimal",
+        "shapes",
+        "setuptools",
+        "formats",
+        "Image"
+    ]
+}

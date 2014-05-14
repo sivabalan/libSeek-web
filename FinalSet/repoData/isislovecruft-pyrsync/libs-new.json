@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "dist",
+        "h",
+        "sys",
+        "collections",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "http",
+        "setuptools",
+        "StringIO",
+        "generic",
+        "db",
+        "decimal",
+        "list",
+        "detail",
+        "related",
+        "datetime",
+        "urlresolvers",
+        "exceptions",
+        "json",
+        "csrf",
+        "test",
+        "csv",
+        "decorators",
+        "types"
+    ]
+}

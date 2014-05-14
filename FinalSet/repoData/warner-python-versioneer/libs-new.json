@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "dist",
+        "tempfile",
+        "errno",
+        "unittest",
+        "tarfile",
+        "_version",
+        "subprocess",
+        "sys",
+        "re",
+        "build_scripts",
+        "build",
+        "io",
+        "path",
+        "shutil",
+        "os",
+        "sdist"
+    ]
+}

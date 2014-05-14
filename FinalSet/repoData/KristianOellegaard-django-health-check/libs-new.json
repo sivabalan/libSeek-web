@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "health_check",
+        "http",
+        "setuptools",
+        "conf",
+        "cache",
+        "db",
+        "module_loading",
+        "b",
+        "t",
+        "template",
+        "translation",
+        "copy",
+        "os",
+        "options",
+        "importlib"
+    ]
+}

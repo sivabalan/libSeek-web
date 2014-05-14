@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "signals",
+        "management",
+        "http",
+        "conf",
+        "shortcuts",
+        "setuptools",
+        "safestring",
+        "cache",
+        "dat",
+        "sys",
+        "simple",
+        "template",
+        "test",
+        "translation",
+        "django",
+        "os",
+        "defaults"
+    ]
+}

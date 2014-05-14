@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "cStringIO",
+        "unittest",
+        "random",
+        "array",
+        "shutil",
+        "urllib",
+        "platform",
+        "json",
+        "bin",
+        "core",
+        "qiniu",
+        "string",
+        "auth",
+        "sys",
+        "httplib",
+        "b",
+        "StringIO",
+        "h",
+        "zlib",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

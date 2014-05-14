@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "core",
+        "daemon",
+        "setproctitle",
+        "warnings",
+        "inspect",
+        "sys",
+        "setuptools",
+        "logbook",
+        "lockfile",
+        "os"
+    ]
+}

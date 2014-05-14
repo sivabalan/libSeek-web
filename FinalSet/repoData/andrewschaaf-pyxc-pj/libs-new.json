@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "conf",
+        "cl",
+        "shortcuts",
+        "functools",
+        "absolute_import",
+        "subprocess",
+        "parse",
+        "io",
+        "management",
+        "transformations",
+        "tempfile",
+        "urllib",
+        "re",
+        "json",
+        "template",
+        "http",
+        "optparse",
+        "urllib2",
+        "sys",
+        "copy",
+        "StringIO",
+        "h",
+        "traceback",
+        "request",
+        "pyxc",
+        "defaults",
+        "time",
+        "js_",
+        "os"
+    ]
+}

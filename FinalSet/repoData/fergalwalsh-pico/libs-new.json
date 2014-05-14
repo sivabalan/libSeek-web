@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "simple_server",
+        "datetime",
+        "gevent",
+        "importlib",
+        "re",
+        "urllib",
+        "imp",
+        "json",
+        "getopt",
+        "cgi",
+        "core",
+        "mimetypes",
+        "SocketServer",
+        "pywsgi",
+        "inspect",
+        "urllib2",
+        "sys",
+        "types",
+        "httplib",
+        "install_data",
+        "h",
+        "decimal",
+        "traceback",
+        "threading",
+        "pico",
+        "install",
+        "time",
+        "os"
+    ]
+}

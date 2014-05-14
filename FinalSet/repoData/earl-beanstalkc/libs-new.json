@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "logging",
+        "socket",
+        "signal",
+        "nose",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "cgi",
+        "sys",
+        "service",
+        "sgmllib",
+        "python",
+        "plugin",
+        "urlparse",
+        "re",
+        "application",
+        "web",
+        "setuptools",
+        "internet",
+        "oauth",
+        "interface"
+    ]
+}

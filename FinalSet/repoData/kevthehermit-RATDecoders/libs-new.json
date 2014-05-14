@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "bin",
+        "cStringIO",
+        "b",
+        "struct",
+        "optparse",
+        "pype32",
+        "zipfile",
+        "sys",
+        "Cipher",
+        "ElementTree",
+        "os",
+        "pefile",
+        "string"
+    ]
+}

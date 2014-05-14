@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "ordereddict",
+        "unicode_literals",
+        "unittest",
+        "with_statement",
+        "subprocess",
+        "contextlib",
+        "io",
+        "execjs",
+        "tempfile",
+        "platform",
+        "json",
+        "collections",
+        "unittest2",
+        "division",
+        "stat",
+        "sys",
+        "path",
+        "PyV8",
+        "argparse",
+        "doctest",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "drawingTools",
+        "glyphSequenceEditText",
+        "random",
+        "path",
+        "tools",
+        "transform",
+        "json",
+        "collections",
+        "extensions",
+        "events",
+        "math",
+        "division",
+        "string",
+        "eventManager",
+        "agl",
+        "AppKit",
+        "unicodedata",
+        "b",
+        "transformPen",
+        "vanilla",
+        "UI",
+        "defaults",
+        "fnmatch",
+        "os",
+        "drawing"
+    ]
+}

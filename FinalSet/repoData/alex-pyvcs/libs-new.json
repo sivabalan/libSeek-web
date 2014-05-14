@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "util",
+        "errors",
+        "dulwich",
+        "pysvn",
+        "localrepo",
+        "mercurial",
+        "unittest",
+        "StringIO",
+        "difflib",
+        "datetime",
+        "repo",
+        "tempfile",
+        "backends",
+        "sys",
+        "setuptools",
+        "time",
+        "operator",
+        "subprocess",
+        "os",
+        "bzrlib"
+    ]
+}

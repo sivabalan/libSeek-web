@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "management",
+        "string",
+        "urlresolvers",
+        "shortcuts",
+        "db",
+        "sys",
+        "generic",
+        "test",
+        "shutil",
+        "os"
+    ]
+}

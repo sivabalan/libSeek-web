@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "sorting",
+        "shuffling",
+        "h",
+        "unittest",
+        "random",
+        "searching",
+        "nose",
+        "setuptools"
+    ]
+}

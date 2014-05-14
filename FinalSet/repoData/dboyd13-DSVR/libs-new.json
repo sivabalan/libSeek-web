@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "random",
+        "datetime",
+        "tldextract",
+        "operator",
+        "configparser",
+        "struct",
+        "re",
+        "netifaces",
+        "bin",
+        "SocketServer",
+        "optparse",
+        "sys",
+        "fl",
+        "types",
+        "ConfigParser",
+        "commands",
+        "socket",
+        "threading",
+        "dnslib",
+        "doctest",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "paginator",
+        "pressbox",
+        "management",
+        "local_settings",
+        "conf",
+        "re",
+        "shortcuts",
+        "db",
+        "datetime",
+        "sys",
+        "generic",
+        "template",
+        "query",
+        "contrib",
+        "path",
+        "translation",
+        "django",
+        "os",
+        "defaults",
+        "simple"
+    ]
+}

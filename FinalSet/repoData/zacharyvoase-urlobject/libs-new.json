@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "sys",
+        "builtins",
+        "io",
+        "StringIO",
+        "os",
+        "unittest",
+        "urllib",
+        "urlparse",
+        "platform",
+        "collections",
+        "doctest",
+        "setuptools",
+        "operator",
+        "re",
+        "tools",
+        "types",
+        "posixpath"
+    ]
+}

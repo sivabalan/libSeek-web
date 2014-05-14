@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "context_processors",
+        "gblocks",
+        "management",
+        "setuptools",
+        "context",
+        "simple",
+        "test",
+        "db",
+        "loader",
+        "sys",
+        "exceptions",
+        "defaultfilters",
+        "loading",
+        "defaults",
+        "contrib",
+        "path",
+        "translation",
+        "os",
+        "template"
+    ]
+}

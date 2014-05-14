@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "sys",
+        "pprint",
+        "json",
+        "functools",
+        "cmd",
+        "itertools",
+        "urllib",
+        "datetime",
+        "urlparse",
+        "_keys",
+        "setuptools",
+        "path",
+        "requests",
+        "moves",
+        "fl",
+        "types"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "pyramid",
+        "deform",
+        "unittest",
+        "datetime",
+        "orm",
+        "widgets",
+        "httpexceptions",
+        "widget",
+        "sqlalchemy",
+        "sys",
+        "declarative",
+        "peppercorn",
+        "response",
+        "decorator",
+        "transaction",
+        "settings",
+        "config",
+        "builder",
+        "renderers",
+        "colander",
+        "p",
+        "pytz",
+        "setuptools",
+        "security",
+        "os",
+        "view"
+    ]
+}

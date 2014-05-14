@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "setuptools",
+        "threading",
+        "h",
+        "cache",
+        "functional",
+        "test",
+        "client",
+        "conf",
+        "time",
+        "contrib",
+        "re",
+        "os",
+        "md5"
+    ]
+}

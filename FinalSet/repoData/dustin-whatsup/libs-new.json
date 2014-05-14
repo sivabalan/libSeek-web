@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "xmppim",
+        "jid",
+        "sqlalchemy",
+        "web",
+        "time",
+        "commands",
+        "datetime",
+        "urlparse",
+        "re",
+        "orm",
+        "sys",
+        "whatsup",
+        "internet",
+        "sre_constants",
+        "xish",
+        "types",
+        "ConfigParser"
+    ]
+}

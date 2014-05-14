@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "lxml",
+        "argparse",
+        "optparse",
+        "glob",
+        "sys",
+        "json",
+        "collections",
+        "setuptools",
+        "requests",
+        "tools"
+    ]
+}

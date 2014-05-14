@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "filecmp",
+        "buildout",
+        "warnings",
+        "tempfile",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "p",
+        "optparse",
+        "pkg_resources",
+        "setuptools",
+        "shutil",
+        "os"
+    ]
+}

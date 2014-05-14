@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "struct",
+        "core",
+        "unittest",
+        "subprocess",
+        "sys",
+        "platform",
+        "json",
+        "socket",
+        "time",
+        "os",
+        "threading"
+    ]
+}

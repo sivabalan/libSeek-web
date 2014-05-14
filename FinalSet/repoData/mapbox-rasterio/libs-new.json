@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "code",
+        "unittest",
+        "subprocess",
+        "Build",
+        "fiona",
+        "shutil",
+        "timeit",
+        "tempfile",
+        "pyplot",
+        "pprint",
+        "re",
+        "json",
+        "pytest",
+        "collections",
+        "cProfile",
+        "numpy",
+        "pstats",
+        "sys",
+        "path",
+        "argparse",
+        "logging",
+        "extension",
+        "osgeo",
+        "r",
+        "setuptools",
+        "time",
+        "os",
+        "multiprocessing"
+    ]
+}

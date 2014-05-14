@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "cStringIO",
+        "encoding",
+        "shortcuts",
+        "unittest",
+        "copy",
+        "datetime",
+        "management",
+        "json",
+        "test",
+        "csv",
+        "utils",
+        "cgi",
+        "http",
+        "simplejson",
+        "db",
+        "sys",
+        "googlecharts",
+        "loader",
+        "types",
+        "report_tools",
+        "safestring",
+        "renderers",
+        "client",
+        "setuptools",
+        "os"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "websocket",
+        "handler",
+        "gevent",
+        "setuptools",
+        "bottle"
+    ]
+}

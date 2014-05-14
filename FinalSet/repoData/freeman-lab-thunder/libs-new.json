@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "cl",
+        "unittest",
+        "random",
+        "subprocess",
+        "accumulators",
+        "naive_bayes",
+        "io",
+        "shutil",
+        "abc",
+        "PIL",
+        "spark_ec2",
+        "tempfile",
+        "linalg",
+        "numpy",
+        "math",
+        "testing",
+        "pyspark",
+        "optparse",
+        "glob",
+        "sys",
+        "glob;",
+        "datetime",
+        "argparse",
+        "boto",
+        "signal",
+        "setuptools",
+        "time",
+        "os",
+        "sklearn"
+    ]
+}

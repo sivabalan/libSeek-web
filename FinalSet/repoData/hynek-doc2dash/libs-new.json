@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "division",
+        "b",
+        "logging",
+        "doc2d",
+        "re",
+        "tempfile",
+        "errno",
+        "argparse",
+        "absolute_import",
+        "sys",
+        "bs4",
+        "pytest",
+        "collections",
+        "print_function",
+        "setuptools",
+        "codecs",
+        "sqlite3",
+        "shutil",
+        "os",
+        "mock",
+        "plistlib"
+    ]
+}

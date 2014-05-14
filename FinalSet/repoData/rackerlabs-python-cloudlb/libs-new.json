@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "dateutil",
+        "b",
+        "unittest",
+        "pprint",
+        "json",
+        "urllib",
+        "datetime",
+        "sys",
+        "cloudlb",
+        "httplib2",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

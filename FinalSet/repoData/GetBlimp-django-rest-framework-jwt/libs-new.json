@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "compat",
+        "http",
+        "setuptools",
+        "provider",
+        "jwt",
+        "auth",
+        "django",
+        "sys",
+        "re",
+        "json",
+        "conf",
+        "rest_framework_jwt",
+        "test",
+        "rest_framework",
+        "datetime",
+        "os",
+        "response"
+    ]
+}

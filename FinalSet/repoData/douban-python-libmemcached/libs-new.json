@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "cPickle",
+        "traceback",
+        "print_exc()",
+        "optparse",
+        "pickle",
+        "unittest",
+        "random",
+        "timeit",
+        "subprocess",
+        "sys",
+        "threading",
+        "setuptools",
+        "time",
+        "cmemcached_imp",
+        "zlib",
+        "os",
+        "marshal",
+        "mock"
+    ]
+}

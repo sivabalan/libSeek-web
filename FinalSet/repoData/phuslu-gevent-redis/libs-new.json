@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "cStringIO",
+        "socket",
+        "threading",
+        "errno",
+        "redis",
+        "sys",
+        "re",
+        "gevent",
+        "geventredis",
+        "setuptools",
+        "time",
+        "os",
+        "monkey"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "parse",
+        "functools",
+        "socket",
+        "unittest",
+        "pyrabbit",
+        "urllib",
+        "sys",
+        "json",
+        "httplib2",
+        "setuptools",
+        "os",
+        "unittest2",
+        "mock"
+    ]
+}

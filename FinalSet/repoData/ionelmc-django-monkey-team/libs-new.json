@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "Cipher",
+        "http",
+        "setuptools",
+        "models",
+        "admin_utils",
+        "contrib",
+        "loader",
+        "urlresolvers",
+        "shortcuts",
+        "client",
+        "sys",
+        "conf",
+        "h",
+        "test",
+        "django",
+        "os",
+        "defaults",
+        "debug",
+        "template"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "pygst",
+        "daemon",
+        "logging",
+        "gst",
+        "traceback",
+        "pkg_resources",
+        "sys",
+        "sh",
+        "setuptools",
+        "gobject",
+        "pidlockfile",
+        "os",
+        "multiprocessing",
+        "pidfile",
+        "ConfigParser"
+    ]
+}

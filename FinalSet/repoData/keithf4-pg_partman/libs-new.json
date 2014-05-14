@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "tempfile",
+        "psycopg2",
+        "subprocess",
+        "sys",
+        "re",
+        "collections",
+        "time",
+        "path",
+        "h",
+        "os",
+        "multiprocessing"
+    ]
+}

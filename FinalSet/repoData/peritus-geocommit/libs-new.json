@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "unittest",
+        "subprocess",
+        "path",
+        "shutil",
+        "build_ext",
+        "buildout",
+        "tempfile",
+        "re",
+        "json",
+        "version",
+        "doctest",
+        "stat",
+        "optparse",
+        "urllib2",
+        "sys",
+        "e",
+        "corelocation",
+        "extension",
+        "install_data",
+        "dbus",
+        "pkg_resources",
+        "shlex",
+        "setuptools",
+        "os"
+    ]
+}

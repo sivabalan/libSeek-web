@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "cStringIO",
+        "language",
+        "pycukes",
+        "optparse",
+        "unittest",
+        "should_dsl",
+        "story_parser",
+        "sys",
+        "re",
+        "steps",
+        "doctest",
+        "setuptools",
+        "pyhistorian",
+        "subprocess",
+        "os",
+        "StringIO"
+    ]
+}

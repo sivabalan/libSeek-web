@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "tests",
+        "errors",
+        "mongokit",
+        "coverage",
+        "pymongo",
+        "unittest",
+        "style",
+        "collection",
+        "datetime",
+        "sys",
+        "token",
+        "absolute_import",
+        "setuptools",
+        "test_b",
+        "exceptions",
+        "fl",
+        "bson",
+        "os",
+        "routing"
+    ]
+}

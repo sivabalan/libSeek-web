@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "csv",
+        "string",
+        "optparse",
+        "random",
+        "datetime",
+        "sys",
+        "re",
+        "itertools",
+        "collections",
+        "time",
+        "operator",
+        "subprocess",
+        "enchant",
+        "multiprocessing"
+    ]
+}

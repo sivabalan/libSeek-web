@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "simple",
+        "subprocess",
+        "conf",
+        "validators",
+        "PIL",
+        "tempfile",
+        "json",
+        "test",
+        "mock",
+        "mimetypes",
+        "http",
+        "sys",
+        "exceptions",
+        "translation",
+        "argparse",
+        "b",
+        "logging",
+        "StringIO",
+        "Image",
+        "django",
+        "urlparse",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

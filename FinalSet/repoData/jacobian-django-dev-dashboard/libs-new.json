@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "shortcuts",
+        "debug_toolbar",
+        "utils",
+        "absolute_import",
+        "datetime",
+        "contrib",
+        "conf",
+        "operator",
+        "calendar",
+        "unipath",
+        "management",
+        "generic",
+        "cache",
+        "feedparser",
+        "http",
+        "db",
+        "sys",
+        "v2",
+        "print_function",
+        "b",
+        "xmlrpclib",
+        "django",
+        "urlparse",
+        "defaults",
+        "exceptions",
+        "requests",
+        "os"
+    ]
+}

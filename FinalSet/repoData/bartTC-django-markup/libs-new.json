@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "filter",
+        "unicode_literals",
+        "markdown",
+        "template",
+        "docutils",
+        "util",
+        "smartypants",
+        "safestring",
+        "six",
+        "defaultfilters",
+        "modelsinspector",
+        "sys",
+        "re",
+        "doctest",
+        "pygments",
+        "textile",
+        "setuptools",
+        "exceptions",
+        "translation",
+        "os",
+        "rst"
+    ]
+}

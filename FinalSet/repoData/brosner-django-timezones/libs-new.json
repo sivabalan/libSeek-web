@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "exceptions",
+        "template",
+        "encoding",
+        "timezones",
+        "setuptools",
+        "db",
+        "django",
+        "re",
+        "pytz",
+        "conf",
+        "test",
+        "datetime"
+    ]
+}

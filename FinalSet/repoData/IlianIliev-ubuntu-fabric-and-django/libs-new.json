@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "files",
+        "management",
+        "console",
+        "string",
+        "inspect",
+        "re",
+        "shortcuts",
+        "random",
+        "db",
+        "sys",
+        "contrib",
+        "api",
+        "context_managers",
+        "the datab",
+        "os"
+    ]
+}

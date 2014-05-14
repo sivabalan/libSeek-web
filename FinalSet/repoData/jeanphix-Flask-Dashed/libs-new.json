@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "d",
+        "expression",
+        "unittest",
+        "setuptools",
+        "os",
+        "absolute_import",
+        "sys",
+        "orm",
+        "wtforms",
+        "werkzeug",
+        "fl",
+        "functools",
+        "math"
+    ]
+}

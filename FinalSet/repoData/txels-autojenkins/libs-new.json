@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "autojenkins",
+        "optparse",
+        "tools",
+        "unittest",
+        "ddt",
+        "sys",
+        "re",
+        "jinja2",
+        "setuptools",
+        "time",
+        "requests",
+        "datetime",
+        "os",
+        "mock"
+    ]
+}

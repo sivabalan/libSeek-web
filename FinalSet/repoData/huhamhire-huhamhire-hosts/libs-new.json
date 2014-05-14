@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "curses",
+        "locale",
+        "PyQt4",
+        "shutil",
+        "py2exe",
+        "tarfile",
+        "urllib",
+        "json",
+        "sqlite3",
+        "ConfigParser",
+        "math",
+        "core",
+        "optparse",
+        "glob",
+        "zipfile",
+        "sys",
+        "tui",
+        "struct",
+        "util",
+        "socket",
+        "gui",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

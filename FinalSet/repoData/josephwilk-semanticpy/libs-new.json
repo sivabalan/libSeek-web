@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "lda",
+        "random",
+        "string",
+        "threading",
+        "numpy",
+        "unittest",
+        "pprint",
+        "cPickle",
+        "urllib2",
+        "sys",
+        "re",
+        "linalg",
+        "scipy",
+        "os",
+        "time",
+        "getopt",
+        "special",
+        "tools",
+        "math"
+    ]
+}

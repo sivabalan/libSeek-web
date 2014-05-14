@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "template",
+        "conf",
+        "db",
+        "templatetags",
+        "django",
+        "sys",
+        "defaults",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "ioloop",
+        "core",
+        "httpserver",
+        "iostream",
+        "socket",
+        "web",
+        "unittest",
+        "tornado_proxy",
+        "urllib2",
+        "subprocess",
+        "sys",
+        "time",
+        "path",
+        "os",
+        "httpclient"
+    ]
+}

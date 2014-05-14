@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "loader",
+        "http",
+        "string",
+        "shortcuts",
+        "decorators",
+        "setuptools",
+        "db",
+        "auth",
+        "datetime",
+        "urlresolvers",
+        "contrib",
+        "defaultfilters",
+        "conf",
+        "todo",
+        "exceptions",
+        "mail",
+        "django",
+        "csrf",
+        "template"
+    ]
+}

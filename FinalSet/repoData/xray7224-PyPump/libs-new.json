@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unittest",
+        "parser",
+        "tests",
+        "absolute_import",
+        "datetime",
+        "style",
+        "six",
+        "requests_oauthlib",
+        "urllib",
+        "json",
+        "core",
+        "mimetypes",
+        "warnings",
+        "models",
+        "sys",
+        "argparse",
+        "exception",
+        "logging",
+        "token",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

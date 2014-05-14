@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "encoding",
+        "unittest",
+        "conf",
+        "contrib",
+        "query",
+        "languages",
+        "contenttypes",
+        "tagging",
+        "template",
+        "test",
+        "math",
+        "core",
+        "http",
+        "list_detail",
+        "multilingual",
+        "db",
+        "translation",
+        "types",
+        "logging",
+        "StringIO",
+        "django",
+        "defaultfilters",
+        "install",
+        "sets",
+        "urlresolvers",
+        "os",
+        "pdb"
+    ]
+}

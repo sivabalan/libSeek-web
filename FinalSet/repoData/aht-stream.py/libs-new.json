@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "heapq",
+        "queues",
+        "random",
+        "with_statement",
+        "__builtin__",
+        "operator",
+        "select",
+        "pprint",
+        "re",
+        "collections",
+        "nose",
+        "core",
+        "urllib2",
+        "Queue",
+        "copy",
+        "sys",
+        "decimal",
+        "threading",
+        "itertools",
+        "doctest",
+        "time",
+        "os",
+        "multiprocessing"
+    ]
+}

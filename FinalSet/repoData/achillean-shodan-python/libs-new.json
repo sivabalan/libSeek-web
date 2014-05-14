@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "simplejson",
+        "unittest",
+        "request",
+        "urllib2",
+        "urllib",
+        "parse",
+        "json",
+        "sys",
+        "requests",
+        "shodan",
+        "os"
+    ]
+}

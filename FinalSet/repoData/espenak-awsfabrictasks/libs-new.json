@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "mimetypes",
+        "logging",
+        "fabric",
+        "warnings",
+        "tempfile",
+        "awsfabrict",
+        "pprint",
+        "sys",
+        "optparse",
+        "functools",
+        "ec2",
+        "setuptools",
+        "path",
+        "os",
+        "unittest"
+    ]
+}

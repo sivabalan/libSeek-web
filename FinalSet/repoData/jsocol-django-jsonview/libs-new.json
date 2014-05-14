@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "signals",
+        "b",
+        "http",
+        "importlib",
+        "conf",
+        "unicode_literals",
+        "utils",
+        "django",
+        "sys",
+        "jsonview",
+        "json",
+        "setuptools",
+        "codecs",
+        "test",
+        "logging",
+        "functools",
+        "mock"
+    ]
+}

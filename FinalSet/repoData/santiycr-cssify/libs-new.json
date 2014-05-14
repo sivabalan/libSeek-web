@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "httplib",
+        "b",
+        "webapp2",
+        "os",
+        "unittest",
+        "random",
+        "selenium",
+        "sys",
+        "re",
+        "json",
+        "ui",
+        "new",
+        "optparse"
+    ]
+}

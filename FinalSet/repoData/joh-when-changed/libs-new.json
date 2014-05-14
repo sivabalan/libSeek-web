@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "sys",
+        "re",
+        "setuptools",
+        "pyinotify",
+        "os",
+        "print_function"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "template",
+        "conf",
+        "simple",
+        "cache",
+        "sys",
+        "contrib",
+        "client",
+        "defaults",
+        "setuptools",
+        "test",
+        "os",
+        "response"
+    ]
+}

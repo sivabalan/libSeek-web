@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "mplot3d",
+        "ticker",
+        "pyplot",
+        "random",
+        "cPickle",
+        "backprop2",
+        "matplotlib",
+        "sys",
+        "json",
+        "collections",
+        "gzip",
+        "decomposition",
+        "numpy",
+        "sklearn"
+    ]
+}

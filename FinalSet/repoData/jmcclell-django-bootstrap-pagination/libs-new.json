@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "http",
+        "template",
+        "setuptools",
+        "loader",
+        "re",
+        "conf",
+        "urlresolvers"
+    ]
+}

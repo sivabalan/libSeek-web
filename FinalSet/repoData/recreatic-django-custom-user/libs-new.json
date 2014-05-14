@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "encoding",
+        "fields",
+        "utils",
+        "db",
+        "auth",
+        "django",
+        "sys",
+        "contrib",
+        "setuptools",
+        "test",
+        "mail",
+        "translation",
+        "os",
+        "custom_user"
+    ]
+}

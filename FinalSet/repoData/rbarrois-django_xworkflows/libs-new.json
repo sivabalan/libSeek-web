@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "encoding",
+        "unicode_literals",
+        "utils",
+        "xworkflows",
+        "datetime",
+        "contrib",
+        "xworkflow_log",
+        "management",
+        "freezer",
+        "forms",
+        "re",
+        "contenttypes",
+        "template",
+        "test",
+        "django_xworkflows",
+        "core",
+        "setuptools",
+        "db",
+        "sys",
+        "v2",
+        "orm",
+        "translation",
+        "modelsinspector",
+        "django",
+        "defaults",
+        "os",
+        "south"
+    ]
+}

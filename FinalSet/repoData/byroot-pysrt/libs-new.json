@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "argparse",
+        "collections",
+        "copy",
+        "setuptools",
+        "UserList",
+        "datetime",
+        "unittest",
+        "random",
+        "textwrap",
+        "pysrt",
+        "sys",
+        "re",
+        "itertools",
+        "chardet",
+        "io",
+        "codecs",
+        "getopt",
+        "shutil",
+        "os"
+    ]
+}

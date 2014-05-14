@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "struct",
+        "re",
+        "subprocess",
+        "sys",
+        "atexit",
+        "pwd",
+        "argparse",
+        "ctypes",
+        "socket",
+        "getp",
+        "colorama",
+        "os",
+        "ConfigParser"
+    ]
+}

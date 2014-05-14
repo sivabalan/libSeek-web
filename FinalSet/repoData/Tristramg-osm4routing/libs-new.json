@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "distutils",
+        "site",
+        "subprocess",
+        "sysconfig",
+        "geoalchemy",
+        "operator",
+        "shutil",
+        "bz2",
+        "tempfile",
+        "tarfile",
+        "re",
+        "sqlalchemy",
+        "optparse",
+        "sets",
+        "urllib2",
+        "sys",
+        "gzip",
+        "orm",
+        "copy",
+        "osm4routing_xml",
+        "logging",
+        "request",
+        "pkg_resources",
+        "sandbox",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "os",
+        "win32api"
+    ]
+}

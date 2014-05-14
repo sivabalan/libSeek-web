@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unittest",
+        "sync",
+        "absolute_import",
+        "datetime",
+        "shutil",
+        "tempfile",
+        "re",
+        "libgsync",
+        "local",
+        "http",
+        "inspect",
+        "sys",
+        "codecs",
+        "remote",
+        "magic",
+        "StringIO",
+        "h",
+        "traceback",
+        "drive",
+        "setuptools",
+        "fnmatch",
+        "os",
+        "options"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "setuptools",
+        "StringIO",
+        "unittest",
+        "io",
+        "codecs",
+        "os"
+    ]
+}

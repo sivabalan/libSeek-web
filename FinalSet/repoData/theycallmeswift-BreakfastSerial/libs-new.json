@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "pyfirmata",
+        "code",
+        "threading",
+        "re",
+        "setuptools",
+        "time",
+        "os",
+        "Breakf"
+    ]
+}

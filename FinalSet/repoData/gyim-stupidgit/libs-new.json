@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "py2exe",
+        "setuptools",
+        "P",
+        "re",
+        "tempfile",
+        "stc",
+        "subprocess",
+        "sys",
+        "threading",
+        "html",
+        "ctypes",
+        "listctrl",
+        "install",
+        "path",
+        "locale",
+        "os",
+        "wx"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "encoding",
+        "text",
+        "parse",
+        "contrib",
+        "management",
+        "importlib",
+        "menu",
+        "wpadmin",
+        "urllib",
+        "re",
+        "warnings",
+        "db",
+        "auth",
+        "sys",
+        "urlresolvers",
+        "path",
+        "translation",
+        "b",
+        "h",
+        "django",
+        "setuptools",
+        "fnmatch",
+        "os"
+    ]
+}

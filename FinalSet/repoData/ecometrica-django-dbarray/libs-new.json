@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "setuptools",
+        "encoding",
+        "runner",
+        "db",
+        "datetime",
+        "sys",
+        "discover_runner",
+        "collections",
+        "conf",
+        "exceptions",
+        "re",
+        "django",
+        "os"
+    ]
+}

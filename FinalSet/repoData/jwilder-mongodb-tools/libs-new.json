@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "errors",
+        "struct",
+        "objectid",
+        "prettytable",
+        "optparse",
+        "connection",
+        "mongoengine",
+        "psutil",
+        "itertools",
+        "setuptools",
+        "pyparsing",
+        "pymongo",
+        "bson"
+    ]
+}

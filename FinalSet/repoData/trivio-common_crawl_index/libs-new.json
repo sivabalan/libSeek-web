@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "cStringIO",
+        "struct",
+        "re",
+        "bisect",
+        "mmap",
+        "unittest",
+        "sys",
+        "tempfile",
+        "itertools",
+        "tools",
+        "urlparse",
+        "io",
+        "os",
+        "functools"
+    ]
+}

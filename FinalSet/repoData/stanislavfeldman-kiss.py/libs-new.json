@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "wsgi",
+        "jsmin",
+        "datetime",
+        "gevent",
+        "dynamics",
+        "shutil",
+        "pev",
+        "re",
+        "json",
+        "mimetypes",
+        "setuptools",
+        "inspect",
+        "sys",
+        "jinja2",
+        "elixir",
+        "types",
+        "scss",
+        "logging",
+        "signal",
+        "traceback",
+        "urlparse",
+        "patterns",
+        "urls",
+        "filesystem",
+        "exceptions",
+        "requests",
+        "os",
+        "middleware"
+    ]
+}

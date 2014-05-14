@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "argparse",
+        "tempfile",
+        "setuptools",
+        "StringIO",
+        "unicode_literals",
+        "unittest",
+        "kaptan",
+        "sys",
+        "yaml",
+        "json",
+        "collections",
+        "io",
+        "path",
+        "configparser",
+        "os",
+        "unittest2",
+        "print_function",
+        "ConfigParser"
+    ]
+}

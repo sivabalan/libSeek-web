@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "locale",
+        "unittest",
+        "parser",
+        "unicode_literals",
+        "re",
+        "entities",
+        "json",
+        "collections",
+        "types",
+        "nodes",
+        "unittest2",
+        "math",
+        "functools",
+        "htmlentitydefs",
+        "_tokenizer",
+        "sys",
+        "mwparserfromhell",
+        "path",
+        "print_function",
+        "extr",
+        "psutil",
+        "itertools",
+        "setuptools",
+        "os",
+        "multiprocessing"
+    ]
+}

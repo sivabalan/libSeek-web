@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "logging",
+        "grs",
+        "relativedelta",
+        "unittest",
+        "random",
+        "urllib2",
+        "datetime",
+        "sys",
+        "re",
+        "setuptools",
+        "csv",
+        "os",
+        "types"
+    ]
+}

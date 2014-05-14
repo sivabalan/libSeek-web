@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "query_utils",
+        "encoding",
+        "python",
+        "db",
+        "utils",
+        "xml_serializer",
+        "absolute_import",
+        "django",
+        "sys",
+        "yaml",
+        "management",
+        "conf",
+        "fields",
+        "test",
+        "typedmodels",
+        "path",
+        "dat",
+        "types"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "setuptools",
+        "shortcuts",
+        "unittest",
+        "subprocess",
+        "shutil",
+        "management",
+        "buildout",
+        "tempfile",
+        "BeautifulSoup",
+        "wizards",
+        "test",
+        "functools",
+        "http",
+        "defaults",
+        "optparse",
+        "UserDict",
+        "urllib2",
+        "sys",
+        "testproject",
+        "pkg_resources",
+        "django",
+        "context",
+        "urlresolvers",
+        "os"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "urlparse",
+        "b",
+        "dbref",
+        "fields",
+        "objectid",
+        "os",
+        "decimal",
+        "parser",
+        "mongoengine",
+        "datetime",
+        "sys",
+        "cleancat",
+        "json",
+        "setuptools",
+        "example",
+        "dat",
+        "mimerender",
+        "fl",
+        "multiprocessing"
+    ]
+}

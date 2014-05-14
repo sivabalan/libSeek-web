@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "zlib",
+        "logging",
+        "uuid",
+        "StringIO",
+        "random",
+        "keyring",
+        "pprint",
+        "datetime",
+        "sys",
+        "platform",
+        "json",
+        "getp",
+        "getopt",
+        "requests",
+        "gzip",
+        "socket"
+    ]
+}

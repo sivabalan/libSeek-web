@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "curses",
+        "datetime",
+        "shutil",
+        "abc",
+        "buildout",
+        "re",
+        "tempfile",
+        "platform",
+        "types",
+        "csv",
+        "optparse",
+        "urllib2",
+        "sys",
+        "pwd",
+        "ctypes",
+        "subprocess",
+        "print_function",
+        "ConfigParser",
+        "box",
+        "logging",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

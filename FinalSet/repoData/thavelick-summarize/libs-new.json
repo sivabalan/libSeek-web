@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "probability",
+        "glob",
+        "doctest",
+        "tokenize",
+        "path",
+        "corpus",
+        "data"
+    ]
+}

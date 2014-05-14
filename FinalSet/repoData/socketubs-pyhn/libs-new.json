@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "bs4",
+        "urwid",
+        "subprocess",
+        "parse",
+        "configparser",
+        "pprint",
+        "re",
+        "json",
+        "core",
+        "urllib2",
+        "sys",
+        "pyhn",
+        "datetime",
+        "ConfigParser",
+        "isit",
+        "os",
+        "request",
+        "urlparse",
+        "threading",
+        "setuptools",
+        "error",
+        "pickle"
+    ]
+}

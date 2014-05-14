@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "string",
+        "tempfile",
+        "unittest",
+        "re",
+        "setuptools",
+        "time",
+        "locale",
+        "copy",
+        "unittest2"
+    ]
+}

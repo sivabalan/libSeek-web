@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "bin",
+        "core",
+        "tests",
+        "management",
+        "logging",
+        "salad",
+        "webdriver",
+        "keys",
+        "tools",
+        "desired_capabilities",
+        "errorhandler",
+        "django",
+        "sys",
+        "lettuce",
+        "argparse",
+        "setuptools",
+        "time",
+        "exceptions",
+        "path",
+        "subprocess",
+        "os"
+    ]
+}

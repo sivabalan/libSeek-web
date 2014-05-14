@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "colander",
+        "cPickle",
+        "translationstring",
+        "warnings",
+        "pickle",
+        "unittest",
+        "pprint",
+        "tests",
+        "subprocess",
+        "sys",
+        "re",
+        "itertools",
+        "pkg_resources",
+        "setuptools",
+        "time",
+        "datetime",
+        "os",
+        "decimal",
+        "functools"
+    ]
+}

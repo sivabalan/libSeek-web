@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "tools",
+        "unittest",
+        "sys",
+        "gevent",
+        "setuptools",
+        "time",
+        "requests",
+        "os",
+        "functools",
+        "pool"
+    ]
+}

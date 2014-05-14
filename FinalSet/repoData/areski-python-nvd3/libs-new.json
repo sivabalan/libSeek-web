@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "util",
+        "string",
+        "nvd3",
+        "optparse",
+        "os",
+        "unittest",
+        "random",
+        "datetime",
+        "sys",
+        "fnmatch",
+        "json",
+        "setuptools",
+        "time",
+        "IPython",
+        "numpy",
+        "display",
+        "slugify"
+    ]
+}

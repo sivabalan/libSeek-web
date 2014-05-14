@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "redis",
+        "datetime",
+        "bitmapist",
+        "setuptools",
+        "os",
+        "types"
+    ]
+}

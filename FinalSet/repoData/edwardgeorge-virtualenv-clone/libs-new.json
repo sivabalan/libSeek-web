@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "tests",
+        "logging",
+        "tempfile",
+        "optparse",
+        "unittest",
+        "with_statement",
+        "tox",
+        "subprocess",
+        "sys",
+        "re",
+        "pytest",
+        "setuptools",
+        "test",
+        "shutil",
+        "os"
+    ]
+}

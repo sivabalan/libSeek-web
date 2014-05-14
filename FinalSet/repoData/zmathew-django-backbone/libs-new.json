@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "module_loading",
+        "importlib",
+        "StringIO",
+        "python",
+        "fields",
+        "decimal",
+        "backbone",
+        "db",
+        "contrib",
+        "datetime",
+        "urlresolvers",
+        "json",
+        "shortcuts",
+        "conf",
+        "test",
+        "translation",
+        "django",
+        "os"
+    ]
+}

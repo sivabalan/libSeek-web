@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "fcntl",
+        "tests",
+        "random",
+        "socket",
+        "python",
+        "h",
+        "unittest",
+        "six",
+        "copy",
+        "pyrad",
+        "sys",
+        "time",
+        "setuptools",
+        "internet",
+        "operator",
+        "md5",
+        "os",
+        "select",
+        "struct"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "utils",
+        "pid",
+        "datetime",
+        "tools",
+        "platform",
+        "tempfile",
+        "storage",
+        "re",
+        "json",
+        "test",
+        "config",
+        "unittest",
+        "mock",
+        "time",
+        "sys",
+        "webserver",
+        "path",
+        "holder",
+        "b",
+        "logging",
+        "socket",
+        "errbot",
+        "queue",
+        "plugin_manager",
+        "requests",
+        "os"
+    ]
+}

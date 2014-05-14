@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "division",
+        "future_builtins",
+        "string",
+        "io",
+        "cStringIO",
+        "unicode_literals",
+        "random",
+        "pyte",
+        "absolute_import",
+        "sys",
+        "operator",
+        "itertools",
+        "pytest",
+        "collections",
+        "math",
+        "setuptools",
+        "codecs",
+        "test",
+        "copy",
+        "os",
+        "print_function"
+    ]
+}

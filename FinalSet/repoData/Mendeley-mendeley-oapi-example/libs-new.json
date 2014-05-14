@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "rauth",
+        "mimetypes",
+        "oauth2",
+        "h",
+        "unittest",
+        "pprint",
+        "urllib",
+        "multiprocessing",
+        "sys",
+        "imaplib",
+        "json",
+        "b",
+        "time",
+        "pickle",
+        "requests",
+        "calendar",
+        "os",
+        "smtplib"
+    ]
+}

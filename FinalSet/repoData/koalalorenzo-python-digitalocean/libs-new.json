@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "requests",
+        "os",
+        "setuptools",
+        "ez_setup"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "conf",
+        "encoding",
+        "db",
+        "sys",
+        "setuptools",
+        "test",
+        "vobject",
+        "defaults"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "copy",
+        "e",
+        "decimal",
+        "distutils",
+        "bootstrap_install_from = egg",
+        "glob",
+        "inspect",
+        "urllib2",
+        "pkg_resources",
+        "sys",
+        "re",
+        "doctest",
+        "setuptools",
+        "should_dsl",
+        "shutil",
+        "os",
+        "unittest",
+        "types",
+        "difflib"
+    ]
+}

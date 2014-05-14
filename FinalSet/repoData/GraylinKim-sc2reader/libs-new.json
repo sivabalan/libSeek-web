@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "division",
+        "functools",
+        "ordereddict",
+        "struct",
+        "io",
+        "unicode_literals",
+        "unittest",
+        "sc2reader",
+        "absolute_import",
+        "datetime",
+        "sys",
+        "json",
+        "replay",
+        "collections",
+        "setuptools",
+        "plugins",
+        "os",
+        "unittest2",
+        "print_function",
+        "pkgutil"
+    ]
+}

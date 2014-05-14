@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "redis_completion",
+        "simplejson",
+        "unittest",
+        "random",
+        "redis",
+        "json",
+        "urllib2",
+        "sys",
+        "re",
+        "itertools",
+        "setuptools",
+        "os"
+    ]
+}

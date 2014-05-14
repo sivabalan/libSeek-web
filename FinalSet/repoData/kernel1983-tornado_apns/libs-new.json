@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "bin",
+        "core",
+        "struct",
+        "simplejson",
+        "tornado",
+        "h",
+        "functools",
+        "random",
+        "ssl",
+        "json",
+        "time",
+        "os",
+        "unittest",
+        "socket"
+    ]
+}

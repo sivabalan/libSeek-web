@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "management",
+        "logging",
+        "defaults",
+        "_pylibmc",
+        "shortcuts",
+        "cache",
+        "db",
+        "absolute_import",
+        "sys",
+        "setuptools",
+        "test",
+        "path",
+        "panels"
+    ]
+}

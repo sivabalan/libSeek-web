@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "urlparse",
+        "management",
+        "setuptools",
+        "django",
+        "sys",
+        "re",
+        "parse",
+        "doctest",
+        "defaults",
+        "codecs",
+        "contrib",
+        "tidylib",
+        "loader",
+        "os",
+        "html5lib",
+        "print_function"
+    ]
+}

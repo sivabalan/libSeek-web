@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "c",
+        "management",
+        "http",
+        "uuid",
+        "shortcuts",
+        "random",
+        "datetime",
+        "sys",
+        "b",
+        "loremipsum",
+        "template",
+        "time",
+        "urlresolvers",
+        "django",
+        "os",
+        "defaults",
+        "string"
+    ]
+}

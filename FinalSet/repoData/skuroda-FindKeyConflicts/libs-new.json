@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "sublime_plugin",
+        "logging",
+        "threading",
+        "tempfile",
+        "traceback",
+        "zipfile",
+        "strip_comm",
+        "sys",
+        "re",
+        "json",
+        "imp",
+        "codecs",
+        "copy",
+        "os",
+        "sublime"
+    ]
+}

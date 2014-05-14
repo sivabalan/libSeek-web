@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "novaclient",
+        "keyring",
+        "subprocess",
+        "sys",
+        "re",
+        "setuptools",
+        "getp",
+        "ConfigParser",
+        "os",
+        "print_function",
+        "configparser"
+    ]
+}

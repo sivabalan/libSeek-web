@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "flyingcircus",
+        "conf",
+        "shortcuts",
+        "h",
+        "setuptools",
+        "db",
+        "djangoconfig",
+        "sys",
+        "imp",
+        "template",
+        "getp",
+        "os",
+        "defaults"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "b",
+        "django_gearman",
+        "optparse",
+        "pickle",
+        "zlib",
+        "sys",
+        "gearman",
+        "conf",
+        "time",
+        "setuptools",
+        "os"
+    ]
+}

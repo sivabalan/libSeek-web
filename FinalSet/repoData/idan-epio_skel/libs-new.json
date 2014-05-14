@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "unipath",
+        "sys",
+        "b",
+        "settings",
+        "api",
+        "cache",
+        "redis",
+        "absolute_import",
+        "bundle_config",
+        "imp",
+        "management",
+        "defaults"
+    ]
+}

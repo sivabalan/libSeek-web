@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "unicode_literals",
+        "unittest",
+        "flexmock",
+        "absolute_import",
+        "datetime",
+        "parse",
+        "io",
+        "tools",
+        "re",
+        "structures",
+        "core",
+        "mimetypes",
+        "sys",
+        "tinys3",
+        "print_function",
+        "b",
+        "StringIO",
+        "h",
+        "futures",
+        "urlparse",
+        "threading",
+        "setuptools",
+        "time",
+        "requests",
+        "os",
+        "hmac"
+    ]
+}

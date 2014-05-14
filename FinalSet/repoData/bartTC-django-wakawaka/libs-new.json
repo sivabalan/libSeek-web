@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "shortcuts",
+        "conf",
+        "contrib",
+        "defaults",
+        "management",
+        "re",
+        "contenttypes",
+        "template",
+        "decorators",
+        "settings_local",
+        "http",
+        "setuptools",
+        "db",
+        "sys",
+        "urlresolvers",
+        "translation",
+        "safestring",
+        "difflib",
+        "django",
+        "context",
+        "exceptions",
+        "os"
+    ]
+}

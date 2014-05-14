@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "tests",
+        "msgpack",
+        "logging",
+        "socket",
+        "simplejson",
+        "cStringIO",
+        "io",
+        "unittest",
+        "fluent",
+        "threading",
+        "json",
+        "setuptools",
+        "time",
+        "os",
+        "print_function"
+    ]
+}

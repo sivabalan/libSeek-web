@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "cairo",
+        "utils",
+        "HTMLParser",
+        "html4css1",
+        "sgmllib",
+        "pyquery",
+        "urllib",
+        "re",
+        "core",
+        "urllib2",
+        "sys",
+        "codecs",
+        "PIL",
+        "pango",
+        "copy",
+        "types",
+        "unicodedata",
+        "StringIO",
+        "pangocairo",
+        "urlparse",
+        "setuptools",
+        "os"
+    ]
+}

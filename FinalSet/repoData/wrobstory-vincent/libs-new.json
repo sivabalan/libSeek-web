@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "ext",
+        "uuid",
+        "(print_function",
+        "unicode_literals",
+        "numpy",
+        "time",
+        "pkg_resources",
+        "datetime",
+        "sys",
+        "json",
+        "os",
+        "setuptools",
+        "pand",
+        "itertools",
+        "vincent",
+        "division)",
+        "tools",
+        "display",
+        "string"
+    ]
+}

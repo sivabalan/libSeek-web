@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "OpenStreetMap",
+        "sys",
+        "Core",
+        "optparse",
+        "glob",
+        "ModestMaps",
+        "pyproj",
+        "urlparse",
+        "path",
+        "Image",
+        "mapnik",
+        "Geography"
+    ]
+}

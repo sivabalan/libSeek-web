@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "cookies",
+        "unittest",
+        "datetime",
+        "matchers",
+        "io",
+        "compat",
+        "packages",
+        "serializers",
+        "re",
+        "json",
+        "pytest",
+        "betamax",
+        "structures",
+        "email",
+        "functools",
+        "models",
+        "urllib3",
+        "auth",
+        "sys",
+        "copy",
+        "c",
+        "b",
+        "os",
+        "itertools",
+        "setuptools",
+        "status_codes",
+        "requests",
+        "adapters"
+    ]
+}

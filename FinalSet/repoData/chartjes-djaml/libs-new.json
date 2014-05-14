@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "hamlpy",
+        "setuptools",
+        "safestring",
+        "imp",
+        "template",
+        "path",
+        "os"
+    ]
+}

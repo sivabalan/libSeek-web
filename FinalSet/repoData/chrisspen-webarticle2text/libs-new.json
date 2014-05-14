@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "core",
+        "mimetypes",
+        "formatter",
+        "optparse",
+        "h",
+        "six",
+        "request",
+        "urllib",
+        "sys",
+        "re",
+        "chardet",
+        "time",
+        "error",
+        "html_parser",
+        "tidylib",
+        "moves",
+        "os"
+    ]
+}

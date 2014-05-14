@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "fcntl",
+        "signal",
+        "hub",
+        "resolver_thread",
+        "traceback",
+        "uvent",
+        "sys",
+        "atexit",
+        "setuptools",
+        "pyuv",
+        "os",
+        "functools"
+    ]
+}

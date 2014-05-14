@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "stat",
+        "socket",
+        "sys;",
+        "Skype;",
+        "keypair;",
+        "sys",
+        "re",
+        "time",
+        "path",
+        "os"
+    ]
+}

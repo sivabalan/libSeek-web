@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "logging",
+        "socket",
+        "setuptools",
+        "re",
+        "DNS",
+        "time",
+        "smtplib"
+    ]
+}

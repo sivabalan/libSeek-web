@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "sys",
+        "management",
+        "http",
+        "pythonnexus",
+        "db",
+        "threadedclient",
+        "threading",
+        "json",
+        "template",
+        "time",
+        "contrib",
+        "jsonrpc",
+        "os"
+    ]
+}

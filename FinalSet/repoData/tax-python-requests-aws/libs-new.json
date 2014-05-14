@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "urllib",
+        "h",
+        "unittest",
+        "auth",
+        "hmac",
+        "sys",
+        "parse",
+        "urlparse",
+        "setuptools",
+        "gzip",
+        "requests",
+        "os",
+        "utils",
+        "print_function"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "functools",
+        "with_statement",
+        "absolute_import",
+        "datetime",
+        "authentication",
+        "werkzeug",
+        "document",
+        "unittest",
+        "math",
+        "schema",
+        "mongoalchemy_dat",
+        "form",
+        "models",
+        "inspect",
+        "sys",
+        "orm",
+        "fl",
+        "types",
+        "exc",
+        "fields",
+        "declarative",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "division",
+        "flexget",
+        "posixpath",
+        "unicode_literals",
+        "absolute_import",
+        "datetime",
+        "re",
+        "logging",
+        "fnmatch",
+        "entry",
+        "event",
+        "math",
+        "log"
+    ]
+}

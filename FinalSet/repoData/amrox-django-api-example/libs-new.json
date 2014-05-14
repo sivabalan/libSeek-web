@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "urlparse",
+        "management",
+        "posixpath",
+        "simple",
+        "db",
+        "contrib",
+        "datetime",
+        "sys",
+        "imp",
+        "oauth2",
+        "urllib",
+        "defaults",
+        "test",
+        "path",
+        "os",
+        "settings_b",
+        "t"
+    ]
+}

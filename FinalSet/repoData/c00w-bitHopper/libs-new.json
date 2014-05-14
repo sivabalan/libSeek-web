@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "LaggingLogic",
+        "Network",
+        "gevent_profiler",
+        "unittest",
+        "random",
+        "gevent",
+        "mechanize",
+        "event",
+        "Website",
+        "bitHopper",
+        "json",
+        "collections",
+        "numpy",
+        "btcnet_info",
+        "Datab",
+        "httplib2",
+        "Logic",
+        "fake_pool",
+        "fl",
+        "argparse",
+        "logging",
+        "socket",
+        "traceback",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

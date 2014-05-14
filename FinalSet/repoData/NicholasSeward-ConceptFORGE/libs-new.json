@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "turtle",
+        "struct",
+        "linalg",
+        "numpy",
+        "glob",
+        "random",
+        "interpolate",
+        "sys",
+        "copy",
+        "os",
+        "optimize",
+        "math"
+    ]
+}

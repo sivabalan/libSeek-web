@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "Queue",
+        "httplib",
+        "socket",
+        "clouddns",
+        "unittest",
+        "misc",
+        "urllib",
+        "datetime",
+        "sys",
+        "re",
+        "json",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os",
+        "math"
+    ]
+}

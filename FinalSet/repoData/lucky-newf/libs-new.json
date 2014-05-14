@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "cgi",
+        "simple_server",
+        "cgitb",
+        "newf",
+        "sys",
+        "re"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "justext",
+        "unicode_literals",
+        "unittest",
+        "with_statement",
+        "absolute_import",
+        "sax",
+        "contextlib",
+        "lxml",
+        "pkgutil",
+        "re",
+        "html",
+        "getopt",
+        "cgi",
+        "division",
+        "clean",
+        "handler",
+        "urllib2",
+        "sys",
+        "codecs",
+        "print_function",
+        "request",
+        "nose",
+        "setuptools",
+        "error",
+        "os"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "b",
+        "http",
+        "setuptools",
+        "conf",
+        "re",
+        "shortcuts",
+        "utils",
+        "db",
+        "dispatch",
+        "django",
+        "sys",
+        "contrib",
+        "client",
+        "template",
+        "test",
+        "management",
+        "translation",
+        "os",
+        "defaults",
+        "featureflipper"
+    ]
+}

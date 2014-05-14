@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "package_index",
+        "datetime",
+        "conf",
+        "contrib",
+        "shutil",
+        "management",
+        "buildout",
+        "tempfile",
+        "urllib",
+        "imp",
+        "test",
+        "setuptools",
+        "optparse",
+        "db",
+        "urllib2",
+        "sys",
+        "path",
+        "subprocess",
+        "commands",
+        "b",
+        "fields",
+        "pkg_resources",
+        "django",
+        "imported because of its side effects",
+        "client",
+        "defaults",
+        "urlresolvers",
+        "os"
+    ]
+}

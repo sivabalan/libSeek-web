@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "timeit",
+        "management",
+        "http",
+        "conf",
+        "optparse",
+        "signal",
+        "sys",
+        "collections",
+        "setuptools",
+        "codecs",
+        "operator",
+        "os",
+        "pyinstrument"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "string",
+        "bisect",
+        "h",
+        "random",
+        "sys",
+        "memcache",
+        "math",
+        "setuptools",
+        "time",
+        "os",
+        "types",
+        "md5"
+    ]
+}

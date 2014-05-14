@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "simplejson",
+        "unittest",
+        "urllib",
+        "sys",
+        "json",
+        "collections",
+        "setuptools",
+        "html5lib"
+    ]
+}

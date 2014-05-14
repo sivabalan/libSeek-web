@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "logging",
+        "conf",
+        "encoding",
+        "psycopg2",
+        "random",
+        "handlers",
+        "db",
+        "django",
+        "sys",
+        "threading",
+        "version",
+        "extensions",
+        "setuptools",
+        "signals",
+        "exceptions"
+    ]
+}

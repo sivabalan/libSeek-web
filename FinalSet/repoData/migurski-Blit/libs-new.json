@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "struct",
+        "Image",
+        "sympy",
+        "numpy",
+        "unittest"
+    ]
+}

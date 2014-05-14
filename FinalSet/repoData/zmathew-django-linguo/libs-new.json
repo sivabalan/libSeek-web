@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "defaults",
+        "linguo",
+        "db",
+        "related",
+        "django",
+        "urlresolvers",
+        "conf",
+        "test",
+        "translation",
+        "copy",
+        "os",
+        "contrib"
+    ]
+}

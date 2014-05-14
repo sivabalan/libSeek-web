@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "os",
+        "related",
+        "contrib",
+        "query",
+        "query_utils",
+        "cache",
+        "contenttypes",
+        "backends",
+        "template",
+        "test",
+        "cachebot",
+        "http",
+        "db",
+        "memcache",
+        "pylibmc",
+        "translation",
+        "constants",
+        "b",
+        "logging",
+        "h",
+        "django",
+        "threading",
+        "itertools",
+        "setuptools",
+        "time",
+        "exceptions",
+        "panels",
+        "where"
+    ]
+}

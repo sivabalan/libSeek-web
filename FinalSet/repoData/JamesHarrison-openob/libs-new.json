@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "pygst",
+        "gst",
+        "redis",
+        "sys",
+        "re",
+        "logging",
+        "setuptools",
+        "time",
+        "gobject",
+        "os"
+    ]
+}

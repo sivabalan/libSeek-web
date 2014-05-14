@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "errors",
+        "PIL",
+        "struct",
+        "StringIO",
+        "bs4",
+        "os",
+        "expose",
+        "traceback",
+        "sys",
+        "tempfile",
+        "fs",
+        "flickrapi",
+        "requests",
+        "b",
+        "config"
+    ]
+}

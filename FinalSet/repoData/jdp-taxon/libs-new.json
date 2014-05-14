@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "sys",
+        "heapq",
+        "h",
+        "functools",
+        "cPickle",
+        "taxon",
+        "urlparse",
+        "tools",
+        "itertools",
+        "backends",
+        "collections",
+        "doctest",
+        "setuptools",
+        "time",
+        "operator",
+        "pickle",
+        "path",
+        "os"
+    ]
+}

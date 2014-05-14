@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "heapq",
+        "os",
+        "unittest",
+        "random",
+        "io",
+        "bitarray",
+        "shutil",
+        "bz2",
+        "re",
+        "tempfile",
+        "_bitarray",
+        "platform",
+        "collections",
+        "numpy",
+        "math",
+        "core",
+        "cPickle",
+        "time",
+        "sys",
+        "scipy",
+        "path",
+        "copy",
+        "h",
+        "itertools",
+        "shelve",
+        "pickle"
+    ]
+}

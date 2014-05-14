@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unicode_literals",
+        "unittest",
+        "__builtin__",
+        "numbers",
+        "struct",
+        "compatcrypto",
+        "potr",
+        "collections",
+        "core",
+        "H",
+        "Crypto",
+        "sys",
+        "otr",
+        "print_function",
+        "b",
+        "logging",
+        "os",
+        "Random",
+        "PublicKey",
+        "setuptools",
+        "time",
+        "install_lib",
+        "pickle"
+    ]
+}

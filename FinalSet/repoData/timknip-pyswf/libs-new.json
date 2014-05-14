@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "lxml",
+        "PIL",
+        "struct",
+        "StringIO",
+        "zlib",
+        "re",
+        "b",
+        "setuptools",
+        "copy",
+        "os",
+        "math"
+    ]
+}

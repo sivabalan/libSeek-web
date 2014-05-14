@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "time",
+        "simplejson",
+        "settings",
+        "UserDict",
+        "unittest",
+        "deprecated",
+        "urllib",
+        "datetime",
+        "urlparse",
+        "loading",
+        "sys",
+        "httplib2",
+        "conf",
+        "h",
+        "collections",
+        "ElementTree",
+        "os",
+        "hmac"
+    ]
+}

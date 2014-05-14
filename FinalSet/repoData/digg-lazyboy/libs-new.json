@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "protocol",
+        "unittest",
+        "random",
+        "with_statement",
+        "contextlib",
+        "operator",
+        "transport",
+        "uuid",
+        "errno",
+        "pprint",
+        "collections",
+        "thrift",
+        "functools",
+        "math",
+        "lazyboy",
+        "glob",
+        "types",
+        "test_b",
+        "c",
+        "b",
+        "logging",
+        "socket",
+        "TTransport",
+        "threading",
+        "itertools",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "threading",
+        "subprocess",
+        "popen2",
+        "request",
+        "collections",
+        "urllib",
+        "desktop",
+        "sys",
+        "re",
+        "webbrowser",
+        "path",
+        "sublime_plugin",
+        "os",
+        "sublime"
+    ]
+}

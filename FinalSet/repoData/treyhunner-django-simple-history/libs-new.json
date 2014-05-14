@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "encoding",
+        "unicode_literals",
+        "utils",
+        "related",
+        "datetime",
+        "contrib",
+        "timezone",
+        "shutil",
+        "simple",
+        "django_webtest",
+        "loading",
+        "six",
+        "apps",
+        "runner",
+        "test",
+        "defaults",
+        "db",
+        "auth",
+        "sys",
+        "path",
+        "translation",
+        "copy",
+        "b",
+        "simple_history",
+        "django",
+        "setuptools",
+        "urlresolvers",
+        "os"
+    ]
+}

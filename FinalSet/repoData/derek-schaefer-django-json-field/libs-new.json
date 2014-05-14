@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "division",
+        "unicode_literals",
+        "unittest",
+        "datetime",
+        "contrib",
+        "dateutil",
+        "management",
+        "six",
+        "re",
+        "json",
+        "test",
+        "core",
+        "inspect",
+        "db",
+        "sys",
+        "translation",
+        "json_field",
+        "decimal",
+        "modelsinspector",
+        "setuptools",
+        "exceptions",
+        "os"
+    ]
+}

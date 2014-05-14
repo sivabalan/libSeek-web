@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "paginator",
+        "core",
+        "serializers",
+        "encoding",
+        "db",
+        "operator",
+        "json",
+        "query",
+        "exceptions",
+        "http",
+        "os"
+    ]
+}

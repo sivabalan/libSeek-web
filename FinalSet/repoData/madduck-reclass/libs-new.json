@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "cl",
+        "recl",
+        "re",
+        "optparse",
+        "unittest",
+        "traceback",
+        "sys",
+        "yaml",
+        "json",
+        "posix",
+        "shlex",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "types",
+        "os",
+        "mock"
+    ]
+}

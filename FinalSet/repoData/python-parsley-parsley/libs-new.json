@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "defer",
+        "unicode_literals",
+        "unittest",
+        "absolute_import",
+        "datetime",
+        "io",
+        "scrolledtext",
+        "operator",
+        "pytest",
+        "collections",
+        "math",
+        "core",
+        "string",
+        "textwrap",
+        "sys",
+        "failure",
+        "pytz",
+        "ometa",
+        "tkinter",
+        "types",
+        "qu",
+        "StringIO",
+        "linecache",
+        "itertools",
+        "t",
+        "time",
+        "path",
+        "endpoints",
+        "os"
+    ]
+}

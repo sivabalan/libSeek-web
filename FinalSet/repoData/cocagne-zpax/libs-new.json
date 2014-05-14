@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "random",
+        "functional",
+        "shutil",
+        "network",
+        "tempfile",
+        "json",
+        "collections",
+        "internet",
+        "sqlite3",
+        "core",
+        "python",
+        "interfaces",
+        "zpax",
+        "sys",
+        "interface",
+        "path",
+        "constants",
+        "socket",
+        "pickle",
+        "traceback",
+        "practical",
+        "trial",
+        "context",
+        "time",
+        "os"
+    ]
+}

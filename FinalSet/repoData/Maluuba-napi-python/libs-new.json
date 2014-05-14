@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "logging",
+        "unittest",
+        "datetime",
+        "json",
+        "maluuba_napi",
+        "requests"
+    ]
+}

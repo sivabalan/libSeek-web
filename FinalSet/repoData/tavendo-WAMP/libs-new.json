@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "mimetypes",
+        "uuid",
+        "optparse",
+        "fl",
+        "wsgi",
+        "server",
+        "sys",
+        "python",
+        "connection",
+        "static",
+        "key",
+        "internet",
+        "os"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "urlparse",
+        "os",
+        "h",
+        "unittest",
+        "random",
+        "with_statement",
+        "absolute_import",
+        "datetime",
+        "sys",
+        "parse",
+        "setuptools",
+        "security",
+        "fl"
+    ]
+}

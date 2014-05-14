@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "loading",
+        "setuptools",
+        "db",
+        "django",
+        "sys",
+        "collections",
+        "template",
+        "test",
+        "copy"
+    ]
+}

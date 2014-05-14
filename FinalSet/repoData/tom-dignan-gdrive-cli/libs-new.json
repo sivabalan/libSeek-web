@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "argparse",
+        "traceback",
+        "http",
+        "pickle",
+        "pprint",
+        "db",
+        "sys",
+        "oauth",
+        "client",
+        "tools",
+        "httplib2",
+        "file",
+        "sqlite3",
+        "os",
+        "apiclient",
+        "discovery"
+    ]
+}

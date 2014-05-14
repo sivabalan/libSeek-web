@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "struct",
+        "UserDict",
+        "itertools",
+        "doctest",
+        "math",
+        "socket"
+    ]
+}

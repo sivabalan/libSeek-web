@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "code",
+        "absolute_import",
+        "subprocess",
+        "contextlib",
+        "actually pillow",
+        "shutil",
+        "tempfile",
+        "PBundler",
+        "platform",
+        "pbundler",
+        "glob",
+        "urllib2",
+        "sys",
+        "ctypes",
+        "readline",
+        "rlcompleter",
+        "print_function",
+        "h",
+        "traceback",
+        "xmlrpclib",
+        "pkg_resources",
+        "setuptools",
+        "os"
+    ]
+}

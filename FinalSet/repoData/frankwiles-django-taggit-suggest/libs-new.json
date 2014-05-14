@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "conf",
+        "re",
+        "simple",
+        "setuptools",
+        "db",
+        "contrib",
+        "sys",
+        "test",
+        "Stemmer",
+        "exceptions",
+        "path",
+        "translation",
+        "os"
+    ]
+}

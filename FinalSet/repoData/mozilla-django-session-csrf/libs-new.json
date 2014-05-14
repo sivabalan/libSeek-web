@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "core",
+        "wsgi",
+        "decorators",
+        "setuptools",
+        "conf",
+        "h",
+        "middleware",
+        "cache",
+        "db",
+        "utils",
+        "auth",
+        "django",
+        "functools",
+        "urllib",
+        "template",
+        "test",
+        "os",
+        "defaults",
+        "mock",
+        "session_csrf"
+    ]
+}

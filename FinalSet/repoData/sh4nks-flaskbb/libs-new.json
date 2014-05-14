@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "functools",
+        "with_statement",
+        "datetime",
+        "validators",
+        "operator",
+        "postmarkup",
+        "re",
+        "pytest",
+        "collections",
+        "config",
+        "core",
+        "sqlalchemy",
+        "sys",
+        "fl",
+        "unicodedata",
+        "logging",
+        "exc",
+        "handlers",
+        "fields",
+        "itertools",
+        "wtforms",
+        "setuptools",
+        "time",
+        "os",
+        "alembic"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "http",
+        "defaults",
+        "shortcuts",
+        "unittest",
+        "cache",
+        "sys",
+        "json",
+        "management",
+        "template",
+        "test",
+        "os",
+        "utils"
+    ]
+}

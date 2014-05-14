@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "commands",
+        "uuid",
+        "conf",
+        "encoding",
+        "optparse",
+        "db",
+        "django_nose",
+        "modelsinspector",
+        "django",
+        "sys",
+        "absolute_import",
+        "setuptools",
+        "test",
+        "extr"
+    ]
+}

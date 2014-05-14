@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "socket",
+        "unittest",
+        "redis",
+        "itertools",
+        "subprocess",
+        "Queue",
+        "connection",
+        "client",
+        "collections",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

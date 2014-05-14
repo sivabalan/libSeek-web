@@ -1,0 +1,17 @@
+{
+    "libs": [
+        "core",
+        "copy",
+        "simplejson",
+        "cStringIO",
+        "table_fu",
+        "unittest",
+        "StringIO",
+        "with_statement",
+        "urllib2",
+        "re",
+        "json",
+        "statestyle",
+        "csv"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "cStringIO",
+        "simple",
+        "unittest",
+        "jsmin",
+        "subprocess",
+        "conf",
+        "slimmer",
+        "shutil",
+        "management",
+        "importlib",
+        "tempfile",
+        "re",
+        "collections",
+        "template",
+        "core",
+        "stat",
+        "warnings",
+        "staticfiles",
+        "db",
+        "sys",
+        "coverage",
+        "codecs",
+        "cssmin",
+        "django",
+        "posix",
+        "defaults",
+        "time",
+        "os"
+    ]
+}

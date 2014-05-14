@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "ioloop",
+        "web",
+        "httpserver",
+        "http",
+        "socket",
+        "hub",
+        "tornado",
+        "errno",
+        "functools",
+        "pprint",
+        "sys",
+        "gevent",
+        "os",
+        "time",
+        "cgi",
+        "options"
+    ]
+}

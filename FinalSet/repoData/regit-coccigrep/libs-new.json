@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "string",
+        "tempfile",
+        "errno",
+        "filters",
+        "subprocess",
+        "sys",
+        "re",
+        "version",
+        "os",
+        "setuptools",
+        "ConfigParser",
+        "pygments",
+        "formatters",
+        "pickle",
+        "multiprocessing",
+        "lexers"
+    ]
+}

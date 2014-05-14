@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "h",
+        "sqlalchemy",
+        "views",
+        "os",
+        "functools",
+        "difflib",
+        "datab",
+        "sys",
+        "re",
+        "markdown",
+        "werkzeug",
+        "time",
+        "feather",
+        "b",
+        "fl"
+    ]
+}

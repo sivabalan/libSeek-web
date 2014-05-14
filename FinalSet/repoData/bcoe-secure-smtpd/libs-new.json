@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "argparse",
+        "b",
+        "logging",
+        "socket",
+        "secure_smtpd",
+        "handlers",
+        "Queue",
+        "ssl",
+        "sys",
+        "setuptools",
+        "time",
+        "smtpd",
+        "smtplib",
+        "config",
+        "multiprocessing"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "sgmllib",
+        "random",
+        "dom",
+        "logging",
+        "re",
+        "utils",
+        "time",
+        "urllib",
+        "datetime",
+        "sys",
+        "cElementTree",
+        "ext",
+        "api",
+        "generators",
+        "doctest",
+        "saxutils",
+        "UserString",
+        "webapp",
+        "os",
+        "types"
+    ]
+}

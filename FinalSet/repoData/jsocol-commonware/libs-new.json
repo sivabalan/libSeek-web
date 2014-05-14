@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "test_utils",
+        "commonware",
+        "conf",
+        "os",
+        "functools",
+        "db",
+        "api",
+        "setuptools",
+        "http",
+        "tools"
+    ]
+}

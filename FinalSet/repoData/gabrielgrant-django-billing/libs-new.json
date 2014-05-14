@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "ordereddict",
+        "features",
+        "example_sa",
+        "dispatch",
+        "datetime",
+        "conf",
+        "contrib",
+        "feature_pricing",
+        "manual_intervention",
+        "generic",
+        "imp",
+        "decorators",
+        "http",
+        "defaults",
+        "db",
+        "sys",
+        "v2",
+        "pkgutil",
+        "b",
+        "django",
+        "setuptools",
+        "urlresolvers"
+    ]
+}

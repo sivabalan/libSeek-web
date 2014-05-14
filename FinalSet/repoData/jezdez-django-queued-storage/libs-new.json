@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "files",
+        "b",
+        "http",
+        "log",
+        "tempfile",
+        "cache",
+        "storage",
+        "functional",
+        "dispatch",
+        "datetime",
+        "appconf",
+        "exceptions",
+        "t",
+        "setuptools",
+        "test",
+        "timezone",
+        "shutil",
+        "os",
+        "six",
+        "importlib"
+    ]
+}

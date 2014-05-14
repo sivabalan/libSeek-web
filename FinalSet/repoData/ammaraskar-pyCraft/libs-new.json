@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "traceback",
+        "io",
+        "networking",
+        "struct",
+        "pynbt",
+        "PublicKey",
+        "urllib",
+        "Util",
+        "re",
+        "json",
+        "Cipher",
+        "getp",
+        "string",
+        "optparse",
+        "urllib2",
+        "sys",
+        "colorama",
+        "imp",
+        "copy",
+        "types",
+        "unicodedata",
+        "b",
+        "socket",
+        "h",
+        "Random",
+        "threading",
+        "gzip",
+        "os"
+    ]
+}

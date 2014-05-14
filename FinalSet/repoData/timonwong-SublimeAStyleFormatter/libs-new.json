@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "division",
+        "AStyleFormatterLib",
+        "py",
+        "urllib",
+        "sys",
+        "re",
+        "json",
+        "sublime",
+        "time",
+        "sublime_plugin",
+        "os",
+        "math"
+    ]
+}

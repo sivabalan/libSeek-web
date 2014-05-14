@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "encoding",
+        "shortcuts",
+        "utils",
+        "functional",
+        "defaulttags",
+        "conf",
+        "contrib",
+        "management",
+        "urllib",
+        "imp",
+        "template",
+        "test",
+        "http",
+        "setuptools",
+        "db",
+        "urllib2",
+        "auth",
+        "sys",
+        "csrf",
+        "translation",
+        "h",
+        "django",
+        "loginza",
+        "defaults",
+        "urlresolvers"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "inspect",
+        "struct",
+        "lib",
+        "warnings",
+        "datetime",
+        "UserDict",
+        "unittest",
+        "pprint",
+        "traceback",
+        "pdb",
+        "construct",
+        "subprocess",
+        "sys",
+        "psyco",
+        "setuptools",
+        "time",
+        "copy",
+        "os",
+        "functools"
+    ]
+}

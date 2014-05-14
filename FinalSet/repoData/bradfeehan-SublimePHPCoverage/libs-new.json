@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "sys",
+        "pprint",
+        "java",
+        "keyword",
+        "threading",
+        "h",
+        "functools",
+        "inspect",
+        "_io",
+        "re",
+        "sublime_plugin",
+        "ElementTree",
+        "os",
+        "unittest",
+        "sublime"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "json",
+        "fl",
+        "setuptools",
+        "werkzeug"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "tempfile",
+        "b",
+        "logging",
+        "socket",
+        "SocketServer",
+        "handlers",
+        "optparse",
+        "errno",
+        "signal",
+        "time",
+        "the \"Baz\" cl",
+        "sys",
+        "re",
+        "random",
+        "pytest",
+        "collections",
+        "setuptools",
+        "threading",
+        "copy",
+        "math",
+        "ConfigParser"
+    ]
+}

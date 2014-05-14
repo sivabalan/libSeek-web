@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "random",
+        "datetime",
+        "select",
+        "struct",
+        "psycopg2",
+        "json",
+        "collections",
+        "gridfs",
+        "pymongo",
+        "core",
+        "GeoIP",
+        "util",
+        "mongodb",
+        "md5",
+        "sys",
+        "logging",
+        "socket",
+        "h",
+        "traceback",
+        "evnet",
+        "urlparse",
+        "time",
+        "os"
+    ]
+}

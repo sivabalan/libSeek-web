@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "encoding",
+        "utils",
+        "parse",
+        "contrib",
+        "management",
+        "generic",
+        "six",
+        "urllib",
+        "json",
+        "test",
+        "decorators",
+        "core",
+        "warnings",
+        "db",
+        "sys",
+        "urlresolvers",
+        "csrf",
+        "path",
+        "b",
+        "decimal",
+        "traceback",
+        "django",
+        "client",
+        "setuptools",
+        "testproject",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "sqlalchemy",
+        "exc",
+        "invoke",
+        "failure",
+        "interfaces",
+        "sys",
+        "trial",
+        "alchimia",
+        "b",
+        "threads",
+        "setuptools",
+        "interface",
+        "strategies",
+        "os",
+        "schema"
+    ]
+}

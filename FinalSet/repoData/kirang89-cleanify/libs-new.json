@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "cssutils",
+        "futures",
+        "jsbeautifier",
+        "sys",
+        "tidylib",
+        "os"
+    ]
+}

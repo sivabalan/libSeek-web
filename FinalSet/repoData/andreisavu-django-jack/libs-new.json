@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "http",
+        "conf",
+        "os",
+        "db",
+        "django",
+        "urlparse",
+        "beanstalkc",
+        "beanstalk",
+        "sys",
+        "template",
+        "test",
+        "decorators",
+        "defaults",
+        "local_settings"
+    ]
+}

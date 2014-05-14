@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "core",
+        "heapq",
+        "division",
+        "unicode_literals",
+        "utils",
+        "util",
+        "snownlp",
+        "subprocess",
+        "sys",
+        "fnmatch",
+        "sim",
+        "print_function",
+        "setuptools",
+        "codecs",
+        "gzip",
+        "summary",
+        "os",
+        "marshal",
+        "math"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "encoding",
+        "models",
+        "os",
+        "utils",
+        "views",
+        "functional",
+        "urllib",
+        "django",
+        "sys",
+        "optparse",
+        "setuptools",
+        "contrib",
+        "path",
+        "datetime",
+        "urllib2",
+        "simple"
+    ]
+}

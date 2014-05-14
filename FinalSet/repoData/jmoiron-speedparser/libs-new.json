@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "unittest",
+        "datetime",
+        "filters",
+        "set_trace();",
+        "lxml",
+        "pprint",
+        "re",
+        "json",
+        "feedparser",
+        "email",
+        "clean",
+        "simplejson",
+        "glob",
+        "sys",
+        "traceback",
+        "difflib",
+        "multiprocessing",
+        "urlparse",
+        "chardet",
+        "setuptools",
+        "time",
+        "os",
+        "html"
+    ]
+}

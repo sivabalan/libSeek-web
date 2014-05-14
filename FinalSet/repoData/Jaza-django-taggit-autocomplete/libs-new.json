@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "core",
+        "http",
+        "conf",
+        "models",
+        "safestring",
+        "setuptools",
+        "django",
+        "forms",
+        "defaults",
+        "urlresolvers",
+        "translation"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "bin",
+        "struct",
+        "simplejson",
+        "utils",
+        "setuptools",
+        "db",
+        "contrib",
+        "datetime",
+        "ssl",
+        "json",
+        "actions",
+        "conf",
+        "test",
+        "os",
+        "math",
+        "socket"
+    ]
+}

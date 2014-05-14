@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "code",
+        "objectid",
+        "unittest",
+        "__builtin__",
+        "son",
+        "operator",
+        "bson",
+        "execjs",
+        "errors",
+        "uuid",
+        "platform",
+        "six",
+        "re",
+        "json",
+        "mongomock",
+        "collections",
+        "pymongo",
+        "unittest2",
+        "functools",
+        "simplejson",
+        "warnings",
+        "sentinels",
+        "sys",
+        "copy",
+        "datab",
+        "itertools",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

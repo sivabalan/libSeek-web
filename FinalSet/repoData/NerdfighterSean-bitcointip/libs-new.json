@@ -1,0 +1,23 @@
+{
+    "libs": [
+        "parse",
+        "httplib",
+        "sqlalchemy",
+        "jsonrpc",
+        "string",
+        "praw",
+        "yaml",
+        "functools",
+        "random",
+        "urllib2",
+        "client",
+        "urlparse",
+        "re",
+        "b",
+        "orm",
+        "time",
+        "subprocess",
+        "decimal",
+        "pool"
+    ]
+}

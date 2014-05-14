@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "scss",
+        "cPickle",
+        "b",
+        "PIL",
+        "colorsys",
+        "optparse",
+        "unittest",
+        "mimetypes",
+        "sys",
+        "atexit",
+        "itertools",
+        "collections",
+        "setuptools",
+        "time",
+        "operator",
+        "path",
+        "pyparsing",
+        "os",
+        "readline",
+        "math"
+    ]
+}

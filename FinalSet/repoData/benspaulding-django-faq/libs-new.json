@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "core",
+        "db",
+        "sites",
+        "indexes",
+        "sys",
+        "defaultfilters",
+        "defaults",
+        "contrib",
+        "translation",
+        "django",
+        "os",
+        "haystack"
+    ]
+}

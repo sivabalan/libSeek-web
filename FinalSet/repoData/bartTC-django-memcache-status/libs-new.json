@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "urls",
+        "management",
+        "conf",
+        "models",
+        "cache",
+        "django",
+        "setuptools",
+        "test",
+        "sys",
+        "defaults",
+        "contrib",
+        "datetime"
+    ]
+}

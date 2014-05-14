@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "completion",
+        "sys",
+        "b",
+        "http",
+        "setuptools",
+        "warnings",
+        "simple",
+        "db",
+        "redis",
+        "pysolr",
+        "signals",
+        "re",
+        "v2",
+        "conf",
+        "query",
+        "datetime",
+        "os",
+        "defaults",
+        "optparse",
+        "template"
+    ]
+}

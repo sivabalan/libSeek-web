@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "cookies",
+        "unittest",
+        "conf",
+        "loading",
+        "urllib",
+        "json",
+        "Cookie",
+        "template",
+        "bin",
+        "simplejson",
+        "warnings",
+        "db",
+        "urllib2",
+        "sys",
+        "duoshuo",
+        "httplib",
+        "b",
+        "settings",
+        "h",
+        "jwt",
+        "django",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os",
+        "hmac"
+    ]
+}

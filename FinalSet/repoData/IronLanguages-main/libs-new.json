@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "sys",
+        "IronPythonTest",
+        "iptest",
+        "thread",
+        "warnings",
+        "File",
+        "Path",
+        "time",
+        "System",
+        "Win32",
+        "Threading",
+        "client",
+        "os",
+        "IO",
+        "Diagnostics",
+        "exceptions",
+        "path",
+        "IronPython",
+        "nt",
+        "clr"
+    ]
+}

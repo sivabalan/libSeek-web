@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "division",
+        "docx",
+        "lxml",
+        "struct",
+        "StringIO",
+        "unicode_literals",
+        "h",
+        "setuptools",
+        "zipfile",
+        "absolute_import",
+        "behave",
+        "sys",
+        "re",
+        "pytest",
+        "mock",
+        "io",
+        "(",
+        "os",
+        "print_function",
+        "posixpath"
+    ]
+}

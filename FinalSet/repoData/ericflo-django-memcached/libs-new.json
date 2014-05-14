@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "http",
+        "conf",
+        "shortcuts",
+        "cache",
+        "datetime",
+        "setuptools",
+        "memcache",
+        "template",
+        "decorators",
+        "defaults"
+    ]
+}

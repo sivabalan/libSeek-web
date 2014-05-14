@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "encoding",
+        "unittest",
+        "subprocess",
+        "conf",
+        "shutil",
+        "tempfile",
+        "re",
+        "http",
+        "context",
+        "global_settings",
+        "sys",
+        "staticfiles",
+        "path",
+        "b",
+        "logging",
+        "socket",
+        "h",
+        "urlparse",
+        "threading",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "configobj",
+        "functools",
+        "colors",
+        "shutil",
+        "pyplot",
+        "re",
+        "version",
+        "mpltools",
+        "tokenize",
+        "widgets",
+        "numpy",
+        "warnings",
+        "python",
+        "inspect",
+        "textwrap",
+        "matplotlib",
+        "sys",
+        "path",
+        "ticker",
+        "types",
+        "c",
+        "sphinx",
+        "statemachine",
+        "StringIO",
+        "pydoc",
+        "token",
+        "setuptools",
+        "os"
+    ]
+}

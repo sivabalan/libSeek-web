@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "locale",
+        "unittest",
+        "absolute_import",
+        "datetime",
+        "yanc",
+        "lxml",
+        "re",
+        "urllib",
+        "imp",
+        "json",
+        "sqlite3",
+        "mock",
+        "kaa",
+        "inspect",
+        "Queue",
+        "ssl",
+        "irctk",
+        "sys",
+        "b",
+        "socket",
+        "thread",
+        "StringIO",
+        "threading",
+        "itertools",
+        "math",
+        "setuptools",
+        "time",
+        "requests",
+        "os"
+    ]
+}

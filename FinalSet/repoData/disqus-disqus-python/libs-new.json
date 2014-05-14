@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "bin",
+        "httplib",
+        "setuptools",
+        "simplejson",
+        "warnings",
+        "h",
+        "unittest",
+        "urllib",
+        "urlparse",
+        "disqusapi",
+        "path",
+        "os",
+        "hmac",
+        "mock"
+    ]
+}

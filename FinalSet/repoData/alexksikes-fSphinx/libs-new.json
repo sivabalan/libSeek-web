@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "weakref",
+        "ordereddict",
+        "simplejson",
+        "web",
+        "simsearch",
+        "h",
+        "redis",
+        "config",
+        "urllib",
+        "sphinxapi",
+        "sys",
+        "re",
+        "collections",
+        "urlparse",
+        "codecs",
+        "operator",
+        "getopt",
+        "core",
+        "copy",
+        "os",
+        "fsphinx"
+    ]
+}

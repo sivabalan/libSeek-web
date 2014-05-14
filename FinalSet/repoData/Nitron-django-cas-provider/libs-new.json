@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "c",
+        "b",
+        "http",
+        "conf",
+        "shortcuts",
+        "setuptools",
+        "db",
+        "auth",
+        "datetime",
+        "random",
+        "template",
+        "contrib",
+        "django",
+        "defaults",
+        "string"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "unittest",
+        "datetime",
+        "MySQLdb",
+        "mosql",
+        "timeit",
+        "psycopg2",
+        "pprint",
+        "imp",
+        "collections",
+        "sqlite3",
+        "functools",
+        "simplejson",
+        "sys",
+        "path",
+        "fl",
+        "pool",
+        "b",
+        "itertools",
+        "extensions",
+        "doctest",
+        "setuptools",
+        "os"
+    ]
+}

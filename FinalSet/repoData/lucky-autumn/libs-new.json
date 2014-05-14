@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "re",
+        "unittest",
+        "db",
+        "datetime",
+        "autumn",
+        "threading",
+        "MySQLdb",
+        "sqlite3"
+    ]
+}

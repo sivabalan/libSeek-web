@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "re",
+        "tempfile",
+        "unittest",
+        "pyPdf",
+        "subprocess",
+        "sys",
+        "staplelib",
+        "optparse",
+        "setuptools",
+        "getp",
+        "path",
+        "shutil",
+        "os",
+        "math"
+    ]
+}

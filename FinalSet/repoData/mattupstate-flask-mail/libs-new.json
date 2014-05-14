@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "b",
+        "blinker",
+        "header",
+        "fl",
+        "unittest",
+        "warnings",
+        "with_statement",
+        "datetime",
+        "sys",
+        "re",
+        "encoders",
+        "text",
+        "multipart",
+        "setuptools",
+        "time",
+        "contextlib",
+        "smtplib",
+        "subprocess",
+        "os",
+        "email",
+        "utils"
+    ]
+}

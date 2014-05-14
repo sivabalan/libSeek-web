@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "markdown",
+        "unittest",
+        "gitlab",
+        "sys",
+        "json",
+        "setuptools",
+        "requests",
+        "os"
+    ]
+}

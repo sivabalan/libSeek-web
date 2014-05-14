@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "cgi",
+        "argparse",
+        "b",
+        "compute",
+        "pkgutil",
+        "simplejson",
+        "StringIO",
+        "os",
+        "prettytable",
+        "pkg_resources",
+        "urllib",
+        "sys",
+        "json",
+        "httplib2",
+        "setuptools",
+        "time",
+        "getp",
+        "openstack",
+        "tools",
+        "mock",
+        "urlparse"
+    ]
+}

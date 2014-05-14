@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "cStringIO",
+        "encoding",
+        "rest",
+        "session",
+        "conf",
+        "path",
+        "contrib",
+        "management",
+        "re",
+        "errno",
+        "cache",
+        "urllib",
+        "imp",
+        "test",
+        "django_dropbox",
+        "files",
+        "defaults",
+        "db",
+        "sys",
+        "dropbox",
+        "b",
+        "StringIO",
+        "urlparse",
+        "itertools",
+        "client",
+        "setuptools",
+        "os"
+    ]
+}

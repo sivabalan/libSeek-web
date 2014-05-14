@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "parse",
+        "style",
+        "sqlalchemy",
+        "logging",
+        "os",
+        "unittest",
+        "urllib",
+        "urlparse",
+        "re",
+        "token",
+        "declarative",
+        "sys",
+        "setuptools",
+        "orm",
+        "requests",
+        "fl",
+        "functools",
+        "mock"
+    ]
+}

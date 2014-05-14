@@ -1,0 +1,27 @@
+{
+    "libs": [
+        "random",
+        "datetime",
+        "pygments",
+        "escape",
+        "formatters",
+        "web",
+        "const",
+        "pprint",
+        "apps",
+        "re",
+        "optparse",
+        "test_markdown2",
+        "sys",
+        "codecs",
+        "libs",
+        "path",
+        "md5",
+        "logging",
+        "h",
+        "datab",
+        "doctest",
+        "sets",
+        "os"
+    ]
+}

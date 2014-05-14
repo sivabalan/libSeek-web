@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "argparse",
+        "getsize",
+        "e",
+        "Distutils",
+        "unittest",
+        "backend_agg",
+        "matplotlib",
+        "pkg_resources",
+        "sys",
+        "command",
+        "setuptools",
+        "time",
+        "operator",
+        "copy",
+        "os",
+        "pyplot",
+        "types"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "defer",
+        "b",
+        "trial",
+        "python",
+        "unittest",
+        "internet",
+        "twistar",
+        "re",
+        "MySQLdb",
+        "setuptools",
+        "enterprise",
+        "B"
+    ]
+}

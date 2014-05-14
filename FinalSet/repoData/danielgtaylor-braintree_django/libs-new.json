@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "core",
+        "datetime",
+        "django",
+        "util",
+        "itertools",
+        "doctest",
+        "conf",
+        "copy",
+        "braintree"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "setuptools",
+        "re",
+        "optparse",
+        "utils",
+        "db",
+        "django",
+        "exceptions",
+        "conf",
+        "codecs",
+        "test",
+        "os",
+        "unittest"
+    ]
+}

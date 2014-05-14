@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "tokens",
+        "core",
+        "string",
+        "sqlparse",
+        "numpy",
+        "unittest",
+        "dat",
+        "re",
+        "setuptools",
+        "pand",
+        "sqlite3",
+        "os"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "b",
+        "ops",
+        "geometry",
+        "osgeo",
+        "geos",
+        "rtree",
+        "sys",
+        "optparse",
+        "itertools",
+        "sqlite3",
+        "path",
+        "wkb",
+        "Bloch"
+    ]
+}

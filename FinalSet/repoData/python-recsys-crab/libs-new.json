@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "distance",
+        "b",
+        "stats",
+        "sparse",
+        "warnings",
+        "numpy",
+        "utils",
+        "inspect",
+        "scipy",
+        "testing",
+        "tools",
+        "setuptools",
+        "logging",
+        "os"
+    ]
+}

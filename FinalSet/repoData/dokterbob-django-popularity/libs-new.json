@@ -1,0 +1,21 @@
+{
+    "libs": [
+        "core",
+        "popularity",
+        "http",
+        "template",
+        "unittest",
+        "random",
+        "db",
+        "dispatch",
+        "datetime",
+        "contenttypes",
+        "conf",
+        "time",
+        "logging",
+        "expressions",
+        "django",
+        "defaults",
+        "math"
+    ]
+}

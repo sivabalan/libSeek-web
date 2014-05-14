@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "baidupcs",
+        "core",
+        "unicode_literals",
+        "h",
+        "functools",
+        "zlib",
+        "urllib",
+        "parse",
+        "requests_toolbelt",
+        "json",
+        "sys",
+        "setuptools",
+        "time",
+        "requests",
+        "os",
+        "codecs"
+    ]
+}

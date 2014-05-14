@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "fcntl",
+        "urlparse",
+        "websocket",
+        "exc",
+        "argparse",
+        "middleware",
+        "geventclient",
+        "sys",
+        "gevent",
+        "geventserver",
+        "setuptools",
+        "socket",
+        "os",
+        "event",
+        "patch_thread()",
+        "string"
+    ]
+}

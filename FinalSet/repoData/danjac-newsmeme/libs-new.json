@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "markdown",
+        "newsmeme",
+        "functools",
+        "random",
+        "datetime",
+        "forms",
+        "re",
+        "feedparser",
+        "werkzeug",
+        "production_settings",
+        "uwsgi",
+        "tests",
+        "sqlalchemy",
+        "blinker",
+        "models",
+        "fab_settings",
+        "sys",
+        "atom",
+        "fl",
+        "logging",
+        "handlers",
+        "h",
+        "urlparse",
+        "setuptools",
+        "os"
+    ]
+}

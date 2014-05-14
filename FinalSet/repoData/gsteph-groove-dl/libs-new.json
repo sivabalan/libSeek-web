@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "random",
+        "subprocess",
+        "shutil",
+        "ObjectListView",
+        "py2exe",
+        "tempfile",
+        "urllib",
+        "wx",
+        "math",
+        "core",
+        "string",
+        "sys",
+        "ctypes",
+        "newevent",
+        "ConfigParser",
+        "uuid",
+        "httplib",
+        "b",
+        "StringIO",
+        "h",
+        "threading",
+        "time",
+        "gzip",
+        "webbrowser",
+        "os"
+    ]
+}

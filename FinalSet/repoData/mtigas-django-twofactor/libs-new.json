@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "encoding",
+        "shortcuts",
+        "random",
+        "conf",
+        "contrib",
+        "array",
+        "management",
+        "sites",
+        "urllib",
+        "imp",
+        "backends",
+        "template",
+        "bin",
+        "Cipher",
+        "string",
+        "django_twofactor",
+        "db",
+        "auth",
+        "sys",
+        "translation",
+        "b",
+        "socket",
+        "os",
+        "django",
+        "defaults",
+        "h",
+        "oath"
+    ]
+}

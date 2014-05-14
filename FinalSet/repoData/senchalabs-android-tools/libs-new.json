@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "unittest",
+        "subprocess",
+        "atexit",
+        "operator",
+        "array",
+        "PIL",
+        "struct",
+        "tempfile",
+        "errno",
+        "re",
+        "generators",
+        "numpy",
+        "math",
+        "warnings",
+        "optparse",
+        "sys",
+        "readline",
+        "b",
+        "socket",
+        "thread",
+        "StringIO",
+        "h",
+        "zlib",
+        "itertools",
+        "time",
+        "os"
+    ]
+}

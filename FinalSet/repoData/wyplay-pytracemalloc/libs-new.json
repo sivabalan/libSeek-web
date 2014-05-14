@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "reprlib",
+        "cStringIO",
+        "unittest",
+        "with_statement",
+        "datetime",
+        "gc",
+        "io",
+        "operator",
+        "importlib",
+        "imp",
+        "cProfile",
+        "core",
+        "cPickle",
+        "optparse",
+        "_tracemalloc",
+        "repr",
+        "sys",
+        "ctypes",
+        "subprocess",
+        "types",
+        "StringIO",
+        "pickle",
+        "psutil",
+        "time",
+        "fnmatch",
+        "os"
+    ]
+}

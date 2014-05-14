@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "core",
+        "for zip_safe and install_requires",
+        "threading",
+        "subprocess",
+        "sys",
+        "imp",
+        "pyinotify",
+        "os"
+    ]
+}

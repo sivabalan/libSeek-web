@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "with_statement",
+        "json",
+        "pytest",
+        "os",
+        "setuptools"
+    ]
+}

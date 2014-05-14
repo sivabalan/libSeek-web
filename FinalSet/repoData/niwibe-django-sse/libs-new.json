@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "core",
+        "management",
+        "http",
+        "csrf",
+        "generic",
+        "db",
+        "redis",
+        "connection",
+        "sys",
+        "exceptions",
+        "json",
+        "gevent",
+        "sse",
+        "os",
+        "conf",
+        "pywsgi",
+        "test",
+        "decorators"
+    ]
+}

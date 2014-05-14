@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "argparse",
+        "re",
+        "unittest",
+        "redis",
+        "sys",
+        "yaml",
+        "json",
+        "collections",
+        "setuptools",
+        "time",
+        "fl",
+        "mock"
+    ]
+}

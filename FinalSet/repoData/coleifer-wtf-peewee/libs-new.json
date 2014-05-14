@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "wtfpeewee",
+        "form",
+        "warnings",
+        "models",
+        "peewee",
+        "unittest",
+        "datetime",
+        "sys",
+        "operator",
+        "collections",
+        "wtforms",
+        "setuptools",
+        "validators",
+        "widgets",
+        "fl",
+        "functools"
+    ]
+}

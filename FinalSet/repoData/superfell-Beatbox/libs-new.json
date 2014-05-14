@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "distutils",
+        "datetime",
+        "sax",
+        "shutil",
+        "urllib",
+        "re",
+        "handler",
+        "cgi",
+        "string",
+        "inspect",
+        "urllib2",
+        "sys",
+        "saxutils",
+        "cgitb",
+        "httplib",
+        "b",
+        "e",
+        "bootstrap_install_from = egg",
+        "StringIO",
+        "pkg_resources",
+        "xmlreader",
+        "urlparse",
+        "setuptools",
+        "gzip",
+        "os"
+    ]
+}

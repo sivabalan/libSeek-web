@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "core",
+        "stat",
+        "socket",
+        "grp",
+        "urllib",
+        "subprocess",
+        "pipes",
+        "gtk",
+        "win32security",
+        "datetime",
+        "sys",
+        "re",
+        "pwd",
+        "pygtk",
+        "win32con",
+        "gobject",
+        "pango",
+        "shutil",
+        "os",
+        "time",
+        "win32api"
+    ]
+}

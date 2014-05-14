@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "core",
+        "argparse",
+        "os",
+        "random",
+        "re",
+        "path",
+        "pickle"
+    ]
+}

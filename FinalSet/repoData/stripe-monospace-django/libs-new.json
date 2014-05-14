@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "defaults",
+        "imp",
+        "monospace",
+        "os",
+        "db",
+        "contrib",
+        "datetime",
+        "sys",
+        "shortcuts",
+        "stripe",
+        "template",
+        "exceptions",
+        "django",
+        "bcrypt"
+    ]
+}

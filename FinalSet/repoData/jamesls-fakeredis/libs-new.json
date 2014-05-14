@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "util",
+        "inspect",
+        "warnings",
+        "skip",
+        "functools",
+        "random",
+        "redis",
+        "datetime",
+        "urlparse",
+        "fnmatch",
+        "client",
+        "ctypes",
+        "setuptools",
+        "time",
+        "exceptions",
+        "collections",
+        "attrib",
+        "copy",
+        "os",
+        "unittest2"
+    ]
+}

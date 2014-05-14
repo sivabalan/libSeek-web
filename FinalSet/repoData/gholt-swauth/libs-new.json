@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "wsgi",
+        "utils",
+        "subprocess",
+        "contextlib",
+        "gettext",
+        "uuid",
+        "eventlet",
+        "urllib",
+        "json",
+        "unittest",
+        "setuptools",
+        "simplejson",
+        "swob",
+        "sys",
+        "swauth",
+        "swift",
+        "bufferedhttp",
+        "httplib",
+        "b",
+        "h",
+        "traceback",
+        "messages",
+        "acl",
+        "timeout",
+        "time",
+        "os",
+        "hmac",
+        "sdist"
+    ]
+}

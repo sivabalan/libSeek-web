@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "sys",
+        "PIL",
+        "uuid",
+        "skip",
+        "urllib2",
+        "urlparse",
+        "re",
+        "setuptools",
+        "tools",
+        "html5lib",
+        "string"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "libs": [
+        "distribute_setup",
+        "setuptools"
+    ]
+}

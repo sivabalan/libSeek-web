@@ -1,0 +1,31 @@
+{
+    "libs": [
+        "unittest",
+        "random",
+        "datetime",
+        "tools",
+        "re",
+        "urllib",
+        "platform",
+        "cgi",
+        "core",
+        "string",
+        "warnings",
+        "inspect",
+        "util",
+        "types",
+        "sys",
+        "httplib",
+        "b",
+        "pycurl",
+        "dom",
+        "h",
+        "decimal",
+        "StringIO",
+        "braintree",
+        "exceptions",
+        "requests",
+        "os",
+        "hmac"
+    ]
+}

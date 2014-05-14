@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "_",
+        "unittest",
+        "pycparser",
+        "yacctab",
+        "subprocess",
+        "shutil",
+        "pprint",
+        "re",
+        "c_",
+        "print_function",
+        "generators",
+        "sdist",
+        "core",
+        "cPickle",
+        "string",
+        "ply",
+        "sys",
+        "lextab",
+        "pickle",
+        "path",
+        "copy",
+        "types",
+        "md5",
+        "install",
+        "h",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "os"
+    ]
+}

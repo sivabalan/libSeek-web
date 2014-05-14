@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "fnmatch",
+        "pkg_resources",
+        "copy",
+        "install",
+        "distutils",
+        "tempfile",
+        "tarfile",
+        "time",
+        "request",
+        "urllib2",
+        "site",
+        "sys",
+        "optparse",
+        "sandbox",
+        "subprocess",
+        "setuptools",
+        "codecs",
+        "operator",
+        "shutil",
+        "os"
+    ]
+}

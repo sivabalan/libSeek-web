@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "os",
+        "functools",
+        "io",
+        "ElementTree",
+        "java",
+        "importlib",
+        "pprint",
+        "re",
+        "unittest",
+        "inspect",
+        "sys",
+        "lizard_ext",
+        "webbrowser",
+        "path",
+        "print_function",
+        "minidom",
+        "argparse",
+        "future_builtins",
+        "keyword",
+        "StringIO",
+        "h",
+        "itertools",
+        "setuptools",
+        "fnmatch",
+        "pickle",
+        "multiprocessing"
+    ]
+}

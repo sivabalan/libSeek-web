@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "celeryctl",
+        "argparse",
+        "camqadm",
+        "celeryd",
+        "app",
+        "celeryev",
+        "absolute_import",
+        "loaders",
+        "setuptools",
+        "celerybeat",
+        "werkzeug",
+        "codecs",
+        "fl",
+        "utils"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "importlib",
+        "conf",
+        "datetime",
+        "fields",
+        "inspect",
+        "db",
+        "autoload",
+        "tree",
+        "django",
+        "re",
+        "test",
+        "setuptools",
+        "exceptions",
+        "copy",
+        "where",
+        "constants"
+    ]
+}

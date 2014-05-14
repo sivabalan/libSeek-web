@@ -1,0 +1,32 @@
+{
+    "libs": [
+        "distutils",
+        "text",
+        "site",
+        "subprocess",
+        "contrib",
+        "conf",
+        "operator",
+        "management",
+        "adminbrowse",
+        "tempfile",
+        "tarfile",
+        "test",
+        "defaults",
+        "db",
+        "urllib2",
+        "sys",
+        "urlresolvers",
+        "translation",
+        "copy",
+        "b",
+        "request",
+        "pkg_resources",
+        "loader",
+        "sandbox",
+        "setuptools",
+        "time",
+        "fnmatch",
+        "os"
+    ]
+}

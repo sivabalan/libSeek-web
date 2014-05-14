@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "web",
+        "testing",
+        "uuid",
+        "python",
+        "tools",
+        "unittest",
+        "escape",
+        "redis",
+        "internet",
+        "auth",
+        "sys",
+        "memcache",
+        "setuptools",
+        "time",
+        "copy",
+        "pickle"
+    ]
+}

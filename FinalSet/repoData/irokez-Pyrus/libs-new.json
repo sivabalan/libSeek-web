@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "cherrypy",
+        "bs4",
+        "random",
+        "yatk",
+        "parsers",
+        "re",
+        "json",
+        "collections",
+        "sqlite3",
+        "math",
+        "cgi",
+        "expat",
+        "optparse",
+        "glob",
+        "sys",
+        "memcache",
+        "ml",
+        "src",
+        "socket",
+        "os",
+        "liblinearutil",
+        "red",
+        "time",
+        "requests",
+        "pickle"
+    ]
+}

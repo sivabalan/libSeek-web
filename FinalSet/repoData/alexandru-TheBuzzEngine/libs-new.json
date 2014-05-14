@@ -1,0 +1,30 @@
+{
+    "libs": [
+        "wsgi",
+        "shortcuts",
+        "utils",
+        "random",
+        "loader",
+        "api",
+        "conf",
+        "urllib",
+        "signals",
+        "re",
+        "template",
+        "email",
+        "http",
+        "db",
+        "util",
+        "webapp",
+        "datetime",
+        "dispatcher",
+        "sys",
+        "logging",
+        "h",
+        "mail_handlers",
+        "django",
+        "ext",
+        "defaults",
+        "os"
+    ]
+}

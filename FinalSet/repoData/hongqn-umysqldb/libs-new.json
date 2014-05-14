@@ -1,0 +1,26 @@
+{
+    "libs": [
+        "print_exc()",
+        "skip",
+        "unittest",
+        "pymysql",
+        "datetime",
+        "gc",
+        "array",
+        "tools",
+        "struct",
+        "re",
+        "imp",
+        "math",
+        "warnings",
+        "umysql",
+        "sys",
+        "umysqldb",
+        "socket",
+        "decimal",
+        "mock",
+        "setuptools",
+        "time",
+        "os"
+    ]
+}

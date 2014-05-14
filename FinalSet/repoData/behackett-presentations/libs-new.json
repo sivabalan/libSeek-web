@@ -1,0 +1,12 @@
+{
+    "libs": [
+        "flyway",
+        "datetime",
+        "dat",
+        "setuptools",
+        "bson",
+        "ming",
+        "pymongo",
+        "math"
+    ]
+}

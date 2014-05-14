@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "httpretty",
+        "unittest",
+        "copy",
+        "requests",
+        "setuptools"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "libs": [
+        "conf",
+        "simplejson",
+        "h",
+        "functools",
+        "setuptools",
+        "auth",
+        "datetime",
+        "test",
+        "json",
+        "csrf",
+        "urlresolvers",
+        "os"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "core",
+        "qsstats",
+        "relativedelta",
+        "datetime",
+        "conf",
+        "test"
+    ]
+}

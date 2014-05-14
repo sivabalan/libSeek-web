@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "http",
+        "csrf",
+        "db",
+        "datetime",
+        "contrib",
+        "v2",
+        "setuptools",
+        "test",
+        "defaults"
+    ]
+}

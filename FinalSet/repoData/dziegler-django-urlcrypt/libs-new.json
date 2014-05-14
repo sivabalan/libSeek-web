@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "urlcrypt",
+        "number",
+        "defaulttags",
+        "PublicKey",
+        "cache",
+        "re",
+        "backends",
+        "test",
+        "strxor",
+        "decorators",
+        "math",
+        "http",
+        "setuptools",
+        "models",
+        "auth",
+        "b",
+        "h",
+        "django",
+        "sha",
+        "defaults",
+        "time",
+        "urlresolvers",
+        "os",
+        "hmac"
+    ]
+}

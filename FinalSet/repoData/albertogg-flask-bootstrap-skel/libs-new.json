@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "sqlalchemy",
+        "fl",
+        "unittest",
+        "pprint",
+        "with_statement",
+        "application",
+        "api",
+        "readline",
+        "config",
+        "os",
+        "alembic"
+    ]
+}

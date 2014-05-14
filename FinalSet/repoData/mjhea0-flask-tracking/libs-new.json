@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "b",
+        "logging",
+        "handlers",
+        "os",
+        "app",
+        "pprint",
+        "urllib",
+        "datetime",
+        "sys",
+        "re",
+        "readline",
+        "csv",
+        "fl",
+        "functools",
+        "mock"
+    ]
+}

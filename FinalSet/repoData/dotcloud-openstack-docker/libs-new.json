@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "virt",
+        "functools",
+        "random",
+        "urllib",
+        "gettextutils",
+        "log",
+        "nova",
+        "json",
+        "posix",
+        "test_virt_drivers",
+        "config",
+        "image",
+        "tests",
+        "mox",
+        "uuid",
+        "httplib",
+        "compute",
+        "socket",
+        "h",
+        "green",
+        "common",
+        "time",
+        "docker",
+        "os"
+    ]
+}

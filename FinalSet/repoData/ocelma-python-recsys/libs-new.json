@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "random",
+        "vq",
+        "divisi2",
+        "operator",
+        "tools",
+        "dense",
+        "csc",
+        "csv",
+        "evaluation",
+        "math",
+        "core",
+        "tests",
+        "setuptools",
+        "linalg",
+        "zipfile",
+        "sys",
+        "scipy",
+        "codecs",
+        "pickle",
+        "stats",
+        "ordered_set",
+        "b",
+        "algorithm",
+        "numpy",
+        "nose",
+        "sparse",
+        "exceptions",
+        "path",
+        "os"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "cgi",
+        "B",
+        "logging",
+        "SimpleHTTPServer",
+        "optparse",
+        "gremlins",
+        "signal",
+        "random",
+        "threading",
+        "sys",
+        "re",
+        "setuptools",
+        "time",
+        "subprocess",
+        "os"
+    ]
+}

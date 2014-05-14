@@ -1,0 +1,28 @@
+{
+    "libs": [
+        "bin",
+        "xbmcplugin",
+        "random",
+        "urllib",
+        "re",
+        "getopt",
+        "cgi",
+        "simplejson",
+        "Deprecated",
+        "urllib2",
+        "sys",
+        "xbmcaddon",
+        "webbrowser",
+        "path",
+        "minidom",
+        "httplib",
+        "xbmcgui",
+        "h",
+        "urlparse",
+        "setuptools",
+        "time",
+        "os",
+        "hmac",
+        "xbmc"
+    ]
+}

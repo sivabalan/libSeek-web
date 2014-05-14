@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "beaker",
+        "bin",
+        "pyramid",
+        "settings",
+        "util",
+        "verify",
+        "unittest",
+        "subprocess",
+        "sys",
+        "session",
+        "setuptools",
+        "interface",
+        "pyramid_beaker",
+        "os",
+        "interfaces"
+    ]
+}

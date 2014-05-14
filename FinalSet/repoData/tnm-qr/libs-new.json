@@ -1,0 +1,13 @@
+{
+    "libs": [
+        "cPickle",
+        "logging",
+        "simplejson",
+        "pickle",
+        "unittest",
+        "redis",
+        "json",
+        "setuptools",
+        "os"
+    ]
+}

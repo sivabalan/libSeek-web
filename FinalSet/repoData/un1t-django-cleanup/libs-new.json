@@ -1,0 +1,10 @@
+{
+    "libs": [
+        "logging",
+        "db",
+        "django",
+        "signals",
+        "setuptools",
+        "os"
+    ]
+}

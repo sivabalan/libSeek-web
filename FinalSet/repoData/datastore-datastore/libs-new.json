@@ -1,0 +1,25 @@
+{
+    "libs": [
+        "sys",
+        "b",
+        "pypandoc",
+        "test_b",
+        "h",
+        "unittest",
+        "random",
+        "datetime",
+        "util",
+        "re",
+        "json",
+        "os",
+        "setuptools",
+        "time",
+        "dat",
+        "logging",
+        "bson",
+        "shutil",
+        "pickle",
+        "nanotime",
+        "uuid"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "setuptools",
+        "shortcuts",
+        "db",
+        "functional",
+        "modelsinspector",
+        "datetime",
+        "sys",
+        "contrib",
+        "client",
+        "template",
+        "test",
+        "timezone",
+        "translation",
+        "copy",
+        "os",
+        "audit_log"
+    ]
+}

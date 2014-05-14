@@ -1,0 +1,9 @@
+{
+    "libs": [
+        "webbrowser",
+        "sublime_plugin",
+        "os",
+        "uuid",
+        "sublime"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "libs": [
+        "rulez",
+        "inspect",
+        "template",
+        "core",
+        "cache",
+        "with_statement",
+        "django",
+        "sys",
+        "imp",
+        "testc",
+        "management",
+        "collections",
+        "setuptools",
+        "time",
+        "test",
+        "b",
+        "os",
+        "defaults"
+    ]
+}

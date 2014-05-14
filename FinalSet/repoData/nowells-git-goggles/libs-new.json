@@ -1,0 +1,18 @@
+{
+    "libs": [
+        "core",
+        "unicodedata",
+        "copy",
+        "logging",
+        "atexit",
+        "StringIO",
+        "termcolor",
+        "datetime",
+        "sys",
+        "re",
+        "itertools",
+        "subprocess",
+        "os",
+        "math"
+    ]
+}

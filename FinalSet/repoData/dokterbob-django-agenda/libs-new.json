@@ -1,0 +1,24 @@
+{
+    "libs": [
+        "managers",
+        "vobject",
+        "logging",
+        "template",
+        "conf",
+        "relativedelta",
+        "setuptools",
+        "db",
+        "contrib",
+        "datetime",
+        "urlresolvers",
+        "re",
+        "html",
+        "defaults",
+        "query",
+        "tzinfo",
+        "http",
+        "translation",
+        "django",
+        "calendar"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "libs": [
+        "management",
+        "http",
+        "uuid",
+        "conf",
+        "h",
+        "functools",
+        "random",
+        "db",
+        "sys",
+        "json",
+        "oauth2",
+        "csrf",
+        "contrib",
+        "fl",
+        "os"
+    ]
+}

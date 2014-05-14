@@ -1,0 +1,29 @@
+{
+    "libs": [
+        "app",
+        "pyramid_celery",
+        "absolute_import",
+        "sqlalchemy",
+        "amqp",
+        "redis",
+        "b",
+        "httpexceptions",
+        "unittest",
+        "mock",
+        "random",
+        "sys",
+        "forking",
+        "print_function",
+        "commands",
+        "transaction",
+        "config",
+        "declarative",
+        "p",
+        "orm",
+        "t",
+        "setuptools",
+        "time",
+        "os",
+        "view"
+    ]
+}

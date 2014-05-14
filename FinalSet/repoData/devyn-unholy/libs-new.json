@@ -1,0 +1,33 @@
+{
+    "libs": [
+        "mimetools",
+        "cStringIO",
+        "core",
+        "__builtin__",
+        "array",
+        "test_MimeWriter",
+        "UserList",
+        "pprint",
+        "imp",
+        "generators",
+        "compiler",
+        "division",
+        "B",
+        "string",
+        "nested_scopes",
+        "rfc822",
+        "sys",
+        "decompyle",
+        "re",
+        "types",
+        "struct",
+        "marshal",
+        "opcode",
+        "time",
+        "exceptions",
+        "os",
+        "test_StringIO",
+        "se",
+        "dis"
+    ]
+}
