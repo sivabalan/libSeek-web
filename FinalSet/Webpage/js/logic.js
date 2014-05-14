@@ -223,7 +223,14 @@ function sendSearchRequest() {
 					snippetRow = $('<p/>').addClass('result-snippet');
 
 					snippetText += searchResults[i]["repo_count"];
-					snippetText += ' repositories'
+					if(parseInt(searchResults[i]["repo_count"]) > 1)
+					{
+						snippetText += ' repositories'
+					}
+					else
+					{
+						snippetText += ' repository'
+					}
 					snippetRow.html(snippetText);
 
 					resultRow.append(snippetRow)
@@ -239,7 +246,7 @@ function sendSearchRequest() {
 			metricsContainer = $('#searchMetrics');
 			metricsContainer.empty();
 			$metricRow = $('<div/>').html(headerHTML+execTimeHTML);
-			metricsContainer.append($metricRow);s
+			metricsContainer.append($metricRow);
 
 			$('#searchText').blur();
 		}
