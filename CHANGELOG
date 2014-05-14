@@ -1,0 +1,117 @@
+#############################
+qicseek - v1.2
+
+* Added busy indicator
+
+-- Sivabalan Thirunavukkarasu - Mar 19, 2014 - 15:41
+
+#############################
+qicseek - v1.1
+
+* full support for snippets, ironed out all bugs.
+
+-- Rohan Achar - Mar 19, 2014 - 10:55
+
+#############################
+qicseek - v1.0
+
+* Updated backend to support snippets and titles. (have to extend to give full support)
+
+-- Rohan Achar - Mar 19, 2014 - 10:00
+
+#############################
+qicseek - v1.0
+
+* Updated UI for snippets
+
+-- Sivabalan Thirunavukkarasu - Mar 19, 2014 - 02:40
+
+#############################
+qicseek - v0.9
+
+* Updated formula for awesome NDCG
+* secretingredient.txt for realtime ranking formula modification
+TODO:
+> index.[html|php] remover from results
+> Have DocId.tsv in memory
+
+-- Sivabalan Thirunavukkarasu - Mar 16, 2014 - 00:15
+
+#############################
+qicseek - v0.8
+
+* Fixes for Firefox browser
+
+-- Sivabalan Thirunavukkarasu - Mar 14, 2014 - 15:04
+
+#############################
+qicseek - v0.7
+
+* Replacing https with http in google results
+* Adding/stripping trailing slash in google results for ndcg
+* NDCG @ 10
+
+-- Sivabalan Thirunavukkarasu - Mar 14, 2014 - 12:06
+
+#############################
+qicseek - v0.6
+
+* Search metrics UI
+* Search results animation
+* NDCG calculation for preset terms
+* Added favicon
+* Avoiding vcp.ics results
+
+-- Sivabalan Thirunavukkarasu - Mar 14, 2014 - 02:58
+
+#############################
+qicseek - v0.5
+
+* New ranking functions
+	* Using position within document for reference
+* Syncing scripts
+* changed sort from 2 levels to one level -> log10(tfidf * pr / log10(1 + docdiff) * cosinescore ^ 2) seems to be better. Made that secret sauce.
+
+-- Rohan Achar - Mar 13, 2014 - 22:40
+
+#############################
+qicseek - v0.4
+
+* Updating the index with new index
+* Syncing scripts
+
+-- Sivabalan Thirunavukkarasu - Mar 13, 2014 - 14:58
+
+#############################
+qicseek - v0.3
+
+* Updated UI
+* Added search rank type select option
+
+-- Sivabalan Thirunavukkarasu - Mar 13, 2014 - 14:58
+
+#############################
+qicseek - v0.2
+
+* Cleaning up index
+* Adding pre-built scripts for anchorText, pageRank, indexBuilder
+
+-- Rohan Achar - Mar 13, 2014 - 14:30
+
+#############################
+qicseek - v0.1
+
+* Improved auto suggestion
+	* Accept auto suggestion using tab/right arrow
+	* Partial matches improved
+* Ranking type can be sent via AJAX request 
+	* Current Default: Cosine similarity 
+* DocFetcher.py: Fixed order of resultsList (changed from dict to list of dicts)
+* DocFetcher.py: Added Cosine similarity functions
+* DocFetcher.py: Union of documents taken to allow for partial matches
+* Improved UI
+* Server.py: Added code to serve PNG images
+
+-- Sivabalan Thirunavukkarasu - Mar 13, 2014 - 05:43
+
+#############################
