@@ -160,3 +160,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+*.pyc
+
+FinalSet/IndexPickle*
+FinalSet/hashfile.pickle
