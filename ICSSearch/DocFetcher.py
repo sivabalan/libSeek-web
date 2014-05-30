@@ -11,7 +11,7 @@ import math
 from math import log10, log
 from sets import Set
 
-src = "../FinalSet/" if ('PORT' in os.environ) else "FinalSet/"
+src = "../FinalSet/" if ('PORT' not in os.environ) else "FinalSet/"
 list_of_bad_files = []
 picklefile = src + "IndexPickle.json"
 formulafile = src + "secretingredient.txt"
