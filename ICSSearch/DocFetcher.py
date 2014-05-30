@@ -279,9 +279,12 @@ def resultsList(result):
 
 def GetTopLibraries(results):
     libdict = {}
-    for item in results:
+    libweight = {}
+    total = 0
+    for i in range(len(results)):
+        v = sortChooser[len(results[i])](results[i])
         try:
-            f = open(src + "repoData/" + item[0] + "/libs-new.json", "r")
+            f = open(src + "repoData/" + results[i][0] + "/libs-new.json", "r")
             libdata = json.load(f)["libs"]
             f.close()
         except IOError:
@@ -289,14 +292,18 @@ def GetTopLibraries(results):
         for lib in libdata:
             if lib not in libdict:
                 libdict[lib] = 0
+                libweight[lib] = 0
             libdict[lib] += 1
+            libweight[lib] += v
+        total += v
+    
         
 
     liblist = []
     for key in libdict:
-        liblist.append((key, libdict[key]))
+        liblist.append((key, libdict[key], libweight[key]))
 
-    liblist.sort(key = lambda x: x[1]**5/repodict[x[0]] if x[1] != 1 else -100, reverse = True)
+    liblist.sort(key = lambda x: (x[2]*100/total)**5/repodict[x[0]] if x[1] != 1 else -100, reverse = True)
     return liblist
         
 
