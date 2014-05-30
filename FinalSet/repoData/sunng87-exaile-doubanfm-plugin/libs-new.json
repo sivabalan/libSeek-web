@@ -5,8 +5,7 @@
         "cairo",
         "unittest",
         "random",
-        "radio",
-        "accelerators",
+        "contextlib",
         "preferences",
         "gtk",
         "urllib",
@@ -17,15 +16,11 @@
         "Cookie",
         "widgets",
         "glib",
-        "string",
         "gio",
         "pango",
         "httplib",
         "dbus",
         "glade",
-        "time",
-        "contextlib",
-        "os",
-        "trax"
+        "os"
     ]
 }

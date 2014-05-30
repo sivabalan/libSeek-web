@@ -1,6 +1,5 @@
 {
     "libs": [
-        "spiders",
         "sgml",
         "http",
         "string",
@@ -9,7 +8,7 @@
         "pymongo",
         "random",
         "urllib2",
-        "linkedin",
+        "urllib",
         "datetime",
         "sys",
         "re",
@@ -18,7 +17,6 @@
         "conf",
         "time",
         "selector",
-        "os",
-        "urllib"
+        "os"
     ]
 }

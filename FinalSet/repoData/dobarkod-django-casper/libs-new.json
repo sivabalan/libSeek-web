@@ -1,15 +1,9 @@
 {
     "libs": [
+        "c",
         "management",
-        "http",
-        "conf",
-        "handlers",
         "shortcuts",
-        "subprocess",
         "sys",
-        "setuptools",
-        "time",
-        "test",
         "path",
         "os"
     ]

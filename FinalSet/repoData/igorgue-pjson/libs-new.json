@@ -1,15 +1,3 @@
 {
-    "libs": [
-        "minidom",
-        "argparse",
-        "io",
-        "StringIO",
-        "formatters",
-        "sys",
-        "json",
-        "pygments",
-        "setuptools",
-        "os",
-        "lexers"
-    ]
+    "libs": []
 }

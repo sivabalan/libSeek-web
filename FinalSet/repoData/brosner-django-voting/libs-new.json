@@ -1,20 +1,17 @@
 {
     "libs": [
-        "core",
         "http",
-        "install",
+        "template",
         "simple",
         "aggregates",
         "db",
         "django",
         "sys",
-        "contrib",
-        "contenttypes",
+        "exceptions",
         "html",
         "conf",
-        "exceptions",
+        "contrib",
         "os",
-        "utils",
-        "template"
+        "utils"
     ]
 }

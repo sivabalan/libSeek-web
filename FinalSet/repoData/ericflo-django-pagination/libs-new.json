@@ -1,11 +1,10 @@
 {
     "libs": [
         "http",
-        "conf",
         "simple",
         "django",
         "sys",
-        "setuptools",
+        "conf",
         "sets",
         "os"
     ]

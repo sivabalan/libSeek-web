@@ -18,13 +18,13 @@
         "scipy",
         "optimize",
         "sphinx",
-        "signal",
+        "Image",
         "ext",
         "cuda",
         "time",
         "gzip",
         "theano",
         "os",
-        "Image"
+        "signal"
     ]
 }

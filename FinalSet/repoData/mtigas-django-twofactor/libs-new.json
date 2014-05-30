@@ -15,17 +15,16 @@
         "bin",
         "Cipher",
         "string",
-        "django_twofactor",
         "db",
         "auth",
         "sys",
         "translation",
         "b",
         "socket",
-        "os",
+        "oath",
         "django",
         "defaults",
         "h",
-        "oath"
+        "os"
     ]
 }

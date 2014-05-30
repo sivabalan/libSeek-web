@@ -2,23 +2,19 @@
     "libs": [
         "test_support",
         "web",
-        "tests",
         "logging",
-        "setuptools",
+        "os",
         "argparse",
-        "scss",
-        "fl",
-        "with_statement",
+        "tools",
         "absolute_import",
         "sys",
-        "re",
         "api",
         "contextlib",
         "nose",
-        "tools",
+        "scss",
         "types",
         "path",
-        "os",
+        "fl",
         "print_function"
     ]
 }

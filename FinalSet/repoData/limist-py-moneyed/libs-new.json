@@ -1,14 +1,8 @@
 {
     "libs": [
-        "moneyed",
-        "division",
-        "tox",
-        "cl",
         "unicode_literals",
+        "division",
         "decimal",
-        "sys",
-        "Works with less code",
-        "setuptools",
-        "test"
+        "cl"
     ]
 }

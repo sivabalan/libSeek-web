@@ -1,13 +1,11 @@
 {
     "libs": [
-        "print_function",
-        "traceback",
         "textwrap",
         "sys",
         "re",
         "telnetlib",
+        "print_function",
         "time",
-        "__main__",
         "path",
         "sublime_plugin",
         "sublime"

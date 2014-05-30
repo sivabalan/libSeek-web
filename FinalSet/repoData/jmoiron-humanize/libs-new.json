@@ -1,15 +1,13 @@
 {
     "libs": [
-        "fractions",
-        "io",
-        "threading",
+        "b",
         "unittest",
         "gettext",
         "datetime",
         "sys",
-        "re",
-        "setuptools",
+        "threading",
         "path",
-        "os"
+        "os",
+        "mock"
     ]
 }

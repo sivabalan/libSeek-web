@@ -8,6 +8,7 @@
         "ordereddict",
         "bitlyapi",
         "premailer",
+        "lxml",
         "PIL",
         "uuid",
         "pprint",
@@ -22,9 +23,9 @@
         "config",
         "tweepy",
         "wtforms",
+        "mimetypes",
         "sqlalchemy",
         "blinker",
-        "models",
         "urllib2",
         "sys",
         "pytz",
@@ -34,6 +35,7 @@
         "readline",
         "fl",
         "b",
+        "magic",
         "exc",
         "StringIO",
         "h",
@@ -43,8 +45,9 @@
         "urlparse",
         "html2text",
         "doctest",
+        "sql",
         "time",
-        "os",
-        "alembic"
+        "requests",
+        "os"
     ]
 }

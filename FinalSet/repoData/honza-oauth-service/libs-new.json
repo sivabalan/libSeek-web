@@ -3,17 +3,16 @@
         "management",
         "http",
         "uuid",
-        "conf",
-        "h",
-        "functools",
+        "fl",
         "random",
+        "oauth_hook",
         "db",
         "sys",
         "json",
-        "oauth2",
         "csrf",
+        "h",
         "contrib",
-        "fl",
+        "requests",
         "os"
     ]
 }

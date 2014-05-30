@@ -2,13 +2,13 @@
     "libs": [
         "management",
         "http",
-        "template",
+        "defaults",
         "shortcuts",
         "random",
         "django",
         "sys",
         "imp",
-        "defaults",
+        "template",
         "robjects"
     ]
 }

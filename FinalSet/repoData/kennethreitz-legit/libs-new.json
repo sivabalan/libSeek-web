@@ -1,6 +1,5 @@
 {
     "libs": [
-        "py2exe",
         "git",
         "exc",
         "eng",
@@ -10,7 +9,6 @@
         "operator",
         "collections",
         "platform",
-        "setuptools",
         "time",
         "exceptions",
         "textui",

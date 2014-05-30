@@ -1,21 +1,20 @@
 {
     "libs": [
-        "platform",
+        "re",
         "cairo",
         "gtk",
         "gettext",
         "subprocess",
         "sys",
-        "getopt",
+        "platform",
         "gobject",
-        "gedit",
+        "pygtk",
         "time",
         "gconf",
-        "pygtk",
-        "ConfigParser",
+        "getopt",
         "copy",
         "os",
-        "re",
-        "math"
+        "math",
+        "ConfigParser"
     ]
 }

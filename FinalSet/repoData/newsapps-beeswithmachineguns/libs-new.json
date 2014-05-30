@@ -1,16 +1,15 @@
 {
     "libs": [
-        "core",
+        "sys",
         "socket",
         "boto",
         "optparse",
         "random",
         "urllib2",
-        "sys",
+        "urlparse",
         "re",
         "ec2",
         "time",
-        "urlparse",
         "csv",
         "os",
         "multiprocessing",

@@ -2,8 +2,6 @@
     "libs": [
         "urlparse",
         "parse",
-        "fl",
-        "multiprocessing",
-        "setuptools"
+        "fl"
     ]
 }

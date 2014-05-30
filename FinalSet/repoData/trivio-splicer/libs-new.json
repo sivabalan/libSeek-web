@@ -1,26 +1,20 @@
 {
     "libs": [
         "codd",
-        "splicer",
+        "os",
+        "StringIO",
+        "tempfile",
+        "zipper",
         "functools",
+        "inspect",
         "absolute_import",
         "datetime",
-        "operator",
-        "fixtures",
-        "shutil",
-        "tools",
-        "tempfile",
-        "re",
-        "collections",
-        "compilers",
-        "inspect",
-        "dat",
-        "zipper",
         "sys",
-        "StringIO",
-        "adapters",
+        "re",
         "itertools",
-        "setuptools",
-        "os"
+        "collections",
+        "operator",
+        "shutil",
+        "tools"
     ]
 }

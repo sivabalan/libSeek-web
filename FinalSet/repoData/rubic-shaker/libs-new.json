@@ -1,27 +1,15 @@
 {
     "libs": [
-        "with_statement",
-        "ec2",
-        "shutil",
         "style",
-        "blockdevicemapping",
-        "yaml",
-        "tempfile",
-        "BeautifulSoup",
-        "re",
-        "core",
-        "shaker",
-        "optparse",
-        "sys",
-        "M2Crypto",
-        "jinja2",
         "logging",
-        "boto",
+        "re",
+        "BeautifulSoup",
+        "sys",
+        "yaml",
         "token",
+        "jinja2",
         "doctest",
-        "setuptools",
-        "time",
-        "mime",
+        "shutil",
         "os"
     ]
 }

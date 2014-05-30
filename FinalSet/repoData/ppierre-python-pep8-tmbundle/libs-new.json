@@ -2,23 +2,21 @@
     "libs": [
         "cgi",
         "tempfile",
-        "Vendor",
-        "time",
+        "string",
         "keyword",
         "StringIO",
         "optparse",
-        "tm_helpers",
         "inspect",
         "with_statement",
         "urllib",
         "sys",
         "re",
-        "doctest",
+        "time",
         "tokenize",
         "fnmatch",
         "getopt",
         "os",
         "types",
-        "string"
+        "tm_helpers"
     ]
 }

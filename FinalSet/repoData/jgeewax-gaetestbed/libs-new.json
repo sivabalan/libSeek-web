@@ -2,16 +2,11 @@
     "libs": [
         "dat",
         "b",
-        "gaetestbed",
-        "unittest",
-        "with_statement",
         "webtest",
         "sys",
         "ext",
         "api",
         "t",
-        "setuptools",
-        "os",
-        "some_handler"
+        "os"
     ]
 }

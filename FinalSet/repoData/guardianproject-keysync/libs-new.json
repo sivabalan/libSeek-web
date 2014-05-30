@@ -2,8 +2,9 @@
     "libs": [
         "py",
         "utils",
-        "BeautifulSoup",
         "pymtp",
+        "BeautifulSoup",
+        "psutil",
         "pyparsing",
         "shutil",
         "plistlib",
@@ -25,12 +26,8 @@
         "b",
         "h",
         "signal",
-        "pkg_resources",
-        "psutil",
         "sha",
         "pgpdump",
-        "setuptools",
-        "otrapps",
         "os"
     ]
 }

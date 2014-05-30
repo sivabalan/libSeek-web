@@ -1,13 +1,9 @@
 {
     "libs": [
         "weakref",
-        "b",
-        "warnings",
-        "db",
-        "idmapper",
-        "setuptools",
         "signals",
-        "test",
-        "path"
+        "b",
+        "db",
+        "test"
     ]
 }

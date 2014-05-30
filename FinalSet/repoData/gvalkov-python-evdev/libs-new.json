@@ -1,27 +1,20 @@
 {
     "libs": [
+        "setup",
+        "stat",
+        "sphinx_rtd_theme",
+        "glob",
         "functools",
-        "subprocess",
-        "path",
-        "select",
-        "develop",
+        "inspect",
+        "collections",
+        "sys",
         "re",
         "pytest",
-        "collections",
-        "build",
-        "stat",
-        "evdev",
-        "glob",
-        "inspect",
-        "textwrap",
-        "sys",
         "ctypes",
-        "_ecodes",
-        "pyudev",
-        "sphinx_rtd_theme",
-        "bdist_egg",
-        "setuptools",
         "time",
-        "os"
+        "_ecodes",
+        "os",
+        "pyudev",
+        "select"
     ]
 }

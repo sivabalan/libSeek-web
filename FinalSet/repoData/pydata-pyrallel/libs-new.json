@@ -1,13 +1,12 @@
 {
     "libs": [
-        "pylab",
-        "core",
         "b",
         "stats",
         "uuid",
+        "random",
         "numpy",
         "utils",
-        "random",
+        "pylab",
         "externals",
         "display",
         "grid_search",

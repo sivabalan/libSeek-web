@@ -3,7 +3,6 @@
         "sys",
         "ipc",
         "os",
-        "setuptools",
         "protocol"
     ]
 }

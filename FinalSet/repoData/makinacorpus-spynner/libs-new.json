@@ -1,6 +1,5 @@
 {
     "libs": [
-        "spynner",
         "layer",
         "unittest",
         "package_index",
@@ -33,13 +32,10 @@
         "StringIO",
         "QtCore",
         "signal",
-        "cmd",
         "pkg_resources",
         "urlparse",
-        "imported because of its side effects",
         "itertools",
         "doctest",
-        "setuptools",
         "time",
         "os",
         "QtNetwork"

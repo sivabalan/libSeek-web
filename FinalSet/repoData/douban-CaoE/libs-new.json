@@ -7,7 +7,6 @@
         "multiprocessing",
         "sys",
         "contextlib",
-        "setuptools",
         "time",
         "prctl",
         "shutil",

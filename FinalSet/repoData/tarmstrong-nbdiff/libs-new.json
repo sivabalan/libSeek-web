@@ -1,8 +1,10 @@
 {
     "libs": [
+        "unittest",
         "random",
         "subprocess",
         "bitarray",
+        "tools",
         "timeit",
         "current",
         "re",
@@ -11,9 +13,7 @@
         "collections",
         "reader",
         "csv",
-        "core",
         "sqlalchemy",
-        "setuptools",
         "nbformat",
         "urllib2",
         "sys",
@@ -26,6 +26,7 @@
         "exc",
         "git2json",
         "h",
+        "pretend",
         "Levenshtein",
         "datab",
         "threading",

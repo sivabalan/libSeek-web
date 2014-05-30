@@ -28,7 +28,6 @@
         "django",
         "itertools",
         "client",
-        "setuptools",
         "exceptions",
         "os",
         "safestring"

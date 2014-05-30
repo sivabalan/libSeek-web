@@ -9,7 +9,6 @@
         "test",
         "mail",
         "http",
-        "setuptools",
         "loader_tags",
         "db",
         "textwrap",

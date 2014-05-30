@@ -1,8 +1,6 @@
 {
     "libs": [
         "argparse",
-        "setuptools",
-        "lice",
         "unittest",
         "pkg_resources",
         "datetime",

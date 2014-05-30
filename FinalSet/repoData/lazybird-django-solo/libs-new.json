@@ -1,15 +1,15 @@
 {
     "libs": [
-        "solo",
+        "http",
         "template",
+        "encoding",
         "utils",
         "cache",
         "db",
         "django",
-        "setuptools",
-        "contrib",
-        "conf",
         "test",
+        "urls",
+        "contrib",
         "translation"
     ]
 }

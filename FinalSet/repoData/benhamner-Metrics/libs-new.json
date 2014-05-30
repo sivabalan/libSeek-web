@@ -1,10 +1,7 @@
 {
     "libs": [
         "division",
-        "ml_metrics",
         "unittest",
-        "sys",
-        "setuptools",
         "numpy"
     ]
 }

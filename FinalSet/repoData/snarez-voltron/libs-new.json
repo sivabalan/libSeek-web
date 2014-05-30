@@ -6,7 +6,6 @@
         "pygments",
         "select",
         "struct",
-        "threading",
         "pprint",
         "re",
         "lldb",
@@ -21,15 +20,14 @@
         "sys",
         "logging",
         "socket",
-        "pickle",
+        "os",
         "signal",
         "traceback",
         "formatters",
         "queue",
-        "voltron",
-        "setuptools",
+        "threading",
         "time",
-        "os",
+        "pickle",
         "pdb"
     ]
 }

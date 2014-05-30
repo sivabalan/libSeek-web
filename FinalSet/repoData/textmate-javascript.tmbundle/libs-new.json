@@ -1,19 +1,13 @@
 {
     "libs": [
-        "sys",
-        "tests",
         "b",
         "string",
         "jav",
         "unittest",
         "urllib",
-        "jsbeautifier",
+        "subprocess",
         "parse",
         "re",
-        "unpackers",
-        "getopt",
-        "subprocess",
-        "os",
-        "print_function"
+        "os"
     ]
 }

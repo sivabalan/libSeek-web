@@ -2,7 +2,6 @@
     "libs": [
         "weakref",
         "b",
-        "MySQLdb",
         "warnings",
         "unittest",
         "py",
@@ -13,11 +12,9 @@
         "itertools",
         "pytest",
         "contextlib",
-        "math",
-        "setuptools",
         "time",
         "ctypes",
         "decimal",
-        "constants"
+        "math"
     ]
 }

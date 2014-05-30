@@ -1,18 +1,17 @@
 {
     "libs": [
-        "app",
+        "utils",
         "with_statement",
         "datetime",
         "Stemmer",
+        "contrib",
         "shutil",
         "tools",
         "management",
-        "lib",
         "textile",
         "routing",
         "mail",
         "PyRSS2Gen",
-        "utils",
         "stat",
         "string",
         "simplejson",
@@ -21,13 +20,11 @@
         "jinja2",
         "b",
         "logging",
-        "handlers",
         "server",
         "queue",
         "defaults",
         "time",
         "lamson",
-        "model",
         "os"
     ]
 }

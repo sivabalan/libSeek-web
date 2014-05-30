@@ -2,9 +2,7 @@
     "libs": [
         "traceback",
         "io",
-        "networking",
         "struct",
-        "pynbt",
         "PublicKey",
         "urllib",
         "Util",

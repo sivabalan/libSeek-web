@@ -10,7 +10,6 @@
         "operator",
         "calendar",
         "unipath",
-        "management",
         "generic",
         "cache",
         "feedparser",

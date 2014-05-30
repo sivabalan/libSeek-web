@@ -1,16 +1,14 @@
 {
     "libs": [
         "management",
-        "setuptools",
         "shortcuts",
         "db",
-        "django",
+        "loader",
         "sys",
         "version",
         "template",
         "test",
-        "loader",
-        "os",
-        "bootstrapform"
+        "django",
+        "os"
     ]
 }

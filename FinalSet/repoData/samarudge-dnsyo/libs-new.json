@@ -2,7 +2,6 @@
     "libs": [
         "argparse",
         "logging",
-        "setuptools",
         "yaml",
         "random",
         "itertools",

@@ -1,7 +1,5 @@
 {
     "libs": [
-        "unipath",
-        "core",
         "stat",
         "posixpath",
         "warnings",

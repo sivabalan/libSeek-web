@@ -1,7 +1,6 @@
 {
     "libs": [
         "logging",
-        "setuptools",
         "encoding",
         "models",
         "auth",

@@ -1,9 +1,10 @@
 {
     "libs": [
-        "tests",
+        "logging",
         "os",
         "unittest",
         "datetime",
+        "sys",
         "datab",
         "fl"
     ]

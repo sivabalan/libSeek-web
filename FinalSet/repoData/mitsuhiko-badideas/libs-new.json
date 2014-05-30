@@ -2,15 +2,15 @@
     "libs": [
         "urlparse",
         "ctypes",
-        "opcode",
+        "gc",
         "markupsafe",
         "h",
         "urllib",
         "sys",
         "imp",
-        "gc",
-        "path",
         "collections",
+        "path",
+        "opcode",
         "types",
         "dis"
     ]

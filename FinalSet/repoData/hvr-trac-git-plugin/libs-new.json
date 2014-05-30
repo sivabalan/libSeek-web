@@ -29,7 +29,6 @@
         "weakref",
         "threading",
         "doctest",
-        "setuptools",
         "time",
         "os"
     ]

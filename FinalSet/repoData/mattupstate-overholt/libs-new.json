@@ -1,25 +1,22 @@
 {
     "libs": [
+        "dat",
         "celery",
         "sqlalchemy",
         "os",
         "simplejson",
-        "api",
         "h",
-        "importlib",
         "with_statement",
         "datetime",
         "sys",
         "serving",
-        "t",
         "werkzeug",
-        "path",
+        "importlib",
         "config",
-        "overholt",
+        "path",
         "b",
         "fl",
         "hmac",
-        "alembic",
         "pkgutil"
     ]
 }

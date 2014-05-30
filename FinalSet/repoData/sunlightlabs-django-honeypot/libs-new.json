@@ -1,7 +1,7 @@
 {
     "libs": [
         "http",
-        "conf",
+        "template",
         "encoding",
         "safestring",
         "six",
@@ -9,10 +9,9 @@
         "loader",
         "re",
         "itertools",
-        "setuptools",
+        "conf",
         "test",
         "django",
-        "functools",
-        "template"
+        "functools"
     ]
 }

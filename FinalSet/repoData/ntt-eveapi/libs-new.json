@@ -1,14 +1,13 @@
 {
     "libs": [
-        "core",
         "cPickle",
+        "warnings",
         "tempfile",
         "zlib",
         "httplib",
         "urllib",
-        "sys",
-        "parsers",
         "urlparse",
+        "parsers",
         "time",
         "path",
         "calendar",

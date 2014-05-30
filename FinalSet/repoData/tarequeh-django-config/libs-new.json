@@ -2,16 +2,13 @@
     "libs": [
         "core",
         "b",
-        "flyingcircus",
-        "conf",
+        "template",
         "shortcuts",
         "h",
-        "setuptools",
         "db",
-        "djangoconfig",
         "sys",
         "imp",
-        "template",
+        "conf",
         "getp",
         "os",
         "defaults"

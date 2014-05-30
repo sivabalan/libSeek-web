@@ -3,10 +3,8 @@
         "logging",
         "unicode_literals",
         "unittest",
-        "django_future_url",
         "subprocess",
         "re",
-        "setuptools",
         "codecs",
         "docopt",
         "os"

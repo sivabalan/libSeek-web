@@ -26,7 +26,6 @@
         "signal",
         "traceback",
         "itertools",
-        "setuptools",
         "time",
         "jinja2",
         "os"

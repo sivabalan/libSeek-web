@@ -1,15 +1,11 @@
 {
     "libs": [
-        "core",
+        "sys",
         "unicode_literals",
         "unittest",
         "urllib",
         "parse",
-        "re",
-        "sys",
         "urlparse",
-        "codecs",
-        "path",
         "os"
     ]
 }

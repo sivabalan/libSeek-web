@@ -19,17 +19,13 @@
         "events",
         "core",
         "http",
-        "defaults",
         "db",
-        "exceptions",
-        "ajax",
-        "commands",
+        "urlresolvers",
         "django",
         "urlparse",
         "itertools",
         "client",
-        "setuptools",
-        "urlresolvers",
-        "os"
+        "defaults",
+        "exceptions"
     ]
 }

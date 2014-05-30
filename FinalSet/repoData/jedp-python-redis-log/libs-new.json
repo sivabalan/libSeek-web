@@ -1,14 +1,11 @@
 {
     "libs": [
-        "core",
         "logging",
         "socket",
         "simplejson",
         "inspect",
         "redis",
         "datetime",
-        "setuptools",
-        "getp",
-        "os"
+        "getp"
     ]
 }

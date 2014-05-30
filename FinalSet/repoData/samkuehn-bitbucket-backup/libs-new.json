@@ -1,7 +1,6 @@
 {
     "libs": [
         "argparse",
-        "bitbucket",
         "b",
         "simplejson",
         "functools",

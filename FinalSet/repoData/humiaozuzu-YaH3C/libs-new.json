@@ -1,6 +1,6 @@
 {
     "libs": [
-        "core",
+        "argparse",
         "logging",
         "struct",
         "re",
@@ -8,11 +8,9 @@
         "sys",
         "atexit",
         "pwd",
-        "argparse",
-        "ctypes",
         "socket",
+        "ctypes",
         "getp",
-        "colorama",
         "os",
         "ConfigParser"
     ]

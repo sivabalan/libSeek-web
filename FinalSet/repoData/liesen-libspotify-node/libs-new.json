@@ -1,7 +1,6 @@
 {
     "libs": [
         "unicodedata",
-        "for log",
         "sre_compile",
         "sys",
         "re",

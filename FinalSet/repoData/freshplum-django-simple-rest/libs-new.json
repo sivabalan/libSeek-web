@@ -1,6 +1,7 @@
 {
     "libs": [
         "shortcuts",
+        "functools",
         "datetime",
         "pygments",
         "conf",
@@ -18,7 +19,7 @@
         "http",
         "simplejson",
         "optparse",
-        "sys",
+        "inspect",
         "csrf",
         "b",
         "logging",
@@ -26,7 +27,6 @@
         "decimal",
         "mimeparse",
         "formatters",
-        "setuptools",
         "time",
         "hmac"
     ]

@@ -1,11 +1,7 @@
 {
     "libs": [
-        "core",
-        "unittest",
         "sys",
-        "re",
-        "setuptools",
-        "email_reply_parser",
+        "unittest",
         "os"
     ]
 }

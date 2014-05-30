@@ -1,14 +1,11 @@
 {
     "libs": [
-        "argparse",
-        "tempfile",
-        "setuptools",
         "division",
+        "tempfile",
         "StringIO",
         "unicode_literals",
         "pbkdf2",
         "unittest",
-        "wifi",
         "textwrap",
         "subprocess",
         "sys",

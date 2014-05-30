@@ -3,16 +3,13 @@
         "cMarkdown",
         "style",
         "markdown",
-        "Distutils",
         "discount",
         "sys",
         "re",
         "token",
-        "setuptools",
         "time",
         "misaka",
         "markdown2",
-        "os",
-        "multiprocessing"
+        "os"
     ]
 }

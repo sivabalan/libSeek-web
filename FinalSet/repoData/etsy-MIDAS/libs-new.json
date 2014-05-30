@@ -1,10 +1,10 @@
 {
     "libs": [
-        "subprocess",
+        "datetime",
         "operator",
         "calendar",
         "struct",
-        "datetime",
+        "subprocess",
         "re",
         "json",
         "collections",

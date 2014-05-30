@@ -8,12 +8,11 @@
         "unittest",
         "six",
         "absolute_import",
-        "setuptools",
+        "sys",
         "re",
         "collections",
         "io",
         "encodings",
-        "sys",
         "os",
         "codecs"
     ]

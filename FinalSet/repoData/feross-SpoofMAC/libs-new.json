@@ -1,10 +1,9 @@
 {
     "libs": [
-        "random",
-        "subprocess",
         "sys",
         "re",
+        "random",
         "_winreg",
-        "setuptools"
+        "subprocess"
     ]
 }

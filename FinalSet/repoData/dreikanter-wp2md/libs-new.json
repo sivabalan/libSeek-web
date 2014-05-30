@@ -22,7 +22,6 @@
         "request",
         "urlparse",
         "chardet",
-        "setuptools",
         "time"
     ]
 }

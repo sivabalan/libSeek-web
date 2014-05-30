@@ -1,21 +1,8 @@
 {
     "libs": [
-        "core",
-        "b",
-        "streaminghttp",
-        "simplejson",
-        "StringIO",
-        "api",
-        "unittest",
-        "urllib2",
-        "urllib",
         "sys",
-        "threading",
-        "json",
-        "unirest",
-        "setuptools",
         "encode",
-        "gzip",
+        "unittest",
         "os"
     ]
 }

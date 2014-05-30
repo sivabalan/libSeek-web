@@ -1,20 +1,16 @@
 {
     "libs": [
+        "exception",
         "management",
         "http",
-        "conf",
-        "shortcuts",
-        "setuptools",
+        "local_settings",
         "db",
         "functional",
-        "contrib",
-        "social_login",
         "sys",
-        "urlresolvers",
-        "template",
+        "contrib",
+        "conf",
         "test",
         "os",
-        "socialoauth",
-        "local_settings"
+        "socialoauth"
     ]
 }

@@ -26,7 +26,6 @@
         "h",
         "threading",
         "doctest",
-        "setuptools",
         "time",
         "gzip",
         "os"

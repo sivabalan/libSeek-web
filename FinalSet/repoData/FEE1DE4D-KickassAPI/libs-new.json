@@ -1,8 +1,8 @@
 {
     "libs": [
+        "sys",
+        "threading",
         "pyquery",
-        "itertools",
-        "collections",
-        "threading"
+        "collections"
     ]
 }

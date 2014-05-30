@@ -1,24 +1,18 @@
 {
     "libs": [
-        "sys",
         "mimetypes",
         "b",
-        "template",
         "StringIO",
         "h",
         "locmem",
         "subprocess",
-        "util",
-        "urlresolvers",
-        "connection",
-        "simplestatic",
-        "setuptools",
-        "codecs",
-        "fnmatch",
         "exceptions",
+        "connection",
+        "template",
+        "threading",
+        "urlresolvers",
         "django",
         "os",
-        "pool",
-        "threading"
+        "pool"
     ]
 }

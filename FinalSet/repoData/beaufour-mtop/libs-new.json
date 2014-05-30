@@ -5,7 +5,7 @@
         "errors",
         "struct",
         "optparse",
-        "os",
+        "pymongo",
         "signal",
         "read_preferences",
         "connection",
@@ -13,8 +13,7 @@
         "son",
         "sys",
         "json",
-        "setuptools",
         "time",
-        "pymongo"
+        "os"
     ]
 }

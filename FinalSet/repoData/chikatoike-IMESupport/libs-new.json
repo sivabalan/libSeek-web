@@ -1,14 +1,13 @@
 {
     "libs": [
         "wintypes",
-        "time",
+        "win32con",
         "sys",
         "platform",
-        "imesupport",
         "ctypes",
         "math",
         "win32gui",
-        "win32con",
+        "time",
         "path",
         "sublime_plugin",
         "multiprocessing",

@@ -2,7 +2,6 @@
     "libs": [
         "cStringIO",
         "Generator",
-        "MIMEMultipart",
         "locale",
         "functools",
         "random",
@@ -15,16 +14,15 @@
         "generator",
         "urllib",
         "re",
-        "tornadomail",
         "email",
-        "core",
+        "MIMEMultipart",
         "mimetypes",
-        "Utils",
         "tornado",
         "MIMEB",
         "sys",
         "ssl",
         "codecs",
+        "hmac",
         "copy",
         "types",
         "b",
@@ -32,10 +30,10 @@
         "socket",
         "StringIO",
         "decimal",
-        "hmac",
+        "options",
         "Header",
         "time",
         "os",
-        "options"
+        "Utils"
     ]
 }

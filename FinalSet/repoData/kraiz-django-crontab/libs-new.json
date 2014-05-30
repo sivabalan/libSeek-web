@@ -4,13 +4,12 @@
         "b",
         "logging",
         "importlib",
-        "conf",
         "tempfile",
         "h",
         "sys",
         "re",
         "json",
-        "setuptools",
+        "conf",
         "os"
     ]
 }

@@ -1,9 +1,6 @@
 {
     "libs": [
-        "core",
         "stat",
-        "git",
-        "cli",
         "tempfile",
         "UserDict",
         "subprocess",

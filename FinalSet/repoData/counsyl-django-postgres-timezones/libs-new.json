@@ -1,12 +1,11 @@
 {
     "libs": [
-        "management",
+        "b",
         "shortcuts",
         "datetime",
         "sys",
         "pytz",
         "conf",
-        "b",
         "os"
     ]
 }

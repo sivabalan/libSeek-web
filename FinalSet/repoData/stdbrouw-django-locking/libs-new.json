@@ -1,21 +1,14 @@
 {
     "libs": [
-        "management",
         "http",
-        "defaults",
         "simplejson",
         "db",
-        "locking",
-        "auth",
         "datetime",
         "sys",
         "contrib",
         "client",
-        "setuptools",
+        "defaults",
         "urlresolvers",
-        "logging",
-        "translation",
-        "django",
         "os"
     ]
 }

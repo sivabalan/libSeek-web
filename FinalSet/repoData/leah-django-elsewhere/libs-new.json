@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "http",
         "defaults",
         "settings",
@@ -9,10 +8,10 @@
         "cache",
         "db",
         "django",
-        "contrib",
+        "urlresolvers",
         "defaultfilters",
         "template",
-        "urlresolvers",
+        "contrib",
         "translation",
         "datetime",
         "decorators"

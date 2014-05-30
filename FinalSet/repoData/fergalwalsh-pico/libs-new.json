@@ -1,7 +1,5 @@
 {
     "libs": [
-        "simple_server",
-        "datetime",
         "gevent",
         "importlib",
         "re",
@@ -10,7 +8,7 @@
         "json",
         "getopt",
         "cgi",
-        "core",
+        "simple_server",
         "mimetypes",
         "SocketServer",
         "pywsgi",
@@ -19,13 +17,9 @@
         "sys",
         "types",
         "httplib",
-        "install_data",
         "h",
-        "decimal",
         "traceback",
         "threading",
-        "pico",
-        "install",
         "time",
         "os"
     ]

@@ -1,21 +1,12 @@
 {
     "libs": [
         "core",
-        "management",
-        "install",
-        "conf",
-        "ez_setup",
-        "install_data",
-        "db",
-        "Queue",
-        "django",
-        "sys",
-        "djkombu",
         "b",
-        "setuptools",
-        "codecs",
+        "db",
+        "django",
+        "Queue",
+        "conf",
         "translation",
-        "anyjson",
-        "os"
+        "anyjson"
     ]
 }

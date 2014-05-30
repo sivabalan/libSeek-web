@@ -1,11 +1,9 @@
 {
     "libs": [
-        "management",
-        "glob",
         "sys",
-        "types",
-        "setuptools",
+        "glob",
+        "management",
         "os",
-        "split_settings"
+        "types"
     ]
 }

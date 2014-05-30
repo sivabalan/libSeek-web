@@ -1,7 +1,6 @@
 {
     "libs": [
         "unicode_literals",
-        "fixes",
         "functools",
         "subprocess",
         "fixer_b",
@@ -24,7 +23,6 @@
         "this",
         "baz",
         "pygram",
-        "setuptools",
         "os",
         "pgen2"
     ]

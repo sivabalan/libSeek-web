@@ -5,17 +5,14 @@
         "errors",
         "struct",
         "distutils",
-        "string",
-        "yubico",
         "unittest",
         "datetime",
         "sys",
         "re",
         "legacy",
-        "setuptools",
         "time",
         "os",
-        "rele",
+        "string",
         "usb"
     ]
 }

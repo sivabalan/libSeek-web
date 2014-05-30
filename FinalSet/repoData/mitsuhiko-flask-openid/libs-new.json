@@ -2,7 +2,6 @@
     "libs": [
         "openid",
         "sqlalchemy",
-        "werkzeug",
         "warnings",
         "tempfile",
         "consumer",
@@ -13,7 +12,7 @@
         "sys",
         "declarative",
         "filestore",
-        "setuptools",
+        "werkzeug",
         "pickle",
         "extensions",
         "orm",

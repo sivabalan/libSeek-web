@@ -6,7 +6,6 @@
         "unittest",
         "with_statement",
         "operator",
-        "extraction",
         "pprint",
         "urllib",
         "re",
@@ -15,11 +14,8 @@
         "collections",
         "nose_parameterized",
         "numpy",
-        "core",
-        "tests",
         "optparse",
         "urllib2",
-        "scrapely",
         "sys",
         "copy",
         "url",
@@ -28,7 +24,6 @@
         "urlparse",
         "itertools",
         "shlex",
-        "setuptools",
         "os"
     ]
 }

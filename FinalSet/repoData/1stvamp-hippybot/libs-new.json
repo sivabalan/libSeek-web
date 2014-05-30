@@ -1,6 +1,5 @@
 {
     "libs": [
-        "ez_setup",
         "functools",
         "random",
         "subprocess",
@@ -19,13 +18,12 @@
         "path",
         "ConfigParser",
         "logging",
-        "jabberbot",
+        "os",
         "signal",
         "traceback",
         "threading",
-        "setuptools",
         "time",
         "requests",
-        "os"
+        "jabberbot"
     ]
 }

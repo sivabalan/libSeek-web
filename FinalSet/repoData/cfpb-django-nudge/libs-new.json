@@ -1,13 +1,10 @@
 {
     "libs": [
         "os",
-        "shortcuts",
-        "functional",
         "related",
         "datetime",
         "conf",
         "contrib",
-        "nudge",
         "urllib",
         "json",
         "Cipher",
@@ -15,23 +12,17 @@
         "bin",
         "core",
         "http",
-        "setuptools",
         "simplejson",
         "reversion",
         "db",
         "urllib2",
-        "util",
         "v2",
-        "response",
+        "csrf",
         "b",
         "h",
-        "safestring",
-        "messages",
         "django",
         "urlparse",
         "itertools",
-        "formsets",
-        "defaults",
         "pickle"
     ]
 }

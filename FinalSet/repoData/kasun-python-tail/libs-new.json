@@ -1,7 +1,6 @@
 {
     "libs": [
         "sys",
-        "core",
         "os",
         "time"
     ]

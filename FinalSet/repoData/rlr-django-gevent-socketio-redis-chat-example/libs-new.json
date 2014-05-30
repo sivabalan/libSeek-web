@@ -8,13 +8,14 @@
         "db",
         "cache",
         "redis",
+        "contrib",
         "sys",
         "imp",
         "gevent",
         "conf",
         "test",
-        "management",
         "os",
-        "defaults"
+        "defaults",
+        "simple"
     ]
 }

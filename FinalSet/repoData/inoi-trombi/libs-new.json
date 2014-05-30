@@ -15,8 +15,6 @@
         "collections",
         "suite",
         "httpclient",
-        "core",
-        "trombi",
         "simplejson",
         "error",
         "urllib2",

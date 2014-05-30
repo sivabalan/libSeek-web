@@ -1,16 +1,13 @@
 {
     "libs": [
-        "stt",
         "ElementTree",
         "struct",
-        "aiml",
         "tempfile",
-        "wave",
         "pyaudio",
-        "urllib2",
         "subprocess",
+        "urllib2",
+        "wave",
         "sys",
-        "tts",
         "json",
         "webbrowser",
         "getopt",

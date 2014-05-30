@@ -5,9 +5,9 @@
         "datetime",
         "ttk",
         "tkFont",
-        "re",
-        "urllib",
         "docutils",
+        "urllib",
+        "re",
         "json",
         "core",
         "Tkinter",
@@ -27,7 +27,6 @@
         "handlers",
         "threading",
         "tkMessageBox",
-        "setuptools",
         "time",
         "os"
     ]

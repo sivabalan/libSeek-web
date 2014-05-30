@@ -2,15 +2,14 @@
     "libs": [
         "cStringIO",
         "struct",
-        "re",
+        "tempfile",
         "bisect",
         "mmap",
         "unittest",
         "sys",
-        "tempfile",
+        "re",
         "itertools",
         "tools",
-        "urlparse",
         "io",
         "os",
         "functools"

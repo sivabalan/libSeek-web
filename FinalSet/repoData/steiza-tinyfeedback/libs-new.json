@@ -1,7 +1,6 @@
 {
     "libs": [
         "cgi",
-        "core",
         "logging",
         "simplejson",
         "handlers",

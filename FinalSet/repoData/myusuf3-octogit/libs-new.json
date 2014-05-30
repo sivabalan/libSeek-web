@@ -1,20 +1,5 @@
 {
     "libs": [
-        "octogit",
-        "clint",
-        "simplejson",
-        "setuptools",
-        "subprocess",
-        "sys",
-        "re",
-        "json",
-        "webbrowser",
-        "io",
-        "getp",
-        "textui",
-        "requests",
-        "docopt",
-        "os",
-        "ConfigParser"
+        "unittest"
     ]
 }

@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "inspect",
         "http",
         "uuid",

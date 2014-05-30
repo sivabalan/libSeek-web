@@ -10,9 +10,6 @@
         "datetime",
         "parse",
         "json",
-        "setuptools",
-        "hipsaint",
-        "os",
         "mock"
     ]
 }

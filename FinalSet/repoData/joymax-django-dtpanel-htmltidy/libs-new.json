@@ -1,20 +1,18 @@
 {
     "libs": [
         "management",
-        "setuptools",
+        "defaults",
         "simple",
-        "translation",
         "safestring",
         "db",
         "loader",
         "sys",
         "re",
-        "static",
         "conf",
         "test",
         "tidylib",
         "os",
-        "defaults",
+        "translation",
         "dingus"
     ]
 }

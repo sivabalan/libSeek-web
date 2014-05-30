@@ -1,13 +1,12 @@
 {
     "libs": [
         "http",
-        "csrf",
+        "defaults",
         "db",
         "datetime",
         "contrib",
         "v2",
-        "setuptools",
-        "test",
-        "defaults"
+        "csrf",
+        "test"
     ]
 }

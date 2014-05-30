@@ -1,10 +1,8 @@
 {
     "libs": [
-        "core",
         "management",
-        "http",
-        "csrf",
-        "generic",
+        "template",
+        "shortcuts",
         "db",
         "redis",
         "connection",
@@ -12,11 +10,12 @@
         "exceptions",
         "json",
         "gevent",
-        "sse",
-        "os",
-        "conf",
         "pywsgi",
+        "conf",
+        "time",
         "test",
-        "decorators"
+        "timezone",
+        "os",
+        "generic"
     ]
 }

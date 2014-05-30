@@ -2,7 +2,6 @@
     "libs": [
         "b",
         "http",
-        "setuptools",
         "conf",
         "re",
         "shortcuts",
@@ -15,10 +14,7 @@
         "client",
         "template",
         "test",
-        "management",
-        "translation",
         "os",
-        "defaults",
-        "featureflipper"
+        "defaults"
     ]
 }

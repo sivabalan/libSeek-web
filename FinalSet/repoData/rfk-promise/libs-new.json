@@ -1,15 +1,13 @@
 {
     "libs": [
-        "core",
+        "cStringIO",
         "struct",
         "warnings",
-        "operator",
         "sys",
         "imp",
         "itertools",
-        "promise",
-        "cStringIO",
         "opcode",
+        "operator",
         "array",
         "os",
         "marshal",

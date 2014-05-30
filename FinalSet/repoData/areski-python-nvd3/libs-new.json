@@ -1,17 +1,13 @@
 {
     "libs": [
-        "util",
-        "string",
-        "nvd3",
         "optparse",
         "os",
         "unittest",
         "random",
         "datetime",
         "sys",
-        "fnmatch",
         "json",
-        "setuptools",
+        "jinja2",
         "time",
         "IPython",
         "numpy",

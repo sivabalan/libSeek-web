@@ -2,10 +2,8 @@
     "libs": [
         "web",
         "data_managers",
+        "tools",
         "python_rest_handler",
-        "unittest",
-        "setuptools",
-        "tornado_rest_handler",
-        "tools"
+        "unittest"
     ]
 }

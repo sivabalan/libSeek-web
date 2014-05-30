@@ -1,26 +1,24 @@
 {
     "libs": [
-        "ali",
-        "random",
-        "operator",
         "sgmllib",
+        "httplib",
         "iconv_codec",
-        "urllib",
-        "re",
-        "generators",
         "string",
+        "ali",
         "GeoIP",
+        "random",
         "htmlentitydefs",
         "urllib2",
+        "urllib",
         "sys",
-        "codecs",
-        "types",
-        "httplib",
-        "socket",
-        "urlparse",
+        "re",
         "itertools",
+        "generators",
+        "urlparse",
+        "codecs",
+        "operator",
         "chardet",
-        "setuptools",
-        "os"
+        "types",
+        "socket"
     ]
 }

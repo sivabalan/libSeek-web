@@ -17,6 +17,7 @@
         "locale",
         "shutil",
         "os",
+        "__init__",
         "ConfigParser"
     ]
 }

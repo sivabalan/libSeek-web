@@ -4,7 +4,6 @@
         "socket",
         "signal",
         "nose",
-        "setuptools",
         "time",
         "os"
     ]

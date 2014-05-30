@@ -1,7 +1,6 @@
 {
     "libs": [
         "b",
-        "extr",
         "subqueries",
         "safestring",
         "db",
@@ -11,11 +10,8 @@
         "json",
         "management",
         "admin_static",
-        "setuptools",
         "exceptions",
-        "query",
         "translation",
-        "os",
-        "constants"
+        "os"
     ]
 }

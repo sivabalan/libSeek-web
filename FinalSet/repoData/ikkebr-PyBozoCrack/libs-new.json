@@ -1,13 +1,11 @@
 {
     "libs": [
-        "core",
         "optparse",
         "h",
         "unittest",
         "urllib",
         "sys",
         "re",
-        "setuptools",
         "os"
     ]
 }

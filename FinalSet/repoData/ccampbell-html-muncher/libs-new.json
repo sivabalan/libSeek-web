@@ -4,7 +4,6 @@
         "operator",
         "sys",
         "re",
-        "setuptools",
         "gzip",
         "getopt",
         "shutil",

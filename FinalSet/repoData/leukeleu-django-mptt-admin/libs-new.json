@@ -9,7 +9,6 @@
         "django",
         "sys",
         "json",
-        "setuptools",
         "contrib",
         "django_jenkins"
     ]

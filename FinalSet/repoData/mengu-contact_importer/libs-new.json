@@ -4,20 +4,16 @@
         "bin",
         "b",
         "uuid",
-        "lib",
         "h",
         "random",
         "urllib",
         "urlparse",
         "json",
         "lxml",
-        "sys",
-        "time",
-        "setuptools",
-        "Deprecated",
         "collections",
+        "time",
+        "Deprecated",
         "requests",
-        "os",
         "hmac"
     ]
 }

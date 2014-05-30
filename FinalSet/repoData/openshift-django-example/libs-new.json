@@ -1,7 +1,6 @@
 {
     "libs": [
         "inspect",
-        "setuptools",
         "shortcuts",
         "h",
         "random",
@@ -9,7 +8,6 @@
         "sys",
         "imp",
         "management",
-        "defaults",
         "contrib",
         "os"
     ]

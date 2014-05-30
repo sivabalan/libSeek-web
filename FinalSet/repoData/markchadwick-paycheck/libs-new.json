@@ -1,13 +1,8 @@
 {
     "libs": [
-        "core",
-        "paycheck",
-        "cmd",
         "string",
-        "build_py",
         "unittest",
         "random",
-        "tests",
         "sys",
         "itertools",
         "cmath",

@@ -2,13 +2,13 @@
     "libs": [
         "httplib",
         "bs4",
-        "os",
+        "fl",
         "urllib2",
         "urllib",
         "sys",
         "json",
         "requests",
-        "fl",
+        "os",
         "cookielib"
     ]
 }

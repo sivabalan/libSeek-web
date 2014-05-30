@@ -2,19 +2,16 @@
     "libs": [
         "cStringIO",
         "language",
-        "pycukes",
+        "should_dsl",
         "optparse",
         "unittest",
-        "should_dsl",
+        "StringIO",
         "story_parser",
         "sys",
         "re",
-        "steps",
         "doctest",
-        "setuptools",
         "pyhistorian",
         "subprocess",
-        "os",
-        "StringIO"
+        "os"
     ]
 }

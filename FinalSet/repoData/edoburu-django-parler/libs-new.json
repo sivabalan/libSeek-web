@@ -10,8 +10,6 @@
         "query",
         "management",
         "importlib",
-        "re",
-        "parler",
         "loaders",
         "shortcuts",
         "test",
@@ -19,20 +17,15 @@
         "db",
         "sys",
         "urlresolvers",
-        "related",
-        "codecs",
         "path",
         "translation",
         "print_function",
         "util",
-        "b",
-        "logging",
+        "edit",
         "modelsinspector",
         "django",
-        "setuptools",
         "exceptions",
         "os",
-        "options",
-        "compilemessages"
+        "options"
     ]
 }

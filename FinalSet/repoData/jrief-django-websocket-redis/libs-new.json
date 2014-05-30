@@ -2,8 +2,9 @@
     "libs": [
         "encoding",
         "functional",
+        "dispatch",
         "datetime",
-        "ws4redis",
+        "gevent",
         "contrib",
         "moves",
         "select",
@@ -11,7 +12,7 @@
         "struct",
         "six",
         "redis",
-        "gevent",
+        "signals",
         "monkey",
         "test",
         "uwsgi",
@@ -33,7 +34,6 @@
         "connection",
         "client",
         "nose",
-        "setuptools",
         "time",
         "requests",
         "os"

@@ -9,7 +9,6 @@
         "io",
         "query",
         "dateutil",
-        "management",
         "psycopg2",
         "geos",
         "pprint",

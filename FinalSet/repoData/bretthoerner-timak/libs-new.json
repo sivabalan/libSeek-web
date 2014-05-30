@@ -2,7 +2,6 @@
     "libs": [
         "riak",
         "unittest2",
-        "setuptools",
         "datetime"
     ]
 }

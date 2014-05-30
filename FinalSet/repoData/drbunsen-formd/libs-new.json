@@ -1,11 +1,9 @@
 {
     "libs": [
-        "src",
+        "sys",
         "argparse",
         "unittest",
-        "sys",
-        "re",
         "collections",
-        "core"
+        "re"
     ]
 }

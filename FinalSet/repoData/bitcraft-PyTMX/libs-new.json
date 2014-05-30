@@ -10,7 +10,6 @@
         "itertools",
         "collections",
         "pygame",
-        "setuptools",
         "gzip",
         "path",
         "array",

@@ -1,10 +1,9 @@
 {
     "libs": [
         "titlec",
-        "setuptools",
         "encoding",
         "smartypants",
-        "safestring",
+        "functools",
         "django",
         "sys",
         "re",
@@ -13,7 +12,7 @@
         "conf",
         "exceptions",
         "os",
-        "functools",
+        "safestring",
         "doctest"
     ]
 }

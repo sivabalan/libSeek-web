@@ -1,22 +1,18 @@
 {
     "libs": [
-        "ext",
         "uuid",
-        "(print_function",
         "unicode_literals",
-        "numpy",
+        "os",
         "time",
-        "pkg_resources",
+        "json",
         "datetime",
         "sys",
-        "json",
-        "os",
-        "setuptools",
-        "pand",
+        "ext",
+        "pkg_resources",
         "itertools",
-        "vincent",
-        "division)",
         "tools",
+        "pand",
+        "numpy",
         "display",
         "string"
     ]

@@ -1,13 +1,10 @@
 {
     "libs": [
         "importlib",
-        "testplugin",
         "unittest",
-        "plugin",
         "sys",
         "imp",
         "mock",
-        "setuptools",
         "os",
         "functools",
         "types"

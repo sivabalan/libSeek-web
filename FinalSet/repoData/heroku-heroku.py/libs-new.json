@@ -7,9 +7,7 @@
         "datetime",
         "parse",
         "json",
-        "setuptools",
         "exceptions",
-        "requests",
-        "os"
+        "requests"
     ]
 }

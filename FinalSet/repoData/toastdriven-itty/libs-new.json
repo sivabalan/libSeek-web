@@ -2,7 +2,6 @@
     "libs": [
         "cookies",
         "cherrypy",
-        "simple_server",
         "wsgi",
         "datetime",
         "fcgi",
@@ -17,10 +16,9 @@
         "re",
         "Cookie",
         "internet",
-        "or ``import simplejson",
         "config",
         "cgi",
-        "core",
+        "simple_server",
         "mimetypes",
         "gunicorn",
         "sys",
@@ -33,7 +31,6 @@
         "traceback",
         "urlparse",
         "p",
-        "setuptools",
         "time",
         "os",
         "hmac"

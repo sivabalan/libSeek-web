@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "struct",
         "UserDict",
         "itertools",

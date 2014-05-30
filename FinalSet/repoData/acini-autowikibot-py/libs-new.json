@@ -12,9 +12,10 @@
         "datetime",
         "sys",
         "re",
-        "nsfw",
-        "time",
         "HTMLParser",
+        "collections",
+        "time",
+        "nsfw",
         "os",
         "socket"
     ]

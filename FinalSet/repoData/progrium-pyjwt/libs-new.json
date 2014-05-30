@@ -1,24 +1,13 @@
 {
     "libs": [
-        "bin",
-        "b",
-        "simplejson",
         "unicode_literals",
-        "h",
         "unittest",
-        "Signature",
         "jwt",
         "Crypto",
         "datetime",
         "sys",
         "PublicKey",
-        "json",
-        "collections",
         "time",
-        "setuptools",
-        "H",
-        "calendar",
-        "os",
-        "hmac"
+        "calendar"
     ]
 }

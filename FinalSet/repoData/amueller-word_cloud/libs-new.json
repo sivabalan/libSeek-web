@@ -1,14 +1,7 @@
 {
     "libs": [
-        "core",
-        "PIL",
-        "query_integral_image",
-        "numpy",
-        "random",
         "sys",
-        "re",
         "wordcloud",
-        "Build",
         "os"
     ]
 }

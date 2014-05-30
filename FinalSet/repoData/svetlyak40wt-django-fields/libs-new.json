@@ -10,7 +10,6 @@
         "conf",
         "contrib",
         "shutil",
-        "defaults",
         "management",
         "imp",
         "tempfile",
@@ -34,7 +33,7 @@
         "pkg_resources",
         "modelsinspector",
         "django",
-        "setuptools",
+        "defaults",
         "sets",
         "os",
         "win32api"

@@ -5,16 +5,15 @@
         "unicode_literals",
         "h",
         "enum",
-        "ntpath",
         "datetime",
         "sys",
         "re",
         "registry",
-        "setuptools",
         "time",
         "calendar",
+        "wx",
         "os",
         "print_function",
-        "wx"
+        "ntpath"
     ]
 }

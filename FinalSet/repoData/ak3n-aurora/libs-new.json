@@ -1,26 +1,17 @@
 {
     "libs": [
-        "functools",
-        "with_statement",
-        "datetime",
-        "api",
-        "git",
-        "imp",
-        "json",
-        "getp",
-        "aurora_app",
         "sqlalchemy",
+        "handlers",
+        "os",
+        "functools",
         "inspect",
+        "with_statement",
         "sys",
         "orm",
-        "fl",
-        "handlers",
-        "command",
         "t",
-        "setuptools",
-        "time",
-        "os",
-        "multiprocessing",
-        "alembic"
+        "getp",
+        "security",
+        "fl",
+        "multiprocessing"
     ]
 }

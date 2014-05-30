@@ -1,10 +1,9 @@
 {
     "libs": [
-        "core",
         "ctypes",
-        "fe",
         "csv",
         "numpy",
+        "fe",
         "sklearn"
     ]
 }

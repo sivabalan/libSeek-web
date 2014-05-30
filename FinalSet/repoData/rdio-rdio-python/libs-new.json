@@ -2,23 +2,16 @@
     "libs": [
         "bin",
         "cgi",
-        "logging",
-        "time",
+        "socket",
         "h",
         "unittest",
         "random",
-        "struct",
         "urllib",
         "urlparse",
-        "rdioapi",
-        "json",
         "sys",
-        "httplib2",
-        "setuptools",
+        "time",
         "Deprecated",
-        "os",
         "hmac",
-        "utils",
-        "socket"
+        "struct"
     ]
 }

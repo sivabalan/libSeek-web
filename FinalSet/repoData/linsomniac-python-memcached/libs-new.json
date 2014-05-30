@@ -3,7 +3,6 @@
         "bin",
         "cPickle",
         "socket",
-        "io",
         "re",
         "os",
         "unittest",
@@ -11,7 +10,7 @@
         "sys",
         "threading",
         "doctest",
-        "setuptools",
+        "io",
         "time",
         "pickle",
         "print_function"

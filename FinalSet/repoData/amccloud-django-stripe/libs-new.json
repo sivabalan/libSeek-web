@@ -1,24 +1,22 @@
 {
     "libs": [
-        "core",
         "b",
-        "http",
-        "defaults",
-        "conf",
-        "generic",
-        "utils",
+        "local_settings",
+        "auth",
+        "simple",
+        "decorators",
         "db",
         "functional",
         "dispatch",
+        "datetime",
         "sys",
         "imp",
-        "management",
         "stripe",
-        "csrf",
+        "defaults",
         "urlresolvers",
-        "dist",
-        "auth",
-        "simple",
-        "contrib"
+        "translation",
+        "django",
+        "os",
+        "types"
     ]
 }

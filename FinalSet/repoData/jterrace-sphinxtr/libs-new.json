@@ -1,15 +1,13 @@
 {
     "libs": [
         "frontend",
-        "locale",
         "text",
-        "utils",
         "io",
         "compat",
         "console",
-        "re",
-        "smartypants",
         "docutils",
+        "smartypants",
+        "re",
         "html",
         "directives",
         "collections",
@@ -18,18 +16,12 @@
         "mathb",
         "osutil",
         "sys",
-        "plaintext",
         "codecs",
-        "rst",
         "std",
         "latex",
         "sphinx",
         "roles",
         "texescape",
-        "plain",
-        "l",
-        "datab",
-        "domains",
         "os"
     ]
 }

@@ -3,7 +3,6 @@
         "traceback",
         "pickle",
         "random",
-        "zipfile",
         "subprocess",
         "sys",
         "shutil",

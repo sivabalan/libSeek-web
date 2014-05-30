@@ -13,7 +13,6 @@
         "sys",
         "orm",
         "analysis",
-        "setuptools",
         "fields",
         "shutil",
         "fl"

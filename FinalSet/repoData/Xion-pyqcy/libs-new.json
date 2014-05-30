@@ -1,18 +1,15 @@
 {
     "libs": [
         "functools",
-        "traceback",
-        "string",
         "inspect",
+        "string",
         "unittest",
-        "pyqcy",
+        "traceback",
         "itertools",
         "absolute_import",
         "sys",
         "re",
         "json",
-        "arbitraries",
-        "setuptools",
         "random",
         "os",
         "mocktest"

@@ -1,14 +1,10 @@
 {
     "libs": [
-        "core",
         "lxml",
         "unittest",
         "sys",
         "re",
-        "cssselect",
-        "setuptools",
         "operator",
-        "path",
         "os"
     ]
 }

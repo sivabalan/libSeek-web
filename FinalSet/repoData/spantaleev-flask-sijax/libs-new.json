@@ -2,15 +2,14 @@
     "libs": [
         "sys",
         "wsgi",
-        "os",
         "helper",
-        "h",
+        "os",
         "unittest",
         "with_statement",
         "absolute_import",
         "sijax",
-        "setuptools",
         "time",
+        "h",
         "fl",
         "response",
         "types"

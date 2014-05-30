@@ -2,16 +2,12 @@
     "libs": [
         "ioloop",
         "web",
-        "pantograph",
-        "template",
-        "random",
-        "json",
-        "datetime",
-        "sys",
-        "itertools",
-        "collections",
-        "setuptools",
         "websocket",
+        "random",
+        "datetime",
+        "json",
+        "collections",
+        "template",
         "os",
         "math"
     ]

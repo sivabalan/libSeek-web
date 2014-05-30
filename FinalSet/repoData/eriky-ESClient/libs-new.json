@@ -1,15 +1,12 @@
 {
     "libs": [
-        "sys",
         "logging",
         "simplejson",
-        "core",
         "unittest",
         "pprint",
         "urllib",
         "parse",
         "json",
-        "setuptools",
         "requests",
         "print_function"
     ]

@@ -2,24 +2,21 @@
     "libs": [
         "bin",
         "core",
-        "tests",
         "management",
         "logging",
-        "salad",
-        "webdriver",
+        "argparse",
         "keys",
-        "tools",
+        "os",
         "desired_capabilities",
         "errorhandler",
         "django",
         "sys",
         "lettuce",
-        "argparse",
-        "setuptools",
         "time",
         "exceptions",
         "path",
         "subprocess",
-        "os"
+        "tools",
+        "webdriver"
     ]
 }

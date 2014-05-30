@@ -1,15 +1,12 @@
 {
     "libs": [
         "PySO8601",
-        "micromodels",
         "simplejson",
         "unittest",
         "urllib2",
         "datetime",
         "sys",
-        "re",
         "json",
-        "setuptools",
         "os"
     ]
 }

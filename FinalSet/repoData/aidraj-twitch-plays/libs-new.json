@@ -1,7 +1,6 @@
 {
     "libs": [
         "socket",
-        "config",
         "time",
         "sys",
         "re",

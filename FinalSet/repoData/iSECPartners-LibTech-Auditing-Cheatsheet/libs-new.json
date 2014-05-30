@@ -1,17 +1,14 @@
 {
     "libs": [
-        "ElementTree",
         "urlparse",
-        "markdown",
+        "ElementTree",
         "logging",
         "cElementTree",
         "optparse",
         "htmlentitydefs",
         "sys",
         "re",
-        "extensions",
         "doctest",
-        "codecs",
         "copy"
     ]
 }

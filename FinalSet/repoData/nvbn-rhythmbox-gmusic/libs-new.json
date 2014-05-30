@@ -1,13 +1,3 @@
 {
-    "libs": [
-        "rb",
-        "repository",
-        "gettext",
-        "sys",
-        "concurrent",
-        "json",
-        "setuptools",
-        "os",
-        "gmusicapi"
-    ]
+    "libs": []
 }

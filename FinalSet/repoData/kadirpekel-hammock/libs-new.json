@@ -3,7 +3,6 @@
         "httpretty",
         "unittest",
         "copy",
-        "requests",
-        "setuptools"
+        "requests"
     ]
 }

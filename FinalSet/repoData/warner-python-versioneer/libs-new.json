@@ -5,18 +5,15 @@
         "dist",
         "tempfile",
         "errno",
-        "unittest",
+        "sdist",
         "tarfile",
-        "_version",
         "subprocess",
         "sys",
         "re",
-        "build_scripts",
         "build",
-        "io",
         "path",
         "shutil",
         "os",
-        "sdist"
+        "unittest"
     ]
 }

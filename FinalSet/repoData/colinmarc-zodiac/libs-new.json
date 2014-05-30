@@ -1,9 +1,8 @@
 {
     "libs": [
         "sys",
-        "core",
+        "imp",
         "builtins",
-        "types",
-        "imp"
+        "types"
     ]
 }

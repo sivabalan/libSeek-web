@@ -1,8 +1,6 @@
 {
     "libs": [
-        "core",
         "PIL",
-        "py2exe",
         "tempfile",
         "natsort",
         "zipfile",

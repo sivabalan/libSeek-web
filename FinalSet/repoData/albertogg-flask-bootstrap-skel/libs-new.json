@@ -1,15 +1,15 @@
 {
     "libs": [
         "sqlalchemy",
-        "fl",
+        "os",
         "unittest",
         "pprint",
         "with_statement",
-        "application",
+        "sys",
         "api",
+        "path",
         "readline",
         "config",
-        "os",
-        "alembic"
+        "fl"
     ]
 }

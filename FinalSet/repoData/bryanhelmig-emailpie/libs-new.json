@@ -7,7 +7,6 @@
         "unittest",
         "validators",
         "redis",
-        "emailpie",
         "re",
         "gevent",
         "collections",

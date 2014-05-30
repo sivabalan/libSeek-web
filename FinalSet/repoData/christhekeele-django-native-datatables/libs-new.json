@@ -3,7 +3,6 @@
         "paginator",
         "sys",
         "b",
-        "setuptools",
         "encoding",
         "bisect",
         "text",

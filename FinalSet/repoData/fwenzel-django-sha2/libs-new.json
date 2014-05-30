@@ -1,21 +1,17 @@
 {
     "libs": [
-        "dat",
+        "sys",
         "b",
         "logging",
-        "conf",
-        "django_sha2",
+        "os",
         "encoding",
         "h",
-        "bcrypt",
         "crypto",
         "django",
-        "sys",
-        "management",
+        "dat",
         "tools",
-        "setuptools",
-        "future",
-        "os",
+        "conf",
+        "bcrypt",
         "hmac",
         "mock"
     ]

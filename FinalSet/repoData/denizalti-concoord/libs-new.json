@@ -10,7 +10,6 @@
         "record",
         "errno",
         "name",
-        "re",
         "collections",
         "types",
         "dns",
@@ -32,11 +31,8 @@
         "StringIO",
         "os",
         "signal",
-        "concoord",
         "threading",
-        "itertools",
         "opcode",
-        "setuptools",
         "time",
         "pickle"
     ]

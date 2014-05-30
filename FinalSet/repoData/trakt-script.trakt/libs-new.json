@@ -1,7 +1,7 @@
 {
     "libs": [
         "dummy_thread",
-        "sha",
+        "threading",
         "re",
         "json",
         "sqlite3",
@@ -17,7 +17,7 @@
         "socket",
         "thread",
         "h",
-        "threading",
+        "sha",
         "xbmcvfs",
         "time",
         "os",

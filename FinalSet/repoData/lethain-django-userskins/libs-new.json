@@ -5,7 +5,6 @@
         "template",
         "conf",
         "db",
-        "templatetags",
         "django",
         "sys",
         "defaults",

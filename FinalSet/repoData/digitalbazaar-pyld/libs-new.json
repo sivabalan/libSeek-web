@@ -5,12 +5,12 @@
         "parse",
         "contextlib",
         "numbers",
+        "io",
         "posixpath",
         "re",
         "json",
         "collections",
         "unittest",
-        "core",
         "string",
         "optparse",
         "urllib2",
@@ -19,7 +19,6 @@
         "path",
         "copy",
         "print_function",
-        "pyld",
         "httplib",
         "socket",
         "h",
@@ -27,6 +26,7 @@
         "request",
         "urlparse",
         "client",
+        "gzip",
         "os"
     ]
 }

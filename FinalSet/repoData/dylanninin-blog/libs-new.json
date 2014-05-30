@@ -8,8 +8,8 @@
         "re",
         "doctest",
         "codecs",
-        "pyinotify",
         "calendar",
-        "os"
+        "os",
+        "__init__"
     ]
 }

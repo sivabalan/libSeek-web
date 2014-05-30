@@ -1,17 +1,10 @@
 {
     "libs": [
         "b",
-        "setuptools",
         "simplejson",
         "unittest",
-        "geojson",
-        "unittest2",
-        "sys",
         "json",
         "collections",
-        "doctest",
-        "io",
-        "decimal",
-        "NOQA"
+        "decimal"
     ]
 }

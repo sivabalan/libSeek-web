@@ -1,7 +1,6 @@
 {
     "libs": [
         "serial",
-        "setuptools",
         "time"
     ]
 }

@@ -2,16 +2,16 @@
     "libs": [
         "httplib",
         "b",
+        "re",
         "webapp2",
-        "os",
         "unittest",
         "random",
         "selenium",
         "sys",
-        "re",
+        "optparse",
         "json",
         "ui",
         "new",
-        "optparse"
+        "os"
     ]
 }

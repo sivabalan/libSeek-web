@@ -1,21 +1,16 @@
 {
     "libs": [
-        "exceptions",
         "management",
         "http",
-        "importlib",
-        "re",
-        "shortcuts",
-        "smarter",
+        "decorators",
         "db",
         "contrib",
         "sys",
         "urlresolvers",
-        "module_loading",
-        "setuptools",
+        "client",
+        "template",
         "test",
         "path",
-        "copy",
         "os"
     ]
 }

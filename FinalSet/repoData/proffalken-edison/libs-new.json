@@ -1,5 +1,6 @@
 {
     "libs": [
+        "greplin",
         "cgi",
         "encoding",
         "shortcuts",
@@ -18,7 +19,6 @@
         "debug",
         "cache",
         "urllib",
-        "testmod()",
         "re",
         "json",
         "generators",
@@ -28,7 +28,6 @@
         "decorators",
         "common",
         "bin",
-        "core",
         "cPickle",
         "inspect",
         "http",
@@ -40,7 +39,6 @@
         "sys",
         "urlresolvers",
         "httplib2",
-        "piston",
         "translation",
         "enums",
         "xmlutils",

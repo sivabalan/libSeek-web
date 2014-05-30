@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "tempfile",
         "uuid",
         "nose_test_sets",
@@ -13,12 +12,11 @@
         "sys",
         "unicode_literals",
         "contextlib",
-        "tools",
+        "pty",
         "time",
         "path",
-        "pty",
         "shutil",
-        "spur",
+        "tools",
         "paramiko",
         "socket"
     ]

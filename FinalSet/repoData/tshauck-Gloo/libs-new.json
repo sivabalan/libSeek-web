@@ -1,11 +1,10 @@
 {
     "libs": [
-        "core",
-        "pickle",
+        "os",
         "nose",
         "pand",
         "shutil",
-        "os",
+        "pickle",
         "interactive"
     ]
 }

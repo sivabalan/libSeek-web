@@ -6,7 +6,6 @@
         "sys",
         "re",
         "nose",
-        "setuptools",
         "suite",
         "os"
     ]

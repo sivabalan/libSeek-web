@@ -1,24 +1,19 @@
 {
     "libs": [
-        "core",
+        "dummy",
         "inspect",
         "http",
-        "os",
+        "defaults",
         "conf",
-        "dummy",
+        "encoding",
         "shortcuts",
-        "appsettings",
         "utils",
         "cache",
         "db",
         "django",
-        "encoding",
         "contrib",
-        "imp",
         "template",
         "test",
-        "decorators",
-        "defaults",
-        "importlib"
+        "decorators"
     ]
 }

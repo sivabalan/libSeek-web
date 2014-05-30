@@ -12,7 +12,6 @@
         "json",
         "collections",
         "internet",
-        "phoenix2",
         "python",
         "sys",
         "urlparse",
@@ -24,7 +23,6 @@
         "h",
         "traceback",
         "weakref",
-        "setuptools",
         "time",
         "ClientB",
         "os"

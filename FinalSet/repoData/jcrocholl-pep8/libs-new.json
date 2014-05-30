@@ -1,6 +1,5 @@
 {
     "libs": [
-        "safe)",
         "unittest",
         "with_statement",
         "subprocess",
@@ -16,21 +15,16 @@
         "nonexistent",
         "sys",
         "yourcl",
-        "mycl",
         "path",
         "types",
         "ConfigParser",
-        "testsuite",
-        "no line feed",
+        "mycl",
         "keyword",
         "this",
         "egg_info",
-        "shlex;",
         "doctest",
-        "setuptools",
         "time",
         "fnmatch",
-        "os",
-        "signal"
+        "os"
     ]
 }

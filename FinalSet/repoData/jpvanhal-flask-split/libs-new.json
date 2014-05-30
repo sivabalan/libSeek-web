@@ -1,17 +1,15 @@
 {
     "libs": [
-        "urlparse",
+        "sys",
         "random",
         "os",
         "redis",
         "flexmock",
         "with_statement",
         "datetime",
-        "sys",
+        "urlparse",
         "re",
         "pytest",
-        "setuptools",
-        "subprocess",
         "fl",
         "math"
     ]

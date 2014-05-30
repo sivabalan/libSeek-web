@@ -1,7 +1,6 @@
 {
     "libs": [
         "node",
-        "tests",
         "re",
         "time",
         "library",

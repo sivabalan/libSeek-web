@@ -1,10 +1,8 @@
 {
     "libs": [
-        "core",
         "logging",
         "socket",
         "thread",
-        "gearman",
         "errno",
         "signal",
         "random",

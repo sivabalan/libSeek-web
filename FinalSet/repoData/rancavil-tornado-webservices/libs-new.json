@@ -5,13 +5,9 @@
         "ioloop",
         "httpserver",
         "string",
-        "simple_server",
         "inspect",
         "wsgi",
         "datetime",
-        "tornadows",
-        "setuptools",
-        "core",
         "options"
     ]
 }

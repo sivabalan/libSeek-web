@@ -14,7 +14,6 @@
         "memcache",
         "contextlib",
         "appstats",
-        "tornado_tracing",
         "options",
         "httpclient"
     ]

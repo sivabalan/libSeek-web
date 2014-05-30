@@ -3,8 +3,6 @@
         "netutil",
         "zlib",
         "websocket",
-        "core",
-        "toto",
         "unittest",
         "random",
         "datetime",
@@ -44,7 +42,6 @@
         "threading",
         "itertools",
         "t",
-        "install",
         "time",
         "os",
         "multiprocessing"

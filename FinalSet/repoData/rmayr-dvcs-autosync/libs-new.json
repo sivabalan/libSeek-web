@@ -1,19 +1,18 @@
 {
     "libs": [
-        "core",
         "inspect",
         "logging",
         "struct",
-        "xmpp",
+        "h",
         "traceback",
         "sys",
         "re",
-        "_growlImage",
-        "time",
-        "_growl",
-        "h",
-        "os",
         "types",
+        "xmpp",
+        "_growl",
+        "os",
+        "time",
+        "_growlImage",
         "socket"
     ]
 }

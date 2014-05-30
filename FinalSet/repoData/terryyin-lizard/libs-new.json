@@ -11,7 +11,6 @@
         "unittest",
         "inspect",
         "sys",
-        "lizard_ext",
         "webbrowser",
         "path",
         "print_function",
@@ -22,7 +21,6 @@
         "StringIO",
         "h",
         "itertools",
-        "setuptools",
         "fnmatch",
         "pickle",
         "multiprocessing"

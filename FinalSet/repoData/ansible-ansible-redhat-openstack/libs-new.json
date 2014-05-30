@@ -1,9 +1,0 @@
-{
-    "libs": [
-        "libvirt",
-        "vfs",
-        "common",
-        "nova",
-        "eventlet"
-    ]
-}

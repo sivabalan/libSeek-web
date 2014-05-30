@@ -1,12 +1,12 @@
 {
     "libs": [
         "http",
-        "defaults",
-        "shortcuts",
+        "template",
+        "models",
         "auth",
         "django",
-        "models",
+        "shortcuts",
         "csrf",
-        "template"
+        "defaults"
     ]
 }

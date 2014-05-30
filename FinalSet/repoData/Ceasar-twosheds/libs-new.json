@@ -9,11 +9,9 @@
         "sys",
         "atexit",
         "pytest",
-        "setuptools",
         "rl",
         "re",
         "readline",
-        "twosheds",
         "os"
     ]
 }

@@ -1,23 +1,19 @@
 {
     "libs": [
-        "sys",
-        "b",
+        "B",
         "logging",
         "socket",
         "SocketServer",
         "threading",
         "webapp2",
-        "h",
-        "zlib",
-        "Cipher",
+        "random",
         "urllib2",
         "OpenSSL",
-        "random",
+        "sys",
         "ssl",
         "json",
-        "B",
+        "api",
         "time",
-        "os",
-        "api"
+        "os"
     ]
 }

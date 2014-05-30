@@ -5,7 +5,6 @@
         "b",
         "stats",
         "string",
-        "core",
         "os",
         "pyplot",
         "random",
@@ -15,7 +14,6 @@
         "pytest",
         "networkx",
         "pand",
-        "epipy",
         "numpy",
         "mpltools"
     ]

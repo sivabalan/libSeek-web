@@ -1,7 +1,6 @@
 {
     "libs": [
         "operations",
-        "essay",
         "random",
         "datetime",
         "pip",
@@ -23,7 +22,6 @@
         "context_managers",
         "logging",
         "t",
-        "setuptools",
         "exceptions",
         "os"
     ]

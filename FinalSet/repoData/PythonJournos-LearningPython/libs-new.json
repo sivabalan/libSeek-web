@@ -1,24 +1,24 @@
 {
     "libs": [
+        "peewee",
         "struct",
         "bs4",
-        "os",
+        "fl",
         "glob",
         "random",
+        "datetime",
         "BeautifulSoup",
         "urllib",
-        "datetime",
+        "urllib2",
         "sys",
         "re",
         "json",
         "doctest",
-        "peewee",
+        "time",
         "sqlite3",
         "path",
         "requests",
         "csv",
-        "fl",
-        "time",
-        "urllib2"
+        "os"
     ]
 }

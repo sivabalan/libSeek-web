@@ -1,10 +1,9 @@
 {
     "libs": [
         "core",
-        "setuptools",
-        "template",
-        "time",
         "translation",
-        "panels"
+        "panels",
+        "template",
+        "time"
     ]
 }

@@ -1,19 +1,15 @@
 {
     "libs": [
-        "core",
-        "mlab",
         "division",
-        "numpy",
+        "mlab",
         "functools",
         "pylab",
         "util",
-        "re",
         "itertools",
         "animation",
         "ctypes",
-        "setuptools",
         "time",
         "sys",
-        "os"
+        "numpy"
     ]
 }

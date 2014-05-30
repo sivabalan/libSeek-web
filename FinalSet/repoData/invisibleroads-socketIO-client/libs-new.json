@@ -5,14 +5,10 @@
         "unittest",
         "six",
         "json",
-        "urlparse",
         "re",
         "itertools",
-        "collections",
-        "setuptools",
         "time",
         "websocket",
-        "requests",
-        "os"
+        "requests"
     ]
 }

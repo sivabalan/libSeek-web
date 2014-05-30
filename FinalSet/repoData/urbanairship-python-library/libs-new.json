@@ -1,19 +1,13 @@
 {
     "libs": [
         "logging",
-        "warnings",
         "unittest",
-        "parser",
-        "devices",
         "datetime",
         "sys",
         "re",
         "json",
-        "setuptools",
-        "push",
-        "urbanairship",
-        "os",
         "requests",
+        "os",
         "mock"
     ]
 }

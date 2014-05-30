@@ -1,6 +1,7 @@
 {
     "libs": [
         "re",
+        "unittest",
         "sys",
         "threading",
         "time",

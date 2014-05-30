@@ -3,7 +3,8 @@
         "session",
         "delorean",
         "b",
-        "pynamodb",
+        "logging",
+        "h",
         "unittest",
         "six",
         "datetime",
@@ -12,12 +13,11 @@
         "json",
         "sphinx_rtd_theme",
         "collections",
-        "print_function",
-        "setuptools",
+        "mock",
         "time",
-        "logging",
+        "fl",
         "copy",
         "os",
-        "mock"
+        "print_function"
     ]
 }

@@ -5,10 +5,11 @@
         "conf",
         "shortcuts",
         "db",
+        "contrib",
         "sys",
-        "test",
-        "template",
         "urlresolvers",
+        "template",
+        "test",
         "os",
         "settings_b"
     ]

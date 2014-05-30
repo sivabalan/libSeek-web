@@ -1,25 +1,22 @@
 {
     "libs": [
         "filepost",
-        "setuptools",
-        "requests_toolbelt",
+        "cookies",
+        "uuid",
         "structures",
         "unittest",
         "parser",
-        "uuid",
-        "adapters",
         "sys",
-        "re",
+        "platform",
+        "contextlib",
         "pytest",
         "poolmanager",
-        "platform",
+        "math",
         "io",
-        "contextlib",
+        "progress",
         "requests",
-        "betamax",
         "os",
         "utils",
-        "mock",
-        "multipart"
+        "mock"
     ]
 }

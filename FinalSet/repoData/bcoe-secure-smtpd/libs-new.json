@@ -1,19 +1,17 @@
 {
     "libs": [
-        "argparse",
+        "Queue",
         "b",
         "logging",
         "socket",
-        "secure_smtpd",
         "handlers",
-        "Queue",
-        "ssl",
+        "signal",
         "sys",
-        "setuptools",
+        "ssl",
+        "argparse",
         "time",
         "smtpd",
         "smtplib",
-        "config",
         "multiprocessing"
     ]
 }

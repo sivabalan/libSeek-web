@@ -1,9 +1,7 @@
 {
     "libs": [
-        "justext",
         "unicode_literals",
         "unittest",
-        "with_statement",
         "absolute_import",
         "sax",
         "contextlib",
@@ -14,7 +12,6 @@
         "getopt",
         "cgi",
         "division",
-        "clean",
         "handler",
         "urllib2",
         "sys",
@@ -22,7 +19,7 @@
         "print_function",
         "request",
         "nose",
-        "setuptools",
+        "clean",
         "error",
         "os"
     ]

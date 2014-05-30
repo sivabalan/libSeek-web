@@ -5,16 +5,16 @@
         "uuid",
         "StringIO",
         "random",
-        "keyring",
         "pprint",
+        "keyring",
         "datetime",
         "sys",
-        "platform",
-        "json",
         "getp",
+        "json",
+        "platform",
+        "gzip",
         "getopt",
         "requests",
-        "gzip",
         "socket"
     ]
 }

@@ -7,7 +7,6 @@
         "unittest",
         "redis",
         "json",
-        "setuptools",
         "os"
     ]
 }

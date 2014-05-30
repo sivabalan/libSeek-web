@@ -1,20 +1,20 @@
 {
     "libs": [
-        "management",
+        "b",
         "template",
-        "p",
+        "list_detail",
         "shortcuts",
-        "decorators",
+        "os",
         "db",
         "django",
         "sys",
-        "test",
+        "p",
         "defaultfilters",
-        "b",
+        "test",
         "defaults",
         "contrib",
         "datetime",
-        "os",
+        "decorators",
         "local_settings"
     ]
 }

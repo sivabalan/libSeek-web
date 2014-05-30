@@ -1,13 +1,9 @@
 {
     "libs": [
-        "parser",
-        "urllib",
-        "datetime",
-        "sys",
         "json",
-        "setuptools",
+        "parser",
         "requests",
-        "github3",
-        "os"
+        "urllib",
+        "datetime"
     ]
 }

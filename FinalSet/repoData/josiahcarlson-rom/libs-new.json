@@ -1,9 +1,8 @@
 {
     "libs": [
-        "core",
+        "sys",
         "uuid",
         "threading",
-        "string",
         "decimal",
         "six",
         "redis",
@@ -13,10 +12,9 @@
         "json",
         "collections",
         "time",
-        "sys",
         "os",
         "unittest",
         "print_function",
-        "rom"
+        "string"
     ]
 }

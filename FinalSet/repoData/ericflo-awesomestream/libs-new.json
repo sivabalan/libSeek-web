@@ -1,23 +1,22 @@
 {
     "libs": [
-        "urlparse",
+        "code",
+        "sys",
         "httplib",
-        "sqlalchemy",
+        "pprint",
         "uuid",
         "simplejson",
-        "traceback",
         "unittest",
-        "pprint",
+        "traceback",
         "redis",
-        "cherrypy",
-        "datetime",
-        "sys",
-        "code",
+        "werkzeug",
+        "urlparse",
+        "sqlalchemy",
         "collections",
-        "setuptools",
+        "cherrypy",
         "time",
         "exceptions",
-        "werkzeug",
+        "datetime",
         "os"
     ]
 }

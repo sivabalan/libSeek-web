@@ -17,19 +17,17 @@
         "unittest",
         "paved",
         "core",
-        "docs",
+        "util",
+        "path",
         "sys",
         "logging",
-        "path",
-        "util",
-        "e",
         "setuputils",
         "misct",
         "doctools",
-        "pyvirtualdisplay",
         "setuptools",
         "time",
         "fnmatch",
-        "os"
+        "os",
+        "e"
     ]
 }

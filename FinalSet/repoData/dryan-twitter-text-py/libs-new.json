@@ -12,11 +12,9 @@
         "re",
         "json",
         "HTMLParser",
-        "setuptools",
-        "twitter_text",
+        "template",
         "os",
         "defaultfilters",
-        "types",
-        "template"
+        "types"
     ]
 }

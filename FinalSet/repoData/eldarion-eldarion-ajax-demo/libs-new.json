@@ -1,13 +1,13 @@
 {
     "libs": [
-        "sys",
+        "urlparse",
         "management",
         "http",
         "conf",
         "shortcuts",
         "db",
         "loader",
-        "urlparse",
+        "sys",
         "json",
         "static",
         "template",

@@ -18,6 +18,7 @@
         "logging",
         "dom",
         "cjson",
+        "setup",
         "urlparse",
         "sha",
         "ext",

@@ -1,10 +1,9 @@
 {
     "libs": [
-        "mobi",
-        "struct",
+        "sys",
         "unittest",
         "pprint",
-        "sys",
-        "os"
+        "os",
+        "struct"
     ]
 }

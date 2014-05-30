@@ -1,9 +1,9 @@
 {
     "libs": [
-        "re",
+        "path",
         "sublime_plugin",
         "os",
         "sublime",
-        "path"
+        "re"
     ]
 }

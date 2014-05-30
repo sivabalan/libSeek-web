@@ -1,18 +1,14 @@
 {
     "libs": [
-        "core",
         "abc",
         "inspect",
         "h",
         "functools",
         "random",
-        "sys",
         "re",
         "pytest",
         "collections",
         "time",
-        "test",
-        "hypothesis",
         "math"
     ]
 }

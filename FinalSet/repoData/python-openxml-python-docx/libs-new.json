@@ -1,13 +1,10 @@
 {
     "libs": [
         "division",
-        "docx",
         "lxml",
         "struct",
         "StringIO",
         "unicode_literals",
-        "h",
-        "setuptools",
         "zipfile",
         "absolute_import",
         "behave",
@@ -16,7 +13,7 @@
         "pytest",
         "mock",
         "io",
-        "(",
+        "h",
         "os",
         "print_function",
         "posixpath"

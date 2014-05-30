@@ -18,7 +18,6 @@
         "sys",
         "catalog",
         "codecs",
-        "android2po",
         "path",
         "md5",
         "argparse",
@@ -26,7 +25,6 @@
         "h",
         "messages",
         "itertools",
-        "setuptools",
         "os"
     ]
 }

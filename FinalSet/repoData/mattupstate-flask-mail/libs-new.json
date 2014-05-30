@@ -13,7 +13,6 @@
         "encoders",
         "text",
         "multipart",
-        "setuptools",
         "time",
         "contextlib",
         "smtplib",

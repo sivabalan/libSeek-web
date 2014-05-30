@@ -1,10 +1,9 @@
 {
     "libs": [
+        "test",
         "core",
         "b",
         "conf",
-        "setuptools",
-        "time",
-        "test"
+        "time"
     ]
 }

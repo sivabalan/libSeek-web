@@ -1,6 +1,7 @@
 {
     "libs": [
         "operations",
+        "ipdb",
         "sql",
         "cffi",
         "absolute_import",
@@ -11,9 +12,8 @@
         "IPython",
         "shutil",
         "uuid",
-        "build_py",
         "tempfile",
-        "ipdb",
+        "errno",
         "hybrid",
         "re",
         "collections",
@@ -38,13 +38,10 @@
         "util",
         "h",
         "zlib",
-        "apt:python-xdg",
         "weakref",
         "threading",
         "itertools",
         "declarative",
-        "setuptools",
-        "errno",
         "gc",
         "os",
         "multiprocessing"

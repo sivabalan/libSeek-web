@@ -19,7 +19,6 @@
         "tarfile",
         "re",
         "mock",
-        "core",
         "winreg",
         "warnings",
         "optparse",
@@ -34,14 +33,10 @@
         "util",
         "b",
         "logging",
-        "opcode is not a virtualenv module",
         "zlib",
         "pydoc",
         "command",
-        "setuptools",
         "sets",
-        "so we can use it to find the stdlib",
-        "os",
-        "multiprocessing"
+        "os"
     ]
 }

@@ -1,8 +1,6 @@
 {
     "libs": [
-        "core",
         "management",
-        "defaults",
         "unicode_literals",
         "unittest",
         "db",
@@ -10,7 +8,7 @@
         "sys",
         "collections",
         "doctest",
-        "setuptools",
+        "defaults",
         "test",
         "os",
         "decimal"

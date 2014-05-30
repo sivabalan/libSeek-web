@@ -1,18 +1,14 @@
 {
     "libs": [
-        "user_streams",
-        "setuptools",
-        "db",
+        "paginator",
+        "management",
         "functional",
         "datetime",
         "sys",
         "exceptions",
-        "management",
         "conf",
         "test",
         "timezone",
-        "subprocess",
-        "os",
-        "importlib"
+        "os"
     ]
 }

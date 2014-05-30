@@ -6,6 +6,7 @@
         "subprocess",
         "contextlib",
         "conf",
+        "contrib",
         "management",
         "posixpath",
         "generic",
@@ -20,17 +21,19 @@
         "getopt",
         "decorators",
         "mock",
-        "auth",
+        "db",
         "sys",
-        "exceptions",
+        "csrf",
+        "loader",
+        "uuid",
         "b",
         "logging",
         "traceback",
         "crypto",
         "urlparse",
+        "threading",
         "client",
         "urlresolvers",
-        "os",
-        "wwwhisper_auth"
+        "os"
     ]
 }

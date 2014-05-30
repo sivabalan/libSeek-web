@@ -6,7 +6,6 @@
         "subprocess",
         "sys",
         "re",
-        "setuptools",
         "getp",
         "ConfigParser",
         "os",

@@ -1,14 +1,12 @@
 {
     "libs": [
-        "core",
-        "lxml",
         "argparse",
+        "lxml",
         "optparse",
         "glob",
         "sys",
         "json",
         "collections",
-        "setuptools",
         "requests",
         "tools"
     ]

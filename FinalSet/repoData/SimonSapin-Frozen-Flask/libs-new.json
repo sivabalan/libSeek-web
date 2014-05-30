@@ -1,26 +1,16 @@
 {
     "libs": [
-        "unittest",
-        "parse",
-        "contextlib",
-        "shutil",
-        "posixpath",
-        "tempfile",
-        "urllib",
-        "re",
-        "collections",
-        "mimetypes",
-        "warnings",
-        "sys",
-        "exceptions",
-        "path",
-        "fl",
         "unicodedata",
+        "os",
+        "warnings",
+        "tempfile",
         "h",
-        "urlparse",
-        "threading",
-        "setuptools",
-        "fnmatch",
-        "os"
+        "unittest",
+        "sys",
+        "re",
+        "contextlib",
+        "path",
+        "shutil",
+        "fl"
     ]
 }

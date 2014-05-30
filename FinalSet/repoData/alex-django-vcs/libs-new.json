@@ -1,7 +1,6 @@
 {
     "libs": [
         "http",
-        "setuptools",
         "re",
         "shortcuts",
         "lexers",
@@ -10,11 +9,11 @@
         "html",
         "loader",
         "util",
-        "contrib",
+        "exceptions",
         "itertools",
         "backends",
         "template",
-        "exceptions",
+        "contrib",
         "pygments",
         "django",
         "os",

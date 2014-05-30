@@ -2,23 +2,15 @@
     "libs": [
         "core",
         "wsgi",
-        "decorators",
-        "setuptools",
-        "conf",
-        "h",
+        "defaults",
         "middleware",
         "cache",
         "db",
-        "utils",
         "auth",
         "django",
-        "functools",
         "urllib",
         "template",
         "test",
-        "os",
-        "defaults",
-        "mock",
-        "session_csrf"
+        "mock"
     ]
 }

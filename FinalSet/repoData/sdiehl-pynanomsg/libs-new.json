@@ -1,12 +1,7 @@
 {
     "libs": [
-        "core",
-        "pynanomsg",
-        "socket",
-        "Distutils",
-        "unittest",
         "sys",
-        "time",
-        "constants"
+        "unittest",
+        "time"
     ]
 }

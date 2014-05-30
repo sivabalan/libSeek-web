@@ -12,7 +12,6 @@
         "json",
         "socket",
         "urlparse",
-        "setuptools",
         "time",
         "config",
         "math",

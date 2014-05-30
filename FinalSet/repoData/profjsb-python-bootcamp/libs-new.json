@@ -1,7 +1,7 @@
 {
     "libs": [
         "twitter",
-        "random",
+        "testing",
         "datetime",
         "MIMEText",
         "io",
@@ -18,15 +18,13 @@
         "numpy",
         "math",
         "MIMEMultipart",
-        "testing",
+        "random",
         "string",
         "glob",
         "urllib2",
-        "Email p",
         "sys",
         "fl",
         "nbformat",
-        "logging",
         "traceback",
         "os",
         "display"

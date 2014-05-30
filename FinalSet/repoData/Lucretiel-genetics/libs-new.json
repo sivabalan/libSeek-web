@@ -1,7 +1,6 @@
 {
     "libs": [
         "b",
-        "genetics",
         "bisect",
         "random",
         "itertools",

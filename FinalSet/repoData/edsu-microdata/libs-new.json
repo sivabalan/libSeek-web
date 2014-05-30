@@ -6,7 +6,6 @@
         "sys",
         "json",
         "collections",
-        "setuptools",
         "html5lib"
     ]
 }

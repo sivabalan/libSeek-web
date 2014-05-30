@@ -3,15 +3,13 @@
         "timeit",
         "management",
         "http",
-        "conf",
         "optparse",
         "signal",
         "sys",
         "collections",
-        "setuptools",
+        "conf",
         "codecs",
         "operator",
-        "os",
-        "pyinstrument"
+        "os"
     ]
 }

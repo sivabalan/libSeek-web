@@ -5,8 +5,8 @@
         "termios",
         "sys",
         "threading",
-        "paramiko",
+        "select",
         "os",
-        "select"
+        "paramiko"
     ]
 }

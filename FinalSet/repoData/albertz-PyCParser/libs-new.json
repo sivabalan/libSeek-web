@@ -3,22 +3,22 @@
         "cStringIO",
         "Shell",
         "keyword",
-        "h",
-        "glob",
         "traceback",
+        "errno",
+        "glob",
         "pprint",
+        "_ctypes",
         "sys",
         "linecache",
         "itertools",
+        "h",
         "ctypes",
-        "_ctypes",
-        "errno",
+        "codecs",
         "pickle",
         "path",
         "inspect",
         "copy",
         "os",
-        "types",
-        "codecs"
+        "types"
     ]
 }

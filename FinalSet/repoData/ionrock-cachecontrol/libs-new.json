@@ -9,11 +9,9 @@
         "io",
         "calendar",
         "pprint",
-        "adapters",
         "re",
         "pytest",
         "h",
-        "cachecontrol",
         "structures",
         "functools",
         "mock",
@@ -22,6 +20,7 @@
         "http",
         "string",
         "util",
+        "pickle",
         "lockfile",
         "response",
         "print_function",
@@ -30,11 +29,9 @@
         "Utils",
         "urlparse",
         "threading",
-        "setuptools",
         "time",
         "requests",
-        "pickle",
-        "multiprocessing",
-        "caches"
+        "adapters",
+        "multiprocessing"
     ]
 }

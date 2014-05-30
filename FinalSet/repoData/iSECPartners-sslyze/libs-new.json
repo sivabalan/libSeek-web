@@ -1,7 +1,6 @@
 {
     "libs": [
         "random",
-        "plugins",
         "ElementTree",
         "abc",
         "struct",
@@ -9,10 +8,8 @@
         "imp",
         "Cookie",
         "new",
-        "core",
         "PluginB",
         "optparse",
-        "inspect",
         "Queue",
         "path",
         "sys",
@@ -26,7 +23,6 @@
         "threading",
         "itertools",
         "time",
-        "os",
         "multiprocessing"
     ]
 }

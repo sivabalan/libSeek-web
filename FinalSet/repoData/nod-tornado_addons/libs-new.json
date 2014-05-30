@@ -4,13 +4,12 @@
         "web",
         "trombi",
         "logging",
-        "core",
         "tornado",
         "unittest",
-        "testing",
         "random",
         "client",
         "design",
+        "testing",
         "types"
     ]
 }

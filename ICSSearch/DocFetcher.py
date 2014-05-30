@@ -8,7 +8,7 @@ import sets
 import Trie
 import copy
 import math
-from math import log10
+from math import log10, log
 from sets import Set
 
 src = "../FinalSet/"
@@ -280,19 +280,23 @@ def resultsList(result):
 def GetTopLibraries(results):
     libdict = {}
     for item in results:
-        f = open(src + "repoData/" + item[0] + "/libs-new.json", "r")
-        libdata = json.load(f)["libs"]
+        try:
+            f = open(src + "repoData/" + item[0] + "/libs-new.json", "r")
+            libdata = json.load(f)["libs"]
+            f.close()
+        except IOError:
+            libdata = []
         for lib in libdata:
             if lib not in libdict:
                 libdict[lib] = 0
             libdict[lib] += 1
-        f.close()
+        
 
     liblist = []
     for key in libdict:
         liblist.append((key, libdict[key]))
 
-    liblist.sort(key = lambda x: x[1]*x[1]/repodict[x[0]], reverse = True)
+    liblist.sort(key = lambda x: x[1]**5/repodict[x[0]] if x[1] != 1 else -100, reverse = True)
     return liblist
         
 

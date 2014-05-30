@@ -1,15 +1,15 @@
 {
     "libs": [
         "datetime",
-        "mark",
+        "firefox_binary",
         "xml",
         "shutil",
-        "yaml",
+        "re",
         "py",
         "selenium",
         "urllib",
-        "firefox_binary",
-        "re",
+        "mark",
+        "yaml",
         "json",
         "pytest",
         "cgi",
@@ -26,7 +26,6 @@
         "socket",
         "pkg_resources",
         "threading",
-        "setuptools",
         "time",
         "requests",
         "os"

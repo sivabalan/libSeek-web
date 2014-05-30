@@ -1,6 +1,6 @@
 {
     "libs": [
-        "core",
+        "sys",
         "simplejson",
         "unittest",
         "request",
@@ -8,9 +8,7 @@
         "urllib",
         "parse",
         "json",
-        "sys",
         "requests",
-        "shodan",
         "os"
     ]
 }

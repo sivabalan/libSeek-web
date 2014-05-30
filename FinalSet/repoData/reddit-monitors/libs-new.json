@@ -23,6 +23,7 @@
         "urlparse",
         "threading",
         "time",
+        "requests",
         "os",
         "multiprocessing"
     ]

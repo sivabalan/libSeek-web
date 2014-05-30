@@ -1,15 +1,12 @@
 {
     "libs": [
-        "core",
         "traceback",
-        "frontend",
         "pywsgi",
         "signal",
         "random",
         "urllib",
         "datetime",
         "gevent",
-        "setuptools",
         "time",
         "multiprocessing"
     ]

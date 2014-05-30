@@ -4,7 +4,6 @@
         "tempfile",
         "unittest",
         "re",
-        "setuptools",
         "time",
         "locale",
         "copy",

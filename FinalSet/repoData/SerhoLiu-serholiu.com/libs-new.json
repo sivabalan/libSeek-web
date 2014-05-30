@@ -18,8 +18,6 @@
         "lexers",
         "bin",
         "sys",
-        "libs",
-        "path",
         "log",
         "b",
         "StringIO",
@@ -28,7 +26,6 @@
         "formatters",
         "itertools",
         "misaka",
-        "miniakio",
         "os",
         "hmac"
     ]

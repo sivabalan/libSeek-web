@@ -9,7 +9,6 @@
         "Cookie",
         "getopt",
         "cgi",
-        "core",
         "http",
         "string",
         "util",

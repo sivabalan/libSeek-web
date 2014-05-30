@@ -8,7 +8,6 @@
         "sys",
         "re",
         "doctest",
-        "setuptools",
         "getopt",
         "copy",
         "os",

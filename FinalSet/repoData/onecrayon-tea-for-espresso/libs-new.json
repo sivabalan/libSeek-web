@@ -2,7 +2,7 @@
     "libs": [
         "Foundation",
         "imp",
-        "zencoding",
+        "pickle",
         "random",
         "htmlentitydefs",
         "urllib",
@@ -10,9 +10,7 @@
         "sys",
         "re",
         "objc",
-        "filters",
         "codecs",
-        "pickle",
         "copy",
         "os",
         "types"

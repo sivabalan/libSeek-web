@@ -1,24 +1,20 @@
 {
     "libs": [
-        "util",
         "http",
-        "setuptools",
-        "urlresolvers",
         "shortcuts",
-        "decorators",
+        "os",
         "db",
         "contenttypes",
         "dispatch",
         "django",
         "sys",
-        "contrib",
+        "urlresolvers",
         "json",
         "backends",
         "collections",
         "template",
-        "codecs",
-        "fnmatch",
+        "contrib",
         "loader",
-        "os"
+        "decorators"
     ]
 }

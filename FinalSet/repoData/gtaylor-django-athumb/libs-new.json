@@ -17,7 +17,6 @@
         "template",
         "math",
         "files",
-        "core",
         "mimetypes",
         "key",
         "exception",

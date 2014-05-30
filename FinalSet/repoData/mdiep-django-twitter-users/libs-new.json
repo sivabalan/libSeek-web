@@ -3,16 +3,13 @@
         "cgi",
         "oauth2",
         "http",
-        "conf",
+        "defaults",
         "db",
         "auth",
         "urlparse",
         "re",
         "urllib",
-        "setuptools",
-        "urlresolvers",
-        "os",
-        "defaults",
-        "twitter_users"
+        "conf",
+        "urlresolvers"
     ]
 }

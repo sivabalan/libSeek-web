@@ -4,7 +4,6 @@
         "simplejson",
         "urllib",
         "json",
-        "setuptools",
         "internet",
         "protocols"
     ]

@@ -1,14 +1,12 @@
 {
     "libs": [
-        "re",
         "tempfile",
+        "optparse",
         "unittest",
         "pyPdf",
         "subprocess",
         "sys",
-        "staplelib",
-        "optparse",
-        "setuptools",
+        "re",
         "getp",
         "path",
         "shutil",

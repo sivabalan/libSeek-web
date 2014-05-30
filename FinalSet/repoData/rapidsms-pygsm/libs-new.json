@@ -1,28 +1,20 @@
 {
     "libs": [
+        "mox",
+        "traceback",
+        "test_b",
+        "threading",
         "unittest",
+        "time",
         "with_statement",
         "datetime",
-        "message",
-        "serial",
-        "StringIO",
-        "build_py",
-        "pygsm",
-        "re",
-        "__version__",
-        "math",
-        "core",
-        "mox",
         "sys",
+        "re",
         "pytz",
         "codecs",
-        "commands",
-        "test_b",
-        "gsmcodecs",
-        "traceback",
-        "threading",
-        "install",
-        "time",
-        "os"
+        "serial",
+        "os",
+        "math",
+        "StringIO"
     ]
 }

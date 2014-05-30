@@ -3,7 +3,7 @@
         "cStringIO",
         "traceback",
         "unittest",
-        "qiniu",
+        "random",
         "datetime",
         "array",
         "shutil",
@@ -18,12 +18,10 @@
         "mail",
         "bin",
         "cPickle",
-        "random",
         "string",
         "simplejson",
         "tornado",
         "urllib2",
-        "auth",
         "sys",
         "pylibmc",
         "path",
@@ -33,12 +31,12 @@
         "StringIO",
         "h",
         "zlib",
-        "marshal",
+        "hmac",
         "urlparse",
         "helpers",
         "t",
         "time",
         "os",
-        "hmac"
+        "marshal"
     ]
 }

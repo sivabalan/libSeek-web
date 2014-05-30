@@ -7,7 +7,6 @@
         "sys",
         "pytest",
         "collections",
-        "setuptools",
         "moves",
         "os"
     ]

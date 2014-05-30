@@ -1,7 +1,6 @@
 {
     "libs": [
         "paginator",
-        "core",
         "serializers",
         "encoding",
         "db",
@@ -9,7 +8,6 @@
         "json",
         "query",
         "exceptions",
-        "http",
-        "os"
+        "http"
     ]
 }

@@ -16,7 +16,6 @@
         "cPickle",
         "SocketServer",
         "warnings",
-        "xlsxwriter",
         "zipfile",
         "sys",
         "codecs",

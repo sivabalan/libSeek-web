@@ -1,14 +1,11 @@
 {
     "libs": [
         "management",
-        "http",
-        "conf",
-        "encoding",
         "db",
+        "datetime",
         "sys",
-        "setuptools",
-        "test",
-        "vobject",
-        "defaults"
+        "rrule",
+        "defaults",
+        "test"
     ]
 }

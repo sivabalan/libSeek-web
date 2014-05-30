@@ -9,7 +9,6 @@
         "re",
         "colorsys",
         "time",
-        "setuptools",
         "mmap",
         "gobject",
         "keysyms",

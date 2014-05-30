@@ -3,18 +3,16 @@
         "argparse",
         "traceback",
         "http",
-        "pickle",
-        "pprint",
-        "db",
-        "sys",
-        "oauth",
-        "client",
         "tools",
+        "pprint",
+        "apiclient",
+        "sys",
+        "client",
         "httplib2",
         "file",
         "sqlite3",
+        "pickle",
         "os",
-        "apiclient",
         "discovery"
     ]
 }

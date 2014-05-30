@@ -1,14 +1,12 @@
 {
     "libs": [
-        "setuptools",
         "bs4",
         "functools",
         "shutil",
         "tools",
-        "GL",
+        "copy",
         "PIL",
-        "QtGui",
-        "platform",
+        "uuid",
         "re",
         "numpy",
         "math",
@@ -18,18 +16,17 @@
         "sys",
         "ctypes",
         "path",
-        "copy",
+        "GL",
         "QtOpenGL",
-        "uuid",
+        "QtGui",
         "argparse",
-        "os",
+        "QtCore",
         "traceback",
         "vbo",
         "ImageFont",
         "shlex",
         "QtScript",
         "time",
-        "py2exe",
-        "QtCore"
+        "os"
     ]
 }

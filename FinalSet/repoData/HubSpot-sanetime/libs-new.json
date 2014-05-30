@@ -2,15 +2,14 @@
     "libs": [
         "dateutil",
         "tz",
+        "subprocess",
         "db",
         "modelsinspector",
         "datetime",
         "pytz",
-        "setuptools",
         "time",
-        "django",
         "calendar",
-        "subprocess",
+        "django",
         "unittest2"
     ]
 }

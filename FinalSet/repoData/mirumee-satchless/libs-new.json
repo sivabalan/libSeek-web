@@ -1,6 +1,5 @@
 {
     "libs": [
-        "unittest",
-        "setuptools"
+        "unittest"
     ]
 }

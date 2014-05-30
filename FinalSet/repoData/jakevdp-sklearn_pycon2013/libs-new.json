@@ -1,8 +1,8 @@
 {
     "libs": [
-        "sys",
+        "dat",
         "Tkinter",
-        "os",
+        "patches",
         "division",
         "nbformat",
         "optparse",
@@ -11,14 +11,14 @@
         "pylab",
         "urllib2",
         "matplotlib",
-        "contour",
-        "dat",
+        "sys",
         "decomposition",
         "urllib",
         "io",
-        "figure",
         "numpy",
-        "patches",
+        "figure",
+        "os",
+        "contour",
         "backend_tkagg",
         "sklearn"
     ]

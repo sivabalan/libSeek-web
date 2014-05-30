@@ -9,22 +9,18 @@
         "dateutil",
         "console",
         "re",
-        "h",
         "smtplib",
-        "flamejam",
         "config",
         "sqlalchemy",
-        "views",
-        "models",
+        "time",
         "sys",
         "scrypt",
         "fl",
-        "fields",
+        "h",
         "traceback",
-        "time",
+        "fields",
         "exceptions",
         "requests",
-        "os",
-        "alembic"
+        "os"
     ]
 }

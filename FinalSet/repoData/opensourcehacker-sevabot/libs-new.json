@@ -1,11 +1,10 @@
 {
     "libs": [
-        "frontend",
         "os",
         "unicode_literals",
         "random",
         "absolute_import",
-        "datetime",
+        "subprocess",
         "Skype4Py",
         "re",
         "urllib",
@@ -16,7 +15,7 @@
         "inspect",
         "sys",
         "plac",
-        "subprocess",
+        "datetime",
         "fl",
         "print_function",
         "logging",
@@ -24,7 +23,6 @@
         "h",
         "threading",
         "shlex",
-        "setuptools",
         "time",
         "pickle"
     ]

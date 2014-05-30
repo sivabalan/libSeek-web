@@ -1,28 +1,14 @@
 {
     "libs": [
-        "distutils",
-        "site",
-        "subprocess",
-        "operator",
-        "bson",
-        "shutil",
-        "struct",
-        "tempfile",
-        "tarfile",
+        "bin",
+        "socket",
+        "rsa",
         "urllib",
+        "urllib2",
         "json",
         "Cipher",
-        "bin",
-        "optparse",
-        "urllib2",
-        "rsa",
-        "sys",
         "path",
-        "copy",
-        "socket",
-        "request",
-        "pkg_resources",
-        "setuptools",
-        "os"
+        "bson",
+        "struct"
     ]
 }

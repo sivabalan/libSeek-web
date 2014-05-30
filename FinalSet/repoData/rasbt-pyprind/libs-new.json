@@ -1,15 +1,14 @@
 {
     "libs": [
-        "core",
         "os",
         "pyplot",
         "prog_cl",
         "subprocess",
         "sys",
         "psutil",
+        "io",
         "time",
         "sqlite3",
-        "pyprind",
         "numpy",
         "math"
     ]

@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "unicodedata",
         "copy",
         "logging",

@@ -8,7 +8,6 @@
         "path",
         "httpobj",
         "urlparse",
-        "processors",
         "tempfile",
         "redis",
         "json",
@@ -17,11 +16,8 @@
         "scrapy",
         "collections",
         "test",
-        "functools",
-        "core",
         "cPickle",
         "http",
-        "setuptools",
         "warnings",
         "urllib2",
         "gzip",
@@ -40,7 +36,6 @@
         "time",
         "exceptions",
         "os",
-        "processor",
-        "constraints"
+        "processor"
     ]
 }

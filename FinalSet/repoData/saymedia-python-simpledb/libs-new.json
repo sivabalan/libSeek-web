@@ -1,6 +1,6 @@
 {
     "libs": [
-        "core",
+        "sys",
         "b",
         "time",
         "simplejson",
@@ -12,11 +12,10 @@
         "datetime",
         "urlparse",
         "loading",
-        "sys",
+        "collections",
         "httplib2",
         "conf",
         "h",
-        "collections",
         "ElementTree",
         "os",
         "hmac"

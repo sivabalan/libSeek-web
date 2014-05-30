@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "b",
         "http",
         "csrf",
@@ -9,7 +8,6 @@
         "exceptions",
         "defaults",
         "urlresolvers",
-        "reroute",
         "unittest",
         "os",
         "middleware",

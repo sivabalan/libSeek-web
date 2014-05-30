@@ -1,11 +1,9 @@
 {
     "libs": [
-        "core",
-        "unittest",
         "re",
+        "unittest",
         "collections",
-        "doctest",
-        "setuptools",
-        "functools"
+        "functools",
+        "doctest"
     ]
 }

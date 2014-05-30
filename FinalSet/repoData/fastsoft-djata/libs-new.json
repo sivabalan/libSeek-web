@@ -25,7 +25,6 @@
         "traceback",
         "itertools",
         "doctest",
-        "defaults",
-        "formats"
+        "defaults"
     ]
 }

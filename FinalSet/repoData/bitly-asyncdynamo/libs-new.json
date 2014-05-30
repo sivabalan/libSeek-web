@@ -1,12 +1,10 @@
 {
     "libs": [
         "ioloop",
-        "core",
         "exception",
         "logging",
         "boto",
         "simplejson",
-        "tornado",
         "functools",
         "time",
         "auth",
@@ -16,7 +14,6 @@
         "collections",
         "provider",
         "credentials",
-        "os",
         "httpclient"
     ]
 }

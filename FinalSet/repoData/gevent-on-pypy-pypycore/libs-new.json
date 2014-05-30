@@ -1,12 +1,11 @@
 {
     "libs": [
-        "core",
         "signal",
         "traceback",
         "cffi",
-        "absolute_import",
-        "sys",
         "__builtin__",
+        "sys",
+        "absolute_import",
         "os"
     ]
 }

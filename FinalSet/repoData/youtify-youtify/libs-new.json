@@ -5,10 +5,9 @@
         "datetime",
         "api",
         "_winreg",
-        "dropbox",
+        "path",
         "calendar",
         "shutil",
-        "dateutil",
         "struct",
         "zoneinfo",
         "ext",
@@ -35,7 +34,6 @@
         "urlparse",
         "itertools",
         "time",
-        "path",
         "os",
         "hmac"
     ]

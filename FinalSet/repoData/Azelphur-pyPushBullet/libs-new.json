@@ -1,12 +1,12 @@
 {
     "libs": [
         "argparse",
-        "mimetypes",
-        "b",
-        "request",
-        "urllib2",
+        "magic",
+        "auth",
         "sys",
         "json",
-        "os"
+        "exceptions",
+        "websocket",
+        "requests"
     ]
 }

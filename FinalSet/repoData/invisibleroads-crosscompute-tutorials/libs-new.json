@@ -1,8 +1,5 @@
 {
     "libs": [
-        "dat",
-        "random",
-        "numpy",
         "pika",
         "time"
     ]

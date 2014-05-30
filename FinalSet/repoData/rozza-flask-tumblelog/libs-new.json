@@ -1,10 +1,9 @@
 {
     "libs": [
-        "tumblelog",
+        "sys",
         "os",
         "functools",
-        "datetime",
-        "sys",
-        "fl"
+        "fl",
+        "datetime"
     ]
 }

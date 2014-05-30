@@ -4,6 +4,7 @@
         "b",
         "repository",
         "locale",
+        "SetupWindow",
         "urllib2",
         "gettext",
         "subprocess",

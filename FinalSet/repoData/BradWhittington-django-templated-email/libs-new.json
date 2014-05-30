@@ -1,10 +1,8 @@
 {
     "libs": [
-        "templated_email",
         "management",
         "template",
         "greatape",
-        "setuptools",
         "loader_tags",
         "loader",
         "sys",
@@ -14,7 +12,6 @@
         "mail",
         "translation",
         "os",
-        "postageapp",
-        "importlib"
+        "postageapp"
     ]
 }

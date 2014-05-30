@@ -2,18 +2,17 @@
     "libs": [
         "glib",
         "broadc",
-        "b",
+        "PyObjCTools",
         "websocket",
         "Foundation",
         "tempfile",
         "dbus",
         "gtk",
+        "protocol",
         "objc",
-        "PyObjCTools",
-        "setuptools",
+        "b",
         "internet",
         "exceptions",
-        "protocol",
         "AppKit"
     ]
 }

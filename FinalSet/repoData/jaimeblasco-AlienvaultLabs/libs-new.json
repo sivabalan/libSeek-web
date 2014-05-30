@@ -1,20 +1,3 @@
 {
-    "libs": [
-        "bin",
-        "yara",
-        "daemon",
-        "socket",
-        "tempfile",
-        "optparse",
-        "pyd",
-        "zlib",
-        "uuid",
-        "peutils",
-        "sys",
-        "re",
-        "pefile",
-        "os",
-        "multiprocessing",
-        "ConfigParser"
-    ]
+    "libs": []
 }

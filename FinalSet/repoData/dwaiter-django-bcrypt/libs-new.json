@@ -9,7 +9,6 @@
         "django",
         "sys",
         "contextlib",
-        "setuptools",
         "test",
         "bcrypt"
     ]

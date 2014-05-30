@@ -1,12 +1,10 @@
 {
     "libs": [
-        "core",
         "management",
         "unittest",
         "django",
         "sys",
         "re",
-        "defaults",
-        "os"
+        "defaults"
     ]
 }

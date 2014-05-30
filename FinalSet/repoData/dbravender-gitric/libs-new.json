@@ -1,11 +1,10 @@
 {
     "libs": [
         "files",
-        "core",
         "with_statement",
-        "state",
-        "sys",
         "colors",
+        "sys",
+        "state",
         "context_managers"
     ]
 }

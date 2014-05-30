@@ -1,16 +1,13 @@
 {
     "libs": [
-        "core",
         "b",
         "logging",
-        "conf",
-        "disredis_sessions",
         "encoding",
         "h",
         "functools",
         "redis",
         "nose",
-        "setuptools",
+        "conf",
         "exceptions",
         "unittest"
     ]

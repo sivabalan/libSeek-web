@@ -6,7 +6,6 @@
         "re",
         "openerp",
         "psycopg2",
-        "wizard",
         "urllib",
         "taobao_b",
         "json",

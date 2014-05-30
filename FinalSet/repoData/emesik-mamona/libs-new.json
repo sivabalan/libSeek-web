@@ -1,22 +1,18 @@
 {
     "libs": [
-        "core",
         "management",
         "http",
-        "defaults",
         "conf",
-        "shortcuts",
+        "simple",
         "decimal",
         "random",
         "db",
         "dispatch",
-        "datetime",
+        "django",
         "sys",
         "urlresolvers",
-        "setuptools",
+        "defaults",
         "test",
-        "translation",
-        "mamona",
         "os"
     ]
 }

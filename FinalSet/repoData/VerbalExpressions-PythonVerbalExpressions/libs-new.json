@@ -1,8 +1,6 @@
 {
     "libs": [
-        "verbalexpressions",
         "re",
-        "unittest",
-        "setuptools"
+        "unittest"
     ]
 }

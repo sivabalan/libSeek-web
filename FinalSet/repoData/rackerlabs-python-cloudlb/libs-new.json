@@ -4,13 +4,11 @@
         "b",
         "unittest",
         "pprint",
-        "json",
         "urllib",
         "datetime",
         "sys",
-        "cloudlb",
+        "json",
         "httplib2",
-        "setuptools",
         "time",
         "os"
     ]

@@ -9,7 +9,6 @@
         "json",
         "Cipher",
         "sys",
-        "setuptools",
         "H",
         "getp",
         "b",

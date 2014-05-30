@@ -164,3 +164,8 @@ $RECYCLE.BIN/
 
 FinalSet/IndexPickle*
 FinalSet/hashfile.pickle
+mods.json
+metadata.json
+wordFrequencies.pfq
+allPythonContent.py
+description.txt

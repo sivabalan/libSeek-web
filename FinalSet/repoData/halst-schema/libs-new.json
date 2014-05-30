@@ -3,7 +3,6 @@
         "with_statement",
         "json",
         "pytest",
-        "os",
-        "setuptools"
+        "os"
     ]
 }

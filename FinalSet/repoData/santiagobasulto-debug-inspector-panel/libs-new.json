@@ -1,15 +1,13 @@
 {
     "libs": [
-        "conf",
         "simple",
         "inspect",
         "__builtin__",
         "loader",
         "sys",
         "threading",
-        "setuptools",
+        "conf",
         "test",
-        "panels",
         "os"
     ]
 }

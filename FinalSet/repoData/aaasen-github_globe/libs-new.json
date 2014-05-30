@@ -1,7 +1,7 @@
 {
     "libs": [
-        "requests",
+        "json",
         "requests_cache",
-        "json"
+        "requests"
     ]
 }

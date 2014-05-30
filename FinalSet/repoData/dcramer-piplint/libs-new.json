@@ -1,11 +1,3 @@
 {
-    "libs": [
-        "argparse",
-        "pkg_resources",
-        "subprocess",
-        "sys",
-        "re",
-        "setuptools",
-        "os"
-    ]
+    "libs": []
 }

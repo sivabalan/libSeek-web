@@ -9,10 +9,10 @@
         "sys",
         "re",
         "json",
-        "nose",
+        "jsonschema",
         "ConfigParser",
         "csv",
         "os",
-        "jsonschema"
+        "nose"
     ]
 }

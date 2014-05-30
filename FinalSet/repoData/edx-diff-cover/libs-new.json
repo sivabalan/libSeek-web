@@ -11,9 +11,7 @@
         "abc",
         "tempfile",
         "six",
-        "diff_cover",
         "re",
-        "json",
         "collections",
         "unittest2",
         "mock",
@@ -30,7 +28,6 @@
         "difflib",
         "formatters",
         "token",
-        "setuptools",
         "fnmatch",
         "os"
     ]

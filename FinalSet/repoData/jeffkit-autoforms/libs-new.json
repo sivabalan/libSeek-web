@@ -1,26 +1,25 @@
 {
     "libs": [
+        "sys",
+        "management",
+        "http",
+        "template",
+        "simplejson",
+        "imp",
         "shortcuts",
         "utils",
+        "db",
         "dispatch",
-        "conf",
+        "django",
+        "urlresolvers",
         "contrib",
         "query",
-        "management",
-        "re",
+        "defaults",
         "signals",
-        "imp",
-        "template",
         "test",
         "mail",
-        "http",
-        "defaults",
-        "simplejson",
-        "db",
-        "sys",
         "translation",
-        "django",
-        "setuptools",
-        "urlresolvers"
+        "conf",
+        "re"
     ]
 }

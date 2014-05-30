@@ -1,17 +1,11 @@
 {
     "libs": [
-        "tests",
-        "StringIO",
+        "optparse",
         "unittest",
-        "urllib2",
-        "urllib",
-        "urlparse",
+        "sys",
         "re",
         "json",
-        "urllib2_file",
-        "setuptools",
         "time",
-        "gzip",
         "csv",
         "os"
     ]

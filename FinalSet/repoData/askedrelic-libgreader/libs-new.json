@@ -7,9 +7,7 @@
         "unittest",
         "re",
         "json",
-        "libgreader",
         "httplib2",
-        "setuptools",
         "time",
         "requests",
         "unittest2"

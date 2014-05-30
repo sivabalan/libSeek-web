@@ -6,7 +6,6 @@
         "subprocess",
         "sys",
         "re",
-        "com/kennethreitz/requests",
         "pand",
         "font_manager",
         "ticker"

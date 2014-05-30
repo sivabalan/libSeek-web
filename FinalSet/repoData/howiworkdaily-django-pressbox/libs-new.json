@@ -1,7 +1,6 @@
 {
     "libs": [
         "paginator",
-        "pressbox",
         "management",
         "local_settings",
         "conf",
@@ -12,13 +11,12 @@
         "sys",
         "generic",
         "template",
-        "query",
-        "contrib",
         "path",
+        "contrib",
+        "query",
         "translation",
         "django",
         "os",
-        "defaults",
-        "simple"
+        "defaults"
     ]
 }

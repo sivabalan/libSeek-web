@@ -1,20 +1,15 @@
 {
     "libs": [
-        "core",
         "random",
-        "dexml",
         "StringIO",
         "unittest",
         "dom",
         "difflib",
         "sys",
-        "re",
         "collections",
         "doctest",
-        "setuptools",
         "saxutils",
         "path",
-        "copy",
         "os"
     ]
 }

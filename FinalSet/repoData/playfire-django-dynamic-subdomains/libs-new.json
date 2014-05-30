@@ -1,12 +1,10 @@
 {
     "libs": [
         "exceptions",
-        "c",
         "b",
         "http",
-        "setuptools",
+        "template",
         "encoding",
-        "shortcuts",
         "functools",
         "urllib",
         "django",
@@ -18,7 +16,6 @@
         "urlresolvers",
         "translation",
         "loader",
-        "regex_helper",
-        "template"
+        "regex_helper"
     ]
 }

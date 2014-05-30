@@ -1,26 +1,23 @@
 {
     "libs": [
         "cStringIO",
-        "skip",
-        "subprocess",
-        "contextlib",
-        "tools",
         "git",
-        "platform",
-        "tempfile",
-        "termcolor",
         "re",
-        "json",
-        "tests",
+        "tempfile",
+        "tools",
         "urllib2",
+        "termcolor",
+        "subprocess",
         "sys",
-        "PyGitUp",
-        "colorama",
-        "path",
-        "print_function",
+        "platform",
+        "json",
         "pkg_resources",
-        "setuptools",
+        "contextlib",
+        "path",
+        "colorama",
         "docopt",
-        "os"
+        "os",
+        "skip",
+        "print_function"
     ]
 }

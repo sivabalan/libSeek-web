@@ -1,7 +1,6 @@
 {
     "libs": [
-        "flake8: noqa",
-        "pprint",
+        "req",
         "dist",
         "cherrypy",
         "functools",
@@ -13,16 +12,15 @@
         "configparser",
         "index",
         "errors",
-        "build_tests",
+        "distutils",
         "imp",
         "tempfile",
-        "req",
+        "pprint",
         "tarfile",
         "urllib",
         "re",
         "json",
         "collections",
-        "artifactory",
         "mock",
         "cgi",
         "stat",
@@ -42,7 +40,6 @@
         "b",
         "logging",
         "h",
-        "distutils",
         "request",
         "pkg_resources",
         "urlparse",
@@ -53,7 +50,6 @@
         "time",
         "exceptions",
         "requests",
-        "os",
-        "server_app"
+        "os"
     ]
 }

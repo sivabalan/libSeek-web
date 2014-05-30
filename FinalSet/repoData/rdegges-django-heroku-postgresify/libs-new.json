@@ -1,9 +1,7 @@
 {
     "libs": [
-        "path",
         "unittest",
         "os",
-        "dj_datab",
-        "setuptools"
+        "dj_datab"
     ]
 }

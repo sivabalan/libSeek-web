@@ -1,12 +1,13 @@
 {
     "libs": [
         "management",
+        "encoding",
         "utils",
         "db",
         "sys",
-        "nested_inlines",
-        "setuptools",
         "contrib",
-        "os"
+        "translation",
+        "os",
+        "options"
     ]
 }

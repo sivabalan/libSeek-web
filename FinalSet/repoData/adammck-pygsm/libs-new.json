@@ -1,16 +1,8 @@
 {
     "libs": [
-        "StringIO",
-        "message",
-        "traceback",
-        "with_statement",
-        "datetime",
-        "sys",
         "re",
-        "time",
         "serial",
-        "csv",
-        "pygsm",
-        "threading"
+        "unittest",
+        "time"
     ]
 }

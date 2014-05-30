@@ -1,12 +1,12 @@
 {
     "libs": [
-        "skipdoctest",
+        "io",
         "figure",
         "text",
         "utils",
         "subprocess",
         "pygments",
-        "io",
+        "skipdoctest",
         "IPython",
         "PIL",
         "struct",

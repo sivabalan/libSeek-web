@@ -1,6 +1,5 @@
 {
     "libs": [
-        "ez_setup",
         "pyHook",
         "parse",
         "contextlib",
@@ -14,7 +13,7 @@
         "stat",
         "repository",
         "glob",
-        "error",
+        "time",
         "sys",
         "pyl",
         "codecs",
@@ -28,8 +27,7 @@
         "queue",
         "threading",
         "pacparser",
-        "setuptools",
-        "time",
+        "error",
         "webbrowser",
         "os",
         "dbus"

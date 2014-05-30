@@ -9,7 +9,6 @@
         "atexit",
         "contextlib",
         "io",
-        "tox",
         "SocketServer",
         "urllib",
         "json",
@@ -27,7 +26,6 @@
         "request",
         "urlparse",
         "threading",
-        "setuptools",
         "time",
         "os"
     ]

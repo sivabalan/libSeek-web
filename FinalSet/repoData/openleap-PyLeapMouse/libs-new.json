@@ -1,9 +1,9 @@
 {
     "libs": [
         "weakref",
-        "pymouse",
         "sys",
         "imp",
+        "ctypes",
         "LeapPython",
         "path",
         "os",

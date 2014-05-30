@@ -1,16 +1,14 @@
 {
     "libs": [
-        "core",
-        "popularity",
         "http",
-        "template",
+        "conf",
         "unittest",
         "random",
         "db",
         "dispatch",
         "datetime",
         "contenttypes",
-        "conf",
+        "template",
         "time",
         "logging",
         "expressions",

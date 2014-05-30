@@ -2,22 +2,17 @@
     "libs": [
         "core",
         "management",
-        "defaults",
         "conf",
         "encoding",
         "util",
         "safestring",
         "db",
         "modelsinspector",
-        "django",
         "sys",
         "imp",
-        "sample",
-        "django_google_maps",
-        "setuptools",
+        "defaults",
         "forms",
-        "contrib",
-        "os",
-        "mock"
+        "test",
+        "contrib"
     ]
 }

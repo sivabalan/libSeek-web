@@ -3,6 +3,7 @@
         "plistlib",
         "re",
         "colorsys",
+        "path",
         "sublime_plugin",
         "os",
         "sublime"

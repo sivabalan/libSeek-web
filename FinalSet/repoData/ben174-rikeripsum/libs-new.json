@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "argparse",
         "os",
         "random",

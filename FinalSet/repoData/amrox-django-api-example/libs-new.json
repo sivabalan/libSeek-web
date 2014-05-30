@@ -3,19 +3,19 @@
         "urlparse",
         "management",
         "posixpath",
+        "imp",
         "simple",
         "db",
-        "contrib",
+        "urllib",
         "datetime",
         "sys",
-        "imp",
+        "contrib",
         "oauth2",
-        "urllib",
+        "t",
         "defaults",
         "test",
         "path",
         "os",
-        "settings_b",
-        "t"
+        "settings_b"
     ]
 }

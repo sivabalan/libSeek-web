@@ -1,20 +1,12 @@
 {
     "libs": [
         "biplist",
-        "plistlib",
-        "ez_setup",
         "tempfile",
         "unittest",
         "six",
         "subprocess",
         "sys",
-        "collections",
-        "setuptools",
-        "time",
-        "calendar",
         "datetime",
-        "os",
-        "math",
-        "struct"
+        "os"
     ]
 }

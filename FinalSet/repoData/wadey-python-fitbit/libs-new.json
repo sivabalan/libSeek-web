@@ -4,10 +4,8 @@
         "urllib2",
         "urllib",
         "datetime",
-        "sqlite3",
-        "setuptools",
         "time",
-        "fitbit",
+        "sqlite3",
         "ElementTree",
         "os",
         "ConfigParser"

@@ -6,7 +6,6 @@
         "absolute_import",
         "datetime",
         "imp",
-        "setuptools",
         "os"
     ]
 }

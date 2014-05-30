@@ -1,9 +1,7 @@
 {
     "libs": [
-        "census",
         "functools",
         "json",
-        "setuptools",
         "requests",
         "ElementTree",
         "os",

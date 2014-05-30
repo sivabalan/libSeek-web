@@ -69,7 +69,7 @@ class QueryHandler(BaseHTTPRequestHandler):
                     indexfile = open("../FinalSet/Webpage/index.html", "r")
                     self.wfile.write(indexfile.read())
                     indexfile.close()
-        except IOError:
+        except AttributeError:
             self.send_error(404,'What Shady Shit was tried?')
 
 def DataLoader():

@@ -6,16 +6,14 @@
         "_os",
         "StringIO",
         "h",
-        "setuptools",
+        "encoding",
         "db",
         "sys",
-        "exceptions",
         "djc",
-        "defaults",
         "conf",
-        "test",
+        "exceptions",
         "shutil",
         "os",
-        "encoding"
+        "defaults"
     ]
 }

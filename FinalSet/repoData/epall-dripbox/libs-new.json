@@ -1,7 +1,5 @@
 {
     "libs": [
-        "to catch socket errors",
-        "core",
         "logging",
         "errno",
         "subprocess",

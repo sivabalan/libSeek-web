@@ -1,15 +1,12 @@
 {
     "libs": [
         "http",
-        "conf",
-        "mobility",
-        "utils",
+        "functools",
         "cache",
         "django",
         "re",
-        "setuptools",
+        "conf",
         "unittest",
-        "os",
-        "functools"
+        "utils"
     ]
 }

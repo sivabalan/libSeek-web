@@ -2,13 +2,11 @@
     "libs": [
         "sqlalchemy",
         "logging",
-        "os",
         "functools",
         "time",
         "redis",
         "sys",
         "json",
-        "setuptools",
         "sql",
         "expression"
     ]

@@ -1,8 +1,7 @@
 {
     "libs": [
         "files",
-        "core",
-        "django_dust",
+        "b",
         "logging",
         "socket",
         "random",
@@ -10,9 +9,7 @@
         "urlparse",
         "threading",
         "itertools",
-        "b",
         "httplib2",
-        "conf",
-        "importlib"
+        "conf"
     ]
 }

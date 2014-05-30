@@ -26,13 +26,11 @@
         "b",
         "StringIO",
         "admin",
-        "os",
+        "cms",
         "safestring",
         "modelsinspector",
         "django",
         "defaultfilters",
-        "setuptools",
-        "cms",
-        "djangocms_text_ckeditor"
+        "os"
     ]
 }

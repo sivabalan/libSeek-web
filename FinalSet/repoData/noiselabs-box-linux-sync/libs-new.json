@@ -18,10 +18,9 @@
         "subprocess",
         "print_function",
         "ConfigParser",
-        "box",
         "logging",
+        "setup",
         "pkg_resources",
-        "setuptools",
         "time",
         "os"
     ]

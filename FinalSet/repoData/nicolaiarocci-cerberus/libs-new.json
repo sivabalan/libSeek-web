@@ -5,7 +5,6 @@
         "datetime",
         "sys",
         "re",
-        "setuptools",
         "os"
     ]
 }

@@ -1,9 +1,8 @@
 {
     "libs": [
         "sys",
-        "core",
+        "re",
         "pprint",
-        "telnetlib",
-        "re"
+        "telnetlib"
     ]
 }

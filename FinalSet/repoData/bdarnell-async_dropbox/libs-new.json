@@ -1,7 +1,6 @@
 {
     "libs": [
         "ioloop",
-        "core",
         "web",
         "urllib",
         "json",

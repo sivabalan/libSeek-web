@@ -1,11 +1,9 @@
 {
     "libs": [
-        "unittest",
         "sys",
-        "dsgrid",
-        "setuptools",
-        "docker",
+        "unittest",
         "os",
+        "docker",
         "mock"
     ]
 }

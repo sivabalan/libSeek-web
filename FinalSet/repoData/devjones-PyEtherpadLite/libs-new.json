@@ -1,10 +1,6 @@
 {
     "libs": [
-        "unittest",
-        "urllib2",
-        "urllib",
-        "json",
-        "setuptools",
-        "py_etherpad"
+        "py_etherpad",
+        "unittest"
     ]
 }

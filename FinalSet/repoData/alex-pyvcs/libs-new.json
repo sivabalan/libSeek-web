@@ -1,24 +1,21 @@
 {
     "libs": [
-        "util",
+        "pysvn",
         "errors",
         "dulwich",
-        "pysvn",
-        "localrepo",
+        "StringIO",
+        "tempfile",
         "mercurial",
         "unittest",
-        "StringIO",
         "difflib",
         "datetime",
         "repo",
-        "tempfile",
-        "backends",
-        "sys",
-        "setuptools",
+        "localrepo",
         "time",
         "operator",
         "subprocess",
         "os",
-        "bzrlib"
+        "bzrlib",
+        "util"
     ]
 }

@@ -2,13 +2,10 @@
     "libs": [
         "management",
         "http",
-        "setuptools",
-        "sslify",
         "sys",
         "client",
         "conf",
         "test",
-        "path",
         "os"
     ]
 }

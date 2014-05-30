@@ -1,11 +1,9 @@
 {
     "libs": [
-        "logicaldelete",
-        "db",
-        "datetime",
-        "sys",
-        "setuptools",
         "contrib",
-        "os"
+        "sys",
+        "db",
+        "os",
+        "datetime"
     ]
 }

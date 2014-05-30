@@ -1,13 +1,12 @@
 {
     "libs": [
-        "core",
         "b",
         "http",
         "h",
         "db",
-        "v2",
-        "datetime",
         "contenttypes",
+        "datetime",
+        "v2",
         "template",
         "exceptions"
     ]

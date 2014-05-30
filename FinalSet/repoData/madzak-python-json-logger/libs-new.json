@@ -1,7 +1,6 @@
 {
     "libs": [
         "logging",
-        "setuptools",
         "StringIO",
         "unittest",
         "xmlrunner",

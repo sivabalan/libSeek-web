@@ -6,7 +6,6 @@
         "sys",
         "pep8",
         "collections",
-        "setuptools",
         "os",
         "math",
         "uuid"

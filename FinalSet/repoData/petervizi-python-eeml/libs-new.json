@@ -2,18 +2,15 @@
     "libs": [
         "httplib",
         "lxml",
-        "logging",
-        "re",
+        "etree",
         "unittest",
         "datetime",
         "dat",
-        "eeml",
+        "re",
         "pytz",
-        "setuptools",
         "doctest_xml_compare",
-        "etree",
+        "logging",
         "serial",
-        "tools",
-        "multiprocessing"
+        "tools"
     ]
 }

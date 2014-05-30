@@ -1,16 +1,10 @@
 {
     "libs": [
-        "core",
-        "logging",
         "unittest",
-        "datetime",
-        "sys",
-        "re",
-        "itertools",
-        "time",
-        "calendar",
         "PyICU",
-        "os",
-        "utils"
+        "sys",
+        "time",
+        "datetime",
+        "os"
     ]
 }

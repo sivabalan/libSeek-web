@@ -21,8 +21,6 @@
         "logging",
         "socket",
         "h",
-        "recurly",
-        "setuptools",
         "time",
         "os",
         "hmac"

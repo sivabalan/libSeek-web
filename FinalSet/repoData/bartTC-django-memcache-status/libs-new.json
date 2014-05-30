@@ -2,14 +2,12 @@
     "libs": [
         "urls",
         "management",
-        "conf",
-        "models",
+        "defaults",
         "cache",
         "django",
-        "setuptools",
-        "test",
         "sys",
-        "defaults",
+        "test",
+        "conf",
         "contrib",
         "datetime"
     ]

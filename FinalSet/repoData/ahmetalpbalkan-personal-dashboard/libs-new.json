@@ -2,7 +2,6 @@
     "libs": [
         "dateutil",
         "sys",
-        "should be imported after setting configs for decorators",
         "logging",
         "scheduler",
         "simplegauges",

@@ -1,8 +1,7 @@
 {
     "libs": [
         "json",
-        "simplejson",
         "urllib2",
-        "setuptools"
+        "simplejson"
     ]
 }

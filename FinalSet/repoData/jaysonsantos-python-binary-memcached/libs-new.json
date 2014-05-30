@@ -3,7 +3,7 @@
         "cPickle",
         "futures",
         "logging",
-        "struct",
+        "socket",
         "re",
         "os",
         "unittest",
@@ -13,13 +13,11 @@
         "sys",
         "threading",
         "select",
-        "setuptools",
         "time",
-        "bmemcached",
         "bz2",
         "pickle",
         "multiprocessing",
         "mock",
-        "socket"
+        "struct"
     ]
 }

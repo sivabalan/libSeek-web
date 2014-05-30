@@ -1,23 +1,17 @@
 {
     "libs": [
         "_socket",
-        "eui",
         "struct",
-        "ip",
         "pprint",
         "request",
         "urllib2",
-        "strategy",
         "sys",
         "re",
         "itertools",
         "sax",
-        "netaddr",
-        "setuptools",
         "path",
         "csv",
         "os",
-        "rele",
         "socket"
     ]
 }

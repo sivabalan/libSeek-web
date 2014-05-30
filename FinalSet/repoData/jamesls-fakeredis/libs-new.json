@@ -12,13 +12,11 @@
         "fnmatch",
         "client",
         "ctypes",
-        "setuptools",
         "time",
         "exceptions",
         "collections",
         "attrib",
         "copy",
-        "os",
         "unittest2"
     ]
 }

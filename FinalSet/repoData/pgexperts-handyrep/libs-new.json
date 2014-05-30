@@ -13,7 +13,6 @@
         "files",
         "inspect",
         "sys",
-        "GUI_app",
         "path",
         "subprocess",
         "fl",

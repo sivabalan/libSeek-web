@@ -13,7 +13,6 @@
         "bancodobr",
         "units",
         "http",
-        "pyboleto",
         "db",
         "sys",
         "pdfgen",
@@ -25,7 +24,6 @@
         "difflib",
         "pep8",
         "common",
-        "setuptools",
         "fnmatch",
         "os"
     ]

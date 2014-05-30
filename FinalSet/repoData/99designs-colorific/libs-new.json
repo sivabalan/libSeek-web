@@ -3,15 +3,12 @@
         "PIL",
         "optparse",
         "unittest",
-        "colorific",
         "sys",
         "color_objects",
         "itertools",
-        "colorsys",
-        "setuptools",
-        "path",
-        "operator",
         "collections",
+        "operator",
+        "colorsys",
         "os",
         "multiprocessing"
     ]

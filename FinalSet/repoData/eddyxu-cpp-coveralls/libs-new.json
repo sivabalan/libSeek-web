@@ -1,16 +1,13 @@
 {
     "libs": [
         "argparse",
-        "io",
-        "yaml",
         "tempfile",
         "absolute_import",
         "subprocess",
-        "sys",
         "re",
         "json",
         "contextlib",
-        "setuptools",
+        "io",
         "requests",
         "os",
         "print_function"

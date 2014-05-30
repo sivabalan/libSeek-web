@@ -1,13 +1,9 @@
 {
     "libs": [
-        "pyfiglet",
         "optparse",
-        "pkg_resources",
-        "subprocess",
         "sys",
-        "re",
-        "setuptools",
         "path",
-        "print_function"
+        "print_function",
+        "subprocess"
     ]
 }

@@ -2,7 +2,6 @@
     "libs": [
         "b",
         "logging",
-        "clean",
         "simplejson",
         "StringIO",
         "optparse",
@@ -12,12 +11,12 @@
         "sys",
         "re",
         "json",
-        "setuptools",
+        "clean",
         "time",
         "etree",
-        "requests",
+        "soupparser",
         "requesocks",
         "os",
-        "soupparser"
+        "requests"
     ]
 }

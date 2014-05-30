@@ -1,21 +1,18 @@
 {
     "libs": [
-        "core",
+        "sys",
         "random",
         "logging",
         "inspect",
+        "line_iterator",
         "cssutils",
         "unittest",
         "pgm",
         "textwrap",
         "tokens",
         "re",
-        "sys",
-        "special",
         "operator",
-        "os",
         "utils",
-        "line_iterator",
-        "clevercss"
+        "special"
     ]
 }

@@ -1,14 +1,12 @@
 {
     "libs": [
         "bin",
-        "core",
         "logging",
         "unittest",
         "datetime",
         "sys",
         "client",
         "suds",
-        "fedex",
         "os"
     ]
 }

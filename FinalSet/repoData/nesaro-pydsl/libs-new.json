@@ -1,7 +1,6 @@
 {
     "libs": [
-        "Grammar",
-        "setuptools",
+        "logging",
         "plye",
         "imp",
         "unittest",
@@ -15,11 +14,9 @@
         "networkx",
         "tokenize",
         "lex",
-        "logging",
+        "path",
         "pyparsing",
         "copy",
-        "path",
-        "grammar",
         "pyplot"
     ]
 }

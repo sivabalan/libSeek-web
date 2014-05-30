@@ -1,10 +1,12 @@
 {
     "libs": [
-        "thread",
+        "re",
         "datetime",
         "functools",
         "subprocess",
-        "re",
+        "sys",
+        "threading",
+        "print_function",
         "time",
         "sublime_plugin",
         "os",

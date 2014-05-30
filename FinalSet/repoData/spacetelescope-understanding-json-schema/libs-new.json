@@ -3,7 +3,6 @@
         "compat",
         "latex",
         "sphinx_bootstrap_theme",
-        "sphinxext",
         "sys",
         "docutils",
         "json",

@@ -1,7 +1,6 @@
 {
     "libs": [
         "operator",
-        "core",
         "uuid"
     ]
 }

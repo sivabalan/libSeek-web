@@ -1,7 +1,6 @@
 {
     "libs": [
-        "core",
-        "sakelib",
+        "string",
         "io",
         "yaml",
         "unicode_literals",
@@ -10,13 +9,11 @@
         "subprocess",
         "sys",
         "re",
-        "setuptools",
+        "networkx",
         "codecs",
         "fnmatch",
         "path",
-        "networkx",
         "os",
-        "print_function",
-        "string"
+        "print_function"
     ]
 }

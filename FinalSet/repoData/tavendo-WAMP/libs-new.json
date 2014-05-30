@@ -1,17 +1,11 @@
 {
     "libs": [
-        "mimetypes",
-        "uuid",
         "optparse",
-        "fl",
-        "wsgi",
-        "server",
-        "sys",
-        "python",
+        "pprint",
         "connection",
-        "static",
+        "sys",
+        "json",
         "key",
-        "internet",
         "os"
     ]
 }

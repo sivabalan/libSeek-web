@@ -8,6 +8,7 @@
         "array",
         "select",
         "tempfile",
+        "errno",
         "re",
         "json",
         "collections",
@@ -22,7 +23,6 @@
         "signal",
         "request",
         "urlparse",
-        "setuptools",
         "time",
         "os"
     ]

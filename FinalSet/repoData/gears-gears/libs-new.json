@@ -8,7 +8,6 @@
         "io",
         "shutil",
         "builtins",
-        "processors",
         "tempfile",
         "errno",
         "re",
@@ -16,7 +15,6 @@
         "collections",
         "unittest2",
         "mock",
-        "compilers",
         "cPickle",
         "sys",
         "gzip",
@@ -28,7 +26,6 @@
         "h",
         "pkg_resources",
         "shlex",
-        "setuptools",
         "fnmatch",
         "pickle"
     ]

@@ -23,7 +23,6 @@
         "b",
         "logging",
         "zlib",
-        "setuptools",
         "sets",
         "os",
         "win32api"

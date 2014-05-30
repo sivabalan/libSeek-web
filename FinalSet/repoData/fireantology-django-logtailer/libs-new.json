@@ -1,17 +1,17 @@
 {
     "libs": [
         "http",
-        "csrf",
+        "conf",
         "shortcuts",
-        "os",
+        "decorators",
         "db",
         "django",
         "json",
-        "conf",
+        "os",
+        "defaults",
         "contrib",
         "translation",
-        "decorators",
-        "defaults",
+        "csrf",
         "template"
     ]
 }

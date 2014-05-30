@@ -2,7 +2,7 @@
     "libs": [
         "shortcuts",
         "text",
-        "dbsettings",
+        "datetime",
         "conf",
         "contrib",
         "management",
@@ -12,21 +12,19 @@
         "template",
         "decorators",
         "http",
-        "setuptools",
         "db",
         "sys",
         "uploadedfile",
         "path",
         "translation",
-        "datetime",
         "dat",
         "bisect",
         "h",
-        "safestring",
+        "decimal",
         "django",
         "defaults",
         "time",
         "exceptions",
-        "decimal"
+        "safestring"
     ]
 }

@@ -1,8 +1,7 @@
 {
     "libs": [
-        "core",
-        "stat",
         "division",
+        "stat",
         "optparse",
         "glob",
         "timeit",

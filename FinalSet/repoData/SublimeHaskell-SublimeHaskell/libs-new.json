@@ -1,6 +1,7 @@
 {
     "libs": [
         "copy",
+        "socket",
         "re",
         "errno",
         "functools",
@@ -9,10 +10,11 @@
         "sys",
         "threading",
         "json",
+        "h",
         "collections",
         "time",
-        "h",
         "fnmatch",
+        "path",
         "sublime_plugin",
         "os",
         "sublime_h",

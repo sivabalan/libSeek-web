@@ -1,25 +1,23 @@
 {
     "libs": [
-        "util",
+        "sys",
         "cPickle",
-        "rtree",
-        "PIL",
-        "libl",
-        "atexit",
-        "os",
-        "glob",
         "pprint",
+        "PIL",
+        "atexit",
+        "pickle",
+        "glob",
+        "libl",
         "timeit",
         "ogr",
-        "sys",
+        "util",
         "re",
         "pkg_resources",
         "ctypes",
         "doctest",
-        "setuptools",
         "random",
         "path",
-        "pickle",
+        "os",
         "unittest"
     ]
 }

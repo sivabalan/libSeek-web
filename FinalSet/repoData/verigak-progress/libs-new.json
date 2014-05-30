@@ -1,15 +1,9 @@
 {
     "libs": [
-        "division",
+        "sys",
         "signal",
         "random",
-        "datetime",
-        "sys",
-        "collections",
-        "math",
-        "setuptools",
-        "time",
-        "progress",
-        "print_function"
+        "print_function",
+        "time"
     ]
 }

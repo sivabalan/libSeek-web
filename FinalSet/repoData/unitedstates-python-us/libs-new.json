@@ -1,11 +1,9 @@
 {
     "libs": [
-        "argparse",
         "os",
         "unittest",
-        "us",
-        "sys",
-        "setuptools",
+        "pkg_resources",
+        "re",
         "sqlite3",
         "requests",
         "pickle",

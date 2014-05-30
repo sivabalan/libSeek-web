@@ -2,7 +2,6 @@
     "libs": [
         "cgi",
         "optparse",
-        "parser",
         "urllib",
         "subprocess",
         "sys",

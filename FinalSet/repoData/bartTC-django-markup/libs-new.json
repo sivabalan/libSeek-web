@@ -1,11 +1,9 @@
 {
     "libs": [
-        "filter",
-        "unicode_literals",
-        "markdown",
-        "template",
-        "docutils",
         "util",
+        "markdown",
+        "docutils",
+        "unicode_literals",
         "smartypants",
         "safestring",
         "six",
@@ -16,7 +14,7 @@
         "doctest",
         "pygments",
         "textile",
-        "setuptools",
+        "template",
         "exceptions",
         "translation",
         "os",

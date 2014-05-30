@@ -2,8 +2,7 @@
     "libs": [
         "style",
         "logging",
-        "setuptools",
-        "fl",
+        "os",
         "unittest",
         "exception",
         "sys",
@@ -12,7 +11,7 @@
         "collections",
         "ntpath",
         "key",
-        "os",
+        "fl",
         "mock"
     ]
 }

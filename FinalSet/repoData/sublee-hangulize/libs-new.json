@@ -1,23 +1,17 @@
 {
     "libs": [
-        "tests",
+        "unicodedata",
         "logging",
-        "setuptools",
         "re",
-        "guppy",
-        "hangulize",
+        "unittest",
         "cmd",
         "with_statement",
-        "unicodedata",
+        "BeautifulSoup",
         "urllib",
-        "cmds",
         "sys",
         "platform",
-        "functools",
-        "BeautifulSoup",
         "cProfile",
-        "langs",
         "os",
-        "unittest"
+        "functools"
     ]
 }

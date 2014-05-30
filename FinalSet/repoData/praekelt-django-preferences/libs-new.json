@@ -1,15 +1,8 @@
 {
     "libs": [
-        "csrf",
-        "preferences",
-        "conf",
-        "shortcuts",
-        "db",
-        "dispatch",
-        "urlresolvers",
-        "setuptools",
         "contrib",
-        "decorators",
-        "defaults"
+        "db",
+        "defaults",
+        "conf"
     ]
 }

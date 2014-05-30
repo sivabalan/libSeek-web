@@ -1,16 +1,17 @@
 {
     "libs": [
-        "core",
+        "list_detail",
+        "shortcuts",
         "db",
         "sites",
         "indexes",
         "sys",
+        "urlresolvers",
         "defaultfilters",
-        "defaults",
         "contrib",
-        "translation",
+        "haystack",
         "django",
         "os",
-        "haystack"
+        "translation"
     ]
 }

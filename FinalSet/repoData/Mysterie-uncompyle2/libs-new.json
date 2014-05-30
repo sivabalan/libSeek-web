@@ -2,13 +2,11 @@
     "libs": [
         "mimetools",
         "cStringIO",
-        "core",
         "operator",
         "array",
         "shutil",
-        "test_MimeWriter",
+        "struct",
         "imp",
-        "uncompyle2",
         "pprint",
         "UserList",
         "collections",
@@ -23,15 +21,13 @@
         "fnmatch",
         "re",
         "types",
-        "struct",
+        "test_MimeWriter",
         "os",
-        "traceback",
-        "test_StringIO",
-        "opcode",
+        "marshal",
         "time",
         "exceptions",
         "pickle",
-        "marshal",
+        "test_StringIO",
         "dis"
     ]
 }

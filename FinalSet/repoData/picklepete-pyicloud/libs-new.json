@@ -1,18 +1,14 @@
 {
     "libs": [
         "argparse",
-        "b",
         "uuid",
-        "pyicloud",
+        "h",
         "six",
         "absolute_import",
         "datetime",
         "sys",
         "json",
         "os",
-        "setuptools",
-        "h",
-        "services",
         "requests",
         "pickle"
     ]

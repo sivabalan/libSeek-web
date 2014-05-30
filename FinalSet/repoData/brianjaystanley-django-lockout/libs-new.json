@@ -1,7 +1,5 @@
 {
     "libs": [
-        "core",
-        "setuptools",
         "threading",
         "h",
         "cache",
@@ -12,7 +10,6 @@
         "time",
         "contrib",
         "re",
-        "os",
         "md5"
     ]
 }

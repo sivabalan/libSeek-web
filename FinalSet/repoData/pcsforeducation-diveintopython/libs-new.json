@@ -2,6 +2,7 @@
     "libs": [
         "string",
         "boto",
+        "h",
         "BeautifulSoup",
         "urllib",
         "sys",

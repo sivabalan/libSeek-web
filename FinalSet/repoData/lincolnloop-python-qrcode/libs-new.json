@@ -1,8 +1,8 @@
 {
     "libs": [
         "unittest",
+        "absolute_import",
         "colors",
-        "qrcode",
         "pymaging",
         "moves",
         "ElementTree",
@@ -14,14 +14,12 @@
         "math",
         "webcolors",
         "etree",
-        "ensure that PNG support is installed",
         "sys",
         "png",
         "b",
         "bisect",
         "decimal",
         "shapes",
-        "setuptools",
         "formats",
         "Image"
     ]

@@ -1,10 +1,6 @@
 {
     "libs": [
-        "android_",
-        "core",
-        "PIL",
-        "sys",
-        "setuptools",
-        "os"
+        "os",
+        "PIL"
     ]
 }

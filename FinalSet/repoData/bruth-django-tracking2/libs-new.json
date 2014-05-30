@@ -1,9 +1,6 @@
 {
     "libs": [
-        "sys",
-        "tracking",
         "logging",
-        "setuptools",
         "warnings",
         "shortcuts",
         "geoip",
@@ -15,9 +12,9 @@
         "re",
         "v2",
         "conf",
-        "timezone",
-        "contrib",
         "query",
+        "contrib",
+        "timezone",
         "calendar",
         "decorators"
     ]

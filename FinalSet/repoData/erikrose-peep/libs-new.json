@@ -1,23 +1,23 @@
 {
     "libs": [
+        "sys",
         "b",
         "log",
-        "linecache",
+        "re",
         "tempfile",
         "h",
         "req",
         "pkg_resources",
-        "sys",
-        "re",
+        "urlparse",
+        "optparse",
         "itertools",
-        "os",
         "contextlib",
         "shlex",
-        "setuptools",
         "pip",
         "path",
+        "linecache",
         "shutil",
-        "optparse",
+        "os",
         "print_function"
     ]
 }

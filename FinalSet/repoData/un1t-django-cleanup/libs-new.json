@@ -1,10 +1,9 @@
 {
     "libs": [
+        "signals",
         "logging",
         "db",
-        "django",
-        "signals",
-        "setuptools",
-        "os"
+        "os",
+        "django"
     ]
 }

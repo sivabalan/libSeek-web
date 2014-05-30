@@ -1,16 +1,15 @@
 {
     "libs": [
         "minidom",
-        "core",
-        "StringIO",
+        "cStringIO",
+        "warnings",
         "optparse",
         "Image",
-        "warnings",
+        "StringIO",
         "urllib",
         "sys",
         "collections",
         "time",
-        "cStringIO",
         "shutil",
         "os",
         "math"
