@@ -48,7 +48,6 @@ function init() {
 function resetResults(msg) {
 	var resultsContainer = $('#searchResults');
 	resultsContainer.empty();
-	$('#searchMetrics').empty();
 	resultsContainer.append($('<h2/>').html(msg));
 }
 
@@ -126,15 +125,7 @@ function sendSearchRequest() {
 				$(resultRow).hide().appendTo(resultsContainer).fadeIn(i*100);
 				//resultsContainer.append(resultRow);
 			}
-
-			var execTime = (endTime - startTime)/1000,
-				execTimeHTML = "<h4>Retrieval time : "+execTime.toString()+' s</h4>',
-				headerHTML = '<h3>Search Metrics</h3><br>';
-
-			metricsContainer = $('#searchMetrics');
-			metricsContainer.empty();
-			$metricRow = $('<div/>').html(headerHTML+execTimeHTML);
-			metricsContainer.append($metricRow);
+			
 
 			$('#searchText').blur();
 		}
