@@ -99,19 +99,6 @@ select:-moz-focusring {
 	border-color: #20BCB6;
 }
 
-#autoSuggestDiv {
-	width: auto;
-	height: auto;
-	background-color: #fff;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 50;
-	box-shadow: 2px 2px 2px #000;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-
 .results-header {
 	color: #666;
 	margin-bottom: 10px;

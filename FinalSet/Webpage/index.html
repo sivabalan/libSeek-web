@@ -30,14 +30,6 @@
           <a class="navbar-brand">libSeek</a>
           <div class='search-option'>
             <vr></vr>
-            <label>Target OS :&nbsp;</label>
-            <select id="targetOSSelect">
-              <option value='all'>All</option>
-              <option value='Windows'>Windows</option>
-              <option value='Linux'>Linux</option>
-              <option value='Android'>Android</option>
-            </select>
-            <vr></vr>
             <label>Language :&nbsp;</label>
             <select id="languageSelect">
               <option value='python'>Python</option>
@@ -50,13 +42,12 @@
         
         <div class="navbar-collapse collapse">
            <div class="custom-search input-group">
-              <input id="searchText" type="text" class="form-control" autocomplete="off"></input>
+              <input id="searchText" type="text" class="form-control" autocomplete="off" placeholder="Enter the type of project. eg: downloader, file manager, web crawler"></input>
               <span class="input-group-btn">
                 <button id="searchButton" class="btn btn-success search-button" type="button">Search</button>
               </span>
               
             </div>
-            <div id="autoSuggestDiv"></div>
           <form class="navbar-form navbar-right" role="form">
             
            
