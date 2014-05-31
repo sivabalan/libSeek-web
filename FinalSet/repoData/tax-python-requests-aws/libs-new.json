@@ -1,16 +1,13 @@
 {
     "libs": [
-        "core",
+        "urlparse",
         "b",
-        "urllib",
         "h",
         "unittest",
         "auth",
         "hmac",
-        "sys",
         "parse",
-        "urlparse",
-        "setuptools",
+        "urllib",
         "gzip",
         "requests",
         "os",

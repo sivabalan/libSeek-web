@@ -1,14 +1,15 @@
 {
     "libs": [
-        "response",
-        "pyramid",
+        "simple_server",
+        "six",
         "http",
         "csrf",
         "simplejson",
-        "six",
+        "config",
         "unittest",
         "traceback",
         "redis",
+        "response",
         "datetime",
         "sys",
         "re",
@@ -16,7 +17,6 @@
         "itty",
         "time",
         "db",
-        "setuptools",
         "os",
         "decimal"
     ]

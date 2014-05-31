@@ -1,12 +1,5 @@
 {
     "libs": [
-        "core",
-        "extension",
-        "Distutils",
-        "sys",
-        "path",
-        "misc_util",
-        "os",
         "pyffmpeg"
     ]
 }

@@ -1,16 +1,15 @@
 {
     "libs": [
-        "core",
-        "management",
-        "socket",
         "_threading_local",
+        "management",
+        "defaults",
         "shortcuts",
         "utils",
-        "cache",
+        "urlparse",
         "db",
-        "urllib2",
+        "cache",
         "urllib",
-        "django_pipes",
+        "urllib2",
         "sys",
         "threading",
         "B",
@@ -18,7 +17,6 @@
         "conf",
         "time",
         "os",
-        "defaults",
-        "urlparse"
+        "socket"
     ]
 }

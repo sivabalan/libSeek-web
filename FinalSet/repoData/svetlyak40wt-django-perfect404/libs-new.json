@@ -1,10 +1,9 @@
 {
     "libs": [
         "logging",
-        "template",
-        "setuptools",
         "db",
-        "django",
-        "conf"
+        "conf",
+        "template",
+        "django"
     ]
 }

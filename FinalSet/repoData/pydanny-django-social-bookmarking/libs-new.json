@@ -1,18 +1,15 @@
 {
     "libs": [
-        "sys",
+        "urlparse",
         "management",
         "http",
         "template",
-        "shortcuts",
-        "setuptools",
         "db",
         "loader",
-        "urlparse",
+        "sys",
         "contrib",
         "conf",
         "test",
-        "path",
-        "defaults"
+        "path"
     ]
 }

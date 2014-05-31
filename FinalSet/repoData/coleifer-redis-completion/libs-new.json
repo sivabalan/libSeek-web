@@ -1,6 +1,5 @@
 {
     "libs": [
-        "redis_completion",
         "simplejson",
         "unittest",
         "random",
@@ -10,7 +9,6 @@
         "sys",
         "re",
         "itertools",
-        "setuptools",
         "os"
     ]
 }

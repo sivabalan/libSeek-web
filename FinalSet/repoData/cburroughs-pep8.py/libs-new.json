@@ -1,7 +1,6 @@
 {
     "libs": [
         "mycl",
-        "time",
         "keyword",
         "optparse",
         "inspect",
@@ -9,8 +8,7 @@
         "sys",
         "re",
         "yourcl",
-        "doctest",
-        "setuptools",
+        "time",
         "tokenize",
         "fnmatch",
         "os",

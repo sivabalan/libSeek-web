@@ -2,13 +2,12 @@
     "libs": [
         "dat",
         "management",
-        "defaults",
+        "unittest",
         "db",
         "datetime",
         "sys",
+        "defaults",
         "contrib",
-        "setuptools",
-        "test",
         "calendar",
         "django",
         "os"

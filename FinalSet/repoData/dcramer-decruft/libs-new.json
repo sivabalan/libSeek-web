@@ -22,8 +22,7 @@
         "urlparse",
         "chardet",
         "doctest",
-        "setuptools",
-        "sets",
-        "clean"
+        "clean",
+        "sets"
     ]
 }

@@ -1,16 +1,15 @@
 {
     "libs": [
-        "conf",
         "fields",
         "db",
         "sites",
         "auth",
         "django",
-        "contrib",
-        "setuptools",
+        "widgets",
         "test",
+        "conf",
+        "contrib",
         "translation",
-        "copy",
-        "widgets"
+        "copy"
     ]
 }

@@ -1,15 +1,12 @@
 {
     "libs": [
         "importlib",
-        "admin_shortcuts",
-        "conf",
         "inspect",
         "django",
         "exceptions",
-        "setuptools",
+        "conf",
         "urlresolvers",
         "translation",
-        "copy",
-        "os"
+        "copy"
     ]
 }

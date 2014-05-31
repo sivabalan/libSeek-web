@@ -1,9 +1,8 @@
 {
     "libs": [
         "parse",
-        "core",
-        "numpy",
-        "unittest",
+        "os",
+        "pytz",
         "random",
         "request",
         "urllib2",
@@ -11,11 +10,9 @@
         "datetime",
         "sys",
         "scipy",
-        "pytz",
-        "setuptools",
         "time",
-        "Pysolar",
-        "os",
+        "numpy",
+        "unittest",
         "math"
     ]
 }

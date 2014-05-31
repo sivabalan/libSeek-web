@@ -1,12 +1,9 @@
 {
     "libs": [
-        "core",
-        "urllib2",
-        "urllib",
         "sys",
-        "json",
         "urlparse",
-        "setuptools",
-        "nexmomessage"
+        "json",
+        "urllib2",
+        "urllib"
     ]
 }

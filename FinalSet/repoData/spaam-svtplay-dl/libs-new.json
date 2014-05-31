@@ -7,20 +7,13 @@
         "ElementTree",
         "cookiejar",
         "struct",
-        "platform",
-        "datetime",
-        "svtplay_dl",
         "re",
         "json",
-        "Cipher",
         "mock",
         "bin",
-        "tests",
-        "optparse",
         "urllib2",
         "sys",
         "path",
-        "copy",
         "response",
         "cookielib",
         "b",
@@ -29,8 +22,6 @@
         "request",
         "urlparse",
         "shlex",
-        "setuptools",
-        "time",
-        "os"
+        "time"
     ]
 }

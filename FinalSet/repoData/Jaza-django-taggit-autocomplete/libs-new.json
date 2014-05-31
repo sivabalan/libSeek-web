@@ -2,13 +2,12 @@
     "libs": [
         "core",
         "http",
-        "conf",
+        "defaults",
         "models",
         "safestring",
-        "setuptools",
         "django",
         "forms",
-        "defaults",
+        "conf",
         "urlresolvers",
         "translation"
     ]

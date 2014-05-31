@@ -1,14 +1,11 @@
 {
     "libs": [
         "parse",
-        "http",
-        "conf",
+        "simple",
         "django",
         "urlparse",
         "re",
-        "setuptools",
-        "test",
-        "corsheaders",
-        "mock"
+        "sys",
+        "conf"
     ]
 }

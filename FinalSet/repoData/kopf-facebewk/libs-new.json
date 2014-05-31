@@ -1,9 +1,9 @@
 {
     "libs": [
+        "json",
+        "copy",
         "requests",
         "unittest",
-        "copy",
-        "json",
         "mock"
     ]
 }

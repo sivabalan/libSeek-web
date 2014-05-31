@@ -1,25 +1,14 @@
 {
     "libs": [
         "exceptions",
-        "http",
-        "template",
-        "re",
-        "generic",
-        "tos",
-        "cache",
+        "logging",
+        "defaults",
         "db",
         "auth",
-        "forms",
-        "test",
-        "shortcuts",
-        "os",
-        "conf",
         "translator",
+        "test",
+        "conf",
         "urlresolvers",
-        "logging",
-        "setuptools",
-        "csrf",
-        "defaults",
         "contrib"
     ]
 }

@@ -2,19 +2,12 @@
     "libs": [
         "commands",
         "http",
-        "conf",
         "encoding",
         "simple",
         "utils",
-        "pkg_resources",
         "sys",
+        "conf",
         "contrib",
-        "backends",
-        "setuptools",
-        "time",
-        "test",
-        "path",
-        "os",
-        "log"
+        "path"
     ]
 }

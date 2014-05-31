@@ -1,18 +1,21 @@
 {
     "libs": [
         "mimetypes",
-        "logging",
+        "sphinx_rtd_theme",
+        "console",
         "fabric",
-        "warnings",
         "tempfile",
         "awsfabrict",
-        "pprint",
+        "connection",
         "sys",
         "optparse",
+        "prefix",
         "functools",
-        "ec2",
-        "setuptools",
+        "logging",
+        "key",
+        "fnmatch",
         "path",
+        "shutil",
         "os",
         "unittest"
     ]

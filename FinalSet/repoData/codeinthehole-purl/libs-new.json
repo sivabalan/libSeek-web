@@ -2,19 +2,17 @@
     "libs": [
         "sys",
         "unicode_literals",
-        "pickle",
+        "tools",
         "functools",
         "six",
-        "tools",
         "urllib",
         "datetime",
         "parse",
         "re",
         "collections",
         "urlparse",
-        "setuptools",
+        "pickle",
         "os",
-        "unittest",
-        "purl"
+        "unittest"
     ]
 }

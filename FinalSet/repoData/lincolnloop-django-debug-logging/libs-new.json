@@ -4,14 +4,12 @@
         "with_statement",
         "subprocess",
         "contrib",
-        "defaults",
         "paginator",
         "importlib",
         "re",
         "platform",
         "backends",
         "template",
-        "setuptools",
         "optparse",
         "db",
         "sitemaps",
@@ -28,9 +26,8 @@
         "loader",
         "defaultfilters",
         "client",
-        "debug_logging",
+        "defaults",
         "urlresolvers",
-        "panels",
         "os"
     ]
 }

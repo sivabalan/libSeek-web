@@ -1,9 +1,8 @@
 {
     "libs": [
         "ordereddict",
-        "unittest",
+        "functools",
         "chai",
-        "absolute_import",
         "datetime",
         "monthdelta",
         "operator",
@@ -12,18 +11,16 @@
         "re",
         "collections",
         "pymongo",
-        "functools",
-        "core",
+        "unittest",
         "sqlalchemy",
         "warnings",
-        "Queue",
+        "sys",
         "sql",
         "types",
-        "sys",
+        "Queue",
         "c",
         "decimal",
         "urlparse",
-        "setuptools",
         "time",
         "os"
     ]

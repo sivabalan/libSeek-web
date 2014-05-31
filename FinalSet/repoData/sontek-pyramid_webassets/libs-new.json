@@ -4,22 +4,14 @@
         "pyramid",
         "pyramid_web",
         "uuid",
-        "settings",
+        "re",
         "unittest",
-        "six",
-        "json",
-        "subprocess",
         "sys",
         "yaml",
-        "threadlocal",
         "pytest",
-        "contextlib",
-        "mock",
-        "setuptools",
-        "interface",
         "path",
         "shutil",
         "os",
-        "re"
+        "mock"
     ]
 }

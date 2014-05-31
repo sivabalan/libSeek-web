@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "logging",
         "uuid",
         "zlib",
@@ -11,7 +10,6 @@
         "time",
         "sqlite3",
         "shutil",
-        "os",
-        "mbutil"
+        "os"
     ]
 }

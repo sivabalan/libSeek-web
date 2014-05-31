@@ -2,19 +2,17 @@
     "libs": [
         "generic",
         "http",
-        "setuptools",
+        "defaults",
         "shortcuts",
         "db",
-        "contenttypes",
         "dispatch",
-        "datetime",
+        "django",
         "urlresolvers",
-        "flag",
+        "contenttypes",
         "conf",
         "contrib",
         "translation",
-        "django",
-        "decorators",
-        "defaults"
+        "datetime",
+        "decorators"
     ]
 }

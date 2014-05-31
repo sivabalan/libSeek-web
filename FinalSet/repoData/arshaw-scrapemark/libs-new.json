@@ -10,7 +10,6 @@
         "sys",
         "re",
         "token",
-        "setuptools",
         "os",
         "cookielib"
     ]

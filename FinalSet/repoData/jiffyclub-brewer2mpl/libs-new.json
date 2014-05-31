@@ -1,22 +1,21 @@
 {
     "libs": [
-        "core",
-        "colors",
+        "print_function",
+        "colorbar",
+        "mock",
         "webbrowser",
         "pyplot",
         "request",
+        "colors",
         "urllib2",
         "sys",
-        "colorbar",
         "json",
         "pytest",
         "collections",
-        "print_function",
+        "axes_grid1",
         "path",
         "ipythonblocks",
         "csv",
-        "math",
-        "mock",
-        "axes_grid1"
+        "math"
     ]
 }

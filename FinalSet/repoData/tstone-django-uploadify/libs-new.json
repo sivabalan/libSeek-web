@@ -1,13 +1,11 @@
 {
     "libs": [
         "http",
-        "setuptools",
-        "uploadify",
+        "csrf",
         "dispatch",
         "django",
         "sys",
-        "csrf",
-        "os",
-        "defaults"
+        "defaults",
+        "os"
     ]
 }

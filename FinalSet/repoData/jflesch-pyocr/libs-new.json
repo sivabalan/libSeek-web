@@ -2,9 +2,7 @@
     "libs": [
         "minidom",
         "xml",
-        "tests",
         "PIL",
-        "setuptools",
         "tempfile",
         "unittest",
         "parser",

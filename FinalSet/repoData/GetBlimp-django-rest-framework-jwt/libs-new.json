@@ -2,19 +2,15 @@
     "libs": [
         "compat",
         "http",
-        "setuptools",
-        "provider",
         "jwt",
         "auth",
-        "django",
+        "datetime",
         "sys",
-        "re",
         "json",
         "conf",
-        "rest_framework_jwt",
         "test",
         "rest_framework",
-        "datetime",
+        "django",
         "os",
         "response"
     ]

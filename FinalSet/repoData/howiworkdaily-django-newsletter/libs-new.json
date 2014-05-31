@@ -1,8 +1,7 @@
 {
     "libs": [
-        "core",
         "shortcuts",
-        "datetime",
+        "loader",
         "conf",
         "contrib",
         "query",
@@ -15,15 +14,14 @@
         "decorators",
         "xlwt",
         "http",
-        "defaults",
         "db",
         "sys",
         "path",
         "translation",
-        "loader",
+        "datetime",
         "StringIO",
         "django",
-        "setuptools",
+        "defaults",
         "urlresolvers",
         "os"
     ]

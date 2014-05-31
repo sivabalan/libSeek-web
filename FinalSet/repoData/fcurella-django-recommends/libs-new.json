@@ -15,7 +15,6 @@
         "test",
         "math",
         "http",
-        "defaults",
         "warnings",
         "optparse",
         "db",
@@ -29,7 +28,7 @@
         "django",
         "generic",
         "t",
-        "setuptools",
+        "defaults",
         "time",
         "urlresolvers",
         "os"

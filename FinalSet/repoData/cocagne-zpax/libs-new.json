@@ -3,7 +3,6 @@
         "random",
         "functional",
         "shutil",
-        "network",
         "tempfile",
         "json",
         "collections",
@@ -12,18 +11,17 @@
         "core",
         "python",
         "interfaces",
-        "zpax",
         "sys",
         "interface",
         "path",
         "constants",
         "socket",
-        "pickle",
+        "os",
         "traceback",
         "practical",
         "trial",
         "context",
         "time",
-        "os"
+        "pickle"
     ]
 }

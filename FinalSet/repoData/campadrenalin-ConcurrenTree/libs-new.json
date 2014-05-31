@@ -1,23 +1,16 @@
 {
     "libs": [
-        "util",
-        "traceback",
+        "sys",
         "ejtp",
-        "re",
         "h",
-        "copy",
         "random",
-        "ConcurrenTree",
+        "storage",
         "crypto",
         "Queue",
-        "sys",
-        "storage",
+        "util",
+        "re",
         "json",
         "doctest",
-        "path",
-        "cr",
-        "core",
-        "validation",
-        "mcp"
+        "cr"
     ]
 }

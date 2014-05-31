@@ -3,7 +3,6 @@
         "cStringIO",
         "simple",
         "subprocess",
-        "api",
         "shortcuts",
         "shutil",
         "management",
@@ -20,7 +19,6 @@
         "sqlalchemy",
         "http",
         "simplejson",
-        "models",
         "unicsv",
         "sys",
         "gzip",
@@ -29,13 +27,13 @@
         "datetime",
         "exception",
         "logging",
+        "StringIO",
         "django",
         "urlparse",
         "connection",
         "client",
         "defaults",
         "urlresolvers",
-        "requests",
         "os"
     ]
 }

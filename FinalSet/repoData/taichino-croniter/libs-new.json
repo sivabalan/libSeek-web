@@ -10,7 +10,6 @@
         "tempfile",
         "re",
         "unittest2",
-        "tests",
         "optparse",
         "urllib2",
         "sys",

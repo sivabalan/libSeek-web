@@ -2,7 +2,6 @@
     "libs": [
         "itertools",
         "pytest",
-        "with_statement",
-        "setuptools"
+        "with_statement"
     ]
 }

@@ -13,7 +13,6 @@
         "optparse",
         "api",
         "HTMLParser",
-        "setuptools",
         "codecs",
         "webbrowser",
         "os"

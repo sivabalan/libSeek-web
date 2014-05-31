@@ -1,16 +1,12 @@
 {
     "libs": [
-        "http",
         "unicode_literals",
         "safestring",
+        "db",
         "loader",
-        "contrib",
-        "shortcuts",
         "contextlib",
-        "setuptools",
         "time",
         "urlresolvers",
-        "translation",
-        "admin_enhancer"
+        "translation"
     ]
 }

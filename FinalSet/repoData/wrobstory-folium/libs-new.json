@@ -1,9 +1,8 @@
 {
     "libs": [
-        "core",
-        "os",
         "division",
-        "numpy",
+        "uuid",
+        "os",
         "functools",
         "codecs",
         "pkg_resources",
@@ -11,12 +10,11 @@
         "json",
         "jinja2",
         "math",
-        "setuptools",
+        "tools",
         "pand",
         "vincent",
-        "tools",
+        "numpy",
         "display",
-        "print_function",
-        "uuid"
+        "print_function"
     ]
 }

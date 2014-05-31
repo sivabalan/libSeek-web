@@ -9,7 +9,6 @@
         "sys",
         "threading",
         "json",
-        "package_syncing",
         "time",
         "fnmatch",
         "path",

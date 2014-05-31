@@ -1,7 +1,6 @@
 {
     "libs": [
         "wsgi",
-        "core",
         "unicode_literals",
         "utils",
         "absolute_import",
@@ -11,20 +10,18 @@
         "management",
         "generic",
         "re",
-        "template",
         "division",
         "http",
         "optparse",
         "sys",
         "testc",
-        "b",
+        "sphinx_rtd_theme",
         "logging",
         "print_function",
-        "sphinx_rtd_theme",
+        "b",
         "e",
         "django",
         "client",
-        "setuptools",
         "os"
     ]
 }

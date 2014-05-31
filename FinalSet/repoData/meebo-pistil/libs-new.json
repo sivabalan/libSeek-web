@@ -8,7 +8,6 @@
         "tempfile",
         "errno",
         "reader",
-        "pistil",
         "fcntl",
         "mimetypes",
         "http",
@@ -24,7 +23,6 @@
         "pkg_resources",
         "server",
         "connection",
-        "setuptools",
         "time",
         "messaging",
         "os"

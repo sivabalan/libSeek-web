@@ -3,7 +3,6 @@
         "http",
         "conf",
         "encoding",
-        "setuptools",
         "query_string",
         "re",
         "html",
@@ -11,7 +10,6 @@
         "template",
         "urlobject",
         "debug",
-        "os",
         "defaults",
         "nose"
     ]

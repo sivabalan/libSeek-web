@@ -4,16 +4,13 @@
         "b",
         "template",
         "conf",
-        "core",
         "optparse",
         "ipdb",
-        "template_repl",
         "sys",
         "simple",
         "client",
         "io",
         "test",
-        "readline",
         "os",
         "pdb"
     ]

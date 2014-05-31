@@ -3,7 +3,6 @@
         "logging",
         "io",
         "StringIO",
-        "setuptools",
         "sys",
         "coverage",
         "plugins"

@@ -1,14 +1,12 @@
 {
     "libs": [
-        "test_utils",
-        "commonware",
-        "conf",
+        "http",
+        "api",
         "os",
         "functools",
-        "db",
-        "api",
-        "setuptools",
-        "http",
-        "tools"
+        "client",
+        "conf",
+        "tools",
+        "mock"
     ]
 }

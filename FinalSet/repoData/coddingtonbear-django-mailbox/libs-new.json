@@ -1,11 +1,10 @@
 {
     "libs": [
+        "Errors",
         "simple",
-        "poplib",
         "datetime",
         "parse",
         "header",
-        "django_mailbox",
         "contrib",
         "message",
         "encoders",
@@ -20,15 +19,15 @@
         "mailbox",
         "sys",
         "v2",
+        "errors",
         "path",
         "dispatcher",
         "b",
         "logging",
-        "transports",
+        "os",
         "imaplib",
-        "setuptools",
         "h",
         "quopri",
-        "os"
+        "poplib"
     ]
 }

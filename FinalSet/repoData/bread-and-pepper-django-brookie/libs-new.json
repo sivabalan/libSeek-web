@@ -1,10 +1,8 @@
 {
     "libs": [
         "cStringIO",
-        "ez_setup",
         "shortcuts",
         "datetime",
-        "brookie",
         "conf",
         "contrib",
         "management",
@@ -16,7 +14,6 @@
         "decorators",
         "cgi",
         "http",
-        "defaults",
         "admin_wmdeditor",
         "db",
         "sys",
@@ -24,7 +21,7 @@
         "loader",
         "decimal",
         "django",
-        "setuptools",
+        "defaults",
         "urlresolvers",
         "os"
     ]

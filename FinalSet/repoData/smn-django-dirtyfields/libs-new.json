@@ -2,14 +2,12 @@
     "libs": [
         "signals",
         "loading",
-        "setuptools",
+        "defaults",
         "color",
         "db",
-        "absolute_import",
         "sys",
         "management",
         "conf",
-        "test",
-        "defaults"
+        "test"
     ]
 }

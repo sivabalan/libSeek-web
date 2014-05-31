@@ -1,27 +1,23 @@
 {
     "libs": [
+        "environment",
+        "style",
+        "logging",
+        "SocketServer",
         "socketserver",
         "SimpleHTTPServer",
-        "unittest",
-        "shutil",
         "check",
-        "style",
         "errno",
-        "token",
-        "environment",
-        "yaml",
+        "unittest",
         "json",
-        "unittest2",
-        "core",
-        "SocketServer",
+        "server",
         "sys",
+        "token",
+        "argparse",
         "jinja2",
         "codecs",
-        "argparse",
-        "logging",
-        "server",
-        "complexity",
-        "setuptools",
-        "os"
+        "shutil",
+        "os",
+        "unittest2"
     ]
 }

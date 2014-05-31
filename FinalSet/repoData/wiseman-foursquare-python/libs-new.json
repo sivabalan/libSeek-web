@@ -1,20 +1,8 @@
 {
     "libs": [
-        "httplib",
-        "b",
-        "logging",
-        "string",
-        "simplejson",
-        "ez_setup",
-        "unittest",
-        "urllib",
-        "sys",
-        "oauth",
-        "json",
-        "foursquare",
-        "setuptools",
-        "time",
         "getp",
-        "utils"
+        "unittest",
+        "foursquare",
+        "time"
     ]
 }

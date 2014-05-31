@@ -12,7 +12,6 @@
         "termios",
         "sys",
         "sha",
-        "version",
         "h",
         "sqlite3",
         "getopt",

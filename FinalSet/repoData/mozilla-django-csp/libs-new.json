@@ -4,10 +4,8 @@
         "os",
         "functools",
         "sys",
-        "setuptools",
         "test",
         "moves",
-        "tools",
-        "csp"
+        "tools"
     ]
 }

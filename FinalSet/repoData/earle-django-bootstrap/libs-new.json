@@ -1,7 +1,5 @@
 {
     "libs": [
-        "core",
-        "conf",
         "encoding",
         "simple",
         "safestring",

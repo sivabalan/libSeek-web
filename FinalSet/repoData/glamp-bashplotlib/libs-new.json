@@ -1,10 +1,10 @@
 {
     "libs": [
-        "core",
         "optparse",
         "sys",
-        "setuptools",
+        "path",
         "csv",
+        "os",
         "math"
     ]
 }

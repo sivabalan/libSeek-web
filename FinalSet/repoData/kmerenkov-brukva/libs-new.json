@@ -1,21 +1,17 @@
 {
     "libs": [
         "ioloop",
-        "core",
-        "httpserver",
-        "iostream",
-        "socket",
         "web",
+        "httpserver",
+        "websocket",
+        "socket",
         "functools",
         "pprint",
-        "redis",
         "datetime",
         "sys",
         "itertools",
-        "brukva",
-        "setuptools",
         "time",
-        "websocket",
+        "iostream",
         "os",
         "unittest"
     ]

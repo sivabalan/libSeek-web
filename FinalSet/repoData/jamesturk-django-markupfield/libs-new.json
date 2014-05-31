@@ -14,7 +14,6 @@
         "json",
         "html",
         "test",
-        "options",
         "lexers",
         "core",
         "db",
@@ -23,7 +22,7 @@
         "safestring",
         "modelsinspector",
         "django",
-        "markupfield",
+        "options",
         "noqa"
     ]
 }

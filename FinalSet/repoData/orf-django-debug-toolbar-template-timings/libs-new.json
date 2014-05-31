@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "b",
         "logging",
         "template",
@@ -11,8 +10,6 @@
         "collections",
         "conf",
         "time",
-        "exceptions",
-        "panels",
-        "os"
+        "exceptions"
     ]
 }

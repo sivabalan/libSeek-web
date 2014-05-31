@@ -8,7 +8,6 @@
         "sys",
         "threading",
         "itertools",
-        "time",
-        "math"
+        "time"
     ]
 }

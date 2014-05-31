@@ -1,16 +1,11 @@
 {
     "libs": [
-        "core",
         "b",
-        "http",
-        "defaults",
-        "shortcuts",
         "unittest",
-        "cache",
+        "django",
         "sys",
-        "json",
         "management",
-        "template",
+        "defaults",
         "test",
         "os",
         "utils"

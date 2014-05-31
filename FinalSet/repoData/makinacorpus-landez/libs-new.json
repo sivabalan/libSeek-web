@@ -21,7 +21,6 @@
         "zlib",
         "pkg_resources",
         "urlparse",
-        "setuptools",
         "time",
         "os",
         "mbutil"

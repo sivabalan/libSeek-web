@@ -1,21 +1,16 @@
 {
     "libs": [
-        "core",
         "logging",
-        "analytics",
         "unittest",
         "random",
         "datetime",
-        "sys",
         "threading",
         "json",
         "collections",
         "numbers",
-        "setuptools",
         "time",
         "tz",
         "requests",
-        "os",
         "decimal"
     ]
 }

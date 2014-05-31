@@ -1,7 +1,7 @@
 {
     "libs": [
         "cStringIO",
-        "zlib",
+        "traceback",
         "unittest",
         "random",
         "site",
@@ -22,7 +22,7 @@
         "math",
         "cPickle",
         "optparse",
-        "time",
+        "sets",
         "sys",
         "path",
         "types",
@@ -30,13 +30,11 @@
         "logging",
         "socket",
         "signal",
-        "traceback",
+        "zlib",
         "pkg_resources",
         "weakref",
         "threading",
-        "speedy",
-        "setuptools",
-        "sets",
+        "time",
         "os",
         "win32api"
     ]

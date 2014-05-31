@@ -8,12 +8,10 @@
         "pkg_resources",
         "sys",
         "sh",
-        "setuptools",
         "gobject",
-        "pidlockfile",
+        "ConfigParser",
         "os",
-        "multiprocessing",
         "pidfile",
-        "ConfigParser"
+        "pidlockfile"
     ]
 }

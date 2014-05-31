@@ -1,5 +1,6 @@
 {
     "libs": [
+        "division",
         "b",
         "http",
         "string",
@@ -10,11 +11,10 @@
         "sys",
         "trial",
         "strports",
-        "setuptools",
+        "policies",
         "internet",
         "protocol",
         "array",
-        "policies",
         "struct"
     ]
 }

@@ -16,7 +16,6 @@
         "ipstruct",
         "ipapi",
         "math",
-        "core",
         "warnings",
         "optparse",
         "inspect",
@@ -27,10 +26,10 @@
         "StringIO",
         "numpy",
         "signal",
-        "pdb",
+        "page",
         "linecache",
         "time",
         "os",
-        "page"
+        "pdb"
     ]
 }

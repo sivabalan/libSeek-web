@@ -5,18 +5,16 @@
         "sqlalchemy",
         "logging",
         "os",
-        "unittest",
+        "functools",
         "urllib",
         "urlparse",
-        "re",
         "token",
         "declarative",
         "sys",
-        "setuptools",
         "orm",
         "requests",
         "fl",
-        "functools",
+        "unittest",
         "mock"
     ]
 }

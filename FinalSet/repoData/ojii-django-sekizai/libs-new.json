@@ -1,6 +1,6 @@
 {
     "libs": [
-        "template",
+        "importlib",
         "cl",
         "loader_tags",
         "unittest",
@@ -8,10 +8,9 @@
         "difflib",
         "django",
         "sys",
-        "setuptools",
+        "template",
         "loader",
         "os",
-        "utils",
-        "importlib"
+        "utils"
     ]
 }

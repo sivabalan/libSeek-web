@@ -12,7 +12,7 @@
         "mimetypes",
         "http",
         "sys",
-        "exceptions",
+        "urlresolvers",
         "translation",
         "argparse",
         "b",
@@ -21,8 +21,7 @@
         "Image",
         "django",
         "urlparse",
-        "setuptools",
-        "urlresolvers",
+        "exceptions",
         "os"
     ]
 }

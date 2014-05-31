@@ -1,11 +1,9 @@
 {
     "libs": [
-        "dist",
-        "__builtin__",
         "sys",
         "re",
-        "setuptools",
         "operator",
-        "logging"
+        "logging",
+        "__builtin__"
     ]
 }

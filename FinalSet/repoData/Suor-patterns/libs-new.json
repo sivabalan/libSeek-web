@@ -1,12 +1,9 @@
 {
     "libs": [
-        "re",
-        "inspect",
         "sys",
-        "patterns",
         "itertools",
         "pytest",
         "meta",
-        "setuptools"
+        "inspect"
     ]
 }

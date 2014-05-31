@@ -7,11 +7,10 @@
         "redis",
         "celery",
         "itertools",
-        "mock",
+        "t",
         "time",
         "docker",
         "fl",
-        "spindocker",
-        "t"
+        "mock"
     ]
 }

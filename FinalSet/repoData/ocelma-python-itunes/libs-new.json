@@ -1,19 +1,6 @@
 {
     "libs": [
-        "core",
-        "os",
-        "simplejson",
-        "tempfile",
-        "h",
-        "urllib2",
-        "urllib",
         "itunes",
-        "re",
-        "json",
-        "urlparse",
-        "setuptools",
-        "path",
-        "tools",
-        "md5"
+        "tools"
     ]
 }

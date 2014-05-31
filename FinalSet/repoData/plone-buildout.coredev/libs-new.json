@@ -10,7 +10,6 @@
         "optparse",
         "pkg_resources",
         "shutil",
-        "os",
-        "imported because of its side effects"
+        "os"
     ]
 }

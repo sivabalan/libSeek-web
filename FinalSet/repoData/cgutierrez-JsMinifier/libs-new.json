@@ -7,7 +7,6 @@
         "re",
         "sublime_plugin",
         "os",
-        "sublime",
-        "compilers"
+        "sublime"
     ]
 }

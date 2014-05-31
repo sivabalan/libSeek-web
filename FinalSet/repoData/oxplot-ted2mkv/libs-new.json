@@ -1,21 +1,3 @@
 {
-    "libs": [
-        "ted2mkv",
-        "core",
-        "division",
-        "argparse",
-        "unicode_literals",
-        "time",
-        "request",
-        "urllib2",
-        "subprocess",
-        "sys",
-        "re",
-        "json",
-        "io",
-        "error",
-        "cStringIO",
-        "os",
-        "print_function"
-    ]
+    "libs": []
 }

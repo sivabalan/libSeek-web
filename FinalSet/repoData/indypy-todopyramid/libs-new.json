@@ -16,13 +16,11 @@
         "decorator",
         "transaction",
         "settings",
-        "config",
         "builder",
         "renderers",
         "colander",
         "p",
         "pytz",
-        "setuptools",
         "security",
         "os",
         "view"

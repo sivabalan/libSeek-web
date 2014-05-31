@@ -18,14 +18,12 @@
         "urllib2",
         "sys",
         "print_function",
-        "caniusepython3",
         "argparse",
         "logging",
         "futures",
         "request",
         "client",
         "setuptools",
-        "os",
         "multiprocessing"
     ]
 }

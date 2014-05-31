@@ -1,19 +1,19 @@
 {
     "libs": [
-        "logging",
-        "setuptools",
-        "platform",
-        "traceback",
-        "db",
-        "contrib",
-        "datetime",
-        "sys",
         "exceptions",
-        "jogging",
-        "encoding",
+        "logging",
+        "defaults",
+        "unittest",
+        "db",
+        "django",
+        "sys",
+        "platform",
+        "doctest",
         "conf",
-        "test",
+        "contrib",
         "mail",
-        "defaults"
+        "datetime",
+        "os",
+        "utils"
     ]
 }

@@ -1,21 +1,18 @@
 {
     "libs": [
-        "functools",
         "termstyle",
         "tempfile",
-        "unittest",
+        "functools",
         "absolute_import",
         "subprocess",
         "sys",
         "re",
         "itertools",
-        "steps",
         "nose",
-        "setuptools",
         "path",
         "shutil",
         "os",
-        "pea",
+        "unittest",
         "print_function"
     ]
 }

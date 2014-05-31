@@ -1,7 +1,7 @@
 {
     "libs": [
         "cStringIO",
-        "simple_server",
+        "os",
         "unicode_literals",
         "unittest",
         "expat",
@@ -10,12 +10,10 @@
         "parse",
         "io",
         "cookiejar",
-        "py2exe",
         "tempfile",
         "urllib",
         "re",
-        "pysimplesoap",
-        "core",
+        "simple_server",
         "cPickle",
         "B",
         "warnings",
@@ -23,7 +21,6 @@
         "urllib2",
         "sys",
         "httplib2",
-        "pickle",
         "cookielib",
         "pycurl",
         "minidom",
@@ -34,10 +31,8 @@
         "decimal",
         "traceback",
         "urlparse",
-        "nsis",
-        "setuptools",
         "time",
-        "os",
+        "pickle",
         "hmac"
     ]
 }

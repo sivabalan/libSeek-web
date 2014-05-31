@@ -15,18 +15,17 @@
         "fcntl",
         "distorm3",
         "sys",
-        "resource",
+        "logging",
         "copy",
         "elffile",
         "argparse",
-        "logging",
-        "os",
+        "resource",
+        "pickle",
         "traceback",
         "weakref",
-        "setuptools",
         "time",
         "contextlib",
-        "pickle",
+        "os",
         "pdb"
     ]
 }

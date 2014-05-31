@@ -8,7 +8,6 @@
         "cmds",
         "weakref",
         "sip",
-        "ui",
         "OpenMayaUI",
         "PyQt4",
         "QtCore",

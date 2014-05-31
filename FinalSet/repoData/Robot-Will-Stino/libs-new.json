@@ -1,7 +1,6 @@
 {
     "libs": [
         "locale",
-        "app",
         "subprocess",
         "_winreg",
         "io",

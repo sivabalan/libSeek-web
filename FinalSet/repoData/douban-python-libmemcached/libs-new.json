@@ -2,20 +2,19 @@
     "libs": [
         "cPickle",
         "traceback",
-        "print_exc()",
+        "string",
         "optparse",
-        "pickle",
+        "os",
         "unittest",
         "random",
         "timeit",
         "subprocess",
         "sys",
         "threading",
-        "setuptools",
         "time",
         "cmemcached_imp",
         "zlib",
-        "os",
+        "pickle",
         "marshal",
         "mock"
     ]

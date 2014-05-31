@@ -1,5 +1,6 @@
 {
     "libs": [
+        "shutil",
         "buildout",
         "string",
         "re",
@@ -7,14 +8,10 @@
         "random",
         "datetime",
         "urllib2",
-        "absolute_import",
-        "subprocess",
+        "pkg_resources",
         "sys",
         "optparse",
-        "pkg_resources",
-        "generators",
-        "setuptools",
-        "shutil",
+        "subprocess",
         "os"
     ]
 }

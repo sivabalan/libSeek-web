@@ -6,7 +6,7 @@
         "query",
         "contrib",
         "rest_framework",
-        "django_filters",
+        "management",
         "gis",
         "local_settings",
         "geos",
@@ -17,13 +17,11 @@
         "db",
         "sys",
         "urlresolvers",
-        "management",
-        "rest_framework_gis",
+        "django_filters",
         "path",
         "translation",
         "gdal",
         "argparse",
-        "setuptools",
         "exceptions",
         "os"
     ]

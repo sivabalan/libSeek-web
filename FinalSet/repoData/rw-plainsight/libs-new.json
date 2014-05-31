@@ -7,7 +7,6 @@
         "sys",
         "re",
         "bitstring",
-        "setuptools",
         "time",
         "math"
     ]

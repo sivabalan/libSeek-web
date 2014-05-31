@@ -1,19 +1,12 @@
 {
     "libs": [
-        "distances",
-        "tests",
-        "core",
         "h",
         "unittest",
         "redis",
-        "absolute_import",
         "sys",
         "json",
         "scipy",
-        "filters",
         "time",
-        "nearpy",
-        "experiments",
         "numpy",
         "print_function"
     ]

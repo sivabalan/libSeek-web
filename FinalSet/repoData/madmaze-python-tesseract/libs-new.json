@@ -1,10 +1,9 @@
 {
     "libs": [
-        "StringIO",
-        "Image",
-        "subprocess",
         "sys",
-        "setuptools",
-        "os"
+        "Image",
+        "StringIO",
+        "os",
+        "subprocess"
     ]
 }

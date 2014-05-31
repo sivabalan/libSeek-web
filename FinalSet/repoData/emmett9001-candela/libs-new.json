@@ -1,15 +1,13 @@
 {
     "libs": [
-        "core",
-        "threading",
-        "signal",
         "curses",
+        "signal",
         "textwrap",
         "sys",
         "platform",
+        "threading",
         "getp",
         "path",
-        "os",
-        "candela"
+        "os"
     ]
 }

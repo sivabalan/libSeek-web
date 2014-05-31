@@ -2,7 +2,6 @@
     "libs": [
         "cStringIO",
         "traceback",
-        "protocol",
         "unittest",
         "random",
         "with_statement",
@@ -10,8 +9,7 @@
         "parse",
         "version_cl",
         "pygments",
-        "server",
-        "transport",
+        "select",
         "web",
         "struct",
         "re",
@@ -21,7 +19,6 @@
         "optparse",
         "version",
         "generators",
-        "select",
         "internet",
         "smtplib",
         "cgi",
@@ -34,7 +31,6 @@
         "httplib",
         "Queue",
         "ssl",
-        "b",
         "codecs",
         "interface",
         "path",
@@ -43,7 +39,7 @@
         "md5",
         "sys",
         "unicodedata",
-        "oauth2",
+        "b",
         "logging",
         "socket",
         "h",
@@ -55,6 +51,7 @@
         "warnings",
         "sets",
         "os",
+        "multiprocessing",
         "sublime"
     ]
 }

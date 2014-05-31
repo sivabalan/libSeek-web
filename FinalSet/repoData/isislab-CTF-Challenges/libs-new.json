@@ -1,22 +1,14 @@
 {
     "libs": [
-        "urlparse",
         "b",
-        "logging",
         "struct",
         "SocketServer",
-        "SimpleHTTPServer",
         "h",
-        "Image",
         "random",
-        "urllib2",
         "sys",
-        "PublicKey",
         "itertools",
-        "ctypes",
-        "time",
-        "operator",
         "collections",
+        "operator",
         "array",
         "os",
         "math"

@@ -19,7 +19,6 @@
         "socket",
         "httpretty",
         "urlparse",
-        "setuptools",
         "time",
         "requests",
         "os"

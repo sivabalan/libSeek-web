@@ -1,7 +1,6 @@
 {
     "libs": [
         "cStringIO",
-        "setuptools",
         "defer",
         "text",
         "functools",
@@ -9,8 +8,6 @@
         "with_statement",
         "datetime",
         "yaml",
-        "txmysql",
-        "pprint(result)",
         "shutil",
         "struct",
         "service",
@@ -41,7 +38,6 @@
         "h",
         "filepath",
         "pwd",
-        "pprint(vars(self))",
         "telnetlib",
         "policies",
         "time",

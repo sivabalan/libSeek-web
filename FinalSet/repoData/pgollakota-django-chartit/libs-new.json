@@ -1,14 +1,13 @@
 {
     "libs": [
-        "shortcuts",
+        "prod_settings_demo",
+        "simple",
         "functools",
         "manager",
         "pygments",
         "operator",
         "query",
         "formatters",
-        "prod_settings",
-        "simple",
         "management",
         "posixpath",
         "itertools",
@@ -16,9 +15,9 @@
         "collections",
         "test",
         "lexers",
-        "defaults",
         "aggregates",
         "inspect",
+        "db",
         "textwrap",
         "dat",
         "copy",
@@ -29,8 +28,7 @@
         "django",
         "defaultfilters",
         "api",
-        "setuptools",
-        "os",
-        "highcharts"
+        "defaults",
+        "os"
     ]
 }

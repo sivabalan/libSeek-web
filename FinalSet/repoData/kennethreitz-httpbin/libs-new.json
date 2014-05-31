@@ -1,23 +1,23 @@
 {
     "libs": [
         "wrappers",
-        "cStringIO",
         "b",
         "http",
         "uuid",
-        "simplejson",
+        "decimal",
         "bisect",
         "os",
         "unittest",
         "random",
         "dat",
+        "zlib",
         "json",
+        "h",
         "time",
         "gzip",
-        "httpbin",
-        "h",
+        "moves",
         "fl",
-        "decimal",
+        "six",
         "decorator"
     ]
 }

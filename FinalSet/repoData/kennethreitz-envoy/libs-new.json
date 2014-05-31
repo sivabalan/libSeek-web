@@ -1,13 +1,11 @@
 {
     "libs": [
         "signal",
-        "envoy",
         "subprocess",
         "sys",
         "threading",
         "ctypes",
         "shlex",
-        "setuptools",
         "time",
         "os",
         "unittest"

@@ -17,7 +17,6 @@
         "re",
         "json",
         "html",
-        "handler",
         "sys",
         "user_farm",
         "copy",

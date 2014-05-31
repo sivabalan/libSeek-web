@@ -1,14 +1,12 @@
 {
     "libs": [
         "tokens",
-        "core",
-        "string",
         "sqlparse",
+        "string",
         "numpy",
         "unittest",
         "dat",
         "re",
-        "setuptools",
         "pand",
         "sqlite3",
         "os"

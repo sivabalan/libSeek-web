@@ -4,7 +4,6 @@
         "pocketlib",
         "copy",
         "plistlib",
-        "core",
         "subprocess",
         "urllib2",
         "urllib",

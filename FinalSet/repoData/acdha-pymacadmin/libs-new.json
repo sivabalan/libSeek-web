@@ -4,7 +4,6 @@
         "unittest",
         "SystemConfiguration",
         "subprocess",
-        "PyMacAdmin",
         "shutil",
         "Foundation",
         "plistlib",
@@ -17,9 +16,7 @@
         "optparse",
         "inspect",
         "sys",
-        "ctypes",
         "path",
-        "Security",
         "datetime",
         "types",
         "uuid",
@@ -30,7 +27,6 @@
         "h",
         "signal",
         "Cocoa",
-        "setuptools",
         "FSEvents",
         "os"
     ]

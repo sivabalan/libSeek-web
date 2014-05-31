@@ -6,7 +6,6 @@
         "sys",
         "re",
         "logging",
-        "setuptools",
         "time",
         "gobject",
         "os"

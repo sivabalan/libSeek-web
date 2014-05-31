@@ -1,14 +1,12 @@
 {
     "libs": [
         "type_c",
-        "core",
         "b",
         "unittest",
         "redis",
         "json",
         "collections",
         "numbers",
-        "ooredis",
         "pickle",
         "functools"
     ]

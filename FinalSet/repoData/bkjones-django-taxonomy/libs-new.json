@@ -1,10 +1,9 @@
 {
     "libs": [
-        "core",
-        "db",
         "contrib",
+        "test",
         "contenttypes",
-        "template",
-        "test"
+        "db",
+        "template"
     ]
 }

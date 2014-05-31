@@ -4,7 +4,6 @@
         "twitter",
         "subprocess",
         "io",
-        "lib",
         "threading",
         "platform",
         "json",

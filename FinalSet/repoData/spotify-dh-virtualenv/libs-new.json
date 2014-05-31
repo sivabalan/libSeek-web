@@ -1,15 +1,13 @@
 {
     "libs": [
-        "dh_virtualenv",
         "re",
-        "tempfile",
+        "optparse",
         "os",
         "functools",
         "textwrap",
         "subprocess",
         "sys",
-        "optparse",
-        "setuptools",
+        "tempfile",
         "shutil",
         "tools",
         "mock"

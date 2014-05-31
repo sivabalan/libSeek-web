@@ -2,16 +2,13 @@
     "libs": [
         "http",
         "conf",
-        "re",
         "generic",
         "utils",
-        "setuptools",
         "sys",
         "test",
         "json",
         "client",
         "urls",
-        "urlresolvers",
-        "os"
+        "urlresolvers"
     ]
 }

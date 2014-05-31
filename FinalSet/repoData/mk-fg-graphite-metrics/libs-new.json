@@ -1,6 +1,5 @@
 {
     "libs": [
-        "shelve",
         "guppy",
         "functools",
         "random",
@@ -18,12 +17,11 @@
         "json",
         "collections",
         "print_function",
-        "graphite_metrics",
         "heapy",
         "fcntl",
         "stat",
-        "glob",
         "bencode",
+        "shelve",
         "auth",
         "iso8601",
         "sys",
@@ -37,7 +35,6 @@
         "signal",
         "pkg_resources",
         "itertools",
-        "setuptools",
         "time",
         "requests",
         "os",

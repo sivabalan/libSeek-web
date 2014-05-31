@@ -3,7 +3,6 @@
         "sys",
         "management",
         "http",
-        "pythonnexus",
         "db",
         "threadedclient",
         "threading",

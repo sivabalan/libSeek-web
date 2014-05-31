@@ -25,7 +25,6 @@
         "httplib",
         "b",
         "logging",
-        "webapp2",
         "traceback",
         "urlparse",
         "threading",

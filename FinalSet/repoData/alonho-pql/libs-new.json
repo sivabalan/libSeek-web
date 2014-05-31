@@ -1,11 +1,8 @@
 {
     "libs": [
-        "functools",
         "unittest",
         "parser",
-        "pql",
         "datetime",
-        "setuptools",
         "bson",
         "pymongo",
         "calendar"

@@ -18,13 +18,10 @@
         "contenttypes",
         "test",
         "getopt",
-        "utils",
-        "defaults",
         "optparse",
         "db",
         "inspect",
         "zipfile",
-        "commands",
         "sys",
         "translation",
         "unicodedata",
@@ -35,7 +32,7 @@
         "django",
         "ImageFile",
         "defaultfilters",
-        "setuptools",
+        "defaults",
         "urlresolvers",
         "os"
     ]

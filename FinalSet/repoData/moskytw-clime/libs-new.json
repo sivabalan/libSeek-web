@@ -9,10 +9,8 @@
         "json",
         "collections",
         "doctest",
-        "setuptools",
         "path",
         "os",
-        "clime",
         "math"
     ]
 }

@@ -14,10 +14,8 @@
         "json",
         "collections",
         "yaml",
-        "setuptools",
         "operator",
         "ordereddict",
-        "core",
         "datetime",
         "os",
         "string"

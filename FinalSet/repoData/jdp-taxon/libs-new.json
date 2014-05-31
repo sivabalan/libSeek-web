@@ -2,21 +2,18 @@
     "libs": [
         "sys",
         "heapq",
+        "os",
         "h",
         "functools",
+        "pickle",
         "cPickle",
-        "taxon",
         "urlparse",
-        "tools",
         "itertools",
-        "backends",
         "collections",
         "doctest",
-        "setuptools",
         "time",
         "operator",
-        "pickle",
         "path",
-        "os"
+        "tools"
     ]
 }

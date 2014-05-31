@@ -1,14 +1,11 @@
 {
     "libs": [
-        "core",
         "mimetypes",
         "simplejson",
         "warnings",
         "urllib2",
         "urllib",
-        "re",
         "json",
-        "path",
-        "os"
+        "path"
     ]
 }

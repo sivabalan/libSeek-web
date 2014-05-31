@@ -1,18 +1,8 @@
 {
     "libs": [
-        "minidom",
-        "cStringIO",
-        "io",
-        "conf",
-        "runner",
-        "unittest",
-        "xmlrunner",
-        "sys",
         "simple",
-        "result",
-        "setuptools",
-        "time",
-        "os",
-        "utils"
+        "unittest",
+        "utils",
+        "conf"
     ]
 }

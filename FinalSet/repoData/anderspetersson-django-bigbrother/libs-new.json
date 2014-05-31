@@ -1,13 +1,12 @@
 {
     "libs": [
         "sys",
-        "management",
+        "b",
         "http",
         "importlib",
         "qsstats",
         "platform",
         "generic",
-        "bigbrother",
         "db",
         "v2",
         "auth",
@@ -15,8 +14,6 @@
         "celery",
         "psutil",
         "defaultfilters",
-        "b",
-        "setuptools",
         "mail",
         "os"
     ]

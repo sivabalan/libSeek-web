@@ -1,7 +1,5 @@
 {
     "libs": [
-        "core",
-        "commands",
         "_ssl",
         "logging",
         "urllib2",

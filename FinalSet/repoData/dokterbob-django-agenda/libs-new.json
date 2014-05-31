@@ -6,19 +6,18 @@
         "template",
         "conf",
         "relativedelta",
-        "setuptools",
         "db",
-        "contrib",
         "datetime",
         "urlresolvers",
-        "re",
+        "tzinfo",
         "html",
         "defaults",
         "query",
-        "tzinfo",
+        "contrib",
         "http",
         "translation",
         "django",
-        "calendar"
+        "calendar",
+        "re"
     ]
 }

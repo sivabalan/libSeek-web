@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "expat",
         "subprocess",
         "syslog",

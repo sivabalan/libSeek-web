@@ -1,9 +1,7 @@
 {
     "libs": [
         "sys",
-        "core",
-        "os",
-        "types",
-        "collections"
+        "collections",
+        "types"
     ]
 }

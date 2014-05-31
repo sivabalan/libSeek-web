@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "StringIO",
         "optparse",
         "with_statement",

@@ -1,11 +1,9 @@
 {
     "libs": [
-        "core",
-        "simplejson",
+        "requests",
         "unittest",
-        "json",
         "fuzz",
-        "setuptools",
-        "requests"
+        "json",
+        "simplejson"
     ]
 }

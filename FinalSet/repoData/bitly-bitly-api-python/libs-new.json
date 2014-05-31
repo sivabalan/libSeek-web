@@ -9,8 +9,6 @@
         "urllib",
         "parse",
         "json",
-        "absolute_import",
-        "setuptools",
         "error",
         "os",
         "types"

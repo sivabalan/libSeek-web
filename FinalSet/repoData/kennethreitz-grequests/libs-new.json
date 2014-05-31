@@ -4,7 +4,6 @@
         "unittest",
         "sys",
         "gevent",
-        "setuptools",
         "time",
         "requests",
         "os",

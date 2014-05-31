@@ -1,8 +1,7 @@
 {
     "libs": [
-        "core",
-        "logging",
         "division",
+        "logging",
         "with_statement",
         "absolute_import",
         "sys",

@@ -1,11 +1,8 @@
 {
     "libs": [
         "core",
-        "urls",
-        "django",
+        "template",
         "re",
-        "conf",
-        "codecs",
-        "os"
+        "django"
     ]
 }

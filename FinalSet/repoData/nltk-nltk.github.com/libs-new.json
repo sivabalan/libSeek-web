@@ -1,10 +1,12 @@
 {
     "libs": [
         "pylab",
+        "bs4",
         "random",
         "matplotlib",
         "sys",
         "re",
+        "urllib",
         "networkx",
         "corpus",
         "ElementTree",

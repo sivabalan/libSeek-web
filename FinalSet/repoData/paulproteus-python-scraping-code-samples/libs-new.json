@@ -6,7 +6,6 @@
         "datetime",
         "spidermonkey",
         "HTMLParser",
-        "mechanize",
         "html5lib",
         "monkey",
         "BeautifulSoup",

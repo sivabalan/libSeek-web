@@ -1,7 +1,6 @@
 {
     "libs": [
         "bin",
-        "core",
         "struct",
         "simplejson",
         "tornado",

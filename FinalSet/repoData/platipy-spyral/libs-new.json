@@ -5,13 +5,12 @@
         "random",
         "gc",
         "operator",
-        "spyral",
         "gtk",
         "parsley",
-        "re",
         "json",
         "collections",
         "pygame",
+        "unittest",
         "math",
         "division",
         "string",
@@ -27,7 +26,6 @@
         "weakref",
         "itertools",
         "greenlet",
-        "setuptools",
         "time",
         "os"
     ]

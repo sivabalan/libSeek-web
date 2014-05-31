@@ -15,10 +15,9 @@
         "itertools",
         "collections",
         "contextlib",
-        "ConfigParser",
         "ElementTree",
         "os",
         "optparse",
-        "mbslave"
+        "ConfigParser"
     ]
 }

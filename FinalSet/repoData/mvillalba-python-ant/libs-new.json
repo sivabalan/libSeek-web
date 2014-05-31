@@ -1,19 +1,16 @@
 {
     "libs": [
-        "core",
-        "ant",
-        "msgpack",
-        "struct",
-        "thread",
         "util",
+        "msgpack",
+        "uuid",
+        "thread",
         "unittest",
         "datetime",
         "sys",
-        "setuptools",
         "time",
         "serial",
         "os",
         "array",
-        "uuid"
+        "struct"
     ]
 }

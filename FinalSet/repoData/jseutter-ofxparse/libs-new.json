@@ -2,10 +2,9 @@
     "libs": [
         "ElementTree",
         "ordereddict",
-        "setuptools",
         "StringIO",
         "bs4",
-        "decimal",
+        "unittest",
         "six",
         "with_statement",
         "BeautifulSoup",
@@ -19,6 +18,6 @@
         "contextlib",
         "copy",
         "os",
-        "unittest"
+        "decimal"
     ]
 }

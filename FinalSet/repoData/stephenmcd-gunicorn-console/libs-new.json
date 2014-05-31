@@ -6,7 +6,6 @@
         "sys",
         "re",
         "itertools",
-        "setuptools",
         "sphinx_me"
     ]
 }

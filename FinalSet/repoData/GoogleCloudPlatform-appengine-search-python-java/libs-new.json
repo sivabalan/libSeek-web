@@ -15,14 +15,14 @@
         "cgi",
         "string",
         "optparse",
-        "dat",
-        "copy",
         "sys",
+        "copy",
+        "dat",
         "search",
         "b",
         "logging",
         "webapp2",
-        "os",
+        "pickle",
         "traceback",
         "dev_appserver",
         "wsgiref",
@@ -31,6 +31,6 @@
         "ext",
         "t",
         "time",
-        "pickle"
+        "os"
     ]
 }

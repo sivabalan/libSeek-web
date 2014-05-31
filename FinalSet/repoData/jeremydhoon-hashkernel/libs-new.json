@@ -1,19 +1,18 @@
 {
     "libs": [
-        "shutil",
         "argparse",
-        "copy",
-        "for crc32 h",
-        "os",
+        "shutil",
+        "h",
         "random",
         "urllib2",
-        "json",
         "sys",
-        "itertools",
+        "json",
         "collections",
-        "h",
-        "csv",
+        "itertools",
         "numpy",
+        "copy",
+        "os",
+        "csv",
         "sklearn"
     ]
 }

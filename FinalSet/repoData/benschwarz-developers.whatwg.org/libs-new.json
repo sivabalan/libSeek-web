@@ -25,11 +25,11 @@
         "copy",
         "cgitb",
         "httplib",
-        "treewalkers",
+        "builder",
         "urlparse",
         "itertools",
         "os",
-        "builder",
+        "treewalkers",
         "serializer"
     ]
 }

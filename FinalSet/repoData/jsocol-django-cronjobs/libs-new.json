@@ -5,10 +5,8 @@
         "importlib",
         "atexit",
         "tempfile",
-        "setuptools",
         "sys",
         "imp",
-        "cronjobs",
         "conf",
         "os"
     ]

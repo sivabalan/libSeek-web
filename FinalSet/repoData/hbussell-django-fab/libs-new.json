@@ -1,9 +1,8 @@
 {
     "libs": [
         "operations",
-        "conf",
         "with_statement",
-        "setuptools",
+        "conf",
         "context_managers",
         "fabfile",
         "main",

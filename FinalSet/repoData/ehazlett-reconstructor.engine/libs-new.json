@@ -6,9 +6,7 @@
         "subprocess",
         "sys",
         "tempfile",
-        "setuptools",
         "shutil",
-        "os",
-        "distro"
+        "os"
     ]
 }

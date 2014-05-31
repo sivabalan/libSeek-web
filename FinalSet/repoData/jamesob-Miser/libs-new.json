@@ -1,7 +1,6 @@
 {
     "libs": [
         "service",
-        "views",
         "docs",
         "unittest",
         "random",

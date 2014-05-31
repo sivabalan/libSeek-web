@@ -9,9 +9,9 @@
         "subprocess",
         "sys",
         "re",
-        "nose",
-        "setuptools",
+        "doctest",
         "path",
-        "tools"
+        "tools",
+        "nose"
     ]
 }

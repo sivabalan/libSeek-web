@@ -1,11 +1,8 @@
 {
     "libs": [
-        "core",
+        "sgmllib",
         "cPickle",
-        "dist",
         "string",
-        "warnings",
-        "types",
         "markupb",
         "unittest",
         "iconv_codec",
@@ -13,7 +10,7 @@
         "sys",
         "re",
         "generators",
-        "sgmllib",
+        "types",
         "sets",
         "ali",
         "chardet",

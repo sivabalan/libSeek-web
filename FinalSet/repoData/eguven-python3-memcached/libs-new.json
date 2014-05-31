@@ -2,15 +2,14 @@
     "libs": [
         "bin",
         "socket",
-        "io",
         "re",
-        "os",
+        "pickle",
         "zlib",
         "sys",
         "threading",
         "doctest",
-        "setuptools",
+        "io",
         "time",
-        "pickle"
+        "os"
     ]
 }

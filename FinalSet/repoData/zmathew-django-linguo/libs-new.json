@@ -1,9 +1,6 @@
 {
     "libs": [
-        "core",
-        "b",
         "defaults",
-        "linguo",
         "db",
         "related",
         "django",
@@ -11,7 +8,6 @@
         "conf",
         "test",
         "translation",
-        "copy",
         "os",
         "contrib"
     ]

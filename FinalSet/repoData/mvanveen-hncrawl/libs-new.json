@@ -1,9 +1,9 @@
 {
     "libs": [
-        "sgmllib",
+        "markupb",
         "http",
         "string",
-        "markupb",
+        "sgmllib",
         "h",
         "iconv_codec",
         "htmlentitydefs",
@@ -11,13 +11,13 @@
         "sys",
         "item",
         "json",
+        "os",
         "generators",
         "types",
         "sets",
         "ali",
         "re",
-        "os",
-        "codecs",
-        "chardet"
+        "chardet",
+        "codecs"
     ]
 }

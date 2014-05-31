@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "mongo_replica_set_client",
         "read_preferences",
         "datetime",

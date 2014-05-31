@@ -1,9 +1,7 @@
 {
     "libs": [
-        "wtfpeewee",
         "form",
         "warnings",
-        "models",
         "peewee",
         "unittest",
         "datetime",
@@ -11,7 +9,6 @@
         "operator",
         "collections",
         "wtforms",
-        "setuptools",
         "validators",
         "widgets",
         "fl",

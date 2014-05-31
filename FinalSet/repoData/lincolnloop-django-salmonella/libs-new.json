@@ -1,20 +1,15 @@
 {
     "libs": [
-        "exceptions",
         "management",
         "http",
         "encoding",
         "shortcuts",
         "os",
         "global_settings",
-        "db",
-        "project_example",
-        "sys",
-        "urlresolvers",
-        "setuptools",
-        "test",
-        "salmonella",
         "loader",
+        "sys",
+        "exceptions",
+        "urlresolvers",
         "decorators"
     ]
 }

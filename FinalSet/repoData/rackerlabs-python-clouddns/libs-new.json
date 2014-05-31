@@ -1,18 +1,16 @@
 {
     "libs": [
-        "Queue",
+        "sys",
         "httplib",
         "socket",
-        "clouddns",
-        "unittest",
         "misc",
+        "unittest",
+        "Queue",
         "urllib",
         "datetime",
-        "sys",
+        "urlparse",
         "re",
         "json",
-        "urlparse",
-        "setuptools",
         "time",
         "os",
         "math"

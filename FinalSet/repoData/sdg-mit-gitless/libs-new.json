@@ -1,8 +1,7 @@
 {
     "libs": [
-        "core",
-        "logging",
         "argparse",
+        "logging",
         "tempfile",
         "unittest",
         "traceback",
@@ -12,7 +11,6 @@
         "re",
         "itertools",
         "collections",
-        "setuptools",
         "time",
         "textui",
         "shutil",

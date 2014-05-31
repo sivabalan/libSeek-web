@@ -1,28 +1,23 @@
 {
     "libs": [
+        "print_function",
         "cStringIO",
-        "traceback",
+        "threading",
         "unittest",
+        "traceback",
+        "Queue",
+        "itertools",
         "subprocess",
-        "tempfile",
+        "sys",
         "re",
         "json",
-        "getopt",
-        "core",
-        "glob",
-        "textwrap",
-        "sys",
-        "path",
-        "readline",
-        "print_function",
-        "Queue",
-        "socket",
-        "cmd",
-        "threading",
         "shlex",
         "bottle",
         "time",
+        "path",
+        "readline",
         "os",
-        "andbug"
+        "getopt",
+        "textwrap"
     ]
 }

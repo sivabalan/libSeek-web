@@ -8,7 +8,6 @@
         "fileinput",
         "tty",
         "termios",
-        "vim",
         "sys",
         "re",
         "os",

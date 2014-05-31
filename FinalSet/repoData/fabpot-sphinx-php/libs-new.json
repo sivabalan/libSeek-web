@@ -1,16 +1,14 @@
 {
     "libs": [
         "docfields",
-        "sphinx",
         "string",
         "roles",
         "locale",
         "python",
+        "rst",
         "docutils",
         "directives",
-        "setuptools",
-        "rst",
-        "nodes",
-        "domains"
+        "domains",
+        "nodes"
     ]
 }

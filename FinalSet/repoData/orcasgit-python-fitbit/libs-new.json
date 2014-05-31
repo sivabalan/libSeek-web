@@ -7,11 +7,8 @@
         "urllib",
         "datetime",
         "sys",
-        "re",
         "requests_oauthlib",
         "webbrowser",
-        "setuptools",
-        "fitbit",
         "requests",
         "os",
         "mock"

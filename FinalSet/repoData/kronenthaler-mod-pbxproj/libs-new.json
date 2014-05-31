@@ -2,10 +2,10 @@
     "libs": [
         "shutil",
         "plistlib",
-        "UserList",
+        "re",
         "UserDict",
         "datetime",
-        "re",
+        "UserList",
         "json",
         "collections",
         "ntpath",

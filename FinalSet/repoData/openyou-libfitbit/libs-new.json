@@ -2,7 +2,7 @@
     "libs": [
         "core",
         "b",
-        "struct",
+        "usb",
         "traceback",
         "random",
         "urllib2",
@@ -15,6 +15,6 @@
         "operator",
         "array",
         "ElementTree",
-        "usb"
+        "struct"
     ]
 }

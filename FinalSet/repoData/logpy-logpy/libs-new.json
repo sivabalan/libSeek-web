@@ -6,11 +6,8 @@
         "itertools",
         "collections",
         "toolz",
-        "setuptools",
-        "path",
         "operator",
         "contextlib",
-        "logpy",
         "compatibility"
     ]
 }

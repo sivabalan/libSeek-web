@@ -6,7 +6,6 @@
         "spider",
         "difflib",
         "HTMLParser",
-        "spiders",
         "Stemmer",
         "posixpath",
         "urllib",

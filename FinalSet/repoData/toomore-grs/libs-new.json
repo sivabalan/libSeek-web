@@ -1,7 +1,6 @@
 {
     "libs": [
         "logging",
-        "grs",
         "relativedelta",
         "unittest",
         "random",
@@ -9,7 +8,6 @@
         "datetime",
         "sys",
         "re",
-        "setuptools",
         "csv",
         "os",
         "types"

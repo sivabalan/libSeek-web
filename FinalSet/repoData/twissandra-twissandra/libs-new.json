@@ -1,21 +1,19 @@
 {
     "libs": [
         "c",
-        "management",
+        "b",
         "http",
-        "uuid",
+        "defaults",
         "shortcuts",
         "random",
-        "datetime",
+        "django",
         "sys",
-        "b",
         "loremipsum",
         "template",
         "time",
-        "urlresolvers",
-        "django",
+        "datetime",
         "os",
-        "defaults",
-        "string"
+        "string",
+        "uuid"
     ]
 }

@@ -1,9 +1,7 @@
 {
     "libs": [
         "test",
-        "os",
         "db",
-        "setuptools",
         "django"
     ]
 }

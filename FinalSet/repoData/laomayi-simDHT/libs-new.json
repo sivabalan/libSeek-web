@@ -2,7 +2,6 @@
     "libs": [
         "bencode",
         "socket",
-        "bisect",
         "h",
         "random",
         "threading",

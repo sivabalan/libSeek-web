@@ -3,13 +3,11 @@
         "exception",
         "b",
         "logging",
-        "conf",
         "boto",
         "cache",
-        "exceptions",
-        "dynamodb_sessions",
-        "setuptools",
+        "test",
+        "conf",
         "time",
-        "test"
+        "exceptions"
     ]
 }

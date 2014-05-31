@@ -10,7 +10,6 @@
         "sys",
         "re",
         "job",
-        "setuptools",
         "math"
     ]
 }

@@ -1,14 +1,23 @@
 {
     "libs": [
-        "concurrent",
-        "unittest",
-        "time",
         "sys",
+        "setup",
+        "logging",
+        "monkey",
+        "thread",
         "threading",
-        "setuptools",
-        "mirai",
+        "os",
+        "unittest",
+        "absolute_import",
+        "click",
+        "urlparse",
+        "concurrent",
+        "collections",
+        "time",
         "joblib",
-        "path",
-        "os"
+        "pyquery",
+        "requests",
+        "config",
+        "funcy"
     ]
 }

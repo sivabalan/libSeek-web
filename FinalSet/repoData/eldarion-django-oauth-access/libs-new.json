@@ -1,25 +1,23 @@
 {
     "libs": [
         "cgi",
-        "core",
+        "sys",
         "oauth2",
         "http",
-        "importlib",
+        "defaults",
         "shortcuts",
-        "httplib2",
-        "utils",
+        "os",
         "db",
         "urllib",
         "datetime",
-        "sys",
-        "auth",
         "urlparse",
+        "socket",
+        "httplib2",
         "template",
         "urlresolvers",
         "logging",
         "django",
-        "os",
-        "defaults",
-        "socket"
+        "auth",
+        "importlib"
     ]
 }

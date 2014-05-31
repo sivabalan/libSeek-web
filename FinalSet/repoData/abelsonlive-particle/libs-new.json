@@ -26,11 +26,9 @@
         "argparse",
         "logging",
         "socket",
-        "particle",
         "facepy",
         "urlparse",
         "token",
-        "setuptools",
         "exceptions",
         "requests",
         "os"

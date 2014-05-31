@@ -2,15 +2,12 @@
     "libs": [
         "yacc",
         "re",
-        "atexit",
         "sys",
+        "atexit",
         "lex",
-        "setuptools",
         "operator",
-        "path",
         "funktown",
         "os",
-        "readline",
-        "pyclojure"
+        "readline"
     ]
 }

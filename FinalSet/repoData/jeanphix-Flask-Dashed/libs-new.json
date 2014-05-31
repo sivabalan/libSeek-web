@@ -1,15 +1,14 @@
 {
     "libs": [
-        "d",
+        "os",
         "expression",
         "unittest",
-        "setuptools",
-        "os",
         "absolute_import",
         "sys",
         "orm",
         "wtforms",
         "werkzeug",
+        "fields",
         "fl",
         "functools",
         "math"

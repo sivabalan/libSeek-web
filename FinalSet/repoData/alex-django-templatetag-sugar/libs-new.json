@@ -1,7 +1,6 @@
 {
     "libs": [
         "loading",
-        "setuptools",
         "db",
         "django",
         "sys",

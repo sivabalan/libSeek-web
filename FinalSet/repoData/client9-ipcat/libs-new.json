@@ -1,12 +1,11 @@
 {
     "libs": [
-        "struct",
+        "socket",
         "pprint",
         "urllib",
         "sys",
         "collections",
         "operator",
-        "math",
-        "socket"
+        "struct"
     ]
 }

@@ -1,19 +1,17 @@
 {
     "libs": [
         "sys",
+        "cmd",
+        "functools",
         "pprint",
         "json",
-        "functools",
-        "cmd",
-        "itertools",
         "urllib",
-        "datetime",
-        "urlparse",
         "_keys",
-        "setuptools",
+        "urlparse",
+        "itertools",
         "path",
         "requests",
-        "moves",
+        "datetime",
         "fl",
         "types"
     ]

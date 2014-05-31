@@ -1,16 +1,9 @@
 {
     "libs": [
-        "doozer",
-        "logging",
-        "protobuf",
-        "simplejson",
-        "random",
         "sys",
         "gevent",
-        "setuptools",
-        "socket",
         "os",
-        "event",
-        "struct"
+        "protobuf",
+        "simplejson"
     ]
 }

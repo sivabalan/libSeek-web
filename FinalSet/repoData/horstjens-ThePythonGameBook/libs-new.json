@@ -1,9 +1,6 @@
 {
     "libs": [
-        "print_function",
         "turtle",
-        "from itertools import chain",
-        "curses",
         "unicode_literals",
         "tkFileDialog",
         "random",
@@ -12,9 +9,6 @@
         "scrolledtext",
         "operator",
         "PIL",
-        "lib",
-        "pprint",
-        "pygame",
         "math",
         "division",
         "Tkinter",
@@ -23,7 +17,7 @@
         "webbrowser",
         "filedialog",
         "path",
-        "types",
+        "print_function",
         "tkinter",
         "StringIO",
         "os",

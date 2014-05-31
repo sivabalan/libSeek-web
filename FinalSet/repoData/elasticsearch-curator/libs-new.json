@@ -9,10 +9,8 @@
         "datetime",
         "sys",
         "nose",
-        "setuptools",
         "time",
         "path",
-        "os",
         "mock"
     ]
 }

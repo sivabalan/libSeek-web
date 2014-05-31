@@ -3,7 +3,7 @@
         "b",
         "logging",
         "encoding",
-        "models",
+        "optparse",
         "os",
         "utils",
         "views",
@@ -11,12 +11,10 @@
         "urllib",
         "django",
         "sys",
-        "optparse",
-        "setuptools",
+        "simple",
         "contrib",
         "path",
         "datetime",
-        "urllib2",
-        "simple"
+        "urllib2"
     ]
 }

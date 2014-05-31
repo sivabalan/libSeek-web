@@ -2,15 +2,14 @@
     "libs": [
         "argparse",
         "struct",
-        "core",
+        "platform",
         "unittest",
         "subprocess",
         "sys",
-        "platform",
+        "threading",
         "json",
-        "socket",
         "time",
         "os",
-        "threading"
+        "socket"
     ]
 }

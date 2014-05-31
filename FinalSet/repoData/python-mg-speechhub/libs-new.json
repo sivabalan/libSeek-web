@@ -1,7 +1,6 @@
 {
     "libs": [
         "unidecode",
-        "statics",
         "markdown",
         "argparse",
         "pystache",
@@ -9,7 +8,6 @@
         "sys",
         "re",
         "json",
-        "setuptools",
         "codecs",
         "shutil",
         "os",

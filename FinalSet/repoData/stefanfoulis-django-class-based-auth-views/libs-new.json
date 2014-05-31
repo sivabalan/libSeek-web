@@ -4,18 +4,17 @@
         "contrib",
         "b",
         "http",
-        "conf",
+        "csrf",
         "cl",
         "shortcuts",
-        "decorators",
         "functools",
         "cache",
         "auth",
         "urlparse",
         "edit",
-        "setuptools",
+        "conf",
         "exceptions",
-        "csrf",
+        "decorators",
         "generic"
     ]
 }

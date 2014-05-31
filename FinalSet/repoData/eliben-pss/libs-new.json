@@ -1,19 +1,15 @@
 {
     "libs": [
-        "core",
-        "io",
+        "cStringIO",
+        "platform",
         "atexit",
-        "optparse",
-        "psslib",
         "unittest",
         "pprint",
         "sys",
         "re",
         "collections",
-        "setuptools",
-        "cStringIO",
+        "io",
         "ctypes",
-        "os",
-        "print_function"
+        "os"
     ]
 }

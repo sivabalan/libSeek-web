@@ -8,8 +8,6 @@
         "sys",
         "re",
         "gevent",
-        "geventredis",
-        "setuptools",
         "time",
         "os",
         "monkey"

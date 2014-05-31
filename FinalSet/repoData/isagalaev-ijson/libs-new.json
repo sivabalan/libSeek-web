@@ -1,17 +1,12 @@
 {
     "libs": [
-        "core",
         "functools",
         "importlib",
-        "ijson",
         "re",
         "unicode_literals",
         "unittest",
-        "StringIO",
         "sys",
         "threading",
-        "parse",
-        "backends",
         "ctypes",
         "io",
         "codecs",

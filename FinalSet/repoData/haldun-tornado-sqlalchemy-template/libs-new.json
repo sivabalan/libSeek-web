@@ -4,13 +4,13 @@
         "web",
         "sqlalchemy",
         "httpserver",
-        "auth",
         "declarative",
-        "wtforms",
         "orm",
+        "auth",
         "validators",
         "copy",
         "os",
-        "options"
+        "options",
+        "wtforms"
     ]
 }

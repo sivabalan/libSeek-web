@@ -5,7 +5,6 @@
         "with_statement",
         "subprocess",
         "gdb",
-        "plugins",
         "select",
         "abc",
         "tempfile",
@@ -14,10 +13,7 @@
         "re",
         "json",
         "collections",
-        "core",
-        "pylint: disable=unused-import",
         "zipfile",
-        "pyringe",
         "sys",
         "readline",
         "logging",
@@ -26,7 +22,6 @@
         "traceback",
         "threading",
         "time",
-        "os",
-        "pylint: disable=g-import-not-at-top"
+        "os"
     ]
 }

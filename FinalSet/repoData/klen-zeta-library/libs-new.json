@@ -2,13 +2,11 @@
     "libs": [
         "argh",
         "b",
-        "setuptools",
         "tricks",
         "urllib2",
         "jsmin",
         "sys",
         "re",
-        "zetalibrary",
         "observers",
         "time",
         "unittest",

@@ -1,14 +1,6 @@
 {
     "libs": [
-        "cgi",
-        "core",
-        "simplejson",
-        "warnings",
         "unittest",
-        "random",
-        "urllib2",
-        "urllib",
-        "googleplaces",
-        "json"
+        "random"
     ]
 }

@@ -1,7 +1,6 @@
 {
     "libs": [
         "http",
-        "setuptools",
         "simple",
         "h",
         "utils",
@@ -13,11 +12,9 @@
         "sys",
         "v2",
         "conf",
-        "updown",
         "test",
         "path",
         "django",
-        "os",
         "md5"
     ]
 }

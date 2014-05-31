@@ -2,7 +2,7 @@
     "libs": [
         "sys",
         "builtins",
-        "io",
+        "posixpath",
         "StringIO",
         "os",
         "unittest",
@@ -11,11 +11,10 @@
         "platform",
         "collections",
         "doctest",
-        "setuptools",
+        "io",
         "operator",
         "re",
         "tools",
-        "types",
-        "posixpath"
+        "types"
     ]
 }

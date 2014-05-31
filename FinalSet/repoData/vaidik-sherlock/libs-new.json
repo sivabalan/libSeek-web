@@ -2,10 +2,8 @@
     "libs": [
         "uuid",
         "unittest",
-        "setuptools",
         "redis",
         "sys",
-        "sherlock",
         "etcd",
         "time",
         "pylibmc",

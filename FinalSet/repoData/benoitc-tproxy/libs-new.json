@@ -16,12 +16,10 @@
         "pool",
         "reader",
         "fcntl",
-        "core",
         "random",
         "http",
         "hub",
         "optparse",
-        "glob",
         "inspect",
         "textwrap",
         "sys",
@@ -36,7 +34,6 @@
         "importlibe",
         "urlparse",
         "greenlet",
-        "setuptools",
         "time",
         "os"
     ]

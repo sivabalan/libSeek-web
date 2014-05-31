@@ -7,15 +7,12 @@
         "_winreg",
         "calendar",
         "shutil",
-        "dateutil",
         "struct",
         "zoneinfo",
         "re",
         "ftplib",
         "string",
-        "glob",
         "util",
-        "path",
         "sys",
         "commands",
         "b",
@@ -24,7 +21,6 @@
         "StringIO",
         "signal",
         "itertools",
-        "setuptools",
         "time",
         "os"
     ]

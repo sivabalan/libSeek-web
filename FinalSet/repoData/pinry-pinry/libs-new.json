@@ -1,12 +1,12 @@
 {
     "libs": [
-        "cStringIO",
-        "managers",
         "unicode_literals",
         "package_index",
-        "datetime",
-        "validators",
+        "functional",
+        "subprocess",
         "images",
+        "validators",
+        "contrib",
         "query",
         "shutil",
         "management",
@@ -16,6 +16,7 @@
         "shortcuts",
         "template",
         "test",
+        "decorators",
         "mock",
         "http",
         "optparse",
@@ -23,9 +24,9 @@
         "urllib2",
         "sys",
         "v2",
-        "uploadedfile",
-        "subprocess",
-        "settings",
+        "translation",
+        "datetime",
+        "response",
         "h",
         "request",
         "pkg_resources",
@@ -34,7 +35,6 @@
         "t",
         "setuptools",
         "urlresolvers",
-        "requests",
         "os"
     ]
 }

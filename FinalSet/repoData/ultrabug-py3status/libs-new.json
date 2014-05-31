@@ -1,10 +1,9 @@
 {
     "libs": [
         "socket",
-        "resolver",
         "subprocess",
         "MySQLdb",
-        "setuptools",
+        "resolver",
         "time",
         "getp",
         "requests",

@@ -4,9 +4,7 @@
         "unicode_literals",
         "tools",
         "nose",
-        "setuptools",
         "codecs",
-        "path",
         "os"
     ]
 }

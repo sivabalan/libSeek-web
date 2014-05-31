@@ -1,13 +1,13 @@
 {
     "libs": [
         "b",
-        "ssl",
+        "re",
         "optparse",
         "pprint",
         "urllib2",
         "urllib",
         "sys",
-        "re",
+        "ssl",
         "itertools",
         "burp",
         "time",

@@ -1,11 +1,8 @@
 {
     "libs": [
-        "registration_email",
-        "setuptools",
-        "generic",
+        "b",
         "h",
         "django",
-        "backends",
         "conf",
         "validators",
         "translation",

@@ -4,8 +4,7 @@
         "sys",
         "re",
         "json",
-        "setuptools",
-        "os",
-        "types"
+        "types",
+        "__init__"
     ]
 }

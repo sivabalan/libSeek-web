@@ -12,20 +12,18 @@
         "unittest2",
         "math",
         "fcntl",
-        "core",
-        "rrdtool",
         "optparse",
-        "glob",
-        "util",
+        "sys",
         "ctypes",
         "carbon",
-        "sys",
+        "rrdtool",
         "bisect",
         "signal",
         "traceback",
         "itertools",
         "time",
         "fnmatch",
-        "os"
+        "os",
+        "util"
     ]
 }

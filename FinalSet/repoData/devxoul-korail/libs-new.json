@@ -1,10 +1,9 @@
 {
     "libs": [
-        "core",
+        "getp",
         "bs4",
         "unittest",
-        "datetime",
-        "getp",
-        "requests"
+        "requests",
+        "datetime"
     ]
 }

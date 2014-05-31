@@ -1,22 +1,17 @@
 {
     "libs": [
-        "core",
         "http",
-        "conf",
-        "install_data",
+        "shortcuts",
         "h",
         "inspect",
         "db",
         "auth",
         "datetime",
-        "sys",
-        "contrib",
-        "shortcuts",
-        "install",
-        "time",
         "test",
+        "conf",
+        "time",
+        "contrib",
         "translation",
-        "django",
-        "os"
+        "django"
     ]
 }

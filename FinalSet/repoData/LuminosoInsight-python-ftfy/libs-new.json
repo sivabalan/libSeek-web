@@ -1,22 +1,18 @@
 {
     "libs": [
-        "ftfy",
+        "argparse",
         "unicodedata",
         "utf_8",
-        "argparse",
         "unicode_literals",
         "os",
         "zlib",
         "encodings",
         "pkg_resources",
-        "bad_codecs",
         "sys",
         "re",
         "html",
-        "setuptools",
         "codecs",
         "htmlentitydefs",
-        "tools",
-        "warnings"
+        "tools"
     ]
 }

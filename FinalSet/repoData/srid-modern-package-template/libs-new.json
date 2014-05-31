@@ -8,9 +8,7 @@
         "subprocess",
         "sys",
         "p",
-        "optparse",
         "pkg_resources",
-        "setuptools",
         "shutil",
         "os"
     ]

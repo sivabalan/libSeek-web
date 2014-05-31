@@ -7,9 +7,7 @@
         "zlib",
         "re",
         "b",
-        "setuptools",
         "copy",
-        "os",
         "math"
     ]
 }

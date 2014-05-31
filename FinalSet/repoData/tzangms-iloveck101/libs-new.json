@@ -7,7 +7,6 @@
         "sys",
         "platform",
         "gevent",
-        "setuptools",
         "requests",
         "more_itertools",
         "os"

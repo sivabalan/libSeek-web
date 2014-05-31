@@ -1,23 +1,20 @@
 {
     "libs": [
-        "core",
         "logging",
-        "setuptools",
+        "os",
         "boto",
         "platform",
         "optparse",
         "errno",
-        "omnisync",
+        "unittest",
         "sys",
         "re",
         "connection",
-        "os",
         "key",
         "time",
         "getp",
         "locale",
         "pickle",
-        "unittest",
         "paramiko"
     ]
 }

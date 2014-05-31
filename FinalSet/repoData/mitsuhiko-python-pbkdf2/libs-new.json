@@ -1,11 +1,9 @@
 {
     "libs": [
-        "struct",
+        "operator",
         "h",
         "itertools",
-        "setuptools",
-        "operator",
-        "os",
-        "hmac"
+        "hmac",
+        "struct"
     ]
 }

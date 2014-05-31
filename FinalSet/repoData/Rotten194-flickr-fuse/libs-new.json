@@ -1,6 +1,6 @@
 {
     "libs": [
-        "errors",
+        "fs",
         "PIL",
         "struct",
         "StringIO",
@@ -10,7 +10,7 @@
         "traceback",
         "sys",
         "tempfile",
-        "fs",
+        "errors",
         "flickrapi",
         "requests",
         "b",

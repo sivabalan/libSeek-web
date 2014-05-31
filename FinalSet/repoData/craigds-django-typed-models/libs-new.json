@@ -7,18 +7,15 @@
         "python",
         "db",
         "utils",
+        "six",
         "xml_serializer",
-        "absolute_import",
         "django",
-        "sys",
+        "dat",
         "yaml",
         "management",
         "conf",
         "fields",
         "test",
-        "typedmodels",
-        "path",
-        "dat",
         "types"
     ]
 }

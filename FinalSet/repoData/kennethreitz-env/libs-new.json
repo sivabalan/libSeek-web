@@ -1,7 +1,6 @@
 {
     "libs": [
         "urlparse",
-        "os",
-        "setuptools"
+        "os"
     ]
 }

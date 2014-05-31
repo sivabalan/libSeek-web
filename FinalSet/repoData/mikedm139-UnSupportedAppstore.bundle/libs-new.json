@@ -1,7 +1,3 @@
 {
-    "libs": [
-        "random",
-        "os",
-        "time"
-    ]
+    "libs": []
 }

@@ -3,7 +3,6 @@
         "code",
         "unittest",
         "subprocess",
-        "Build",
         "fiona",
         "shutil",
         "timeit",
@@ -21,10 +20,8 @@
         "path",
         "argparse",
         "logging",
-        "extension",
         "osgeo",
         "r",
-        "setuptools",
         "time",
         "os",
         "multiprocessing"

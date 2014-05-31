@@ -1,16 +1,12 @@
 {
     "libs": [
         "threading",
-        "subprocess",
-        "popen2",
         "request",
-        "collections",
         "urllib",
-        "desktop",
-        "sys",
         "re",
-        "webbrowser",
+        "collections",
         "path",
+        "webbrowser",
         "sublime_plugin",
         "os",
         "sublime"

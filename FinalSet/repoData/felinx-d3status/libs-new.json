@@ -13,21 +13,18 @@
         "re",
         "smtplib",
         "email",
-        "t",
+        "httpclient",
         "mimetypes",
         "tornado",
-        "db",
         "sys",
         "lxml",
-        "libs",
         "b",
         "logging",
         "traceback",
         "datab",
         "apns",
-        "d3status",
+        "t",
         "time",
-        "httpclient",
         "os"
     ]
 }

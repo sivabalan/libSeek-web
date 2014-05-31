@@ -1,26 +1,22 @@
 {
     "libs": [
-        "unittest",
-        "__builtin__",
-        "cutils",
+        "argparse",
         "timeit",
+        "traceback",
         "builtins",
+        "unittest",
         "pprint",
-        "cProfile",
-        "dmsl",
-        "core",
-        "pstats",
+        "cfmt",
+        "__builtin__",
         "sys",
+        "time",
+        "cProfile",
         "codecs",
         "path",
         "copy",
-        "argparse",
-        "extension",
-        "Distutils",
-        "traceback",
-        "cfmt",
-        "time",
         "os",
-        "cdoc"
+        "cutils",
+        "cdoc",
+        "pstats"
     ]
 }

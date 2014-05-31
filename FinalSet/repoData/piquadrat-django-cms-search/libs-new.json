@@ -1,26 +1,23 @@
 {
     "libs": [
-        "managers",
         "cl",
-        "utils",
-        "query",
+        "app_b",
+        "inspect",
         "importlib",
         "encoding",
-        "re",
-        "template",
-        "haystack",
-        "pluginmodel",
-        "defaults",
         "views",
-        "inspect",
-        "sys",
-        "cms_search",
-        "translation",
-        "app_b",
+        "utils",
+        "pluginmodel",
         "django",
+        "sys",
+        "re",
         "client",
-        "setuptools",
+        "defaults",
+        "template",
         "exceptions",
-        "os"
+        "query",
+        "translation",
+        "os",
+        "haystack"
     ]
 }

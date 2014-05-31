@@ -1,11 +1,10 @@
 {
     "libs": [
         "curses",
-        "getLogger(\"dcpu16_",
-        "PyQt4",
+        "subprocess",
         "pyparsing",
         "tools",
-        "struct",
+        "importlib",
         "re",
         "imp",
         "collections",
@@ -15,16 +14,16 @@
         "sys",
         "codecs",
         "path",
-        "subprocess",
+        "PyQt4",
         "print_function",
-        "importlib",
+        "struct",
         "argparse",
-        "os",
+        "QtCore",
         "signal",
         "threading",
         "itertools",
         "time",
-        "QtCore",
+        "os",
         "dis"
     ]
 }

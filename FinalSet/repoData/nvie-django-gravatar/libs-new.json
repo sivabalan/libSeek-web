@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "models",
         "h",
         "utils",

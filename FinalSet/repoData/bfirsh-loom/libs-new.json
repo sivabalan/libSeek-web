@@ -6,14 +6,11 @@
         "StringIO",
         "functools",
         "pspec",
-        "subprocess",
+        "datetime",
         "project",
-        "re",
         "api",
         "t",
-        "codecs",
-        "core",
-        "datetime",
+        "subprocess",
         "os",
         "mock"
     ]

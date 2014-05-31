@@ -11,8 +11,6 @@
         "collections",
         "functools",
         "mock",
-        "pykka",
-        "tests",
         "sys",
         "Queue",
         "logging",
@@ -22,7 +20,6 @@
         "queue",
         "threading",
         "nose",
-        "setuptools",
         "time",
         "os",
         "noqa"

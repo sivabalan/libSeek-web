@@ -14,9 +14,9 @@
         "os",
         "time",
         "operator",
-        "smtplib",
-        "pickle",
         "requests",
+        "pickle",
+        "smtplib",
         "tweepy"
     ]
 }

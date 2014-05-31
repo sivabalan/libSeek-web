@@ -6,10 +6,8 @@
         "python",
         "unittest",
         "internet",
-        "twistar",
         "re",
         "MySQLdb",
-        "setuptools",
         "enterprise",
         "B"
     ]

@@ -1,14 +1,11 @@
 {
     "libs": [
         "inspect",
-        "showme",
-        "sys",
         "api",
         "colorama",
         "doctest",
         "cProfile",
         "time",
-        "os",
         "decorator"
     ]
 }

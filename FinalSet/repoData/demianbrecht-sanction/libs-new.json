@@ -1,10 +1,8 @@
 {
     "libs": [
         "functools",
-        "datetime",
         "parse",
         "io",
-        "sanction",
         "configparser",
         "uuid",
         "urllib",
@@ -22,8 +20,6 @@
         "zlib",
         "request",
         "urlparse",
-        "setuptools",
-        "time",
         "gzip",
         "os"
     ]

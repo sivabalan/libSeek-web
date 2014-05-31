@@ -1,7 +1,6 @@
 {
     "libs": [
         "dateutil",
-        "core",
         "inspect",
         "relativedelta",
         "unicode_literals",
@@ -11,7 +10,6 @@
         "datetime",
         "sys",
         "re",
-        "setuptools",
         "time",
         "calendar",
         "os"

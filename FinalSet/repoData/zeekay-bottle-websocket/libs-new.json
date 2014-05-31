@@ -1,9 +1,8 @@
 {
     "libs": [
-        "websocket",
-        "handler",
         "gevent",
-        "setuptools",
+        "handler",
+        "websocket",
         "bottle"
     ]
 }

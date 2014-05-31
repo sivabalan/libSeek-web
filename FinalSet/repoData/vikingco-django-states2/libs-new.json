@@ -1,25 +1,24 @@
 {
     "libs": [
         "b",
-        "logging",
-        "setuptools",
-        "optparse",
+        "http",
+        "template",
+        "shortcuts",
+        "os",
         "db",
         "functional",
-        "modelsinspector",
-        "shortcuts",
+        "dispatch",
         "sys",
         "imp",
         "json",
-        "management",
         "collections",
-        "dispatch",
+        "modelsinspector",
         "defaults",
         "yapgvb",
         "test",
-        "http",
+        "logging",
         "translation",
-        "os",
-        "template"
+        "optparse",
+        "contrib"
     ]
 }

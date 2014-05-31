@@ -1,9 +1,8 @@
 {
     "libs": [
-        "inflector",
+        "b",
         "glob",
         "re",
-        "b",
         "sublime_plugin",
         "os",
         "sublime"

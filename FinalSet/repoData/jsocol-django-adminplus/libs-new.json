@@ -1,11 +1,9 @@
 {
     "libs": [
-        "urls",
-        "text",
-        "loader",
-        "adminplus",
+        "test",
         "contrib",
-        "setuptools",
-        "test"
+        "text",
+        "urls",
+        "loader"
     ]
 }

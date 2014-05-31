@@ -1,11 +1,8 @@
 {
     "libs": [
-        "core",
-        "django_nose",
         "unittest",
-        "app_name }}",
         "sys",
-        "setuptools",
+        "django_nose",
         "shutil",
         "os"
     ]

@@ -1,13 +1,11 @@
 {
     "libs": [
-        "core",
         "unittest",
         "request",
         "urllib2",
         "urllib",
         "parse",
         "pep8",
-        "testscenarios",
-        "os"
+        "testscenarios"
     ]
 }

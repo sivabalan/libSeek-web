@@ -1,16 +1,12 @@
 {
     "libs": [
-        "argparse",
         "tempfile",
-        "setuptools",
         "StringIO",
         "unicode_literals",
         "unittest",
-        "kaptan",
         "sys",
         "yaml",
         "json",
-        "collections",
         "io",
         "path",
         "configparser",

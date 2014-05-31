@@ -1,18 +1,15 @@
 {
     "libs": [
-        "core",
         "simplejson",
         "itertools",
         "codecs",
         "with_statement",
         "urllib2",
         "pkg_resources",
-        "fileinput",
         "re",
         "json",
         "time",
         "os",
-        "math",
-        "zxcvbn"
+        "math"
     ]
 }

@@ -2,8 +2,6 @@
     "libs": [
         "sys",
         "ipdb",
-        "com/narfdotpl/debug",
-        "__builtin__",
-        "core"
+        "__builtin__"
     ]
 }

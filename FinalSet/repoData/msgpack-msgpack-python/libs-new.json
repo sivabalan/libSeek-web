@@ -1,27 +1,19 @@
 {
     "libs": [
-        "unicode_literals",
-        "sdist",
-        "absolute_import",
-        "datetime",
-        "io",
-        "array",
-        "Main",
-        "build_ext",
+        "division",
         "timeit",
-        "msgpack",
         "__pypy__",
         "struct",
-        "_packer",
+        "unicode_literals",
+        "builders",
+        "absolute_import",
+        "datetime",
+        "sys",
         "pytest",
         "collections",
-        "division",
-        "glob",
-        "sys",
-        "_unpacker",
-        "print_function",
-        "builders",
-        "setuptools",
-        "os"
+        "io",
+        "array",
+        "os",
+        "print_function"
     ]
 }

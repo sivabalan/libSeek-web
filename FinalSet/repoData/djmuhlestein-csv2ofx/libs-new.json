@@ -1,13 +1,8 @@
 {
     "libs": [
-        "core",
-        "traceback",
         "datetime",
-        "sys",
         "grid",
-        "time",
         "csv",
-        "os",
-        "wx"
+        "time"
     ]
 }

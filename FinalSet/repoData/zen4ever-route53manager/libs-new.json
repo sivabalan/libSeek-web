@@ -6,7 +6,6 @@
         "h",
         "functools",
         "itertools",
-        "urllib",
         "weakref",
         "cElementTree",
         "json",
@@ -14,7 +13,6 @@
         "activeresource",
         "fl",
         "ElementTree",
-        "os",
-        "route53"
+        "os"
     ]
 }

@@ -3,7 +3,7 @@
         "files",
         "argparse",
         "tempfile",
-        "os",
+        "fl",
         "unittest",
         "urllib2",
         "json",
@@ -11,6 +11,6 @@
         "dados_br",
         "attrdict",
         "copy",
-        "fl"
+        "os"
     ]
 }

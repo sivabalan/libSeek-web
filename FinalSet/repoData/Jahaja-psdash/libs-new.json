@@ -2,7 +2,7 @@
     "libs": [
         "fcntl",
         "argparse",
-        "tempfile",
+        "glob2",
         "logging",
         "socket",
         "platform",
@@ -10,16 +10,15 @@
         "fl",
         "unittest",
         "struct",
-        "array",
         "psd",
         "datetime",
         "sys",
         "psutil",
-        "setuptools",
+        "tempfile",
         "time",
         "threading",
         "os",
-        "glob2",
+        "array",
         "uuid"
     ]
 }

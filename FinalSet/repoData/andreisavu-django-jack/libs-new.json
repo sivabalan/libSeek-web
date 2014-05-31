@@ -1,16 +1,15 @@
 {
     "libs": [
-        "core",
+        "sys",
         "management",
         "http",
         "conf",
         "os",
         "db",
+        "contrib",
         "django",
         "urlparse",
         "beanstalkc",
-        "beanstalk",
-        "sys",
         "template",
         "test",
         "decorators",

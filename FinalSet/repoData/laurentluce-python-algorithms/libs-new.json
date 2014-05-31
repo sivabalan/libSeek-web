@@ -1,8 +1,7 @@
 {
     "libs": [
-        "core",
-        "unittest",
         "heapq",
+        "unittest",
         "time"
     ]
 }

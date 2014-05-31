@@ -1,6 +1,6 @@
 {
     "libs": [
-        "urlparse",
+        "sys",
         "os",
         "h",
         "unittest",
@@ -8,9 +8,8 @@
         "with_statement",
         "absolute_import",
         "datetime",
-        "sys",
+        "urlparse",
         "parse",
-        "setuptools",
         "security",
         "fl"
     ]

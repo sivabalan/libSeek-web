@@ -2,22 +2,19 @@
     "libs": [
         "all",
         "functools",
-        "only import if VincentRenderer is used",
         "__builtin__",
-        "renderers",
-        "colors",
+        "datetime",
         "contextlib",
         "numbers",
         "io",
         "pand",
         "builtins",
-        "datetime",
         "pyplot",
-        "sage_salvus",
-        "markers",
         "json",
+        "sage_salvus",
         "collections",
         "numpy",
+        "math",
         "gridspec",
         "testing",
         "warnings",
@@ -33,10 +30,9 @@
         "pkg_resources",
         "random",
         "itertools",
-        "setuptools",
         "time",
         "requests",
-        "display",
-        "transforms"
+        "os",
+        "display"
     ]
 }

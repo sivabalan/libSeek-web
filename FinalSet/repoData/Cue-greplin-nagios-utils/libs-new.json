@@ -1,6 +1,6 @@
 {
     "libs": [
-        "core",
+        "cStringIO",
         "httplib",
         "logging",
         "eloise",
@@ -8,15 +8,12 @@
         "optparse",
         "fl",
         "scales",
-        "pkg_resources",
         "threading",
         "sys",
         "imp",
         "json",
         "collections",
-        "setuptools",
         "time",
-        "cStringIO",
         "os",
         "socket"
     ]

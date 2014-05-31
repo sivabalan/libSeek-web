@@ -3,23 +3,20 @@
         "profile",
         "b",
         "logging",
-        "io",
         "re",
         "tempfile",
-        "tools",
+        "os",
         "unittest",
-        "pstats",
+        "webob",
         "pkg_resources",
         "urllib",
         "webtest",
         "sys",
         "threading",
         "lru",
-        "setuptools",
         "time",
-        "routes",
-        "webob",
         "sets",
-        "os"
+        "tools",
+        "pstats"
     ]
 }

@@ -1,9 +1,7 @@
 {
     "libs": [
-        "division",
-        "AStyleFormatterLib",
+        "parse",
         "py",
-        "urllib",
         "sys",
         "re",
         "json",

@@ -22,7 +22,6 @@
         "urlparse",
         "threading",
         "phonon",
-        "setuptools",
         "time",
         "os"
     ]

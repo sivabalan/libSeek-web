@@ -2,7 +2,6 @@
     "libs": [
         "cStringIO",
         "termstyle",
-        "scanner",
         "functools",
         "absolute_import",
         "win32file",
@@ -25,7 +24,6 @@
         "StringIO",
         "traceback",
         "nose",
-        "setuptools",
         "time",
         "pyinotify",
         "os",

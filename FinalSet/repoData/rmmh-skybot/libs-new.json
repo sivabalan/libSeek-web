@@ -2,7 +2,6 @@
     "libs": [
         "random",
         "subprocess",
-        "sys",
         "httplib",
         "lxml",
         "urllib",
@@ -22,7 +21,7 @@
         "codecs",
         "datetime",
         "cookielib",
-        "util",
+        "sys",
         "unicodedata",
         "socket",
         "thread",

@@ -2,21 +2,19 @@
     "libs": [
         "management",
         "http",
-        "setuptools",
         "shortcuts",
         "db",
         "functional",
         "modelsinspector",
         "datetime",
         "sys",
-        "contrib",
+        "test",
         "client",
         "template",
-        "test",
+        "contrib",
         "timezone",
         "translation",
         "copy",
-        "os",
-        "audit_log"
+        "os"
     ]
 }

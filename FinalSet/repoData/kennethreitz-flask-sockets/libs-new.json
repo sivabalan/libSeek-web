@@ -1,7 +1,6 @@
 {
     "libs": [
         "workers",
-        "gevent",
-        "setuptools"
+        "gevent"
     ]
 }

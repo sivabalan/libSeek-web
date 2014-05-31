@@ -1,29 +1,17 @@
 {
     "libs": [
-        "distutils",
-        "bs4",
-        "site",
-        "subprocess",
-        "parse",
-        "operator",
-        "shutil",
-        "cookiejar",
-        "tempfile",
-        "tarfile",
-        "BeautifulSoup",
-        "urllib",
-        "core",
-        "optparse",
-        "urllib2",
         "sys",
-        "path",
-        "copy",
-        "cookielib",
+        "cookiejar",
+        "bs4",
         "request",
-        "pkg_resources",
+        "urllib2",
+        "urllib",
+        "BeautifulSoup",
+        "parse",
+        "optparse",
         "urlparse",
-        "setuptools",
         "time",
-        "os"
+        "os",
+        "cookielib"
     ]
 }

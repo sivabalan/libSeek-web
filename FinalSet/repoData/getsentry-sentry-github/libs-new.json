@@ -1,11 +1,9 @@
 {
     "libs": [
-        "b",
         "utils",
+        "b",
+        "translation",
         "urllib2",
-        "django",
-        "sentry_github",
-        "setuptools",
-        "translation"
+        "django"
     ]
 }

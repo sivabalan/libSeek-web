@@ -1,9 +1,7 @@
 {
     "libs": [
-        "ivoire",
+        "print_function",
         "argparse",
-        "setuptools",
-        "warnings",
         "unicode_literals",
         "unittest",
         "textwrap",
@@ -14,9 +12,9 @@
         "io",
         "time",
         "fnmatch",
-        "path",
         "copy",
         "os",
-        "print_function"
+        "functools",
+        "mock"
     ]
 }

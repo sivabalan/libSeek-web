@@ -1,14 +1,13 @@
 {
     "libs": [
         "logging",
-        "defaults",
         "handlers",
         "db",
         "related",
         "django",
         "re",
         "collections",
-        "setuptools",
+        "defaults",
         "time",
         "test",
         "os"

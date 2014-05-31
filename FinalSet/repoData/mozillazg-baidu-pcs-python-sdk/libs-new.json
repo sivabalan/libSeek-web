@@ -1,7 +1,6 @@
 {
     "libs": [
-        "baidupcs",
-        "core",
+        "sys",
         "unicode_literals",
         "h",
         "functools",
@@ -10,11 +9,8 @@
         "parse",
         "requests_toolbelt",
         "json",
-        "sys",
-        "setuptools",
         "time",
         "requests",
-        "os",
-        "codecs"
+        "os"
     ]
 }

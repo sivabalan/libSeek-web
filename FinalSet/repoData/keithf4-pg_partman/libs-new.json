@@ -2,14 +2,14 @@
     "libs": [
         "argparse",
         "tempfile",
-        "psycopg2",
+        "h",
+        "time",
         "subprocess",
         "sys",
         "re",
         "collections",
-        "time",
+        "psycopg2",
         "path",
-        "h",
         "os",
         "multiprocessing"
     ]

@@ -1,11 +1,6 @@
 {
     "libs": [
-        "util",
-        "conf",
         "shortcuts",
-        "sys",
-        "setuptools",
-        "fnmatch",
-        "os"
+        "conf"
     ]
 }

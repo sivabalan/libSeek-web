@@ -1,10 +1,8 @@
 {
     "libs": [
-        "pygeoip",
-        "core",
+        "bin",
         "sphinx_rtd_theme",
         "socket",
-        "io",
         "threading",
         "os",
         "unittest",
@@ -12,13 +10,8 @@
         "datetime",
         "sys",
         "platform",
-        "math",
-        "setuptools",
-        "mmap",
-        "bin",
+        "io",
         "path",
-        "tools",
-        "warnings",
-        "codecs"
+        "tools"
     ]
 }

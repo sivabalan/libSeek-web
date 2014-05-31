@@ -19,7 +19,6 @@
         "xbmcgui",
         "h",
         "urlparse",
-        "setuptools",
         "time",
         "os",
         "hmac",

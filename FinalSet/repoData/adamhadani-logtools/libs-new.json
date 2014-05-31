@@ -2,7 +2,7 @@
     "libs": [
         "operations",
         "heapq",
-        "ez_setup",
+        "prettytable",
         "locale",
         "unittest",
         "random",
@@ -13,7 +13,6 @@
         "operator",
         "abc",
         "tempfile",
-        "prettytable",
         "tarfile",
         "urllib",
         "re",
@@ -27,7 +26,6 @@
         "GeoIP",
         "matplotlib",
         "sys",
-        "logtools",
         "acora",
         "ticker",
         "ConfigParser",
@@ -38,7 +36,6 @@
         "urlparse",
         "threading",
         "itertools",
-        "setuptools",
         "time",
         "os"
     ]

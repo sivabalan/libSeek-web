@@ -5,11 +5,9 @@
         "curses",
         "locale",
         "random",
-        "pyradio",
         "subprocess",
         "sys",
         "threading",
-        "setuptools",
         "csv",
         "os"
     ]

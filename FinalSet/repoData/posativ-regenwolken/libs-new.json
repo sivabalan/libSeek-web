@@ -1,6 +1,5 @@
 {
     "libs": [
-        "urls",
         "markdown",
         "unicode_literals",
         "random",
@@ -11,18 +10,14 @@
         "PIL",
         "uuid",
         "cache",
-        "regenwolken",
         "urllib",
         "re",
         "werkzeug",
         "gridfs",
         "pymongo",
-        "uwsgi",
         "lexers",
-        "simple_server",
         "mimetypes",
         "string",
-        "SocketServer",
         "optparse",
         "collection",
         "sys",
@@ -30,11 +25,10 @@
         "fl",
         "b",
         "logging",
-        "sys; reload(sys)",
         "h",
         "formatters",
         "urlparse",
-        "setuptools",
+        "urls",
         "time",
         "os"
     ]

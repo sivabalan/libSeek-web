@@ -4,15 +4,13 @@
         "argparse",
         "camqadm",
         "celeryd",
-        "app",
+        "utils",
         "celeryev",
         "absolute_import",
         "loaders",
-        "setuptools",
         "celerybeat",
         "werkzeug",
-        "codecs",
         "fl",
-        "utils"
+        "app"
     ]
 }

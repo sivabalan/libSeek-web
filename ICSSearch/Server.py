@@ -8,6 +8,7 @@ from threading import *
 
 import DocFetcher, admin
 
+src = "../FinalSet/" if ('PORT' not in os.environ) else "FinalSet/"
 class QueryHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
@@ -41,22 +42,22 @@ class QueryHandler(BaseHTTPRequestHandler):
                     print(parsed.path)
                     if (parsed.path.endswith(".js")):
                         contenttype = "application/javascript"
-                        path = "../FinalSet/Webpage" + parsed.path
+                        path = src + "Webpage" + parsed.path
                     elif (".css" in parsed.path):
                         contenttype = "text/css"
-                        path = "../FinalSet/Webpage" + parsed.path
+                        path = src + "Webpage" + parsed.path
                     elif(".png" in parsed.path):
                         contenttype = "image/png"
-                        path = "../FinalSet/Webpage" + parsed.path
+                        path = src + "Webpage" + parsed.path
                     elif(".gif" in parsed.path):
                         contenttype = "image/gif"
-                        path = "../FinalSet/Webpage" + parsed.path
+                        path = src + "Webpage" + parsed.path
                     elif(".ico" in parsed.path):
                         contenttype = "image/x-icon"
-                        path = "../FinalSet/Webpage" + parsed.path
+                        path = src + "Webpage" + parsed.path
                     else:
                         contenttype = "text/html"
-                        path = "../FinalSet/Webpage/index.html"
+                        path = src + "Webpage/index.html"
                     self.send_header('Content-type',contenttype)
                     self.end_headers()
                     indexfile = open(path, "rb")
@@ -66,10 +67,10 @@ class QueryHandler(BaseHTTPRequestHandler):
                     self.send_response(200)
                     self.send_header('Content-type','text/html')
                     self.end_headers()
-                    indexfile = open("../FinalSet/Webpage/index.html", "r")
+                    indexfile = open(src + "Webpage/index.html", "r")
                     self.wfile.write(indexfile.read())
                     indexfile.close()
-        except IOError:
+        except AttributeError:
             self.send_error(404,'What Shady Shit was tried?')
 
 def DataLoader():

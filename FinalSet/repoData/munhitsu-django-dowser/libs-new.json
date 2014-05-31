@@ -1,19 +1,14 @@
 {
     "libs": [
         "logging",
-        "defaults",
+        "template",
         "shortcuts",
-        "decorators",
         "sys",
         "threading",
-        "itertools",
         "html",
         "gc",
-        "setuptools",
-        "time",
-        "collections",
-        "os",
-        "types",
-        "template"
+        "defaults",
+        "decorators",
+        "types"
     ]
 }

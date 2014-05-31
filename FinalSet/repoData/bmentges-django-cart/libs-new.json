@@ -5,9 +5,7 @@
         "v2",
         "datetime",
         "contenttypes",
-        "setuptools",
         "test",
-        "translation",
-        "os"
+        "translation"
     ]
 }

@@ -2,13 +2,11 @@
     "libs": [
         "cgi",
         "web",
-        "mimetypes",
-        "urllib2_files",
         "mimetools",
-        "lib",
+        "mimetypes",
+        "socket",
         "simplejson",
         "pprint",
-        "magic",
         "stat",
         "urllib",
         "urllib2",
@@ -18,7 +16,6 @@
         "time",
         "getopt",
         "os",
-        "string",
-        "socket"
+        "string"
     ]
 }

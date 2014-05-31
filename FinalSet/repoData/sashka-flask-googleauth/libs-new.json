@@ -1,11 +1,10 @@
 {
     "libs": [
-        "blinker",
+        "logging",
         "functools",
         "urllib",
         "urlparse",
-        "setuptools",
-        "logging",
+        "blinker",
         "requests",
         "fl"
     ]

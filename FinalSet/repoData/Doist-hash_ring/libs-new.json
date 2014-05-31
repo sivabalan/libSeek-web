@@ -7,7 +7,6 @@
         "sys",
         "memcache",
         "math",
-        "setuptools",
         "time",
         "os",
         "types",

@@ -1,7 +1,5 @@
 {
     "libs": [
-        "core",
-        "redqueue",
         "logging",
         "socket",
         "simplejson",

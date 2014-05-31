@@ -10,8 +10,6 @@
         "re",
         "json",
         "simplejson",
-        "gitpress",
-        "setuptools",
         "fnmatch",
         "collections",
         "shutil",

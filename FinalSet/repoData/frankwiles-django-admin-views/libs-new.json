@@ -1,20 +1,18 @@
 {
     "libs": [
         "b",
-        "conf",
+        "urlresolvers",
         "coverage_runner",
-        "simple",
-        "decorators",
+        "shortcuts",
         "db",
-        "contrib",
         "django",
         "sys",
+        "contrib",
+        "conf",
         "test",
-        "management",
-        "setuptools",
-        "urlresolvers",
         "path",
         "shutil",
-        "os"
+        "os",
+        "simple"
     ]
 }

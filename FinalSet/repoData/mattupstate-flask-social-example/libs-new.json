@@ -1,11 +1,12 @@
 {
     "libs": [
         "os",
-        "app",
+        "functools",
         "yaml",
+        "wtforms",
         "werkzeug",
+        "validators",
         "github3",
-        "fl",
-        "functools"
+        "fl"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "libs": [
         "cStringIO",
-        "os",
+        "glob",
         "unittest",
         "with_statement",
         "absolute_import",
@@ -13,22 +13,20 @@
         "mod2",
         "qmod2",
         "re",
-        "tempfile",
         "pprint",
         "wer",
-        "functools",
         "print_function",
-        "glob",
-        "core",
+        "functools",
         "cPickle",
         "qwe",
         "ply",
-        "a1",
+        "sys",
         "codecs",
+        "pickle",
         "copy",
         "types",
         "a",
-        "sys",
+        "a1",
         "c",
         "b",
         "logging",
@@ -37,6 +35,6 @@
         "weakref",
         "itertools",
         "time",
-        "pickle"
+        "os"
     ]
 }

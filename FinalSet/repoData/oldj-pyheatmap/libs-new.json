@@ -1,11 +1,9 @@
 {
     "libs": [
-        "core",
+        "re",
         "Image",
         "random",
-        "re",
-        "ImageDraw2",
         "os",
-        "inc"
+        "ImageDraw2"
     ]
 }

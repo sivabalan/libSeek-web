@@ -1,17 +1,12 @@
 {
     "libs": [
-        "core",
         "style",
         "exc",
-        "models",
         "fl",
         "sys",
         "re",
         "token",
         "api",
-        "jinja2",
-        "mead",
-        "werkzeug",
         "security",
         "os"
     ]

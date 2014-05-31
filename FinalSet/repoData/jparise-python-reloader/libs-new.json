@@ -1,17 +1,15 @@
 {
     "libs": [
-        "core",
+        "Queue",
         "builtins",
         "blacklisted",
         "threading",
         "unittest",
-        "Queue",
         "queue",
         "testmodule",
         "sys",
         "imp",
         "__builtin__",
-        "setuptools",
         "time",
         "copy",
         "os",

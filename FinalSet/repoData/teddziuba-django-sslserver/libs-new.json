@@ -1,20 +1,16 @@
 {
     "libs": [
-        "conf",
-        "core",
-        "sslserver",
-        "management",
+        "b",
         "importlib",
         "_os",
         "handlers",
         "optparse",
         "utils",
-        "commands",
         "datetime",
         "sys",
         "ssl",
-        "b",
         "version",
+        "conf",
         "django",
         "os",
         "socket"

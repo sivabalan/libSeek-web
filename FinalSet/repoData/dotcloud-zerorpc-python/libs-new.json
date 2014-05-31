@@ -13,7 +13,6 @@
         "json",
         "zmq",
         "local",
-        "zerorpc",
         "inspect",
         "sys",
         "pool",
@@ -23,7 +22,6 @@
         "h",
         "traceback",
         "queue",
-        "setuptools",
         "time",
         "os"
     ]

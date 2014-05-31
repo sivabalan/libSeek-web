@@ -5,7 +5,6 @@
         "utils",
         "random",
         "loader",
-        "api",
         "conf",
         "urllib",
         "signals",
@@ -22,7 +21,6 @@
         "logging",
         "h",
         "mail_handlers",
-        "django",
         "ext",
         "defaults",
         "os"

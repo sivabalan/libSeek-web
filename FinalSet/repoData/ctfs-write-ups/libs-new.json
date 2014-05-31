@@ -2,7 +2,7 @@
     "libs": [
         "cStringIO",
         "random",
-        "datetime",
+        "subprocess",
         "shutil",
         "select",
         "struct",
@@ -20,7 +20,7 @@
         "sys",
         "ctypes",
         "path",
-        "subprocess",
+        "datetime",
         "pycurl",
         "logging",
         "socket",
@@ -36,6 +36,7 @@
         "time",
         "textwrap",
         "requests",
-        "os"
+        "os",
+        "signal"
     ]
 }

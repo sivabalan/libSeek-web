@@ -2,9 +2,8 @@
     "libs": [
         "tempfile",
         "unittest",
-        "shlex",
-        "setuptools",
         "shutil",
-        "os"
+        "os",
+        "shlex"
     ]
 }

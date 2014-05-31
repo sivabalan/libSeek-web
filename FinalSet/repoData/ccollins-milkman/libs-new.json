@@ -1,6 +1,5 @@
 {
     "libs": [
-        "milkman",
         "management",
         "PIL",
         "string",
@@ -12,8 +11,6 @@
         "datetime",
         "sys",
         "storage",
-        "setuptools",
-        "testapp",
         "os",
         "utils",
         "types",

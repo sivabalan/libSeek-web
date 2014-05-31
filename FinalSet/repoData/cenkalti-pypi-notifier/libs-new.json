@@ -1,7 +1,6 @@
 {
     "libs": [
         "verlib",
-        "pypi_notifier",
         "functools",
         "wsgi",
         "datetime",
@@ -14,7 +13,6 @@
         "unittest",
         "mock",
         "sqlalchemy",
-        "models",
         "pystmark",
         "fl",
         "types",

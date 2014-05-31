@@ -1,7 +1,6 @@
 {
     "libs": [
         "cStringIO",
-        "core",
         "functools",
         "random",
         "stat",
@@ -32,7 +31,7 @@
         "string",
         "warnings",
         "optparse",
-        "time",
+        "MIMEB",
         "htmlentitydefs",
         "urllib2",
         "sys",
@@ -45,13 +44,12 @@
         "b",
         "logging",
         "socket",
-        "tornado_utils",
         "Utils",
         "request",
         "urlparse",
         "threading",
         "chardet",
-        "MIMEB",
+        "time",
         "os",
         "marshal"
     ]

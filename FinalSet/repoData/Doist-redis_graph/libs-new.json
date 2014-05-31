@@ -1,8 +1,5 @@
 {
     "libs": [
-        "redis_wrap",
-        "redis_graph",
-        "os",
-        "setuptools"
+        "redis_graph"
     ]
 }

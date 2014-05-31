@@ -1,7 +1,6 @@
 {
     "libs": [
         "fcntl",
-        "core",
         "httplib",
         "gzip",
         "re",

@@ -1,19 +1,13 @@
 {
     "libs": [
-        "steel",
-        "core",
-        "b",
-        "decimal",
+        "functools",
+        "unittest",
         "zlib",
-        "subprocess",
         "sys",
         "collections",
-        "common",
         "io",
-        "chunks",
-        "unittest",
         "copy",
         "os",
-        "functools"
+        "decimal"
     ]
 }

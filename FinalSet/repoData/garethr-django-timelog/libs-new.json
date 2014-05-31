@@ -2,7 +2,6 @@
     "libs": [
         "b",
         "logging",
-        "setuptools",
         "encoding",
         "optparse",
         "fileinput",

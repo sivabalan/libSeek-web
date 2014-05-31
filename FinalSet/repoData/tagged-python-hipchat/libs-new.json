@@ -8,7 +8,6 @@
         "urllib2",
         "sys",
         "json",
-        "setuptools",
         "path"
     ]
 }

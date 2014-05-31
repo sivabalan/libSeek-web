@@ -1,17 +1,16 @@
 {
     "libs": [
-        "core",
         "http",
-        "defaults",
         "conf",
         "simple",
         "db",
         "contrib",
-        "datetime",
+        "django",
         "shortcuts",
         "template",
         "urlresolvers",
         "translation",
-        "django"
+        "datetime",
+        "defaults"
     ]
 }

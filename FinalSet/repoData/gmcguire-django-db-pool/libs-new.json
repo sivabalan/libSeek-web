@@ -3,19 +3,17 @@
         "core",
         "b",
         "logging",
-        "conf",
-        "encoding",
+        "handlers",
         "psycopg2",
         "random",
-        "handlers",
-        "db",
         "django",
         "sys",
         "threading",
         "version",
         "extensions",
-        "setuptools",
+        "conf",
         "signals",
-        "exceptions"
+        "exceptions",
+        "encoding"
     ]
 }

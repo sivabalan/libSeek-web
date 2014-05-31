@@ -10,10 +10,8 @@
         "misc",
         "matplotlib",
         "itertools",
-        "cwrapped",
-        "setuptools",
         "os",
         "pyplot",
-        "stl_tools"
+        "cwrapped"
     ]
 }

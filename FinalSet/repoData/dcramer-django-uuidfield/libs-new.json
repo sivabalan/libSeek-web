@@ -6,12 +6,10 @@
         "encoding",
         "optparse",
         "db",
-        "django_nose",
         "modelsinspector",
         "django",
         "sys",
-        "absolute_import",
-        "setuptools",
+        "django_nose",
         "test",
         "extr"
     ]

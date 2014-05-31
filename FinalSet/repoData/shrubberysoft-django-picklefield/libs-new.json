@@ -3,12 +3,10 @@
         "core",
         "cPickle",
         "b",
-        "picklefield",
         "encoding",
         "zlib",
         "db",
         "modelsinspector",
-        "setuptools",
         "test",
         "copy",
         "pickle"

@@ -1,17 +1,15 @@
 {
     "libs": [
-        "setuptools",
+        "discover_runner",
         "encoding",
         "runner",
         "db",
-        "datetime",
+        "django",
         "sys",
-        "discover_runner",
+        "re",
         "collections",
         "conf",
         "exceptions",
-        "re",
-        "django",
-        "os"
+        "datetime"
     ]
 }

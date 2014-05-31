@@ -1,7 +1,6 @@
 {
     "libs": [
         "wsgi",
-        "core",
         "unicode_literals",
         "utils",
         "absolute_import",
@@ -10,22 +9,21 @@
         "timezone",
         "management",
         "six",
-        "template",
+        "xhtml2pdf",
         "division",
         "http",
-        "xhtml2pdf",
+        "template",
         "optparse",
         "sys",
         "testc",
-        "b",
+        "sphinx_rtd_theme",
         "logging",
         "copy",
         "print_function",
-        "sphinx_rtd_theme",
+        "b",
         "e",
         "default",
         "client",
-        "setuptools",
         "os"
     ]
 }

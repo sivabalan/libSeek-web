@@ -2,15 +2,12 @@
     "libs": [
         "cgi",
         "sys",
-        "tumblpy",
-        "setuptools",
         "simplejson",
         "requests_oauthlib",
         "urllib",
         "urlparse",
         "json",
         "parse",
-        "requests",
-        "os"
+        "requests"
     ]
 }

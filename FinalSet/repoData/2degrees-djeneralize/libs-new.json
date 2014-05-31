@@ -1,22 +1,17 @@
 {
     "libs": [
         "fixture",
-        "b",
+        "management",
         "http",
-        "defaults",
         "tools",
         "decimal",
         "db",
-        "djeneralize",
+        "related",
         "sys",
-        "re",
         "itertools",
-        "management",
         "collections",
-        "dispatch",
-        "setuptools",
+        "defaults",
         "django_testc",
-        "os",
-        "related"
+        "os"
     ]
 }

@@ -1,6 +1,5 @@
 {
     "libs": [
-        "lilac",
         "SimpleHTTPServer",
         "datetime",
         "atexit",
@@ -24,7 +23,6 @@
         "formatters",
         "threading",
         "toml",
-        "setuptools",
         "time",
         "misaka",
         "docopt",

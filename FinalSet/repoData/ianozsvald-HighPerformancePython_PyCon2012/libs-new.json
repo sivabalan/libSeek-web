@@ -1,14 +1,10 @@
 {
     "libs": [
         "calculate_z",
-        "core",
         "pp",
-        "extension",
-        "Distutils",
         "os",
         "Image",
         "driver",
-        "numexpr",
         "datetime",
         "sys",
         "itertools",
@@ -17,7 +13,7 @@
         "autoinit",
         "array",
         "numpy",
-        "multiprocessing",
+        "numexpr",
         "math",
         "compiler"
     ]

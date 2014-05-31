@@ -1,8 +1,7 @@
 {
     "libs": [
-        "cl",
         "recl",
-        "re",
+        "cl",
         "optparse",
         "unittest",
         "traceback",
@@ -10,12 +9,12 @@
         "yaml",
         "json",
         "posix",
-        "shlex",
-        "setuptools",
+        "types",
         "time",
         "fnmatch",
-        "types",
+        "re",
         "os",
-        "mock"
+        "mock",
+        "shlex"
     ]
 }

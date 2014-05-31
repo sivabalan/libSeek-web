@@ -1,27 +1,22 @@
 {
     "libs": [
-        "utils",
-        "datetime",
+        "ioloop",
         "web",
+        "b",
+        "logging",
         "uuid",
         "formencode",
         "re",
-        "json",
-        "models",
-        "collections",
-        "config",
-        "blinker",
         "tornado",
         "textui",
-        "b",
-        "logging",
-        "handlers",
-        "datab",
+        "utils",
         "thing",
-        "helpers",
-        "setuptools",
+        "json",
+        "collections",
+        "cProfile",
         "time",
-        "os",
-        "options"
+        "helpers",
+        "options",
+        "blinker"
     ]
 }

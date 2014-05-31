@@ -10,7 +10,6 @@
         "management",
         "importlib",
         "psycopg2",
-        "forms",
         "re",
         "json",
         "pytest",
@@ -36,7 +35,6 @@
         "urlparse",
         "where",
         "itertools",
-        "setuptools",
         "os"
     ]
 }

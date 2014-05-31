@@ -3,7 +3,6 @@
         "b",
         "struct",
         "unittest",
-        "fitparse",
         "datetime",
         "sys",
         "collections",

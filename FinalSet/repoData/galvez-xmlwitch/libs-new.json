@@ -1,6 +1,5 @@
 {
     "libs": [
-        "core",
         "keyword",
         "StringIO",
         "unittest",

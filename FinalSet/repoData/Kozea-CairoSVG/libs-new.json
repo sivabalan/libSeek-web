@@ -1,26 +1,22 @@
 {
     "libs": [
-        "locale",
-        "parse",
-        "parsers",
-        "io",
+        "tinycss",
+        "urlparse",
+        "b",
         "PIL",
         "uuid",
-        "re",
-        "urllib",
         "fontforge",
-        "math",
-        "core",
-        "etree",
-        "optparse",
-        "sys",
-        "codecs",
-        "tinycss",
-        "b",
+        "locale",
         "request",
-        "urlparse",
+        "urllib",
+        "parse",
+        "re",
+        "parsers",
         "cssselect",
+        "io",
         "gzip",
-        "os"
+        "etree",
+        "os",
+        "math"
     ]
 }

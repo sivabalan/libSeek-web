@@ -1,14 +1,8 @@
 {
     "libs": [
-        "parser",
-        "times",
-        "sys",
+        "noqa",
         "pytz",
-        "setuptools",
-        "calendar",
-        "datetime",
-        "os",
         "unittest2",
-        "noqa"
+        "datetime"
     ]
 }

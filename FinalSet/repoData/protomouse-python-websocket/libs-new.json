@@ -1,10 +1,9 @@
 {
     "libs": [
-        "core",
-        "socket",
         "sys",
         "re",
+        "os",
         "urlparse",
-        "os"
+        "socket"
     ]
 }

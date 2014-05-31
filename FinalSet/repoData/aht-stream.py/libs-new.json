@@ -1,7 +1,6 @@
 {
     "libs": [
         "heapq",
-        "queues",
         "random",
         "with_statement",
         "__builtin__",
@@ -11,17 +10,17 @@
         "re",
         "collections",
         "nose",
-        "core",
         "urllib2",
         "Queue",
         "copy",
         "sys",
         "decimal",
+        "multiprocessing",
         "threading",
         "itertools",
         "doctest",
         "time",
         "os",
-        "multiprocessing"
+        "queues"
     ]
 }

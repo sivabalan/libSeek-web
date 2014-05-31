@@ -1,7 +1,5 @@
 {
     "libs": [
-        "delorean",
-        "core",
         "style",
         "relativedelta",
         "functools",
@@ -11,7 +9,6 @@
         "token",
         "pytz",
         "rrule",
-        "setuptools",
         "copy",
         "os",
         "unittest"

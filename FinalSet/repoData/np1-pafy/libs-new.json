@@ -1,19 +1,22 @@
 {
     "libs": [
-        "core",
+        "parse",
         "logging",
-        "time",
+        "unicode_literals",
+        "h",
+        "functools",
+        "error",
         "request",
         "urllib2",
         "urllib",
-        "parse",
+        "unittest2",
+        "sys",
         "re",
         "json",
-        "sys",
         "urlparse",
-        "error",
+        "time",
         "etree",
         "os",
-        "print_function"
+        "unittest"
     ]
 }

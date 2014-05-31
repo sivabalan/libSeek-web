@@ -1,27 +1,11 @@
 {
     "libs": [
-        "distutils",
-        "site",
-        "subprocess",
-        "operator",
-        "array",
-        "tempfile",
-        "errno",
-        "tarfile",
-        "itertools",
-        "re",
-        "zmq",
-        "urllib2",
-        "sys",
-        "path",
-        "copy",
         "argparse",
-        "request",
-        "pkg_resources",
-        "sandbox",
-        "setuptools",
-        "time",
-        "fnmatch",
-        "os"
+        "errno",
+        "sys",
+        "re",
+        "itertools",
+        "array",
+        "zmq"
     ]
 }

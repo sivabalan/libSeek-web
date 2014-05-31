@@ -13,7 +13,6 @@
         "urlparse",
         "atexit",
         "sys",
-        "setuptools",
         "time",
         "os",
         "socket"

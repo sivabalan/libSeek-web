@@ -6,7 +6,6 @@
         "re",
         "h",
         "functools",
-        "collab",
         "sys",
         "threading",
         "json",

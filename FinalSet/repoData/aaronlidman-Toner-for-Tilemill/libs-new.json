@@ -1,15 +1,15 @@
 {
     "libs": [
-        "dir_util",
         "configure",
-        "file_util",
+        "os",
         "glob",
         "sys",
         "re",
         "json",
-        "collections",
+        "dir_util",
         "path",
+        "collections",
         "shutil",
-        "os"
+        "file_util"
     ]
 }

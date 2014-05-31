@@ -2,8 +2,6 @@
     "libs": [
         "re",
         "unittest",
-        "os",
-        "unittest2",
-        "setuptools"
+        "unittest2"
     ]
 }

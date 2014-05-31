@@ -1,26 +1,22 @@
 {
     "libs": [
-        "shortcuts",
-        "utils",
+        "me",
+        "generic",
+        "http",
         "conf",
-        "simple",
-        "gis",
+        "shortcuts",
         "geos",
-        "forms",
-        "re",
+        "db",
+        "django",
+        "urlresolvers",
+        "exceptions",
         "contenttypes",
+        "defaults",
+        "gdal",
         "template",
         "test",
-        "http",
-        "setuptools",
-        "db",
-        "exceptions",
         "translation",
-        "gdal",
-        "me",
-        "geotagging",
-        "django",
-        "defaults",
-        "urlresolvers"
+        "utils",
+        "simple"
     ]
 }

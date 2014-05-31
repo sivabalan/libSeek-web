@@ -1,23 +1,21 @@
 {
     "libs": [
-        "signals",
+        "appconf",
+        "exceptions",
         "http",
-        "core",
         "shortcuts",
-        "utils",
+        "safestring",
         "db",
         "dispatch",
-        "datetime",
-        "appconf",
+        "django",
+        "signals",
         "urlresolvers",
         "json",
         "html",
-        "agora",
         "template",
-        "exceptions",
-        "django",
+        "contrib",
+        "datetime",
         "decorators",
-        "safestring",
-        "contrib"
+        "utils"
     ]
 }

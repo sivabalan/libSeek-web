@@ -1,7 +1,6 @@
 {
     "libs": [
         "pprint",
-        "setuptools",
         "encoding",
         "simple",
         "unittest",
@@ -10,7 +9,6 @@
         "datetime",
         "query",
         "management",
-        "sapi",
         "re",
         "tempfile",
         "cache",
@@ -20,16 +18,14 @@
         "cProfile",
         "pymongo",
         "cPickle",
-        "random",
         "etree",
         "string",
         "simplejson",
-        "pstats",
+        "time",
         "db",
         "mongoengine",
         "sys",
         "exceptions",
-        "simpleapi",
         "webapp",
         "copy",
         "fl",
@@ -39,7 +35,7 @@
         "django",
         "ext",
         "defaults",
-        "time",
+        "pstats",
         "fnmatch",
         "os"
     ]

@@ -3,10 +3,8 @@
         "redis",
         "sys",
         "re",
-        "setuptools",
         "operator",
         "path",
-        "os",
         "math"
     ]
 }

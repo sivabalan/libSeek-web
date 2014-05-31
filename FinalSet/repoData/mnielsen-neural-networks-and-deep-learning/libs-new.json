@@ -1,7 +1,7 @@
 {
     "libs": [
         "mplot3d",
-        "ticker",
+        "numpy",
         "pyplot",
         "random",
         "cPickle",
@@ -12,7 +12,7 @@
         "collections",
         "gzip",
         "decomposition",
-        "numpy",
+        "ticker",
         "sklearn"
     ]
 }

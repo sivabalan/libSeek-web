@@ -1,25 +1,17 @@
 {
     "libs": [
         "style",
-        "errors",
         "os",
-        "objectid",
         "warnings",
         "fl",
         "unittest",
-        "read_preferences",
-        "mimetypes",
-        "wsgi",
         "sys",
         "re",
         "token",
         "doctest",
-        "setuptools",
-        "gridfs",
         "exceptions",
         "markdown2",
         "pymongo",
-        "bson",
-        "routing"
+        "bson"
     ]
 }

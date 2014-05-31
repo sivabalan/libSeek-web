@@ -1,13 +1,11 @@
 {
     "libs": [
-        "core",
-        "uuid",
         "cStringIO",
+        "uuid",
         "unittest",
         "pyrfc3339",
         "datetime",
         "pytz",
-        "setuptools",
         "os",
         "decimal"
     ]

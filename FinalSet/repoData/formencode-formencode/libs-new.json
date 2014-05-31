@@ -12,7 +12,6 @@
         "ElementTree",
         "tools",
         "pydoc",
-        "formencode",
         "pycountry",
         "gettext",
         "re",
@@ -36,7 +35,6 @@
         "threading",
         "itertools",
         "doctest",
-        "setuptools",
         "os",
         "mx"
     ]

@@ -1,25 +1,19 @@
 {
     "libs": [
         "cgi",
-        "pb",
-        "error",
-        "logging",
-        "time",
-        "cred",
+        "sys",
         "random",
-        "pprint",
+        "time",
         "selectreactor",
         "weakref",
         "re",
         "spread",
-        "sys",
         "pygame",
         "internet",
-        "interface",
+        "constants",
         "main",
         "os",
         "locals",
-        "constants",
         "t"
     ]
 }

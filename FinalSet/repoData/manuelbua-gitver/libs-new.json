@@ -1,9 +1,14 @@
 {
     "libs": [
+        "string",
+        "pickle",
+        "json",
+        "_version",
         "sys",
-        "version",
-        "pypandoc",
-        "setuptools",
-        "_version_next"
+        "re",
+        "colors",
+        "sh",
+        "path",
+        "os"
     ]
 }

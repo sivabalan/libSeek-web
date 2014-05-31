@@ -47,7 +47,6 @@
         "h",
         "signal",
         "traceback",
-        "modules",
         "urlparse",
         "telnetlib",
         "shlex",

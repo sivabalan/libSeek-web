@@ -19,7 +19,6 @@
         "pymongo",
         "mock",
         "sqlalchemy",
-        "setuptools",
         "simplejson",
         "glob",
         "sys",

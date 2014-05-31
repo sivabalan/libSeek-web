@@ -1,15 +1,12 @@
 {
     "libs": [
-        "django_beanstalkd",
         "b",
         "logging",
-        "setuptools",
         "optparse",
         "traceback",
         "sys",
         "conf",
         "time",
-        "beanstalkc",
         "os"
     ]
 }

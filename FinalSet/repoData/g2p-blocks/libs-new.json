@@ -23,7 +23,6 @@
         "constraint",
         "geometry",
         "pkg_resources",
-        "setuptools",
         "time",
         "os"
     ]

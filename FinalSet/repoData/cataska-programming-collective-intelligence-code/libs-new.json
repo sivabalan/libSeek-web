@@ -13,7 +13,6 @@
         "numpy",
         "math",
         "timo-t",
-        "cPickle",
         "random",
         "svmc",
         "urllib2",

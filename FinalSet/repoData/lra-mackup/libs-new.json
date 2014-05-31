@@ -1,9 +1,9 @@
 {
     "libs": [
-        "core",
+        "argparse",
         "stat",
         "b",
-        "argparse",
+        "configparser",
         "tempfile",
         "unittest",
         "subprocess",
@@ -11,9 +11,8 @@
         "platform",
         "sqlite3",
         "path",
-        "ConfigParser",
         "shutil",
         "os",
-        "configparser"
+        "ConfigParser"
     ]
 }

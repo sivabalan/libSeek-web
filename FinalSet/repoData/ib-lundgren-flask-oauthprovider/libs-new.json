@@ -1,21 +1,16 @@
 {
     "libs": [
-        "orm",
-        "sqlalchemy",
-        "exc",
+        "objectid",
+        "pymongo",
         "functools",
-        "mongo_demoprovider",
         "auth",
         "urlparse",
-        "declarative",
         "common",
-        "setuptools",
         "signature",
         "exceptions",
         "path",
         "requests",
-        "rfc5849",
         "fl",
-        "demoprovider"
+        "rfc5849"
     ]
 }

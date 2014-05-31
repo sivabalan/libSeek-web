@@ -8,7 +8,6 @@
         "sys",
         "re",
         "json",
-        "setuptools",
         "time"
     ]
 }

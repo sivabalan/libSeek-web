@@ -1,22 +1,19 @@
 {
     "libs": [
-        "cssutils",
         "unittest",
         "datetime",
+        "httplib",
         "operator",
         "ElementTree",
-        "mapnik",
         "shutil",
         "PIL",
         "posixpath",
         "tempfile",
-        "c",
         "pprint",
         "urllib",
         "re",
         "math",
         "bin",
-        "core",
         "etree",
         "tokenize2",
         "optparse",
@@ -27,7 +24,7 @@
         "path",
         "copy",
         "ConfigParser",
-        "httplib",
+        "c",
         "b",
         "socket",
         "StringIO",
@@ -35,9 +32,7 @@
         "Image",
         "urlparse",
         "itertools",
-        "setuptools",
         "time",
-        "os",
-        "mapnik2"
+        "os"
     ]
 }

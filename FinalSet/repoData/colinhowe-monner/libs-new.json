@@ -1,11 +1,9 @@
 {
     "libs": [
-        "argparse",
-        "subprocess",
         "sys",
-        "psutil",
-        "setuptools",
+        "argparse",
         "time",
-        "os"
+        "subprocess",
+        "psutil"
     ]
 }

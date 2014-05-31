@@ -3,16 +3,15 @@
         "styles",
         "management",
         "dj_datab",
-        "os",
+        "decorators",
         "db",
         "html",
         "sys",
         "pygments",
         "routers",
         "rest_framework",
-        "decorators",
+        "os",
         "response",
-        "snippets",
         "lexers"
     ]
 }

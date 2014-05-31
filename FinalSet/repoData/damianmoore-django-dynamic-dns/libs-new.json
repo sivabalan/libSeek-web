@@ -1,22 +1,20 @@
 {
     "libs": [
-        "sys",
-        "management",
+        "b",
         "http",
-        "string",
+        "socket",
         "conf",
         "clouddns",
         "random",
         "db",
         "datetime",
-        "setuptools",
+        "sys",
         "json",
-        "b",
         "csrf",
         "time",
         "contrib",
         "requests",
         "os",
-        "socket"
+        "string"
     ]
 }

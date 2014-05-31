@@ -6,11 +6,11 @@
         "absolute_import",
         "datetime",
         "cursors",
+        "__init__",
         "uuid",
         "json",
         "converters",
         "math",
-        "bin",
         "division",
         "string",
         "tornado",
@@ -24,7 +24,6 @@
         "zlib",
         "itertools",
         "time",
-        "nomagic",
         "pickle"
     ]
 }

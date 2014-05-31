@@ -25,7 +25,6 @@
         "scipy",
         "path",
         "boto",
-        "imaplib",
         "sparse",
         "time",
         "os",

@@ -1,20 +1,17 @@
 {
     "libs": [
         "queue",
-        "tests",
         "struct",
         "simplejson",
         "optparse",
-        "os",
         "unittest",
         "sys",
         "ssl",
         "json",
         "gevent",
-        "setuptools",
         "time",
         "path",
-        "applepushnotification",
+        "os",
         "event",
         "socket"
     ]

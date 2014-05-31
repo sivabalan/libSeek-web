@@ -8,7 +8,6 @@
         "sys",
         "threading",
         "token",
-        "setuptools",
         "os",
         "struct"
     ]
